@@ -1189,6 +1189,55 @@
     "id": 19
   },
   {
+    "id": 20,
+    "pmid": "41954038",
+    "source": "PubMed",
+    "article": "Evaluating the Effectiveness of Commercial Oral Supplements for Hair Growth: A Systematic Review and Meta-Analysis.",
+    "authors": [
+      "Alanazi Razan",
+      "Alshammari Shadan",
+      "Aldossari Kadi",
+      "Alwatban Raneem",
+      "Aljeribah Deema",
+      "Alanazi Shoog",
+      "Alsalhi Abdulaziz",
+      "Alhumam Aminah",
+      "Alajlan Abdulmajeed"
+    ],
+    "date": "2026-04-01",
+    "journal": "Journal of cosmetic dermatology",
+    "doi": "10.1111/jocd.70817",
+    "topic": "АГА",
+    "topic_key": "aga",
+    "topic_keys": [
+      "aga"
+    ],
+    "topics": [
+      "АГА"
+    ],
+    "abstract_en": "BACKGROUND: Hair loss is a common condition affecting both men and women, with significant psychosocial impact. While oral supplements are marketed to improve hair growth, their clinical efficacy remains debated. This systematic review aimed to evaluate the effectiveness and safety of commercial oral nutraceuticals for hair growth.\n\nMETHODS: For this systematic review, a comprehensive search was undertaken in PubMed, Embase, Cochrane CENTRAL, and Web of Science. Eligible studies included randomized controlled trials (RCTs), open-label trials, and proof-of-concept studies evaluating oral supplements in adults (≥ 18 years) with alopecia or hair thinning. Primary outcomes included objective measures including hair counts, density, growth rate, tensile strength, and pull test. Secondary outcomes were investigator/patient assessments and adverse events.\n\nRESULTS: A total of 14 studies, including 967 participants, were included. Supplements assessed included Ceramosides, Nutrafol, Nourkrin, Lambdapil, Viviscal, Forti5, GFM oral supplement, and Cynatine HNS. Most trials were RCTs with durations of 12 weeks to 12 months. Meta-analysis demonstrated significant improvements with oral supplements versus placebo: reduced telogen hair density (mean difference [MD] -5.91, 95% confidence interval [CI] -6.74 to -5.08, p < 0.00001), increased anagen hair density (MD 10.48, 95% CI: 8.81 to 12.14, p < 0.00001), and reduced telogen proportion (MD 3.08, 95% CI: -3.35 to -2.81, p < 0.00001). Similarly, significant differences were observed regarding anagen proportion, elongation, and hairs extracted on a pull test (p < 0.00001 for all). Total hair count showed no significant difference (p = 0.06). Patient-reported outcomes consistently favored supplements, reporting improved thickness, reduced shedding, and better satisfaction. Adverse events were minimal, and safety profiles were favorable.\n\nCONCLUSIONS: In conclusion, supplements show promising preliminary results, but more rigorous, independent research is needed to confirm these findings.",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/41954038/",
+    "pmc_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13063204/",
+    "html_available": true,
+    "html_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13063204/",
+    "title_ru": "Коммерческие пероральные добавки для роста волос: какие продукты и какой эффект",
+    "patient_plain": "",
+    "patient_use": "Если рассматриваете БАД, ориентируйтесь на конкретные названия из обзора — Viviscal, Nourkrin, Nutrafol, Lambdapil, Pantogar, Ceramosides — а не на категорию «добавка для волос». Ожидайте скорее меньшее выпадение и чуть большую плотность/толщину, а не гарантированный прирост общего числа волос. Курс в исследованиях обычно месяцами (от 12 недель); спросите врача, совпадает ли состав выбранного продукта с изученным и нет ли у вас дефицита, на который рассчитан БАД.",
+    "practical_use": "При разговоре о нутрицевтиках называйте продукты с более сильной базой (Viviscal, Nourkrin, Nutrafol, Lambdapil, Pantogar и перечисленные комбинации), отдельно помечая слабее изученные (Forti5, D3). Разделяйте исходы: плотность/фаза/шеdding vs total hair count (без значимости). Учитывайте industry sponsorship и гетерогенность доз/составов: результат одного бренда не переносится на другой «аналог».",
+    "summary": "Систематический обзор и метаанализ 14 исследований (967 взрослых 18–71 года) оценили коммерческие пероральные нутрицевтики при алопеции или поредении волос.\n\nПо сравнению с плацебо добавки в целом умеренно улучшали плотность, толщину и уменьшали выпадение; общее число волос статистически значимо не выросло (p = 0,06). Длительность курсов — от 12 недель до 12 месяцев; нежелательные явления встречались редко.\n\nАвторы отдельно выделяют более сильную доказательную базу у Viviscal, Nourkrin, Nutrafol (в т.ч. Nutrafol Men), Lambdapil (ISDIN), Pantogar, а также у комбинаций капсаицин+изофлавон, омега-3/6 с антиоксидантами, «apple nutraceutical», пион+глицирризин, цинк, токотриенол и масло семян тыквы. Слабее данные по Forti5, витамину D3, кимчи/чонгукчану. Ceramosides (пшеничный липидный комплекс): минус 23,5% телогеновых и плюс 11,9% анагеновых волос за 12 недель versus плацебо. Часть РКИ спонсировали производители.",
+    "_reason": "Есть список конкретных коммерческих продуктов и величина эффекта; ограничения — неоднородность и спонсорство.",
+    "why_read": "Чтобы обсуждать БАДы по именам, а не абстрактной категорией.",
+    "limitations": [
+      "Heterogeneous formulations, doses, durations",
+      "Several trials industry-sponsored",
+      "Total hair count not significant (p=0.06)"
+    ],
+    "advice_items": [],
+    "importance_stars": 5,
+    "importance_mark": "★★★★★",
+    "take": "keep"
+  },
+  {
     "pmid": "41887578",
     "source": "PubMed",
     "article": "Adjunctive approaches for androgenetic alopecia: A clinical review of nutritional, light-based, topical, and lifestyle interventions.",
@@ -1244,7 +1293,7 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 20
+    "id": 21
   },
   {
     "pmid": "41823643",
@@ -1289,7 +1338,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 21
+    "id": 22
   },
   {
     "pmid": "41779759",
@@ -1342,7 +1391,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 22
+    "id": 23
   },
   {
     "pmid": "41741964",
@@ -1402,7 +1451,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 23
+    "id": 24
   },
   {
     "pmid": "41066610",
@@ -1475,7 +1524,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 24
+    "id": 25
   },
   {
     "pmid": "41652806",
@@ -1528,7 +1577,7 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 25
+    "id": 26
   },
   {
     "pmid": "41695992",
@@ -1601,7 +1650,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 26
+    "id": 27
   },
   {
     "pmid": "41737285",
@@ -1656,7 +1705,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 27
+    "id": 28
   },
   {
     "pmid": "41650295",
@@ -1716,7 +1765,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 28
+    "id": 29
   },
   {
     "pmid": "41367323",
@@ -1784,7 +1833,7 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 29
+    "id": 30
   },
   {
     "pmid": "41319217",
@@ -1841,7 +1890,7 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 30
+    "id": 31
   },
   {
     "pmid": "41358367",
@@ -1908,7 +1957,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 31
+    "id": 32
   },
   {
     "pmid": "41346555",
@@ -1970,7 +2019,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 32
+    "id": 33
   },
   {
     "pmid": "41409531",
@@ -2031,7 +2080,7 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 33
+    "id": 34
   },
   {
     "pmid": "41219547",
@@ -2089,7 +2138,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 34
+    "id": 35
   },
   {
     "pmid": "41306837",
@@ -2143,7 +2192,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 35
+    "id": 36
   },
   {
     "pmid": "41245990",
@@ -2205,7 +2254,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 36
+    "id": 37
   },
   {
     "pmid": "41118052",
@@ -2265,7 +2314,7 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 37
+    "id": 38
   },
   {
     "pmid": "41044024",
@@ -2325,7 +2374,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 38
+    "id": 39
   },
   {
     "pmid": "41164048",
@@ -2391,7 +2440,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 39
+    "id": 40
   },
   {
     "pmid": "41001165",
@@ -2444,7 +2493,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 40
+    "id": 41
   },
   {
     "pmid": "40986632",
@@ -2515,7 +2564,7 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 41
+    "id": 42
   },
   {
     "pmid": "40978669",
@@ -2574,7 +2623,7 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 42
+    "id": 43
   },
   {
     "pmid": "41041440",
@@ -2634,7 +2683,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 43
+    "id": 44
   },
   {
     "pmid": "40900274",
@@ -2700,7 +2749,7 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 44
+    "id": 45
   },
   {
     "pmid": "40960112",
@@ -2760,7 +2809,7 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 45
+    "id": 46
   },
   {
     "pmid": "41048335",
@@ -2820,7 +2869,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 46
+    "id": 47
   },
   {
     "pmid": "41048334",
@@ -2887,7 +2936,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 47
+    "id": 48
   },
   {
     "pmid": "40826200",
@@ -2949,7 +2998,7 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 48
+    "id": 49
   },
   {
     "pmid": "40951222",
@@ -3005,7 +3054,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 49
+    "id": 50
   },
   {
     "pmid": "40918047",
@@ -3065,7 +3114,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 50
+    "id": 51
   },
   {
     "pmid": "41035833",
@@ -3127,7 +3176,7 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 51
+    "id": 52
   },
   {
     "pmid": "40739969",
@@ -3188,7 +3237,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 52
+    "id": 53
   },
   {
     "pmid": "40660246",
@@ -3258,7 +3307,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 53
+    "id": 54
   },
   {
     "pmid": "40821339",
@@ -3327,7 +3376,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 54
+    "id": 55
   },
   {
     "pmid": "40627439",
@@ -3388,7 +3437,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 55
+    "id": 56
   },
   {
     "pmid": "40625221",
@@ -3443,7 +3492,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 56
+    "id": 57
   },
   {
     "pmid": "40627570",
@@ -3505,7 +3554,7 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 57
+    "id": 58
   },
   {
     "pmid": "40654550",
@@ -3561,7 +3610,7 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 58
+    "id": 59
   },
   {
     "pmid": "40568688",
@@ -3624,7 +3673,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 59
+    "id": 60
   },
   {
     "pmid": "40446910",
@@ -3682,7 +3731,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 60
+    "id": 61
   },
   {
     "pmid": "40343723",
@@ -3737,7 +3786,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 61
+    "id": 62
   },
   {
     "pmid": "40345536",
@@ -3794,7 +3843,7 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 62
+    "id": 63
   },
   {
     "pmid": "40327110",
@@ -3851,7 +3900,7 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 63
+    "id": 64
   },
   {
     "pmid": "40386829",
@@ -3919,7 +3968,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 64
+    "id": 65
   },
   {
     "pmid": "40289757",
@@ -3989,7 +4038,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 65
+    "id": 66
   },
   {
     "pmid": "40365252",
@@ -4052,7 +4101,7 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 66
+    "id": 67
   },
   {
     "pmid": "40253006",
@@ -4126,7 +4175,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 67
+    "id": 68
   },
   {
     "pmid": "40216195",
@@ -4180,7 +4229,7 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 68
+    "id": 69
   },
   {
     "pmid": "40194956",
@@ -4246,7 +4295,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 69
+    "id": 70
   },
   {
     "pmid": "40278661",
@@ -4306,7 +4355,7 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 70
+    "id": 71
   },
   {
     "pmid": "40127098",
@@ -4367,7 +4416,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 71
+    "id": 72
   },
   {
     "pmid": "40122142",
@@ -4436,7 +4485,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 72
+    "id": 73
   },
   {
     "pmid": "40097761",
@@ -4488,7 +4537,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 73
+    "id": 74
   },
   {
     "pmid": "40083615",
@@ -4551,7 +4600,7 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 74
+    "id": 75
   },
   {
     "pmid": "40056230",
@@ -4617,7 +4666,7 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 75
+    "id": 76
   },
   {
     "pmid": "40168567",
@@ -4680,7 +4729,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 76
+    "id": 77
   },
   {
     "pmid": "40127493",
@@ -4739,7 +4788,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 77
+    "id": 78
   },
   {
     "pmid": "40043269",
@@ -4794,7 +4843,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 78
+    "id": 79
   },
   {
     "pmid": "40019613",
@@ -4849,7 +4898,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 79
+    "id": 80
   },
   {
     "pmid": "40014580",
@@ -4908,7 +4957,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 80
+    "id": 81
   },
   {
     "pmid": "39412172",
@@ -4964,7 +5013,7 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 81
+    "id": 82
   },
   {
     "pmid": "39991105",
@@ -5023,7 +5072,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "skim",
-    "id": 82
+    "id": 83
   },
   {
     "pmid": "39961870",
@@ -5075,7 +5124,7 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 83
+    "id": 84
   },
   {
     "pmid": "39948731",
@@ -5130,7 +5179,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 84
+    "id": 85
   },
   {
     "pmid": "39954138",
@@ -5198,7 +5247,7 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 85
+    "id": 86
   },
   {
     "pmid": "40006064",
@@ -5259,7 +5308,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 86
+    "id": 87
   },
   {
     "pmid": "39997270",
@@ -5313,7 +5362,7 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 87
+    "id": 88
   },
   {
     "pmid": "39921108",
@@ -5386,7 +5435,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 88
+    "id": 89
   },
   {
     "pmid": "40110814",
@@ -5427,7 +5476,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 89
+    "id": 90
   },
   {
     "pmid": "39963025",
@@ -5482,7 +5531,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 90
+    "id": 91
   },
   {
     "pmid": "40117614",
@@ -5543,7 +5592,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 91
+    "id": 92
   },
   {
     "pmid": "39840856",
@@ -5602,7 +5651,7 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 92
+    "id": 93
   },
   {
     "pmid": "39867973",
@@ -5655,7 +5704,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "skim",
-    "id": 93
+    "id": 94
   },
   {
     "pmid": "39944453",
@@ -5719,7 +5768,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 94
+    "id": 95
   },
   {
     "pmid": "40034971",
@@ -5778,7 +5827,51 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 95
+    "id": 96
+  },
+  {
+    "id": 97,
+    "pmid": "39679573",
+    "source": "PubMed",
+    "article": "Clinical Safety and Efficacy of Dual Wavelength Low-Level Light Therapy in Androgenetic Alopecia: A Double-Blind Randomized Controlled Study.",
+    "authors": [
+      "Thomas Meryl",
+      "Stockslager Max",
+      "Oakley John",
+      "Womble Thomas Matthew",
+      "Sinclair Rodney"
+    ],
+    "date": "2024-12-16",
+    "journal": "Dermatologic surgery : official publication for American Society for Dermatologic Surgery [et al.]",
+    "doi": "10.1097/DSS.0000000000004509",
+    "topic": "АГА",
+    "topic_key": "aga",
+    "topic_keys": [
+      "aga"
+    ],
+    "topics": [
+      "АГА"
+    ],
+    "abstract_en": "BACKGROUND: The light-emitting diode cap being investigated is FDA cleared for the treatment of androgenetic alopecia (AGA).\n\nOBJECTIVE: Evaluating 3 versions of a red and blue light LED cap: (1) 625- and 660-nm red light, (2) 425-nm blue light, and (3) both 425-nm blue light and 625- and 660-nm red light against sham.\n\nPATIENTS AND METHODS: Twenty-six-week, multicenter, randomized, controlled, double-blinded study. Adults aged 18 to 65 years with AGA were randomized to an active device or sham and underwent 10-minute treatments daily.\n\nRESULTS: One hundred sixty subjects were randomized. Ninety-one subjects were excluded for the per-protocol analysis. The per-protocol population included participants who completed 16 weeks of treatment, had no major protocol violations, and were at least 80% treatment compliant. Although the primary endpoint (mean change in non-vellus hair count from baseline to week 16) did not reach statistical significance in the individual study arms, in the pooled analysis (combining the 3 active study arms), there was a statistically significant ( p = .033) difference versus sham. The pooled study cap group achieved 28.5 more hairs per cm 2 when compared with sham.\n\nCONCLUSION: The LED caps were well tolerated and increased hair density in patients with AGA.",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/39679573/",
+    "pmc_link": "",
+    "html_available": false,
+    "html_link": "",
+    "title_ru": "LED-шапочка красный/синий свет при АГА: РКИ с режимом 10 мин/день",
+    "patient_plain": "",
+    "patient_use": "Если берёте LED-шапочку, ориентир из этого РКИ: ежедневно 10 минут, оценка не раньше ~16 недель, длины волн 625/660 нм и/или 425 нм. Разница около +28,5 волоса/см² получена при объединении всех активных устройств, а не доказана отдельно для «только красный» или «только синий». Без регулярного ношения результат из исследования на вас не переносится — в анализ попали только те, кто держал режим ≥80%.",
+    "practical_use": "Протокол для обсуждения: dual-wavelength LED cap, 10 мин/день × 16 нед; pooled +28,5 волос/см² vs sham. Не обещайте эффект каждогоArmа по отдельности. Заранее договаривайтесь об объективном подсчёте густоты и о реалистичности ежедневного compliance.",
+    "summary": "Многоцентровое двойное слепое РКИ у взрослых 18–65 лет с АГА сравнивало три варианта LED-шапочки с имитацией: красный свет 625 и 660 нм; синий 425 нм; сочетание красного и синего. Режим — ежедневно по 10 минут; основной исход — изменение числа невеллусных волос к 16-й неделе.\n\nВ объединённой группе трёх активных шапочек плюс 28,5 волоса/см² versus sham (p = 0,033). По отдельности ни один из трёх вариантов статистической значимости по первичной точке не достиг. Устройства в целом хорошо переносились.\n\nОграничение: из 160 рандомизированных 91 не вошёл в per-protocol анализ (нужны были 16 недель и ≥80% соблюдения режима).",
+    "_reason": "Конкретный режим и цифры по LED-шапочке.",
+    "why_read": "Аппаратная альтернатива с понятным протоколом.",
+    "limitations": [
+      "individual arms NS",
+      "large PP exclusions"
+    ],
+    "advice_items": [],
+    "importance_stars": 5,
+    "importance_mark": "★★★★★",
+    "take": "keep"
   },
   {
     "pmid": "40475096",
@@ -5838,7 +5931,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 96
+    "id": 98
   },
   {
     "pmid": "39521141",
@@ -5898,7 +5991,7 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 97
+    "id": 99
   },
   {
     "pmid": "39425514",
@@ -5967,7 +6060,51 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 98
+    "id": 100
+  },
+  {
+    "id": 101,
+    "pmid": "39404126",
+    "source": "PubMed",
+    "article": "Low-Level Laser and LED Therapy in Alopecia: A Systematic Review and Meta-Analysis.",
+    "authors": [
+      "Perez Sofia M",
+      "Vattigunta Mounika",
+      "Kelly Colin",
+      "Eber Ariel"
+    ],
+    "date": "2024-10-15",
+    "journal": "Dermatologic surgery : official publication for American Society for Dermatologic Surgery [et al.]",
+    "doi": "10.1097/DSS.0000000000004442",
+    "topic": "АГА",
+    "topic_key": "aga",
+    "topic_keys": [
+      "aga"
+    ],
+    "topics": [
+      "АГА"
+    ],
+    "abstract_en": "BACKGROUND: Low-level laser/LED therapy (LLLT) has been described as a treatment option for alopecia, but no study has comprehensively reviewed its efficacy in multiple alopecia types.\n\nOBJECTIVE: To review and evaluate LLLT for various alopecia types.\n\nMATERIALS AND METHODS: A systematic search of PubMed/MEDLINE, Embase, and CENTRAL was conducted to identify studies assessing the effect of LLLT on patients diagnosed with alopecia. Prespecified outcome measure was the change in hair density. Meta-analysis was performed to calculate the standardized mean difference in hair density before and after LLLT compared with placebo.\n\nRESULTS: Thirty-eight studies were included that described 3,098 patients with androgenetic alopecia (2,930/3,098), scarring alopecia (49/3,098), alopecia areata (50/3,098), telogen effluvium (17/3,098), and chemotherapy-induced alopecia (32/3,098). The mean change in hair density increased significantly in androgenetic alopecia patients after LLLT for 4 to 26 weeks compared with placebo (<20 weeks: SMD = 1.14; 95% CI [0.51-1.78]; p = .000; I 2 = 88.26%; >20 weeks: SMD = 1.44; 95% CI [0.97-1.91]; p = .000; I 2 = 80.81%). Change in hair density was reported in 5 studies evaluating other alopecia types; however, statistical information was insufficient for meta-analysis.\n\nCONCLUSION: LLLT is a promising treatment option for patients with androgenetic alopecia, but future studies are needed to better understand its efficacy in other alopecia types.",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/39404126/",
+    "pmc_link": "",
+    "html_available": false,
+    "html_link": "",
+    "title_ru": "LLLT и LED при алопеции: метаанализ плотности волос при АГА",
+    "patient_plain": "",
+    "patient_use": "При андрогенетической алопеции имеет смысл обсуждать домашний или кабинетный LLLT/LED именно как класс процедур с измеренным приростом плотности за месяцы (примерно 1–6 месяцев в исследованиях). Не ждите такого же уровня доказательств при очаговой, рубцовой алопеции или выпадении после химиотерапии — в обзоре их слишком мало. Перед покупкой устройства уточняйте у врача модель и режим: этот обзор их не называет.",
+    "practical_use": "Для АГА можно опираться на SMD плотности 1,14 (<20 нед) и 1,44 (>20 нед) versus sham/placebo, предупреждая о высокой I². Не экстраполируйте на non-AGA. Конкретный аппарат, нм и минуты в абстракте не даны — режим брать из инструкции устройства или из отдельных РКИ (например, LED-cap протоколы).",
+    "summary": "Систематический обзор 38 исследований (3098 пациентов): в основном андрогенетическая алопеция (2930), плюс рубцовая, очаговая, телоген и выпадение после химиотерапии.\n\nПри АГА низкоинтенсивная лазерная/светодиодная терапия (LLLT) за 4–26 недель статистически значимо повышала плотность волос versus плацебо: SMD 1,14 при наблюдении <20 недель и SMD 1,44 при >20 недель (оба p < 0,001). Неоднородность высокая (I² ≈ 81–88%).\n\nПо другим типам алопеции данных для метаанализа недостаточно. В доступном абстракте нет имён аппаратов, длин волн и минут/сеансов — только класс LLLT/LED и сроки 4–26 недель.",
+    "_reason": "Есть клинический сигнал по плотности при АГА; без имён устройств карточка честно ограничивает конкретику.",
+    "why_read": "Оценка класса LLLT при АГА с цифрами эффекта.",
+    "limitations": [
+      "I2 high",
+      "device names absent in abstract",
+      "non-AGA underpowered"
+    ],
+    "advice_items": [],
+    "importance_stars": 4,
+    "importance_mark": "★★★★☆",
+    "take": "keep"
   },
   {
     "pmid": "39327649",
@@ -6030,7 +6167,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 99
+    "id": 102
   },
   {
     "pmid": "40212428",
@@ -6088,7 +6225,7 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 100
+    "id": 103
   },
   {
     "pmid": "39911983",
@@ -6161,6 +6298,6 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 101
+    "id": 104
   }
 ]
