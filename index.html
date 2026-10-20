@@ -201,7 +201,6 @@ a:hover{text-decoration:underline}
         <p>Каталог клинических статей. Сейчас в нём тема АГА, дальше появятся другие. Пять звёзд — доза, эффект или риск, на которые можно опереться на приёме. Это пересказ исследований, не схема лечения.</p>
         <div class="stats">
           <div class="stat"><div class="num" id="statCatalog">—</div><div class="lbl">во всём каталоге</div></div>
-          <div class="stat"><div class="num" id="statYears">—</div><div class="lbl">лет покрыто в каталоге</div></div>
         </div>
       </section>
 
@@ -512,9 +511,7 @@ function activeFilterLabels(){
   return values;
 }
 function updateHero(list){
-  const catalogYears=new Set(articles.map(articleYear).filter(Boolean));
   document.getElementById("statCatalog").textContent=articles.length;
-  document.getElementById("statYears").textContent=catalogYears.size;
 }
 function render(){
   const list=sortList(baseFiltered());
