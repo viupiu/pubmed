@@ -1,0 +1,726 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>PubMed — андрогенетическая алопеция</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#f3f5f7;--surface:#fff;--text:#16181d;--muted:#68707d;--line:#e2e6ea;
+  --accent:#087e8b;--accent-dark:#066774;--accent-soft:#e7f7f8;
+  --sidebar:#102126;--sidebar-text:#d5e0e2;--sidebar-muted:#91a5a9;
+  --star:#c4a35a;
+  --pastel-5:#e7f0ea;--pastel-4:#f3eee4;--pastel-3:#eef1f4;--pastel-1:#f3f1ee;
+  --shadow:0 1px 3px rgba(10,25,30,.06),0 10px 30px rgba(10,25,30,.04);
+  --radius:14px;
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--text);font:15px/1.55 Inter,system-ui,sans-serif}
+button,select,input{font:inherit}
+button{cursor:pointer}
+a{color:var(--accent);text-decoration:none}
+a:hover{text-decoration:underline}
+
+.app{display:grid;grid-template-columns:290px 1fr;min-height:100vh}
+.sidebar{background:var(--sidebar);color:var(--sidebar-text);padding:24px 16px;display:flex;flex-direction:column;gap:8px;position:sticky;top:0;height:100vh;overflow:auto}
+.brand{padding:0 10px 20px;border-bottom:1px solid #263b41;margin-bottom:8px}
+.brand h1{margin:0;font-size:20px;font-weight:800;color:#fff;letter-spacing:-.02em}
+.brand h1 span{color:#55d4dc}
+.brand p{margin:6px 0 0;font-size:12px;color:var(--sidebar-muted);line-height:1.45}
+.nav-label{margin:18px 10px 6px;font-size:10px;text-transform:uppercase;letter-spacing:.1em;color:#718a90;font-weight:700}
+.nav-btn{width:100%;border:0;background:transparent;color:var(--sidebar-text);text-align:left;padding:10px 12px;border-radius:10px;display:flex;align-items:center;justify-content:space-between;gap:8px}
+.nav-btn:hover{background:#1a343a}
+.nav-btn.active{background:#075f69;color:#fff;font-weight:600}
+.nav-btn .count{background:#29444a;color:#e4edef;font-size:11px;padding:2px 8px;border-radius:999px;font-weight:600}
+.nav-btn.active .count{background:#087e8b}
+.chips{display:flex;flex-wrap:wrap;gap:6px;padding:0 8px}
+.chip{border:1px solid #355158;background:#1b363c;color:#d5e0e2;border-radius:999px;padding:5px 10px;font-size:11px;white-space:nowrap}
+.chip:hover{border-color:#51cbd3;color:#fff}
+.chip.active{background:#075f69;border-color:#28aeb8;color:#fff}
+.chip b{color:#65dbe2;margin-left:4px}
+
+.main{min-width:0}
+.topbar{position:sticky;top:0;z-index:20;background:rgba(243,245,247,.93);backdrop-filter:blur(10px);border-bottom:1px solid var(--line);padding:14px 28px;display:flex;align-items:center;gap:12px}
+.menu-toggle{display:none;border:1px solid var(--line);background:var(--surface);border-radius:10px;padding:8px 12px}
+.search-wrap{flex:1;position:relative}
+.search-wrap input{width:100%;border:1px solid var(--line);background:var(--surface);border-radius:12px;padding:11px 14px 11px 38px;outline:none}
+.search-wrap input:focus{border-color:#6fcbd1;box-shadow:0 0 0 3px rgba(8,126,139,.12)}
+.search-wrap svg{position:absolute;left:12px;top:50%;transform:translateY(-50%);color:var(--muted)}
+.sort{border:1px solid var(--line);background:var(--surface);border-radius:10px;padding:10px 12px;color:var(--text);max-width:230px}
+
+.content{padding:28px;max-width:1440px}
+.hero{background:#102f36;color:#fff;border-radius:20px;padding:32px 36px;margin-bottom:28px;box-shadow:var(--shadow);position:relative;overflow:hidden}
+.hero:after{content:"AGA";position:absolute;right:28px;top:-35px;font-size:150px;line-height:1;font-weight:800;color:rgba(255,255,255,.035);pointer-events:none}
+.hero-kicker{font-size:12px;text-transform:uppercase;letter-spacing:.12em;color:#7ee3e8;margin-bottom:10px;font-weight:700}
+.hero h2{margin:0 0 10px;font-size:clamp(24px,3vw,34px);line-height:1.15;letter-spacing:-.03em}
+.hero p{margin:0;max-width:820px;color:#cde5e8;font-size:15px;line-height:1.6}
+.stats{display:grid;grid-template-columns:repeat(3,1fr);gap:14px;margin-top:20px;position:relative;z-index:1}
+.stat{background:rgba(255,255,255,.07);border:1px solid rgba(255,255,255,.12);border-radius:14px;padding:16px 18px}
+.stat .num{font-size:28px;font-weight:800;line-height:1}
+.stat .lbl{font-size:12px;color:#b9d6d9;margin-top:4px}
+
+.toolbar{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:12px;margin-bottom:18px}
+.toolbar h3{margin:0;font-size:22px;letter-spacing:-.02em}
+.toolbar .meta{color:var(--muted);font-size:14px}
+.pills{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:20px}
+.pill{border:1px solid var(--line);background:var(--surface);border-radius:999px;padding:7px 13px;font-size:13px;color:var(--muted)}
+.pill.active{background:var(--accent-soft);border-color:#a8dfe3;color:var(--accent-dark);font-weight:600}
+
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(340px,1fr));gap:18px}
+.card{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);padding:18px;box-shadow:var(--shadow);cursor:pointer;transition:transform .15s,box-shadow .15s;display:flex;flex-direction:column;gap:10px;position:relative}
+.card:hover{transform:translateY(-2px);box-shadow:0 12px 32px rgba(10,25,30,.09)}
+.card.stars-5{background:var(--pastel-5);border-color:#c5d9cc}
+.card.stars-4{background:var(--pastel-4);border-color:#e2d8c4}
+.card.stars-1,.card.stars-2{background:var(--pastel-1)}
+.stars{letter-spacing:.06em;color:var(--star);font-size:14px;font-weight:700}
+.year-tag{font-size:11px;font-weight:650;padding:4px 8px;border-radius:7px;background:#e7f0ea;color:#2f6b52}
+.card-top{display:flex;flex-wrap:wrap;gap:6px;align-items:center}
+.topic-tags{display:flex;flex-wrap:wrap;gap:6px}
+.topic-tag{font-size:11px;font-weight:650;padding:4px 9px;border-radius:999px;background:var(--accent-soft);color:var(--accent-dark);border:1px solid #b7e3e6;line-height:1.2}
+.card h4{margin:0;font-size:16px;line-height:1.35;letter-spacing:-.01em}
+.card .original-title{font-size:12px;color:var(--muted);display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.card .source{font-size:12px;color:var(--muted)}
+.card .summary{font-size:13px;color:#4b5563;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;flex:1}
+.card-foot{display:flex;align-items:center;justify-content:space-between;gap:8px;margin-top:4px;font-size:12px;color:var(--muted)}
+.score{font-weight:700;color:var(--accent-dark)}
+
+.empty{text-align:center;padding:60px 20px;color:var(--muted)}
+.empty h4{margin:0 0 8px;color:var(--text)}
+.loading{padding:80px 20px;text-align:center;color:var(--muted)}
+.loading.error{color:#c23b32}
+.spinner{width:36px;height:36px;border:3px solid var(--line);border-top-color:var(--accent);border-radius:50%;animation:spin .8s linear infinite;margin:0 auto 16px}
+@keyframes spin{to{transform:rotate(360deg)}}
+.pager{display:flex;flex-wrap:wrap;gap:8px;align-items:center;justify-content:center;margin:24px 0 4px}
+.pager button{border:1px solid var(--line);background:#fff;border-radius:10px;padding:8px 14px}
+.pager button:disabled{opacity:.4;cursor:default}
+.pager .pg-info{font-size:13px;color:var(--muted)}
+
+.overlay{position:fixed;inset:0;background:rgba(8,24,28,.5);z-index:40;display:none;align-items:flex-start;justify-content:center;padding:24px;overflow:auto}
+.overlay.show{display:flex}
+.panel{background:var(--surface);width:min(900px,100%);border-radius:18px;margin:auto;box-shadow:0 24px 64px rgba(0,0,0,.2);overflow:hidden}
+.panel-head{padding:24px 28px 0;display:flex;justify-content:space-between;gap:12px}
+.panel-head h2{margin:8px 0 4px;font-size:26px;line-height:1.2;letter-spacing:-.02em}
+.panel-original{font-size:13px;color:var(--muted);line-height:1.4}
+.close{border:1px solid var(--line);background:#fff;border-radius:10px;padding:8px 12px;color:var(--muted);align-self:flex-start}
+.panel-body{padding:20px 28px 28px}
+.section-title{font-size:11px;text-transform:uppercase;letter-spacing:.08em;color:var(--muted);font-weight:700;margin:18px 0 8px}
+.box{background:#f8fafb;border:1px solid var(--line);border-radius:12px;padding:14px 16px;font-size:14px;line-height:1.65}
+.box.practical{background:var(--accent-soft);border-color:#b7e3e6}
+#panelAdviceSection{margin:4px 0 8px}
+#panelAdviceSection .section-title{margin-top:18px;margin-bottom:12px}
+#panelAttackSection{margin:4px 0 8px}
+#panelAttackSection .section-title{margin-top:18px;margin-bottom:12px}
+.attack-card{display:flex;gap:12px;background:#fff4f2;border:1px solid #edc2b8;border-left:3px solid #c0392b;border-radius:12px;padding:13px 15px;margin:0 0 10px}
+.attack-card:last-child{margin-bottom:4px}
+.attack-num{flex:0 0 auto;width:24px;height:24px;border-radius:50%;background:#c0392b;color:#fff;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;margin-top:2px}
+.attack-method{font-size:13.5px;font-weight:600;line-height:1.5;color:#6b1f14;margin:0 0 7px}
+.attack-check{font-size:12.5px;line-height:1.5;color:#7f2a1d;background:#ffe7e0;border:1px solid #f0c9bf;border-radius:8px;padding:8px 10px}
+.attack-check b{letter-spacing:.02em}
+.advice-card{background:#f8fafb;border:1px solid var(--line);border-radius:12px;padding:14px 16px;margin:0 0 12px}
+.advice-card:last-child{margin-bottom:4px}
+.advice-card .advice-kicker{font-size:11px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);margin:0 0 6px}
+.advice-card blockquote{margin:0 0 12px;padding:10px 12px;border-left:3px solid var(--accent);background:#fff;font-size:13px;line-height:1.55;color:#1f2937;font-style:normal;white-space:pre-wrap}
+.advice-who{display:inline-block;font-size:11px;font-weight:700;letter-spacing:.04em;text-transform:uppercase;color:var(--accent-dark);background:var(--accent-soft);border-radius:7px;padding:3px 8px;margin:0 0 8px}
+.advice-group{margin:0 0 16px}
+.advice-group:last-child{margin-bottom:4px}
+.advice-group-title{display:inline-block;font-size:12px;font-weight:700;letter-spacing:.04em;text-transform:uppercase;color:var(--accent-dark);background:var(--accent-soft);border-radius:8px;padding:5px 10px;margin:0 0 10px}
+.advice-group .advice-card:last-child{margin-bottom:0}
+.advice-text{font-size:14px;line-height:1.65}
+.details-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}
+.tag-list{display:flex;flex-wrap:wrap;gap:6px}
+.tag{background:#eef1f3;border-radius:7px;padding:4px 8px;font-size:12px;color:#46515c}
+.links{display:flex;flex-wrap:wrap;gap:10px;margin-top:18px}
+.btn-link{display:inline-flex;align-items:center;gap:6px;padding:11px 16px;border-radius:10px;font-weight:600;font-size:14px;border:0}
+.btn-primary{background:var(--accent);color:#fff}
+.btn-primary:hover{background:var(--accent-dark);text-decoration:none}
+.btn-secondary{background:#fff;border:1px solid var(--line);color:var(--text)}
+.btn-secondary:hover{background:#f7f9fa;text-decoration:none}
+.sidebar-backdrop{display:none}
+
+@media(max-width:960px){
+  .app{grid-template-columns:1fr}
+  .sidebar{position:fixed;left:0;top:0;z-index:50;width:min(310px,88vw);transform:translateX(-105%);transition:transform .2s;height:100vh}
+  .sidebar.open{transform:translateX(0)}
+  .sidebar-backdrop{position:fixed;inset:0;background:rgba(0,0,0,.4);z-index:45}
+  .sidebar-backdrop.show{display:block}
+  .menu-toggle{display:inline-flex}
+  .stats{grid-template-columns:1fr}
+  .content{padding:20px 16px 40px}
+  .topbar{padding:12px 16px}
+  .hero{padding:24px 20px}
+}
+@media(max-width:620px){
+  .grid{grid-template-columns:1fr}
+  .details-grid{grid-template-columns:1fr}
+  .sort{max-width:145px}
+}
+</style>
+</head>
+<body>
+<div class="sidebar-backdrop" id="backdrop"></div>
+<div class="app">
+  <aside class="sidebar" id="sidebar">
+    <div class="brand">
+      <h1>PubMed <span>Hub</span></h1>
+      <p>Андрогенетическая алопеция: лекарства и диагностика. Звезда — практическая польза пациенту. Это пересказ статей, не назначение.</p>
+    </div>
+
+    <div class="nav-label">Библиотека</div>
+    <button class="nav-btn active" data-filter="all"><span>Каталог</span><span class="count" id="cntAll">—</span></button>
+
+    <div class="nav-label">Год</div>
+    <div class="chips" id="yearChips"></div>
+    <div class="nav-label">Тема</div>
+    <div class="chips" id="topicChips"></div>
+    <div class="nav-label">Польза пациенту ★</div>
+    <div class="chips" id="starChips"></div>
+    <div class="nav-label">Совет</div>
+    <div class="chips" id="audienceChips"></div>
+  </aside>
+
+  <main class="main">
+    <header class="topbar">
+      <button class="menu-toggle" id="menuBtn" aria-label="Меню">☰</button>
+      <div class="search-wrap">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3-3"/></svg>
+        <input id="search" placeholder="Название, PMID, автор, лекарство…" autocomplete="off">
+      </div>
+<select class="sort" id="sort">
+        <option value="date-desc" selected>Сначала новые</option>
+        <option value="stars">По пользе пациенту</option>
+        <option value="date-asc">Сначала старые</option>
+        <option value="title">По названию</option>
+      </select>
+    </header>
+
+    <div class="content">
+      <section class="hero">
+        <div class="hero-kicker">PubMed · андрогенетическая алопеция · 2026</div>
+        <h2>Что можно применить пациенту</h2>
+        <p>Карточки по лекарствам и диагностике. Пять звёзд — доза, эффект или риск, на которые можно опереться на приёме. Это пересказ исследований, не схема лечения.</p>
+        <div class="stats">
+          <div class="stat"><div class="num" id="statShown">—</div><div class="lbl">сейчас на экране (фильтр)</div></div>
+          <div class="stat"><div class="num" id="statCatalog">—</div><div class="lbl">во всём каталоге</div></div>
+          <div class="stat"><div class="num" id="statYears">—</div><div class="lbl">лет покрыто в каталоге</div></div>
+        </div>
+      </section>
+
+      <div id="appBody">
+        <div class="loading" id="loading">
+          <div class="spinner"></div>
+          <div>Загрузка каталога…</div>
+        </div>
+      </div>
+    </div>
+  </main>
+</div>
+
+<div class="overlay" id="overlay">
+  <div class="panel" role="dialog" aria-modal="true">
+    <div class="panel-head">
+      <div style="min-width:0">
+        <div class="card-top" id="panelBadges"></div>
+        <h2 id="panelTitle"></h2>
+        <div class="panel-original" id="panelOriginal"></div>
+        <div class="source" id="panelMeta"></div>
+      </div>
+      <button class="close" id="closePanel">✕</button>
+    </div>
+    <div class="panel-body">
+      <div id="panelSummaryBlock">
+        <div class="section-title">Суть статьи</div>
+        <div class="box" id="panelSummary"></div>
+      </div>
+      <div id="panelPracticalBlock">
+        <div class="section-title">Врачу</div>
+        <div class="box practical" id="panelPractical"></div>
+      </div>
+      <div id="panelPatientBlock">
+        <div class="section-title">Простым языком</div>
+        <div class="box" id="panelPatient"></div>
+      </div>
+      <div id="panelAttackSection" hidden>
+        <div class="section-title">Методы атак — проверить у нас</div>
+        <div id="panelAttack"></div>
+      </div>
+      <div id="panelAdviceSection" hidden>
+        <div class="section-title">Цитата из статьи и совет</div>
+        <div id="panelAdvice"></div>
+      </div>
+
+      <div class="details-grid">
+        <div id="panelReasonBlock">
+          <div class="section-title">Почему прочитать</div>
+          <div class="box" id="panelReason"></div>
+        </div>
+        <div id="panelAreaBlock">
+          <div class="section-title">Область знаний</div>
+          <div class="box" id="panelArea"></div>
+        </div>
+      </div>
+
+      <div id="panelSkillsBlock">
+        <div class="section-title">Навыки после чтения</div>
+        <div class="tag-list" id="panelSkills"></div>
+      </div>
+      <div id="panelMethodsBlock">
+        <div class="section-title">Методы и технологии</div>
+        <div class="tag-list" id="panelMethods"></div>
+      </div>
+      <div id="panelLimitationsBlock">
+        <div class="section-title">Ограничения</div>
+        <div class="box" id="panelLimitations"></div>
+      </div>
+      <div id="panelAuthorsBlock">
+        <div class="section-title">Авторы и библиография</div>
+        <div class="box" id="panelAuthors"></div>
+      </div>
+
+      <div class="links" id="panelLinks"></div>
+    </div>
+  </div>
+</div>
+
+<script>
+const DATA_FILE = "articles.json";
+const PAGE_SIZE = 72;
+const TOPIC_SHORT = {
+  aga_drugs:"Лекарства",
+  aga_diagnosis:"Диагностика"
+};
+// Старые узкие темы в каталоге показываем как слитые.
+const TOPIC_MERGE = {
+  annotation_guidelines:"annotation_management",
+  vlm_annotation:"auto_prelabel",
+  image_translation:"inpaint_editing"
+};
+function mapTopicKey(k){
+  return TOPIC_MERGE[k]||k;
+}
+function articleTopicKeys(a){
+  const raw=Array.isArray(a.topic_keys) && a.topic_keys.length
+    ? a.topic_keys.filter(Boolean)
+    : (a.topic_key ? [a.topic_key] : []);
+  const out=[];
+  raw.map(mapTopicKey).forEach(k=>{if(k && !out.includes(k))out.push(k)});
+  return out;
+}
+function articleTopicLabel(a){
+  const keys=articleTopicKeys(a);
+  if(!keys.length)return a.topic||"";
+  return keys.map(k=>TOPIC_SHORT[k]||k).join(" · ");
+}
+function topicTagsHtml(a){
+  const keys=articleTopicKeys(a);
+  if(!keys.length)return "";
+  return `<div class="topic-tags">${keys.map(k=>`<span class="topic-tag">${esc(TOPIC_SHORT[k]||k)}</span>`).join("")}</div>`;
+}
+
+const AUDIENCE_ORDER = ["врач", "пациент"];
+
+let articles = [];
+let activeView = "all";
+let activeTopic = [];
+let activeYear = ["2026"];
+let activeStars = [];
+let activeAudience = [];
+let searchQuery = "";
+let currentId = null;
+let pageIndex = 0;
+
+function esc(s){return String(s??"").replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;")}
+function starsOnly(v){
+  return String(v||"").replace(/[☆]。·∙•]/g,"").replace(/[^★]/g,"")||"★";
+}
+function fmtDate(raw){
+  if(!raw)return"—";
+  const m=String(raw).match(/^(\d{4})-(\d{2})-(\d{2})$/);
+  if(!m)return raw;
+  const months=["","янв","фев","мар","апр","май","июн","июл","авг","сен","окт","ноя","дек"];
+  return `${+m[3]} ${months[+m[2]]} ${m[1]}`;
+}
+function getTitle(a){return a.title_ru||a.article||"Без названия"}
+function valuesText(value){return Array.isArray(value)?value.join(" "):(value||"")}
+function articleYear(a){
+  const y=String(a.date||"").slice(0,4);
+  return /^\d{4}$/.test(y)?y:"";
+}
+function hasAdvice(a){return Array.isArray(a.advice_items)&&a.advice_items.some(it=>it&&(it.quote||it.advice))}
+function adviceAudiences(a){
+  const set=new Set();
+  (a.advice_items||[]).forEach(it=>{
+    if(!it||!(it.quote||it.advice))return;
+    const aud=String(it.audience||"").trim();
+    if(aud)set.add(aud);
+  });
+  return set;
+}
+function nonemptyList(value){
+  if(Array.isArray(value))return value.map(v=>String(v||"").trim()).filter(Boolean);
+  const s=String(value||"").trim();
+  return s? [s]:[];
+}
+function matchesSearch(a,q){
+  if(!q)return true;
+  const hay=[
+    a.pmid,a.article_link,a.pmc_link,a.doi,a.journal,
+    getTitle(a),a.article,valuesText(a.authors),a.topic,a.summary,a.practical_use,a.patient_plain,
+    a.knowledge_area,a._skill,valuesText(a.skills),valuesText(a.methods),
+    valuesText(a.tasks),valuesText(a.domains),valuesText(a.project_fit),a._reason,a.why_read,
+    ...(a.advice_items||[]).flatMap(it=>[it.quote,it.advice,it.audience])
+  ].join(" ").toLowerCase();
+  return hay.includes(q);
+}
+function toggleFilter(list, v){
+  const i=list.indexOf(v);
+  if(i>=0)list.splice(i,1);else list.push(v);
+  return list;
+}
+function matchesFilters(a, skip){
+  if(skip!=="topic" && activeTopic.length){
+    const keys=articleTopicKeys(a);
+    if(!activeTopic.some(t=>keys.includes(t)))return false;
+  }
+  if(skip!=="year" && activeYear.length && !activeYear.includes(articleYear(a)))return false;
+  if(skip!=="stars" && activeStars.length && !activeStars.includes(String(a.importance_stars??"")))return false;
+  if(skip!=="audience" && activeAudience.length){
+    const auds=adviceAudiences(a);
+    if(!activeAudience.some(r=>auds.has(r)))return false;
+  }
+  if(searchQuery && !matchesSearch(a,searchQuery))return false;
+  return true;
+}
+function baseFiltered(){return articles.filter(a=>matchesFilters(a,null))}
+function isDefaultFilters(){
+  return activeView==="all" && !searchQuery && !activeTopic.length && !activeAudience.length
+    && activeYear.length===1 && activeYear[0]==="2026"
+    && !activeStars.length;
+}
+function resetFilters(){
+  activeView="all";
+  activeTopic=[];
+  activeYear=["2026"];
+  activeStars=[];
+  activeAudience=[];
+  searchQuery="";
+  pageIndex=0;
+  const search=document.getElementById("search");
+  if(search)search.value="";
+  document.querySelectorAll(".nav-btn[data-filter]").forEach(b=>b.classList.toggle("active",b.dataset.filter==="all"));
+  buildSidebar();render();
+}
+function showFullCatalog(){
+  activeView="all";
+  activeTopic=[];
+  activeYear=[];
+  activeStars=[];
+  activeAudience=[];
+  searchQuery="";
+  pageIndex=0;
+  const search=document.getElementById("search");
+  if(search)search.value="";
+  document.querySelectorAll(".nav-btn[data-filter]").forEach(b=>b.classList.toggle("active",true));
+  buildSidebar();render();
+}
+function sortList(list){
+  const mode=document.getElementById("sort").value;
+  return list.slice().sort((a,b)=>{
+    if(mode==="stars")return (b.importance_stars||0)-(a.importance_stars||0)||(b.date||"").localeCompare(a.date||"");
+    if(mode==="title")return getTitle(a).localeCompare(getTitle(b),"ru");
+    if(mode==="date-asc")return (a.date||"").localeCompare(b.date||"");
+    return (b.date||"").localeCompare(a.date||"");
+  });
+}
+function updateCounts(){
+  document.getElementById("cntAll").textContent=articles.filter(a=>matchesFilters(a,null)).length;
+}
+function countBy(field, skip){
+  const result={};
+  articles.forEach(a=>{
+    if(!matchesFilters(a,skip))return;
+    if(field==="topic_key"){
+      articleTopicKeys(a).forEach(k=>{
+        result[String(k)]=(result[String(k)]||0)+1;
+      });
+      return;
+    }
+    const v=field==="year"?articleYear(a):a[field];
+    if(v||v===0)result[String(v)]=(result[String(v)]||0)+1;
+  });
+  return Object.entries(result);
+}
+function countByAudience(){
+  const result={};
+  AUDIENCE_ORDER.forEach(r=>{result[r]=0});
+  articles.forEach(a=>{
+    if(!matchesFilters(a,"audience"))return;
+    adviceAudiences(a).forEach(r=>{
+      if(r in result)result[r]+=1;
+      else result[r]=(result[r]||0)+1;
+    });
+  });
+  const ordered=AUDIENCE_ORDER.map(r=>[r,result[r]||0]);
+  const extra=Object.entries(result).filter(([r])=>!AUDIENCE_ORDER.includes(r));
+  return ordered.concat(extra);
+}
+function buildChips(containerId,entries,activeValues,attr,labeler=v=>v,keepZero=false){
+  const el=document.getElementById(containerId);
+  const selected=new Set((activeValues||[]).map(String));
+  el.innerHTML=entries.filter(([,cnt])=>keepZero||cnt>0).map(([val,cnt])=>
+    `<button type="button" class="chip${selected.has(String(val))?" active":""}" data-facet="${attr}" data-value="${esc(val)}">${esc(labeler(val))}<b>${cnt}</b></button>`
+  ).join("");
+}
+function onChipClick(e){
+  const btn=e.target.closest(".chip");
+  if(!btn)return;
+  const attr=btn.getAttribute("data-facet");
+  const v=btn.getAttribute("data-value");
+  if(attr==="topic"){
+    const turningOn=!activeTopic.includes(v);
+    toggleFilter(activeTopic,v);
+    const hasTopic=a=>articleTopicKeys(a).includes(v);
+    if(turningOn && !articles.some(a=>hasTopic(a)&&matchesFilters(a,"topic")) && articles.some(hasTopic)){
+      activeYear=[];activeStars=[];
+    }
+  }
+  else if(attr==="year")toggleFilter(activeYear,v);
+  else if(attr==="stars")toggleFilter(activeStars,v);
+  else if(attr==="audience")toggleFilter(activeAudience,v);
+  pageIndex=0;
+  buildSidebar();render();
+}
+function buildSidebar(){
+  buildChips("yearChips",countBy("year","year").sort((a,b)=>b[0].localeCompare(a[0])),activeYear,"year");
+  const topicCounts=new Map(countBy("topic_key","topic"));
+  const topicSet=new Set(Object.keys(TOPIC_SHORT));
+  articles.forEach(a=>{articleTopicKeys(a).forEach(k=>topicSet.add(k))});
+  const topicEntries=[...topicSet].map(k=>[k,topicCounts.get(k)||0]).sort((a,b)=>b[1]-a[1]||(TOPIC_SHORT[a[0]]||a[0]).localeCompare(TOPIC_SHORT[b[0]]||b[0],"ru"));
+  buildChips("topicChips",topicEntries,activeTopic,"topic",v=>TOPIC_SHORT[v]||v,true);
+  buildChips("starChips",countBy("importance_stars","stars").sort((a,b)=>Number(b[0])-Number(a[0])),activeStars,"stars",v=>`${Number(v)}★`);
+  buildChips("audienceChips",countByAudience(),activeAudience,"audience",audienceLabel);
+  document.querySelectorAll(".nav-btn[data-filter]").forEach(btn=>{
+    btn.classList.toggle("active",btn.dataset.filter===activeView);
+    btn.onclick=()=>{
+      activeView=btn.dataset.filter;
+      pageIndex=0;
+      document.querySelectorAll(".nav-btn[data-filter]").forEach(b=>b.classList.toggle("active",b.dataset.filter===activeView));
+      buildSidebar();render();closeSidebar();
+    };
+  });
+  updateCounts();
+}
+function viewTitle(){
+  if(activeYear.length)return activeYear.slice().sort((a,b)=>b.localeCompare(a)).join(", ");
+  return"Каталог";
+}
+function sourceLabel(a){
+  const src=String(a.source||"").trim();
+  if(src && src.toLowerCase()!=="arxiv")return src;
+  if(a.arxiv_id)return "arXiv";
+  return src||"источник";
+}
+function renderCard(a){
+  const stars=a.importance_stars||1;
+  return `<article class="card stars-${stars}" data-id="${a.id}">
+    <div class="card-top">
+      <span class="year-tag">${esc(articleYear(a)||"—")}</span>
+      <span class="stars" title="Важность">${esc(a.importance_mark?starsOnly(a.importance_mark):"★".repeat(stars))}</span>
+    </div>
+    ${topicTagsHtml(a)}
+    <h4>${esc(getTitle(a))}</h4>
+    <div class="original-title">${esc(a.article||"")}</div>
+    <div class="source">${esc(fmtDate(a.date))} · ${esc(a.journal||"PubMed")}</div>
+    <div class="summary">${esc(a.summary||"")}</div>
+    <div class="card-foot"><span class="score">${esc(a.importance_mark?starsOnly(a.importance_mark):"★".repeat(stars))}</span><span>Подробнее →</span></div>
+  </article>`;
+}
+function activeFilterLabels(){
+  const values=[];
+  activeTopic.forEach(t=>values.push(TOPIC_SHORT[t]||t));
+  activeYear.slice().sort((a,b)=>b.localeCompare(a)).forEach(y=>values.push(y));
+  activeStars.slice().sort((a,b)=>Number(b)-Number(a)).forEach(s=>values.push(`${Number(s)}★`));
+  AUDIENCE_ORDER.filter(r=>activeAudience.includes(r)).forEach(r=>values.push(audienceLabel(r)));
+  activeAudience.filter(r=>!AUDIENCE_ORDER.includes(r)).forEach(r=>values.push(audienceLabel(r)));
+  return values;
+}
+function updateHero(list){
+  const catalogYears=new Set(articles.map(articleYear).filter(Boolean));
+  const filtered=!!(searchQuery || activeTopic.length || activeYear.length || activeStars.length || activeAudience.length);
+  document.getElementById("statShown").textContent=list.length;
+  document.getElementById("statShown").closest(".stat").querySelector(".lbl").textContent=filtered?"сейчас на экране (фильтр)":"сейчас на экране";
+  document.getElementById("statCatalog").textContent=articles.length;
+  document.getElementById("statYears").textContent=catalogYears.size;
+}
+function render(){
+  const list=sortList(baseFiltered());
+  const pages=Math.max(1, Math.ceil(list.length/PAGE_SIZE));
+  if(pageIndex>pages-1)pageIndex=pages-1;
+  if(pageIndex<0)pageIndex=0;
+  const start=pageIndex*PAGE_SIZE;
+  const slice=list.slice(start, start+PAGE_SIZE);
+  const filters=activeFilterLabels();
+  const pager=list.length>PAGE_SIZE?`<div class="pager">
+      <button type="button" id="pgPrev" ${pageIndex<=0?"disabled":""}>Назад</button>
+      <span class="pg-info">стр. ${pageIndex+1} из ${pages}</span>
+      <button type="button" id="pgNext" ${pageIndex>=pages-1?"disabled":""}>Дальше</button>
+    </div>`:"";
+  document.getElementById("appBody").innerHTML=`
+    <div class="toolbar">
+      <div><h3>${esc(viewTitle())}</h3><div class="meta">${list.length} статей${filters.length?" · "+esc(filters.join(" · ")):""}${list.length>PAGE_SIZE?` · на странице ${slice.length}`:""}</div></div>
+    </div>
+    <div class="pills">
+      <button class="pill active" id="clearFilters">Стартовый вид: 2026, все звёзды</button>
+      <button class="pill" id="showAllBtn">Весь каталог</button>
+    </div>
+    <div class="grid">${slice.length?slice.map(renderCard).join(""):`<div class="empty" style="grid-column:1/-1"><h4>Ничего не найдено</h4><p>Измените фильтры или поисковый запрос.</p></div>`}</div>
+    ${pager}`;
+  document.getElementById("clearFilters")?.addEventListener("click",resetFilters);
+  document.getElementById("showAllBtn")?.addEventListener("click",showFullCatalog);
+  document.getElementById("pgPrev")?.addEventListener("click",()=>{pageIndex-=1;render();window.scrollTo(0,0)});
+  document.getElementById("pgNext")?.addEventListener("click",()=>{pageIndex+=1;render();window.scrollTo(0,0)});
+  document.querySelectorAll(".card").forEach(card=>card.addEventListener("click",()=>openPanel(+card.dataset.id)));
+  updateHero(list);
+  updateCounts();
+}
+function renderTags(values){
+  return nonemptyList(values).map(v=>`<span class="tag">${esc(v)}</span>`).join("");
+}
+function audienceLabel(v){
+  if(v==="врач")return"Для врача";
+  if(v==="пациент")return"Для пациента";
+  return v||"Для читателя";
+}
+function renderAdvice(items){
+  const list=Array.isArray(items)?items.filter(it=>it&&(it.quote||it.advice)):[];
+  const sec=document.getElementById("panelAdviceSection");
+  const box=document.getElementById("panelAdvice");
+  if(!list.length){sec.hidden=true;box.innerHTML="";return}
+  sec.hidden=false;
+  const groups=new Map();
+  list.forEach(it=>{
+    const key=String(it.audience||"").trim()||"__team__";
+    if(!groups.has(key))groups.set(key,[]);
+    groups.get(key).push(it);
+  });
+  const keys=[
+    ...AUDIENCE_ORDER.filter(r=>groups.has(r)),
+    ...[...groups.keys()].filter(k=>!AUDIENCE_ORDER.includes(k))
+  ];
+  box.innerHTML=keys.map(key=>{
+    const title=key==="__team__"?"Для команды":audienceLabel(key);
+    const cards=groups.get(key).map(it=>`<article class="advice-card">
+      ${it.quote?`<div class="advice-kicker">Цитата — как в тексте статьи</div><blockquote>${esc(it.quote)}</blockquote>`:""}
+      <div class="advice-kicker">Совет</div>
+      <div class="advice-text">${esc(it.advice||"")}</div>
+    </article>`).join("");
+    return `<div class="advice-group"><div class="advice-group-title">${esc(title)}</div>${cards}</div>`;
+  }).join("");
+}
+function renderAttack(items){
+  const list=Array.isArray(items)?items.filter(it=>it&&(it.method||it.check)):[];
+  const sec=document.getElementById("panelAttackSection");
+  const box=document.getElementById("panelAttack");
+  if(!list.length){sec.hidden=true;box.innerHTML="";return}
+  sec.hidden=false;
+  box.innerHTML=list.map((it,idx)=>`<article class="attack-card">
+    <div class="attack-num">${idx+1}</div>
+    <div class="attack-body">
+      <div class="attack-method">${esc(it.method||"")}</div>
+      ${it.check?`<div class="attack-check"><b>Проверить у нас:</b> ${esc(it.check)}</div>`:""}
+    </div>
+  </article>`).join("");
+}
+function setBlock(id, on){
+  const el=document.getElementById(id);
+  if(el)el.hidden=!on;
+}
+function openPanel(id){
+  const a=articles.find(x=>x.id===id);
+  if(!a)return;
+  currentId=id;
+  document.getElementById("panelBadges").innerHTML=`
+    <span class="year-tag">${esc(articleYear(a)||"—")}</span>
+    <span class="stars">${esc(a.importance_mark?starsOnly(a.importance_mark):"★".repeat(a.importance_stars||1))}</span>
+    ${articleTopicKeys(a).map(k=>`<span class="topic-tag">${esc(TOPIC_SHORT[k]||k)}</span>`).join("")}`;
+  document.getElementById("panelTitle").textContent=getTitle(a);
+  document.getElementById("panelOriginal").textContent=a.article||"";
+  const idBit=a.pmid?` · PMID ${a.pmid}`:"";
+  document.getElementById("panelMeta").textContent=`${fmtDate(a.date)} · ${a.journal||sourceLabel(a)}${idBit}`;
+  const summary=String(a.summary||"").trim();
+  setBlock("panelSummaryBlock", !!summary);
+  document.getElementById("panelSummary").textContent=summary;
+  const practical=String(a.practical_use||"").trim();
+  setBlock("panelPracticalBlock", !!practical);
+  document.getElementById("panelPractical").textContent=practical;
+  const plain=String(a.patient_plain||"").trim();
+  setBlock("panelPatientBlock", !!plain);
+  document.getElementById("panelPatient").textContent=plain;
+  renderAttack(a.attack_methods);
+  renderAdvice(a.advice_items);
+  const why=[a.why_read,a._reason].map(v=>String(v||"").trim()).filter(Boolean).join(" ");
+  setBlock("panelReasonBlock", !!why);
+  document.getElementById("panelReason").textContent=why;
+  const area=[a.knowledge_area,valuesText(a.subtopics)].map(v=>String(v||"").trim()).filter(Boolean).join(" · ");
+  setBlock("panelAreaBlock", !!area);
+  document.getElementById("panelArea").textContent=area;
+  const skills=nonemptyList(a.skills?.length?a.skills:[a._skill]);
+  setBlock("panelSkillsBlock", skills.length>0);
+  document.getElementById("panelSkills").innerHTML=renderTags(skills);
+  const methods=nonemptyList(a.methods);
+  setBlock("panelMethodsBlock", methods.length>0);
+  document.getElementById("panelMethods").innerHTML=renderTags(methods);
+  const limits=nonemptyList(a.limitations);
+  setBlock("panelLimitationsBlock", limits.length>0);
+  document.getElementById("panelLimitations").textContent=limits.join(" • ");
+  const authors=(a.authors||[]).join(", ");
+  const cats=(a.categories||[]).join(", ");
+  document.getElementById("panelAuthors").textContent=
+    `${authors||"Авторы не указаны"}. Дата: ${fmtDate(a.date)}.${cats?` Категории: ${cats}.`:""}`;
+  const links=[
+    a.article_link?`<a class="btn-link btn-primary" href="${esc(a.article_link)}" target="_blank" rel="noopener">PubMed ↗</a>`:"",
+    a.pmc_link?`<a class="btn-link btn-secondary" href="${esc(a.pmc_link)}" target="_blank" rel="noopener">PMC ↗</a>`:"",
+    a.doi?`<a class="btn-link btn-secondary" href="${esc('https://doi.org/'+a.doi)}" target="_blank" rel="noopener">DOI ↗</a>`:""
+  ];
+  document.getElementById("panelLinks").innerHTML=links.join("");
+  document.getElementById("overlay").classList.add("show");
+}
+function closePanel(){
+  document.getElementById("overlay").classList.remove("show");
+  currentId=null;
+}
+function closeSidebar(){
+  document.getElementById("sidebar").classList.remove("open");
+  document.getElementById("backdrop").classList.remove("show");
+}
+
+document.getElementById("closePanel").onclick=closePanel;
+document.getElementById("overlay").addEventListener("click",e=>{if(e.target.id==="overlay")closePanel()});
+document.getElementById("search").addEventListener("input",e=>{searchQuery=e.target.value.trim().toLowerCase();pageIndex=0;buildSidebar();render()});
+document.getElementById("sort").addEventListener("change",()=>{pageIndex=0;render()});
+document.getElementById("sidebar").addEventListener("click",onChipClick);
+document.getElementById("menuBtn").onclick=()=>{document.getElementById("sidebar").classList.toggle("open");document.getElementById("backdrop").classList.toggle("show")};
+document.getElementById("backdrop").onclick=closeSidebar;
+document.addEventListener("keydown",e=>{if(e.key==="Escape"){closePanel();closeSidebar()}});
+
+fetch(DATA_FILE,{cache:"no-store"})
+  .then(r=>{if(!r.ok)throw new Error("HTTP "+r.status);return r.json()})
+  .then(data=>{
+    if(!Array.isArray(data)||!data.length)throw new Error("Ожидался непустой список статей");
+    articles=data;
+    buildSidebar();render();
+  })
+  .catch(err=>{
+    const isLocal=location.protocol==="file:";
+    document.getElementById("loading").classList.add("error");
+    document.getElementById("loading").innerHTML=`
+      <h4 style="color:var(--text);margin:0 0 8px">Не удалось загрузить каталог</h4>
+      <p>Проверьте, что рядом находится <a href="${DATA_FILE}">${DATA_FILE}</a>.</p>
+      ${isLocal?`<p>Для локального просмотра запустите в этой папке:<br><code>python -m http.server 8000</code><br>и откройте <code>http://localhost:8000/</code>.</p>`:""}
+      <p style="font-size:12px">${esc(err.message)}</p>`;
+  });
+</script>
+</body>
+</html>
