@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>PubMed — андрогенетическая алопеция</title>
+<title>PubMed Hub</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
@@ -165,7 +165,7 @@ a:hover{text-decoration:underline}
   <aside class="sidebar" id="sidebar">
     <div class="brand">
       <h1>PubMed <span>Hub</span></h1>
-      <p>Андрогенетическая алопеция: лекарства и диагностика. Звезда — практическая польза пациенту. Это пересказ статей, не назначение.</p>
+      <p>Клинические статьи с PubMed. Звезда — практическая польза пациенту. Это пересказ статей, не назначение.</p>
     </div>
 
     <div class="nav-label">Библиотека</div>
@@ -186,7 +186,7 @@ a:hover{text-decoration:underline}
       <button class="menu-toggle" id="menuBtn" aria-label="Меню">☰</button>
       <div class="search-wrap">
         <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3-3"/></svg>
-        <input id="search" placeholder="Название, PMID, автор, лекарство…" autocomplete="off">
+        <input id="search" placeholder="Название, PMID, автор, тема…" autocomplete="off">
       </div>
 <select class="sort" id="sort">
         <option value="date-desc" selected>Сначала новые</option>
@@ -198,9 +198,9 @@ a:hover{text-decoration:underline}
 
     <div class="content">
       <section class="hero">
-        <div class="hero-kicker">PubMed · андрогенетическая алопеция · 2026</div>
+        <div class="hero-kicker">PubMed</div>
         <h2>Что можно применить пациенту</h2>
-        <p>Карточки по лекарствам и диагностике. Пять звёзд — доза, эффект или риск, на которые можно опереться на приёме. Это пересказ исследований, не схема лечения.</p>
+        <p>Каталог клинических статей. Сейчас в нём тема АГА, дальше появятся другие. Пять звёзд — доза, эффект или риск, на которые можно опереться на приёме. Это пересказ исследований, не схема лечения.</p>
         <div class="stats">
           <div class="stat"><div class="num" id="statShown">—</div><div class="lbl">сейчас на экране (фильтр)</div></div>
           <div class="stat"><div class="num" id="statCatalog">—</div><div class="lbl">во всём каталоге</div></div>
@@ -288,14 +288,11 @@ a:hover{text-decoration:underline}
 const DATA_FILE = "articles.json";
 const PAGE_SIZE = 72;
 const TOPIC_SHORT = {
-  aga_drugs:"Лекарства",
-  aga_diagnosis:"Диагностика"
+  aga:"АГА"
 };
-// Старые узкие темы в каталоге показываем как слитые.
 const TOPIC_MERGE = {
-  annotation_guidelines:"annotation_management",
-  vlm_annotation:"auto_prelabel",
-  image_translation:"inpaint_editing"
+  aga_drugs:"aga",
+  aga_diagnosis:"aga"
 };
 function mapTopicKey(k){
   return TOPIC_MERGE[k]||k;

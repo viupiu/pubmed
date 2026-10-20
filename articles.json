@@ -17,15 +17,13 @@
     "date": "2026-10-15",
     "journal": "International journal of dermatology",
     "doi": "10.1111/ijd.70730",
-    "topic": "АГА — лекарства",
-    "topic_key": "aga_drugs",
+    "topic": "АГА",
+    "topic_key": "aga",
     "topic_keys": [
-      "aga_drugs",
-      "aga_diagnosis"
+      "aga"
     ],
     "topics": [
-      "АГА — лекарства",
-      "АГА — диагностика"
+      "АГА"
     ],
     "abstract_en": "BACKGROUND: Female pattern hair loss (FPHL), characterized by progressive follicular miniaturization, is the most common cause of hair thinning in women and increases in prevalence after menopause. While topical minoxidil is approved for FPHL, clinical response is variable. Oral finasteride is used off label in postmenopausal women but raises concerns regarding systemic adverse effects. Topical finasteride may represent an alternative with reduced systemic exposure.\n\nMETHODS: A retrospective observational study was conducted in 26 postmenopausal women with FPHL who were treated with topical finasteride 0.25% monotherapy for 52 weeks. Clinical and trichoscopic images obtained at baseline and Week 52 were used to assess changes in hair density, hair thickness, and the terminal-to-vellus hair ratio in predefined target areas in frontal or vertex regions. Patient-reported tolerability and compliance, as well as patient- and clinician-reported effectiveness, were assessed using 3-point ordinal scales.\n\nRESULTS: Mean hair density increased from 149.48 ± 34.32 to 172.84 ± 35.29 hairs/cm2 (p < 0.001). Hair thickness increased from 40.42 ± 7.15 μm to 51.04 ± 9.28 μm (p < 0.001), and terminal-to-vellus hair ratio increased from 1.04 ± 0.61 to 1.56 ± 0.64 (p < 0.001). Subjective patient and clinician assessments indicated good-to-excellent effectiveness. No adverse events were recorded; tolerability and compliance were rated highly by patients.\n\nCONCLUSIONS: Topical finasteride 0.25% monotherapy was associated with significant improvements in hair density and thickness, alongside favorable reported tolerability and compliance. These findings provide preliminary real-world observational data regarding topical finasteride use in the underserved population of postmenopausal women with FPHL.",
     "article_link": "https://pubmed.ncbi.nlm.nih.gov/42876360/",
@@ -72,13 +70,13 @@
     "date": "2026-10-02",
     "journal": "Frontiers in urology",
     "doi": "10.3389/fruro.2026.1881635",
-    "topic": "АГА — лекарства",
-    "topic_key": "aga_drugs",
+    "topic": "АГА",
+    "topic_key": "aga",
     "topic_keys": [
-      "aga_drugs"
+      "aga"
     ],
     "topics": [
-      "АГА — лекарства"
+      "АГА"
     ],
     "abstract_en": "INTRODUCTION: 5-alpha-reductase inhibitors (5-ARIs), such as finasteride and dutasteride, are effective in reducing prostate volume and urinary symptoms; however, these drugs are associated with specific adverse events, including suicidal ideation, anxiety, and self-harm.\n\nMETHODS: A systematic review and meta-analysis of observational studies was conducted in PubMed, Embase and Web of Science on July 16, 2025, with no time restrictions. Studies involved individuals diagnosed with benign prostatic hyperplasia (BPH) or androgenetic alopecia (AGA), and experiencing suicide and neuropsychiatric events, including anxiety, depression and intentional self-harm (ISH) during the treatment with 5-ARIs. This study followed the PRISMA statement.\n\nRESULTS: Eleven studies were included in the systematic review, of which nine were eligible for meta-analysis. Comparisons included 5-ARI users versus non-users or alpha-blocker users. Overall, no statistically significant differences were observed between groups (HR 1.07, 95% CI: 0.76-1.51), with substantial heterogeneity across studies (I² = 59%).\n\nCONCLUSION: This meta-analysis found no significant association between 5-ARIs and the risk of suicide or neuropsychiatric events in patients with benign prostatic hyperplasia or androgenetic alopecia. Nevertheless, given regulatory concerns regarding suicidal ideation, continued real-world monitoring through active surveillance and prospective observational studies remain warranted.\n\nSYSTEMATIC REVIEW REGISTRATION: https://www.crd.york.ac.uk/PROSPERO/view/CRD420251106035, identifier CRD420251106035.",
     "article_link": "https://pubmed.ncbi.nlm.nih.gov/42890027/",
@@ -129,13 +127,13 @@
     "date": "2026-10-01",
     "journal": "Journal of the American Academy of Dermatology",
     "doi": "10.1016/j.jaad.2026.09.098",
-    "topic": "АГА — лекарства",
-    "topic_key": "aga_drugs",
+    "topic": "АГА",
+    "topic_key": "aga",
     "topic_keys": [
-      "aga_drugs"
+      "aga"
     ],
     "topics": [
-      "АГА — лекарства"
+      "АГА"
     ],
     "abstract_en": "",
     "article_link": "https://pubmed.ncbi.nlm.nih.gov/42822773/",
@@ -176,13 +174,13 @@
     "date": "2026-09-18",
     "journal": "The British journal of dermatology",
     "doi": "10.1093/bjd/ljag280",
-    "topic": "АГА — лекарства",
-    "topic_key": "aga_drugs",
+    "topic": "АГА",
+    "topic_key": "aga",
     "topic_keys": [
-      "aga_drugs"
+      "aga"
     ],
     "topics": [
-      "АГА — лекарства"
+      "АГА"
     ],
     "abstract_en": "",
     "article_link": "https://pubmed.ncbi.nlm.nih.gov/42456125/",
@@ -220,13 +218,13 @@
     "date": "2026-09-14",
     "journal": "The journal of sexual medicine",
     "doi": "10.1093/jsxmed/qdag313",
-    "topic": "АГА — лекарства",
-    "topic_key": "aga_drugs",
+    "topic": "АГА",
+    "topic_key": "aga",
     "topic_keys": [
-      "aga_drugs"
+      "aga"
     ],
     "topics": [
-      "АГА — лекарства"
+      "АГА"
     ],
     "abstract_en": "",
     "article_link": "https://pubmed.ncbi.nlm.nih.gov/42830721/",
@@ -264,15 +262,13 @@
     "date": "2026-08-25",
     "journal": "JAAPA : official journal of the American Academy of Physician Assistants",
     "doi": "10.1097/01.JAA.0000000000000405",
-    "topic": "АГА — лекарства",
-    "topic_key": "aga_drugs",
+    "topic": "АГА",
+    "topic_key": "aga",
     "topic_keys": [
-      "aga_drugs",
-      "aga_diagnosis"
+      "aga"
     ],
     "topics": [
-      "АГА — лекарства",
-      "АГА — диагностика"
+      "АГА"
     ],
     "abstract_en": "Hair loss (alopecia) is a common presentation in both primary care and dermatology. It often signals underlying inflammation or abnormalities in hair cycling or hair shaft structure, requiring a thorough and systematic evaluation. Clinical guidelines emphasize pattern recognition, trigger identification, and targeted interventions. This article equips physician associates (PAs) with an evidence-based approach to assessing patient history, conducting physical examinations, selecting appropriate diagnostics, and implementing treatment strategies for alopecia. History and scalp inspection guide diagnosis, with the differential including such conditions as telogen effluvium (diffuse), alopecia areata (focal), and androgenetic alopecia (patterned). Recommended laboratory tests include thyroid-stimulating hormone, complete blood cell count, and iron studies, while scalp biopsy is used to confirm scarring. Treatments address causes, with avoidance of triggers central to effluvium, intralesional steroids or baricitinib for alopecia areata, minoxidil-based therapy for androgenetic alopecia, and antifungals for tinea capitis. By integrating trichoscopy, selective testing, and etiology-specific care, PAs can enhance diagnostic accuracy and optimize outcomes for patients with hair loss.",
     "article_link": "https://pubmed.ncbi.nlm.nih.gov/42647672/",
@@ -326,15 +322,13 @@
     "date": "2026-08-03",
     "journal": "Clinical and experimental dermatology",
     "doi": "10.1093/ced/llag333",
-    "topic": "АГА — лекарства",
-    "topic_key": "aga_drugs",
+    "topic": "АГА",
+    "topic_key": "aga",
     "topic_keys": [
-      "aga_drugs",
-      "aga_diagnosis"
+      "aga"
     ],
     "topics": [
-      "АГА — лекарства",
-      "АГА — диагностика"
+      "АГА"
     ],
     "abstract_en": "BACKGROUND: Oral finasteride is a cornerstone in the treatment of male androgenetic alopecia (AGA), yet concerns regarding systemic adverse events often limit patient adherence. Topical finasteride 0.25% has emerged as a promising alternative to minimize systemic exposure while maintaining local efficacy.\n\nOBJECTIVES: To evaluate the effectiveness and safety of topical finasteride 0.25% as monotherapy in male patients with AGA over 52 weeks in a real-world setting.\n\nMETHODS: A retrospective observational study was conducted at the Dermatology Unit of the University of Turin. Medical records of male patients treated with topical finasteride 0.25% monotherapy between April 2022 and November 2025 were reviewed. 123 adult men with AGA were included. Patients were evaluated at baseline (T0) and after 52 weeks (T52) using standardized clinical photography and videodermoscopy (VIDIX system), with paired intra-patient comparisons. Efficacy was assessed via trichoscopic changes in Total Hair Number (THN). Secondary outcomes included hair shaft thickness (HST), terminal-to-vellus hair ratio, Physician Global Assessment (PGA), patient-reported outcomes, and safety.\n\nRESULTS: A total of 123 male patients (mean age 32.4 ± 8.1 years) were included. At 52 weeks, significant increases in THN were observed in both the vertex (+21.8 hairs/cm2; P < 0.001) and temporal regions (+29.4 hairs/cm2; P < 0.001). Significant improvements were also noted in HST and the terminal-to-vellus ratio. The treatment was well tolerated; 7.3% of patients reported mild, transient local irritation. No systemic adverse events related to sexual function or mood were reported.\n\nCONCLUSIONS: Topical finasteride 0.25% monotherapy demonstrates sustained clinical efficacy and a favorable safety profile after one year of treatment. These findings support its use as a viable therapeutic option for male AGA, particularly for patients reluctant to undergo systemic therapy.",
     "article_link": "https://pubmed.ncbi.nlm.nih.gov/42546161/",
@@ -388,15 +382,13 @@
     "date": "2026-07-24",
     "journal": "Clinical and experimental dermatology",
     "doi": "10.1093/ced/llag099",
-    "topic": "АГА — лекарства",
-    "topic_key": "aga_drugs",
+    "topic": "АГА",
+    "topic_key": "aga",
     "topic_keys": [
-      "aga_drugs",
-      "aga_diagnosis"
+      "aga"
     ],
     "topics": [
-      "АГА — лекарства",
-      "АГА — диагностика"
+      "АГА"
     ],
     "abstract_en": "BACKGROUND: Antiandrogen therapy is a cornerstone in managing female pattern hair loss (FPHL), yet comparative efficacy data between commonly used agents such as spironolactone and bicalutamide are limited.\n\nOBJECTIVES: To compare the efficacy and safety of bicalutamide (50 mg day-1) vs. spironolactone (100 mg day-1) monotherapy in women with FPHL.\n\nMETHODS: This randomized, double-blind, parallel-group clinical trial was conducted at a tertiary care centre in India between February 2024 and March 2025. In total, 204 women aged 18-50 years with Sinclair grade II-V FPHL were randomized. Participants received either spironolactone 100 mg day-1 or bicalutamide 50 mg day-1 orally for 24 weeks. Trichoscopic assessments were performed at baseline and 24 weeks. Primary outcomes were changes in hair density and shaft diameter at two fixed scalp points [12 cm (frontal) and 24 cm (vertex) from the glabella]. Secondary outcomes included global photographic assessment, reduction in Sinclair hair shedding score and safety profile. The trial was registered with the Clinical Trials Registry of India (CTRI/2024/01/062101).\n\nRESULTS: Of 204 randomized participants, 188 (92.2%) completed the trial. The mean (SD) increase in hair count at the frontal site was 5.05 (3.61) hairs cm-2 in the bicalutamide group vs. 3.13 (2.62) hairs cm-2 in the spironolactone group [mean difference 1.92; 95% confidence interval (CI) 1.01-2.62; P < 0.001]. At the vertex site, the increase was 6.32 (9.38) vs. 3.06 (10.76) hairs cm-2, respectively (mean difference 3.26; 95% CI 0.35-6.08; P = 0.028). Hair shaft diameter increased more with bicalutamide at both sites [mean difference 2.87 μm; 95% CI 2.12-3.32 (frontal) and 2.10-3.36 μm (vertex); P < 0.001 for both]. Adverse events were reported in 18.6% of spironolactone-treated and 11.7% of bicalutamide-treated participants.\n\nCONCLUSIONS: Bicalutamide produced greater trichoscopic improvements than spironolactone; however, no significant between-group differences were observed in clinical endpoints. Limitations include a short follow-up period, single-centre design and per-protocol analysis, which may limit generalizability.",
     "article_link": "https://pubmed.ncbi.nlm.nih.gov/41742379/",
@@ -435,13 +427,13 @@
     "date": "2026-07-20",
     "journal": "Skin appendage disorders",
     "doi": "10.1159/000553568",
-    "topic": "АГА — лекарства",
-    "topic_key": "aga_drugs",
+    "topic": "АГА",
+    "topic_key": "aga",
     "topic_keys": [
-      "aga_drugs"
+      "aga"
     ],
     "topics": [
-      "АГА — лекарства"
+      "АГА"
     ],
     "abstract_en": "BACKGROUND: Female pattern hair loss (FPHL) is the most common cause of hair loss in women, yet therapeutic responses remain highly variable. A substantial proportion of patients experience persistent hair thinning or limited hair density improvement despite standard therapies, and current guidelines provide limited guidance for managing patients with poor therapeutic response.\n\nSUMMARY: This review summarizes the major determinants of poor therapeutic response in FPHL, including pharmacogenetic factors, metabolic and endocrine comorbidities, treatment-related barriers, and advanced follicular miniaturization. Emerging evidence suggests that androgen receptor (AR) polymorphisms may influence antiandrogen responsiveness, whereas sulfotransferase (SULT1A1) activity may affect topical minoxidil efficacy. Obesity-related insulin resistance and polycystic ovary syndrome may further impair the follicular microenvironment through hyperandrogenism and chronic inflammation. Based on current evidence, we propose a practical three-step framework for evaluating poor responders: exclusion of pseudo-nonresponse, identification of metabolic-endocrine comorbidities, and incorporation of emerging biomarkers to support individualized treatment selection.\n\nKEY MESSAGES: Poor therapeutic response in FPHL is multifactorial. Identifying the dominant contributing factor rather than simply escalating treatment intensity may facilitate precision management and improve outcomes in refractory patients.",
     "article_link": "https://pubmed.ncbi.nlm.nih.gov/42631326/",
@@ -491,15 +483,13 @@
     "date": "2026-07-17",
     "journal": "The Journal of dermatological treatment",
     "doi": "10.1080/09546634.2025.2583849",
-    "topic": "АГА — лекарства",
-    "topic_key": "aga_drugs",
+    "topic": "АГА",
+    "topic_key": "aga",
     "topic_keys": [
-      "aga_drugs",
-      "aga_diagnosis"
+      "aga"
     ],
     "topics": [
-      "АГА — лекарства",
-      "АГА — диагностика"
+      "АГА"
     ],
     "abstract_en": "BACKGROUND: Androgenetic alopecia (AGA) is the most common type of hair loss in men. Finasteride and dutasteride are oral 5-alpha-reductase inhibitors. This study compared their efficacy and safety in Iranian men with moderate to severe AGA.\n\nMETHODS: This randomized single-blind clinical trial included 46 men aged 20-50 years. Patients received finasteride 1 mg daily or dutasteride 0.5 mg daily for 24 weeks. Hair density and thickness were measured by trichoscopy and photographs. Satisfaction was recorded with a visual analog scale (VAS). Adverse effects were documented.\n\nRESULTS: Both groups improved in hair growth after 24 weeks with no significant difference. Serum PSA fell in the dutasteride group from 0.63 ± 0.18 to 0.42 ± 0.22 (p < 0.001). No significant change appeared in the finasteride group. Dutasteride produced greater PSA reduction than finasteride (B = 0.17, p < 0.01). Age had no effect on PSA (p = 0.58). VAS scores showed no difference. Safety profiles were similar. Sexual side effects were most common, with erectile dysfunction more frequent in the finasteride group. No serious events occurred.\n\nCONCLUSION: Finasteride and dutasteride improved hair density with similar safety. Dutasteride caused stronger PSA reduction, suggesting more potent 5-alpha-reductase inhibition.",
     "article_link": "https://pubmed.ncbi.nlm.nih.gov/42466626/",
@@ -548,15 +538,13 @@
     "date": "2026-06-18",
     "journal": "Frontiers in medicine",
     "doi": "10.3389/fmed.2026.1787706",
-    "topic": "АГА — лекарства",
-    "topic_key": "aga_drugs",
+    "topic": "АГА",
+    "topic_key": "aga",
     "topic_keys": [
-      "aga_drugs",
-      "aga_diagnosis"
+      "aga"
     ],
     "topics": [
-      "АГА — лекарства",
-      "АГА — диагностика"
+      "АГА"
     ],
     "abstract_en": "INTRODUCTION: 5α-reductase inhibitors (5-ARIs) are most commonly used to treat benign prostatic hyperplasia (BPH) and androgenetic alopecia (AGA). Preclinical and clinical studies suggest that in patients with AGA treated with 5-ARIs, a subset reports sexual adverse events, including decreased libido, erectile dysfunction, and ejaculatory disorders. This review explores the development of sexual dysfunction in patients with androgenetic alopecia due to the use of 5-ARIs, emphasizing their importance in the clinical diagnosis of health disorders coexisting with hair loss.\n\nMETHODS: A systematic review was conducted by searching electronic databases, including MEDLINE, Scopus, Web of Science and Google Scholar, according to the PRISMA guidelines. The search was limited to articles published in English and up to December 2025. Key search terms included \"5α-reductase inhibitors\" or \"5-ARIs\" or \"finasteride\" or \"dutasteride\" AND \"side effects\" or \"sexual side effects\" or \"sexual\" or \"sexual dysfunction\" AND \"androgenetic alopecia\" or \"male pattern hair loss\" or \"female pattern hair loss.\" Data synthesis included findings from 41 studies, comprising 33 primary-evidence studies in AGA/MPHL/FPHL populations and 8 supporting-evidence studies providing pharmacokinetic, mixed-indication, or comparative context.\n\nRESULTS: 5-ARIs are effective therapies for androgenetic alopecia and are generally well tolerated. Across placebo-controlled RCTs evaluating oral finasteride 1 mg in men with AGA, sexual adverse events were reported in 1.9-6.7% of treated patients compared with 0.9-3.9% in placebo groups, with most events mild and reversible upon discontinuation. Topical finasteride 0.25% was associated with lower rates of sexual adverse events (2.8%) compared with oral finasteride (4.8%). For dutasteride 0.5 mg, sexual adverse events ranged from 4.1 to 12.0% across RCTs, compared with 4.0-5.0% in placebo groups. No sexual adverse effects were consistently reported in women treated with 5-ARIs for AGA. In most reports, the effects were transient and reversible after discontinuation.\n\nCONCLUSION: Overall, clinicians should counsel patients that most sexual side effects reported in controlled AGA studies are infrequent, mild, and reversible, but individual susceptibility varies. Shared decision-making, careful monitoring of sexual function, and further high-quality long-term studies-using standardized definitions of sexual dysfunction and persistence-are needed to quantify risks better and identify vulnerable subgroups.",
     "article_link": "https://pubmed.ncbi.nlm.nih.gov/42396141/",
@@ -618,13 +606,13 @@
     "date": "2026-05-21",
     "journal": "Aesthetic plastic surgery",
     "doi": "10.1007/s00266-026-05872-6",
-    "topic": "АГА — лекарства",
-    "topic_key": "aga_drugs",
+    "topic": "АГА",
+    "topic_key": "aga",
     "topic_keys": [
-      "aga_drugs"
+      "aga"
     ],
     "topics": [
-      "АГА — лекарства"
+      "АГА"
     ],
     "abstract_en": "BACKGROUND: This study explored the efficacy of different medications for the treatment of androgenetic alopecia by using network meta-analysis.\n\nMETHODS: The search of PubMed, Embase, web of science, Cochrane library databases for randomized controlled studies on drug treatment of androgenetic alopecia was conducted from database creation to November 1, 2024, using risk of bias for quality assessment, R4.4.1 and Stata15 for Data analysis.\n\nRESULT: A total of 27 articles (n = 3012) were included in the analysis. The results indicated that in terms of efficacy, Minoxidil_spironolactone ranked highest, followed by Minoxidil_flutamide, Minoxidil_finasteride, and Placebo. SUCRA-based rankings suggest that Minoxidil_spironolactone is most likely the most effective, but these estimates should be interpreted cautiously due to limited study numbers and inherent uncertainty in the network. Regarding hair density, no significant differences were found between the interventions. In terms of hair count, PRPF_Minoxidil ranked highest, followed by PRPF, Dutasteride, and Placebo, with the same caution regarding the uncertainty of SUCRA-based rankings.\n\nCONCLUSION: Based on the current studies, we found that the combination of Minoxidil with spironolactone, PRPF, flutamide, and finasteride may offer better treatment outcomes for patients with androgenetic alopecia. However, due to the limitations of the existing research, more high-quality, multi-center studies are needed to support our viewpoint.\n\nLEVEL OF EVIDENCE I: This journal requires that authors assign a level of evidence to each article. For a full description of these Evidence-Based Medicine ratings, please refer to the Table of Contents or the online Instructions to Authors www.springer.com/00266 .",
     "article_link": "https://pubmed.ncbi.nlm.nih.gov/42168420/",
@@ -660,13 +648,13 @@
     "date": "2026-05-16",
     "journal": "Actas dermo-sifiliograficas",
     "doi": "10.1016/j.ad.2026.104687",
-    "topic": "АГА — лекарства",
-    "topic_key": "aga_drugs",
+    "topic": "АГА",
+    "topic_key": "aga",
     "topic_keys": [
-      "aga_drugs"
+      "aga"
     ],
     "topics": [
-      "АГА — лекарства"
+      "АГА"
     ],
     "abstract_en": "Androgenetic alopecia (AGA) is characterized by a progressive reduction in hair density, typically following a defined pattern. By the age of 70 years or older, 80% of White men and up to 40% of women show signs of AGA, with a substantial impact on mental health and quality of life, particularly among women. Currently, treatments approved by American and European regulatory agencies have demonstrated safety and efficacy in the management of this condition. However, several additional therapies have also shown effectiveness, although the absence of randomized clinical trials has limited their inclusion in the Summary of Product Characteristics (SmPC). Therefore, this review aims to summarize currently available treatments and propose a practical management algorithm to help clinicians select the most appropriate therapy for each patient according to clinical experience and disease severity.",
     "article_link": "https://pubmed.ncbi.nlm.nih.gov/42144229/",
@@ -705,13 +693,13 @@
     "date": "2026-05-14",
     "journal": "Journal of the American Academy of Dermatology",
     "doi": "10.1016/j.jaad.2026.05.020",
-    "topic": "АГА — лекарства",
-    "topic_key": "aga_drugs",
+    "topic": "АГА",
+    "topic_key": "aga",
     "topic_keys": [
-      "aga_drugs"
+      "aga"
     ],
     "topics": [
-      "АГА — лекарства"
+      "АГА"
     ],
     "abstract_en": "BACKGROUND: Transgender people receiving testosterone may experience androgenetic alopecia. Treatments such as 5α-reductase inhibitors can interfere with masculinization.\n\nOBJECTIVE: To assess the efficacy and safety of sublingual minoxidil in the treatment of mild androgenetic alopecia in transgender people receiving full-dose testosterone therapy.\n\nMETHODS: Participants were randomized 1:1 to receive either sublingual minoxidil 1.35 mg twice daily or placebo for 24 weeks; all received sublingual minoxidil 2.5 mg twice daily in an open-label extension phase. Tattoo-directed phototrichograms were performed. Co-primary endpoints were change in midfrontal and vertex target area hair count.\n\nRESULTS: Forty-six participants were randomized (23 per arm). At Week 24, midfrontal target area hair count improved by +15.7 hairs/cm2 with minoxidil vs placebo (P = .03) but no difference observed in the vertex. In the exploratory open-label phase, net midfrontal improvement from Week 0 to 48 was +12.3 hairs/cm2 (P = .02) and significant gains in the vertex occurred by Week 48 compared to baseline (+37.9 hairs/cm2, P = .009). Minoxidil was well tolerated, with no effect on testosterone concentrations or serious adverse events.\n\nLIMITATIONS: Mild baseline androgenetic alopecia may have reduced detection of change in global photographs and quality-of-life scores.\n\nCONCLUSIONS: Sublingual minoxidil was an effective and well tolerated option in this population for promoting hair growth in trans people receiving testosterone.",
     "article_link": "https://pubmed.ncbi.nlm.nih.gov/42140362/",
@@ -765,13 +753,13 @@
     "date": "2026-05-01",
     "journal": "Reproductive toxicology (Elmsford, N.Y.)",
     "doi": "10.1016/j.reprotox.2026.109257",
-    "topic": "АГА — лекарства",
-    "topic_key": "aga_drugs",
+    "topic": "АГА",
+    "topic_key": "aga",
     "topic_keys": [
-      "aga_drugs"
+      "aga"
     ],
     "topics": [
-      "АГА — лекарства"
+      "АГА"
     ],
     "abstract_en": "Androgenic alopecia (AGA), commonly known as male pattern baldness (MPB), affects a significant portion of the population, with impacts on self-esteem and quality of life. 5-alpha reductase inhibitors, including finasteride and dutasteride, are widely used treatments that increase hair density by reducing dihydrotestosterone levels. However, their effects on reproductive health remain a concern, particularly in men of reproductive age. This narrative review synthesizes current clinical and experimental evidence on the reproductive effects of 5-alpha reductase inhibitors. Relevant studies were identified through a review of published literature, including randomized controlled trials, observational studies, and mechanistic investigations. Outcomes of interest included sperm parameters, hormonal profiles, sexual function, and potential long-term reproductive effects. Across studies, finasteride and dutasteride were associated with reductions in sperm count (34% with finasteride, 29% with dutasteride), sperm concentration, and motility. Hormonal alterations included, increased testosterone levels, and variable changes in dihydrotestosterone, estradiol, progesterone and androstenedione levels. Findings related to sexual dysfunction were variable, with some demonstrating persistent decreased libido, erectile dysfunction, and reduced penile sensitivity, months to years after discontinuation. Mechanistic studies in rodents revealed significant reductions in the expression of genes critical to spermatogenesis (Dazl, Prm2, Sycp3, Tsga10) and alterations in penile tissue contractility and nitric oxide synthase signaling, providing potential explanations for these reproductive effects. Overall, while 5-alpha reductase inhibitors are effective treatments for AGA, they may adversely affect reproductive parameters in a subset of patients. While current evidence focuses primarily on single drug regimens, the growing use of combination therapies targeting multiple 5-alpha reductase isotypes raises the potential for additive or synergistic reproductive effects. Given the variability in outcomes and limited long-term data, further research is needed to better characterize these risks, particularly in younger populations and with combination therapies.",
     "article_link": "https://pubmed.ncbi.nlm.nih.gov/42069234/",
@@ -814,13 +802,13 @@
     "date": "2026-04-15",
     "journal": "Journal of the American Academy of Dermatology",
     "doi": "10.1016/j.jaad.2026.04.019",
-    "topic": "АГА — лекарства",
-    "topic_key": "aga_drugs",
+    "topic": "АГА",
+    "topic_key": "aga",
     "topic_keys": [
-      "aga_drugs"
+      "aga"
     ],
     "topics": [
-      "АГА — лекарства"
+      "АГА"
     ],
     "abstract_en": "",
     "article_link": "https://pubmed.ncbi.nlm.nih.gov/41990955/",
@@ -851,13 +839,13 @@
     "date": "2026-04-09",
     "journal": "The journal of sexual medicine",
     "doi": "10.1093/jsxmed/qdag113",
-    "topic": "АГА — лекарства",
-    "topic_key": "aga_drugs",
+    "topic": "АГА",
+    "topic_key": "aga",
     "topic_keys": [
-      "aga_drugs"
+      "aga"
     ],
     "topics": [
-      "АГА — лекарства"
+      "АГА"
     ],
     "abstract_en": "",
     "article_link": "https://pubmed.ncbi.nlm.nih.gov/42015400/",
@@ -899,15 +887,13 @@
     "date": "2026-02-16",
     "journal": "Frontiers in medicine",
     "doi": "10.3389/fmed.2026.1751116",
-    "topic": "АГА — лекарства",
-    "topic_key": "aga_drugs",
+    "topic": "АГА",
+    "topic_key": "aga",
     "topic_keys": [
-      "aga_drugs",
-      "aga_diagnosis"
+      "aga"
     ],
     "topics": [
-      "АГА — лекарства",
-      "АГА — диагностика"
+      "АГА"
     ],
     "abstract_en": "INTRODUCTION: Androgenetic alopecia is a common progressive hair loss disorder that affects quality of life and often prompts long-term medical management. Oral minoxidil and oral dutasteride are widely used treatments, yet comparative data on their early clinical and microscopic effects remain limited. This study examined six-month changes in clinical severity and regional hair characteristics in men receiving different doses of oral minoxidil or oral dutasteride.\n\nMETHODS: Men with clinically confirmed androgenetic alopecia received oral dutasteride 0.5 milligrams daily or oral minoxidil at doses of 1, 2.5, or 5 milligrams daily, with treatment selection guided by clinical judgment and patient preference. Standardized clinical staging and trichoscopic imaging of the fronto-parietal, temporal, and occipital scalp regions were performed at baseline, 3 months, and 6 months. Outcomes included changes in clinical severity and region-specific measures of hair density, hair shaft diameter, and follicular unit composition.\n\nRESULTS: Sixty-seven participants were enrolled, and forty-six completed the six-month assessment. Across the oral minoxidil groups, improvements in clinical severity scores were observed, whereas no statistically significant change was detected in the oral dutasteride group over the same period. Trichoscopic changes were generally modest across all treatment regimens, with no group demonstrating significant increases in total hair density. Selective, region- and dose-specific structural changes were noted, including a higher proportion of thicker hairs in the fronto-parietal region with oral dutasteride and increased hair shaft diameter in the occipital region with low-dose oral minoxidil. However, these findings were limited in scope and did not correspond to broad improvements across trichoscopic parameters.\n\nDISCUSSION: In this exploratory, non-randomized clinical trial, oral minoxidil was associated with short-term improvements in clinical severity, while oral dutasteride did not demonstrate measurable early clinical change within the six-month follow-up. Trichoscopic findings were limited and did not consistently parallel clinical outcomes, suggesting that early therapeutic effects in routine practice may be more readily captured by clinical staging than by regional microscopic assessment. These observations should be interpreted cautiously given the study design and sample size, and they warrant confirmation in larger, randomized studies with longer follow-up.",
     "article_link": "https://pubmed.ncbi.nlm.nih.gov/41836936/",
@@ -956,13 +942,13 @@
     "date": "2025-10-21",
     "journal": "American journal of clinical dermatology",
     "doi": "10.1007/s40257-025-00990-4",
-    "topic": "АГА — лекарства",
-    "topic_key": "aga_drugs",
+    "topic": "АГА",
+    "topic_key": "aga",
     "topic_keys": [
-      "aga_drugs"
+      "aga"
     ],
     "topics": [
-      "АГА — лекарства"
+      "АГА"
     ],
     "abstract_en": "Low-dose oral minoxidil has gained recognition as an off-label treatment for hair loss disorders, including androgenetic alopecia, telogen effluvium, and alopecia areata. Originally developed to treat hypertension, its hair growth-promoting effects are attributed to multiple mechanisms: primarily through direct KATP channel activation in dermal papilla cells, with additional effects from Wnt/β-catenin signaling, enhanced cysteine incorporation, and modulation of inflammatory and androgenic pathways. Clinical studies demonstrate comparable efficacy to topical minoxidil, with the added advantages of improved adherence, lower cost, and reduced application-related side effects. Common adverse effects include dose-dependent hypertrichosis (24% incidence), transient shedding (16-22%), and mild peripheral edema (2%), while serious complications, including pericardial effusion, are rare at doses used for alopecia. International Delphi consensus supports standardized dosing: 1.25 mg/day starting dose for women (range 0.625-5 mg/day) and 2.5 mg/day for men (range 1.25-5 mg/day), with lower doses recommended for adolescents and caution advised in renal/hepatic impairment. Contraindications include pericardial disease, uncontrolled hypertension, and pregnancy. While current evidence supports its safety and efficacy, further research is needed to establish long-term outcomes and optimal use in pediatric populations. With appropriate monitoring, oral minoxidil represents a promising therapeutic option in the management of hair loss disorders.",
     "article_link": "https://pubmed.ncbi.nlm.nih.gov/41118052/",
@@ -1015,13 +1001,13 @@
     "date": "2025-09-15",
     "journal": "Journal of the American Academy of Dermatology",
     "doi": "10.1016/j.jaad.2025.09.031",
-    "topic": "АГА — лекарства",
-    "topic_key": "aga_drugs",
+    "topic": "АГА",
+    "topic_key": "aga",
     "topic_keys": [
-      "aga_drugs"
+      "aga"
     ],
     "topics": [
-      "АГА — лекарства"
+      "АГА"
     ],
     "abstract_en": "",
     "article_link": "https://pubmed.ncbi.nlm.nih.gov/40962189/",
@@ -1059,13 +1045,13 @@
     "date": "2025-09-01",
     "journal": "Journal of the American Academy of Dermatology",
     "doi": "10.1016/j.jaad.2025.08.079",
-    "topic": "АГА — лекарства",
-    "topic_key": "aga_drugs",
+    "topic": "АГА",
+    "topic_key": "aga",
     "topic_keys": [
-      "aga_drugs"
+      "aga"
     ],
     "topics": [
-      "АГА — лекарства"
+      "АГА"
     ],
     "abstract_en": "",
     "article_link": "https://pubmed.ncbi.nlm.nih.gov/40902655/",
@@ -1113,13 +1099,13 @@
     "date": "2025-03-17",
     "journal": "Chinese medical journal",
     "doi": "10.1097/CM9.0000000000003495",
-    "topic": "АГА — лекарства",
-    "topic_key": "aga_drugs",
+    "topic": "АГА",
+    "topic_key": "aga",
     "topic_keys": [
-      "aga_drugs"
+      "aga"
     ],
     "topics": [
-      "АГА — лекарства"
+      "АГА"
     ],
     "abstract_en": "BACKGROUND: Topical finasteride is a novel treatment for men with androgenetic alopecia (AGA). This study aimed to evaluate the efficacy and safety of topical finasteride spray solution in Chinese men with AGA.\n\nMETHODS: This randomized, double-blind, placebo-controlled, phase III trial enrolled 270 individuals with AGA from 16 sites across China between December 2021 and March 2023. The participants were randomized at a ratio of 2:1 to receive either topical finasteride or placebo treatment once daily for 24 weeks. The primary endpoint was the change from baseline in target area (0.903 cm 2 area) hair count at week 24. The secondary endpoints were change from baseline in target area hair count at week 12, target area terminal hair count at weeks 12 and 24, target area terminal hair width at week 24, and target area hair width at week 24; an improvement of vertex hair growth assessed by the investigator at week 24; and the patient-assessed scores on the Male Hair Growth Questionnaire at week 24.\n\nRESULTS: A total of 270 individuals were enrolled and randomized, and 251 completed the study (165 in topical finasteride group, 86 in placebo group). Compared with the placebo group, in the topical finasteride group, the change from baseline in target area hair count was significantly higher at week 24 ( P  <0.05), although it was only numerically higher at week 12 ( P  = 0.0688). Significant differences favoring topical finasteride over placebo were observed for change from baseline in target area terminal hair count at weeks 12 ( P  <0.05) and 24 ( P  <0.01). The improvement of vertex hair growth assessed by the investigator was significantly greater in the topical finasteride group vs. the placebo group at week 24 ( P  <0.01). Topical finasteride was generally safe and well-tolerated.\n\nCONCLUSIONS: In Chinese men with AGA, topical finasteride spray solution increased hair growth and showed good safety and tolerability profile during a 24-week treatment period.\n\nCLINICAL TRIAL REGISTRATION: ClinicalTrials.gov identifier: NCT05135468.",
     "article_link": "https://pubmed.ncbi.nlm.nih.gov/40090937/",
