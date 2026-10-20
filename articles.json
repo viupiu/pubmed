@@ -174,67 +174,6 @@
   },
   {
     "id": 4,
-    "pmid": "42546161",
-    "source": "PubMed",
-    "article": "Long-term effectiveness and safety of topical finasteride 0.25% monotherapy in male androgenetic alopecia: a 52-week real-world retrospective study.",
-    "authors": [
-      "Gallo Giuseppe",
-      "Mastorino Luca",
-      "Quaglino Pietro",
-      "Ribero Simone"
-    ],
-    "date": "2026-08-03",
-    "journal": "Clinical and experimental dermatology",
-    "doi": "10.1093/ced/llag333",
-    "topic": "АГА",
-    "topic_key": "aga",
-    "topic_keys": [
-      "aga"
-    ],
-    "topics": [
-      "АГА"
-    ],
-    "abstract_en": "BACKGROUND: Oral finasteride is a cornerstone in the treatment of male androgenetic alopecia (AGA), yet concerns regarding systemic adverse events often limit patient adherence. Topical finasteride 0.25% has emerged as a promising alternative to minimize systemic exposure while maintaining local efficacy.\n\nOBJECTIVES: To evaluate the effectiveness and safety of topical finasteride 0.25% as monotherapy in male patients with AGA over 52 weeks in a real-world setting.\n\nMETHODS: A retrospective observational study was conducted at the Dermatology Unit of the University of Turin. Medical records of male patients treated with topical finasteride 0.25% monotherapy between April 2022 and November 2025 were reviewed. 123 adult men with AGA were included. Patients were evaluated at baseline (T0) and after 52 weeks (T52) using standardized clinical photography and videodermoscopy (VIDIX system), with paired intra-patient comparisons. Efficacy was assessed via trichoscopic changes in Total Hair Number (THN). Secondary outcomes included hair shaft thickness (HST), terminal-to-vellus hair ratio, Physician Global Assessment (PGA), patient-reported outcomes, and safety.\n\nRESULTS: A total of 123 male patients (mean age 32.4 ± 8.1 years) were included. At 52 weeks, significant increases in THN were observed in both the vertex (+21.8 hairs/cm2; P < 0.001) and temporal regions (+29.4 hairs/cm2; P < 0.001). Significant improvements were also noted in HST and the terminal-to-vellus ratio. The treatment was well tolerated; 7.3% of patients reported mild, transient local irritation. No systemic adverse events related to sexual function or mood were reported.\n\nCONCLUSIONS: Topical finasteride 0.25% monotherapy demonstrates sustained clinical efficacy and a favorable safety profile after one year of treatment. These findings support its use as a viable therapeutic option for male AGA, particularly for patients reluctant to undergo systemic therapy.",
-    "article_link": "https://pubmed.ncbi.nlm.nih.gov/42546161/",
-    "pmc_link": "",
-    "html_available": false,
-    "html_link": "",
-    "title_ru": "Долгосрочная эффективность и безопасность местного финастерида 0,25% при мужской андрогенетической алопеции: результаты наблюдения в течение 52 недель",
-    "summary": "В ретроспективном наблюдательном исследовании оценили эффективность и безопасность монотерапии местным финастеридом 0,25% у 123 взрослых мужчин с андрогенетической алопецией; средний возраст участников составил 32,4 года. Через 52 недели общее количество волос на квадратный сантиметр значимо увеличилось в теменной области на 21,8 волоса, а в височных областях — на 29,4 волоса; также улучшились толщина волос и соотношение терминальных и пушковых волос. У 7,3% участников отмечалось лёгкое преходящее местное раздражение, а системных нежелательных явлений, связанных с сексуальной функцией или настроением, не зарегистрировали. Исследование основано на ретроспективных данных и не позволяет надёжно установить сравнительную эффективность препарата или исключить редкие системные побочные эффекты.",
-    "practical_use": "На приёме можно обсудить местный финастерид как возможный вариант монотерапии для мужчин с андрогенетической алопецией, особенно если пациент не хочет принимать препарат внутрь из-за опасений по поводу системных нежелательных эффектов. Следует объяснить, что результаты получены в ретроспективном исследовании без указанной контрольной группы, а отсутствие зарегистрированных сексуальных и психических побочных эффектов не доказывает полного отсутствия таких рисков. При выборе лечения необходимо отдельно обсудить возможные местные реакции и ограничения имеющихся данных.",
-    "patient_plain": "В исследовании у мужчин с наследственным поредением волос применение финастерида в форме средства для нанесения на кожу головы в течение года сопровождалось увеличением количества волос и улучшением их толщины. У небольшой части участников возникало лёгкое раздражение кожи, которое проходило самостоятельно; побочных эффектов, связанных с сексуальной функцией или настроением, исследователи не зарегистрировали. Однако исследование не доказывает, что местный препарат полностью исключает системные риски или подходит каждому пациенту.",
-    "_reason": "Работа даёт количественные данные об изменении плотности волос за год применения местного финастерида в реальной клинической практике, что полезно при обсуждении вариантов лечения мужской андрогенетической алопеции. Практическая ценность ограничена ретроспективным дизайном, отсутствием описанной контрольной группы и тем, что отсутствие зарегистрированных системных нежелательных явлений не гарантирует их отсутствия в более широкой популяции.",
-    "why_read": "Статья полезна дерматологам и трихологам, которые обсуждают с пациентами местный финастерид как альтернативу системной терапии. Пациентам, опасающимся системных побочных эффектов, она поможет понять, какие результаты и нежелательные явления наблюдались за год, но не заменяет индивидуальную оценку рисков.",
-    "limitations": [
-      "A retrospective observational study",
-      "Medical records of male patients treated with topical finasteride 0.25% monotherapy",
-      "123 adult men with AGA were included.",
-      "Patients were evaluated at baseline (T0) and after 52 weeks (T52)"
-    ],
-    "advice_items": [
-      {
-        "quote": "Patients were evaluated at baseline (T0) and after 52 weeks (T52) using standardized clinical photography and videodermoscopy (VIDIX system), with paired intra-patient comparisons.",
-        "advice": "При оценке динамики лечения полезно сопоставлять стандартизированные фотографии кожи головы и данные трихоскопии, полученные в сопоставимых условиях. Такой подход помогает объективнее оценивать изменения плотности и характеристик волос, а не полагаться только на субъективные впечатления пациента. В исследовании сравнивали исходные данные с результатами через 52 недели, поэтому оно не определяет оптимальную частоту промежуточных осмотров.",
-        "audience": "врач"
-      },
-      {
-        "quote": "The treatment was well tolerated; 7.3% of patients reported mild, transient local irritation.",
-        "advice": "При обсуждении местного финастерида следует предупредить пациента о возможности раздражения кожи головы. В этом исследовании такая реакция отмечалась у 7,3% участников и описывалась как лёгкая и преходящая. При появлении выраженных или сохраняющихся симптомов пациенту следует обратиться к врачу для оценки реакции и дальнейшей тактики.",
-        "audience": "врач"
-      },
-      {
-        "quote": "No systemic adverse events related to sexual function or mood were reported.",
-        "advice": "Пациенту можно сообщить, что в этой группе за период наблюдения не зарегистрировали системных нежелательных явлений, связанных с сексуальной функцией или настроением. Важно уточнить, что результат небольшого ретроспективного исследования не означает, что подобные эффекты невозможны. Не следует самостоятельно начинать или менять лечение только на основании этих данных.",
-        "audience": "пациент"
-      }
-    ],
-    "importance_stars": 5,
-    "importance_mark": "★★★★★",
-    "take": "keep",
-    "audience_sex": "men"
-  },
-  {
-    "id": 5,
     "pmid": "41742379",
     "source": "PubMed",
     "article": "Spironolactone vs. bicalutamide in female pattern hair loss: a randomized clinical trial.",
@@ -279,7 +218,7 @@
     "audience_sex": "women"
   },
   {
-    "id": 6,
+    "id": 5,
     "pmid": "42631326",
     "source": "PubMed",
     "article": "Poor Therapeutic Response in Female Pattern Hair Loss: Mechanisms and a Practical Framework for Clinical Management.",
@@ -336,65 +275,7 @@
     "audience_sex": "women"
   },
   {
-    "id": 7,
-    "pmid": "42466626",
-    "source": "PubMed",
-    "article": "Efficacy and safety of oral finasteride versus dutasteride in moderate-to-severe androgenetic alopecia in males based on trichoscopic and laboratory findings: a clinical comparison in Iran.",
-    "authors": [
-      "Poostiyan Nazila",
-      "Nikyar Zahra",
-      "Makhmali Reza",
-      "Hosseini Mohsen",
-      "Shahmoradi Zabihollah"
-    ],
-    "date": "2026-07-17",
-    "journal": "The Journal of dermatological treatment",
-    "doi": "10.1080/09546634.2025.2583849",
-    "topic": "АГА",
-    "topic_key": "aga",
-    "topic_keys": [
-      "aga"
-    ],
-    "topics": [
-      "АГА"
-    ],
-    "abstract_en": "BACKGROUND: Androgenetic alopecia (AGA) is the most common type of hair loss in men. Finasteride and dutasteride are oral 5-alpha-reductase inhibitors. This study compared their efficacy and safety in Iranian men with moderate to severe AGA.\n\nMETHODS: This randomized single-blind clinical trial included 46 men aged 20-50 years. Patients received finasteride 1 mg daily or dutasteride 0.5 mg daily for 24 weeks. Hair density and thickness were measured by trichoscopy and photographs. Satisfaction was recorded with a visual analog scale (VAS). Adverse effects were documented.\n\nRESULTS: Both groups improved in hair growth after 24 weeks with no significant difference. Serum PSA fell in the dutasteride group from 0.63 ± 0.18 to 0.42 ± 0.22 (p < 0.001). No significant change appeared in the finasteride group. Dutasteride produced greater PSA reduction than finasteride (B = 0.17, p < 0.01). Age had no effect on PSA (p = 0.58). VAS scores showed no difference. Safety profiles were similar. Sexual side effects were most common, with erectile dysfunction more frequent in the finasteride group. No serious events occurred.\n\nCONCLUSION: Finasteride and dutasteride improved hair density with similar safety. Dutasteride caused stronger PSA reduction, suggesting more potent 5-alpha-reductase inhibition.",
-    "article_link": "https://pubmed.ncbi.nlm.nih.gov/42466626/",
-    "pmc_link": "",
-    "html_available": false,
-    "html_link": "",
-    "title_ru": "Сравнение эффективности и безопасности финастерида и дутастерида при умеренной и тяжёлой андрогенетической алопеции у мужчин",
-    "summary": "В рандомизированном однослепом исследовании участвовали 46 мужчин из Ирана в возрасте 20–50 лет с умеренной или тяжёлой андрогенетической алопецией. В течение 24 недель сравнивали финастерид и дутастерид по изменениям плотности и толщины волос, удовлетворённости пациентов и побочным эффектам. В обеих группах рост волос улучшился, но статистически значимых различий в эффективности и удовлетворённости не выявили; профили безопасности также были сходными. При приёме дутастерида уровень простатического специфического антигена (ПСА) снизился сильнее, а небольшая выборка и короткий период наблюдения ограничивают надёжность выводов о сравнительной безопасности.",
-    "practical_use": "На приёме результаты можно использовать для обсуждения того, что в этом исследовании дутастерид не продемонстрировал статистически значимого преимущества перед финастеридом по улучшению роста волос, хотя сильнее снижал уровень ПСА. Следует учитывать сексуальные побочные эффекты, наиболее частые среди зарегистрированных нежелательных явлений, и более частые сообщения об эректильной дисфункции в группе финастерида. Выраженное снижение ПСА на фоне дутастерида важно учитывать при интерпретации лабораторных результатов; исследование не позволяет делать окончательные выводы о долгосрочной безопасности препаратов.",
-    "patient_plain": "За 24 недели у мужчин, принимавших любой из двух препаратов, состояние волос улучшилось, и убедительной разницы между ними исследователи не обнаружили. Нежелательные эффекты в целом были похожими, чаще всего отмечались сексуальные нарушения; эректильная дисфункция чаще встречалась в группе финастерида. Дутастерид сильнее снижал уровень ПСА — лабораторного показателя, который используют при оценке состояния предстательной железы. Результаты относятся к небольшой группе мужчин и не показывают, насколько препараты различаются по долгосрочной эффективности и безопасности.",
-    "_reason": "Это прямое сравнительное рандомизированное исследование двух препаратов, применяемых при мужской андрогенетической алопеции, поэтому оно полезно для обсуждения вариантов терапии. Однако в выборке из 46 человек за 24 недели не выявлено значимого преимущества одного препарата по росту волос, а данных недостаточно для уверенных выводов о редких и долгосрочных нежелательных эффектах. Отдельно важно учитывать более выраженное снижение ПСА при применении дутастерида.",
-    "why_read": "Статья полезна дерматологам и врачам, обсуждающим с мужчинами лечение андрогенетической алопеции, особенно при сравнении финастерида и дутастерида. Её стоит прочитать для оценки результатов прямого сравнения эффективности, сексуальных побочных эффектов и изменений ПСА. При этом выводы следует соотносить с небольшим размером выборки и продолжительностью наблюдения.",
-    "limitations": [
-      "randomized single-blind clinical trial",
-      "included 46 men aged 20-50 years",
-      "for 24 weeks",
-      "with no significant difference",
-      "No serious events occurred."
-    ],
-    "advice_items": [
-      {
-        "quote": "Serum PSA fell in the dutasteride group from 0.63 ± 0.18 to 0.42 ± 0.22 (p < 0.001).",
-        "advice": "При интерпретации результатов исследования учитывайте, что на фоне дутастерида уровень ПСА статистически значимо снизился. Это изменение важно учитывать при оценке лабораторных показателей предстательной железы у пациента, принимающего препарат. Приведённые данные не устанавливают универсальных порогов для клинических решений.",
-        "audience": "врач"
-      },
-      {
-        "quote": "Sexual side effects were most common, with erectile dysfunction more frequent in the finasteride group.",
-        "advice": "При обсуждении терапии заранее проговорите возможность сексуальных побочных эффектов и уточните, возникали ли они у пациента во время лечения. Сообщите, что в этом исследовании эректильная дисфункция чаще отмечалась в группе финастерида, но небольшой размер выборки не позволяет считать это доказательством более высокого риска во всех группах пациентов.",
-        "audience": "врач"
-      }
-    ],
-    "importance_stars": 5,
-    "importance_mark": "★★★★★",
-    "take": "keep",
-    "audience_sex": "men"
-  },
-  {
-    "id": 8,
+    "id": 6,
     "pmid": "42396141",
     "source": "PubMed",
     "article": "Sexual dysfunction associated with 5α-reductase inhibitors in the treatment of androgenetic alopecia: a systematic review.",
@@ -459,7 +340,7 @@
     "audience_sex": "any"
   },
   {
-    "id": 9,
+    "id": 7,
     "pmid": "42168420",
     "source": "PubMed",
     "article": "Combination Therapy in Androgenetic Alopecia: A Network Meta-Analysis of Minoxidil and Other Pharmacological Agents.",
@@ -506,7 +387,7 @@
     "audience_sex": "any"
   },
   {
-    "id": 10,
+    "id": 8,
     "pmid": "42144229",
     "source": "PubMed",
     "article": "Androgenetic Alopecia: Narrative Review of Current Therapies and Proposal of a Practical Algorithm for Pharmacological Treatment.",
@@ -547,183 +428,7 @@
     "audience_sex": "any"
   },
   {
-    "id": 11,
-    "pmid": "42140362",
-    "source": "PubMed",
-    "article": "Treatment of androgenetic alopecia in transgender people receiving testosterone therapy with sublingual minoxidil: A randomized, double-blind, placebo-controlled clinical trial.",
-    "authors": [
-      "Tang Gia Toan",
-      "Leemaqz Shalem",
-      "Bhoyrul Bevin",
-      "Eisman Samantha",
-      "Kasprzak Michal",
-      "Sicinska Justyna",
-      "Sinclair Rodney",
-      "Cheung Ada S"
-    ],
-    "date": "2026-05-14",
-    "journal": "Journal of the American Academy of Dermatology",
-    "doi": "10.1016/j.jaad.2026.05.020",
-    "topic": "АГА",
-    "topic_key": "aga",
-    "topic_keys": [
-      "aga"
-    ],
-    "topics": [
-      "АГА"
-    ],
-    "abstract_en": "BACKGROUND: Transgender people receiving testosterone may experience androgenetic alopecia. Treatments such as 5α-reductase inhibitors can interfere with masculinization.\n\nOBJECTIVE: To assess the efficacy and safety of sublingual minoxidil in the treatment of mild androgenetic alopecia in transgender people receiving full-dose testosterone therapy.\n\nMETHODS: Participants were randomized 1:1 to receive either sublingual minoxidil 1.35 mg twice daily or placebo for 24 weeks; all received sublingual minoxidil 2.5 mg twice daily in an open-label extension phase. Tattoo-directed phototrichograms were performed. Co-primary endpoints were change in midfrontal and vertex target area hair count.\n\nRESULTS: Forty-six participants were randomized (23 per arm). At Week 24, midfrontal target area hair count improved by +15.7 hairs/cm2 with minoxidil vs placebo (P = .03) but no difference observed in the vertex. In the exploratory open-label phase, net midfrontal improvement from Week 0 to 48 was +12.3 hairs/cm2 (P = .02) and significant gains in the vertex occurred by Week 48 compared to baseline (+37.9 hairs/cm2, P = .009). Minoxidil was well tolerated, with no effect on testosterone concentrations or serious adverse events.\n\nLIMITATIONS: Mild baseline androgenetic alopecia may have reduced detection of change in global photographs and quality-of-life scores.\n\nCONCLUSIONS: Sublingual minoxidil was an effective and well tolerated option in this population for promoting hair growth in trans people receiving testosterone.",
-    "article_link": "https://pubmed.ncbi.nlm.nih.gov/42140362/",
-    "pmc_link": "",
-    "html_available": false,
-    "html_link": "",
-    "title_ru": "Сублингвальный миноксидил при андрогенетической алопеции у трансгендерных людей, получающих тестостерон: рандомизированное плацебо-контролируемое исследование",
-    "summary": "В исследовании участвовали 46 трансгендерных людей с лёгкой андрогенетической алопецией, получавших терапию тестостероном в полной дозе. В течение 24 недель сублингвальный миноксидил в дозе 1,35 мг дважды в день сравнивали с плацебо: в средней лобной области плотность волос увеличилась относительно плацебо, тогда как в области макушки значимых различий не обнаружили. В открытой фазе наблюдения до 48-й недели у участников, получавших миноксидил, улучшились показатели роста волос в обеих областях по сравнению с исходным уровнем. Препарат хорошо переносился, серьёзных нежелательных явлений и изменений концентрации тестостерона не зарегистрировали; результаты ограничены небольшой выборкой, лёгкой исходной алопецией и отсутствием плацебо-контроля в продолжении исследования.",
-    "practical_use": "На приёме результаты можно использовать для обсуждения потенциальной эффективности сублингвального миноксидила у трансгендерных пациентов, получающих тестостерон и желающих сохранить его маскулинизирующее действие. При этом следует учитывать, что рандомизированное сравнение показало преимущество только в средней лобной области, а данные по макушке получены в открытой фазе. Исследование не позволяет автоматически переносить результаты на другие группы пациентов или считать сублингвальный миноксидил стандартной терапией без индивидуальной оценки безопасности.",
-    "patient_plain": "В небольшом исследовании у трансгендерных людей, принимавших тестостерон, миноксидил под язык помог увеличить количество волос в передней части головы по сравнению с плацебо. Улучшение в области макушки обнаружили при более длительном наблюдении, когда все участники получали препарат, поэтому результат нельзя напрямую сравнить с плацебо. За время исследования серьёзных побочных эффектов и изменений уровня тестостерона не выявили. Это предварительные данные для конкретной группы пациентов, а не доказательство того, что такой способ применения подходит всем или полностью безопасен.",
-    "_reason": "Это клиническое рандомизированное исследование непосредственно изучает лечение андрогенетической алопеции у людей, получающих тестостерон, для которых влияние ингибиторов 5α-редуктазы на маскулинизацию может иметь особое значение. Результат поддерживает дальнейшее изучение сублингвального миноксидила, но небольшая выборка и отсутствие плацебо-контроля в открытой фазе ограничивают уверенность в долгосрочной эффективности. Практическая ценность высокая для соответствующей группы пациентов, но не для автоматического изменения стандартных схем лечения.",
-    "why_read": "Статья особенно полезна дерматологам и врачам, сопровождающим гендерно-аффирмативную гормональную терапию, если пациенты обращаются по поводу выпадения волос. Она помогает обсудить потенциальный вариант лечения, не вмешивающийся в концентрацию тестостерона в рамках наблюдавшихся условий. Врачам также стоит обратить внимание на различие между результатами плацебо-контролируемой и открытой фаз исследования.",
-    "limitations": [
-      "Mild baseline androgenetic alopecia may have reduced detection of change in global photographs and quality-of-life scores.",
-      "no difference observed in the vertex",
-      "exploratory open-label phase"
-    ],
-    "advice_items": [
-      {
-        "quote": "Treatments such as 5α-reductase inhibitors can interfere with masculinization.",
-        "advice": "При обсуждении лечения алопеции у трансгендерных пациентов, получающих тестостерон, необходимо учитывать, насколько выбранная терапия может повлиять на желаемую маскулинизацию. Этот вопрос следует обсуждать с пациентом до выбора препарата, сопоставляя ожидаемую пользу для волос с индивидуальными целями гормональной терапии.",
-        "audience": "врач"
-      },
-      {
-        "quote": "Co-primary endpoints were change in midfrontal and vertex target area hair count.",
-        "advice": "При оценке ответа на лечение полезно отдельно отслеживать изменения количества волос в средней лобной области и на макушке, поскольку эффект может различаться между зонами. В данном исследовании эти области оценивали с помощью фототрихограмм, направленных по татуированным ориентирам.",
-        "audience": "врач"
-      },
-      {
-        "quote": "Minoxidil was well tolerated, with no effect on testosterone concentrations or serious adverse events.",
-        "advice": "При обсуждении результатов с пациентом важно сообщать, что в этом исследовании препарат хорошо переносился и не сопровождался изменениями концентрации тестостерона или серьёзными нежелательными явлениями. Эти данные относятся к изученной группе и периоду наблюдения и не исключают индивидуальных рисков или необходимости медицинского контроля.",
-        "audience": "врач"
-      }
-    ],
-    "importance_stars": 5,
-    "importance_mark": "★★★★★",
-    "take": "keep",
-    "audience_sex": "trans"
-  },
-  {
-    "id": 12,
-    "pmid": "42069234",
-    "source": "PubMed",
-    "article": "Impact of 5-alpha reductase inhibitors on male reproductive health: A review of finasteride and dutasteride.",
-    "authors": [
-      "Quintero Tania",
-      "Gratz Ben",
-      "Pepperney Luke",
-      "Rosenstadt Jake",
-      "Gallicano G Ian"
-    ],
-    "date": "2026-05-01",
-    "journal": "Reproductive toxicology (Elmsford, N.Y.)",
-    "doi": "10.1016/j.reprotox.2026.109257",
-    "topic": "АГА",
-    "topic_key": "aga",
-    "topic_keys": [
-      "aga"
-    ],
-    "topics": [
-      "АГА"
-    ],
-    "abstract_en": "Androgenic alopecia (AGA), commonly known as male pattern baldness (MPB), affects a significant portion of the population, with impacts on self-esteem and quality of life. 5-alpha reductase inhibitors, including finasteride and dutasteride, are widely used treatments that increase hair density by reducing dihydrotestosterone levels. However, their effects on reproductive health remain a concern, particularly in men of reproductive age. This narrative review synthesizes current clinical and experimental evidence on the reproductive effects of 5-alpha reductase inhibitors. Relevant studies were identified through a review of published literature, including randomized controlled trials, observational studies, and mechanistic investigations. Outcomes of interest included sperm parameters, hormonal profiles, sexual function, and potential long-term reproductive effects. Across studies, finasteride and dutasteride were associated with reductions in sperm count (34% with finasteride, 29% with dutasteride), sperm concentration, and motility. Hormonal alterations included, increased testosterone levels, and variable changes in dihydrotestosterone, estradiol, progesterone and androstenedione levels. Findings related to sexual dysfunction were variable, with some demonstrating persistent decreased libido, erectile dysfunction, and reduced penile sensitivity, months to years after discontinuation. Mechanistic studies in rodents revealed significant reductions in the expression of genes critical to spermatogenesis (Dazl, Prm2, Sycp3, Tsga10) and alterations in penile tissue contractility and nitric oxide synthase signaling, providing potential explanations for these reproductive effects. Overall, while 5-alpha reductase inhibitors are effective treatments for AGA, they may adversely affect reproductive parameters in a subset of patients. While current evidence focuses primarily on single drug regimens, the growing use of combination therapies targeting multiple 5-alpha reductase isotypes raises the potential for additive or synergistic reproductive effects. Given the variability in outcomes and limited long-term data, further research is needed to better characterize these risks, particularly in younger populations and with combination therapies.",
-    "article_link": "https://pubmed.ncbi.nlm.nih.gov/42069234/",
-    "pmc_link": "",
-    "html_available": false,
-    "html_link": "",
-    "title_ru": "Влияние ингибиторов 5-альфа-редуктазы на мужское репродуктивное здоровье: обзор финастерида и дутастерида",
-    "summary": "Нарративный обзор обобщает клинические и экспериментальные данные о влиянии финастерида и дутастерида на репродуктивное здоровье мужчин, в том числе применяющих эти препараты для лечения андрогенетической алопеции. В рассмотренных исследованиях применение препаратов было связано со снижением количества, концентрации и подвижности сперматозоидов; также описаны изменения гормонального профиля и неоднозначные данные о сексуальной дисфункции, иногда сохраняющейся после отмены. Эксперименты на грызунах выявили изменения экспрессии генов, участвующих в сперматогенезе, и механизмов регуляции тканей полового члена. Обзор основан на разнородных исследованиях, а долгосрочные репродуктивные последствия изучены недостаточно, поэтому результаты не позволяют точно оценить индивидуальный риск.",
-    "practical_use": "При назначении финастерида или дутастерида мужчине репродуктивного возраста стоит обсудить возможное влияние на параметры спермы, сексуальную функцию и планы на отцовство. При наличии репродуктивных жалоб или беспокойства по поводу фертильности эти сведения могут стать основанием для индивидуальной оценки ситуации и обсуждения необходимости дополнительных обследований. Обзор не устанавливает конкретных схем мониторинга и не позволяет количественно определить риск для отдельного пациента.",
-    "patient_plain": "Финастерид и дутастерид помогают при андрогенетическом выпадении волос, но у некоторых мужчин могут влиять на количество и подвижность сперматозоидов, уровень гормонов и сексуальную функцию. В отдельных исследованиях сексуальные нарушения сохранялись после прекращения приёма, однако результаты неоднородны, и это не означает, что такие последствия возникнут у каждого. Если вы планируете отцовство или уже испытываете подобные проблемы, обсудите их с врачом до начала лечения или во время приёма препарата.",
-    "_reason": "Обзор важен для практики, поскольку рассматривает потенциальные репродуктивные риски двух широко применяемых препаратов для лечения андрогенетической алопеции. Он помогает обосновать информированное обсуждение фертильности и сексуальных побочных эффектов, но из-за неоднородности данных и ограниченности долгосрочных наблюдений не позволяет установить точную вероятность осложнений или сделать выводы об их неизбежности.",
-    "why_read": "Обзор стоит прочитать дерматологам и трихологам, назначающим финастерид или дутастерид мужчинам репродуктивного возраста, а также врачам, к которым обращаются пациенты с вопросами о фертильности. Он полезен для подготовки разговора о возможных рисках и неопределённости доказательств, но не заменяет клинические рекомендации и индивидуальную оценку пациента.",
-    "limitations": [
-      "This narrative review synthesizes current clinical and experimental evidence on the reproductive effects of 5-alpha reductase inhibitors.",
-      "Findings related to sexual dysfunction were variable",
-      "current evidence focuses primarily on single drug regimens",
-      "Given the variability in outcomes and limited long-term data, further research is needed"
-    ],
-    "advice_items": [],
-    "importance_stars": 5,
-    "importance_mark": "★★★★★",
-    "take": "keep",
-    "audience_sex": "men"
-  },
-  {
-    "id": 13,
-    "pmid": "41836936",
-    "source": "PubMed",
-    "article": "Comparative efficacy of oral dutasteride and low-, medium-, and high-dose oral minoxidil: a six-month prospective trichoscopic and clinical study.",
-    "authors": [
-      "Larios-Cárdenas M",
-      "Quiñones-Hernández D G",
-      "León Quintero-Loreto M",
-      "Grover-Páez F",
-      "Moreno-Alanis J A",
-      "Quiñones-Hernández R",
-      "Calderón-Quiroz E R",
-      "Carrillo-Manguart V",
-      "Alcocer-Salas M",
-      "González-Ruíz S",
-      "Ramos-Zavala M G",
-      "Cardona-Muller D",
-      "Sánchez-Dueñas L E"
-    ],
-    "date": "2026-02-16",
-    "journal": "Frontiers in medicine",
-    "doi": "10.3389/fmed.2026.1751116",
-    "topic": "АГА",
-    "topic_key": "aga",
-    "topic_keys": [
-      "aga"
-    ],
-    "topics": [
-      "АГА"
-    ],
-    "abstract_en": "INTRODUCTION: Androgenetic alopecia is a common progressive hair loss disorder that affects quality of life and often prompts long-term medical management. Oral minoxidil and oral dutasteride are widely used treatments, yet comparative data on their early clinical and microscopic effects remain limited. This study examined six-month changes in clinical severity and regional hair characteristics in men receiving different doses of oral minoxidil or oral dutasteride.\n\nMETHODS: Men with clinically confirmed androgenetic alopecia received oral dutasteride 0.5 milligrams daily or oral minoxidil at doses of 1, 2.5, or 5 milligrams daily, with treatment selection guided by clinical judgment and patient preference. Standardized clinical staging and trichoscopic imaging of the fronto-parietal, temporal, and occipital scalp regions were performed at baseline, 3 months, and 6 months. Outcomes included changes in clinical severity and region-specific measures of hair density, hair shaft diameter, and follicular unit composition.\n\nRESULTS: Sixty-seven participants were enrolled, and forty-six completed the six-month assessment. Across the oral minoxidil groups, improvements in clinical severity scores were observed, whereas no statistically significant change was detected in the oral dutasteride group over the same period. Trichoscopic changes were generally modest across all treatment regimens, with no group demonstrating significant increases in total hair density. Selective, region- and dose-specific structural changes were noted, including a higher proportion of thicker hairs in the fronto-parietal region with oral dutasteride and increased hair shaft diameter in the occipital region with low-dose oral minoxidil. However, these findings were limited in scope and did not correspond to broad improvements across trichoscopic parameters.\n\nDISCUSSION: In this exploratory, non-randomized clinical trial, oral minoxidil was associated with short-term improvements in clinical severity, while oral dutasteride did not demonstrate measurable early clinical change within the six-month follow-up. Trichoscopic findings were limited and did not consistently parallel clinical outcomes, suggesting that early therapeutic effects in routine practice may be more readily captured by clinical staging than by regional microscopic assessment. These observations should be interpreted cautiously given the study design and sample size, and they warrant confirmation in larger, randomized studies with longer follow-up.",
-    "article_link": "https://pubmed.ncbi.nlm.nih.gov/41836936/",
-    "pmc_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12979936/",
-    "html_available": true,
-    "html_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12979936/",
-    "title_ru": "Сравнение перорального дутастерида и низких, средних и высоких доз миноксидила при андрогенетической алопеции: проспективное клиническое и трихоскопическое исследование продолжительностью шесть месяцев",
-    "summary": "В проспективном нерандомизированном исследовании сравнили результаты шестимесячного применения перорального дутастерида в дозе 0,5 мг в сутки и перорального миноксидила в дозах 1, 2,5 и 5 мг в сутки у мужчин с андрогенетической алопецией. Из 67 участников шестимесячную оценку завершили 46. Во всех трёх группах миноксидила наблюдалось статистически значимое улучшение клинической степени алопеции, тогда как в группе дутастерида значимых изменений по этому показателю не обнаружили; при этом ни одна группа не показала значимого увеличения общей плотности волос по данным трихоскопии. Результаты ограничены коротким периодом наблюдения, потерей 31% участников и нерандомизированным дизайном, поэтому они не доказывают превосходство миноксидила над дутастеридом.",
-    "practical_use": "На приёме результаты помогают обсудить различия между клинической оценкой степени алопеции и количественными трихоскопическими показателями: улучшение клинической классификации не обязательно сопровождается измеримым увеличением общей плотности волос за шесть месяцев. Для мониторинга целесообразно сопоставлять стандартизированную клиническую оценку с трихоскопией одних и тех же областей кожи головы. Исследование не позволяет установить сравнительное долгосрочное преимущество препаратов или выбрать оптимальную дозу миноксидила.",
-    "patient_plain": "В исследовании у мужчин, принимавших миноксидил внутрь, за шесть месяцев улучшилась клиническая оценка выраженности облысения. У принимавших дутастерид статистически значимого изменения этой оценки за тот же период не выявили, однако по трихоскопии ни один вариант лечения не обеспечил значимого увеличения общей плотности волос. Это не означает, что дутастерид не работает в долгосрочной перспективе или что миноксидил подходит всем лучше: исследование было небольшим, неслучайным по распределению лечения и продолжалось только шесть месяцев.",
-    "_reason": "Работа полезна для практики тем, что сопоставляет клиническую классификацию андрогенетической алопеции с объективными региональными трихоскопическими измерениями и показывает, что эти показатели могут изменяться неодинаково. Однако нерандомизированный дизайн, небольшая выборка завершивших наблюдение и короткий срок не позволяют делать надёжные выводы о сравнительной эффективности препаратов. Практическая ценность заключается прежде всего в интерпретации раннего ответа на лечение и оценке ограничений методов наблюдения.",
-    "why_read": "Статья будет полезна дерматологам и трихологам, которые наблюдают мужчин с андрогенетической алопецией и оценивают результаты системной терапии. Её стоит прочитать тем, кто использует трихоскопию для контроля лечения и хочет понять, почему клиническая оценка может улучшаться без значимого изменения общей плотности волос. Для выбора препарата или дозировки исследование само по себе недостаточно.",
-    "limitations": [
-      "In this exploratory, non-randomized clinical trial",
-      "Forty-six completed the six-month assessment",
-      "21 (31%) were lost to follow-up",
-      "no regimen demonstrated a significant improvement in total hair density",
-      "Longer follow-up and larger, randomized studies will be important"
-    ],
-    "advice_items": [
-      {
-        "quote": "The divergence between clinical and microscopic findings suggests that, within short follow-up periods, potential treatment-related changes may be more readily reflected in clinical staging than in trichoscopic metrics.",
-        "advice": "При оценке ответа на лечение не полагайтесь только на трихоскопические показатели или только на клиническую классификацию. Сопоставляйте стандартизированную оценку степени алопеции с измерениями плотности и толщины волос в определённых областях кожи головы. Учитывайте, что за шесть месяцев эти показатели могут не демонстрировать согласованных изменений.",
-        "audience": "врач"
-      },
-      {
-        "quote": "These findings highlight the potential value of integrating standardized clinical assessment with targeted, region-specific imaging to better characterize treatment response.",
-        "advice": "При наблюдении за пациентом сочетайте стандартизированную клиническую оценку с трихоскопией определённых областей кожи головы. Сравнивайте результаты, полученные в одних и тех же зонах при последовательных осмотрах. Такой подход помогает получить более полное представление об изменениях, хотя сам по себе не гарантирует выявления эффекта лечения.",
-        "audience": "врач"
-      }
-    ],
-    "importance_stars": 5,
-    "importance_mark": "★★★★★",
-    "take": "keep",
-    "audience_sex": "men"
-  },
-  {
-    "id": 14,
+    "id": 9,
     "pmid": "41118052",
     "source": "PubMed",
     "article": "Oral Minoxidil for Alopecia Treatment: Risks, Benefits, and Recommendations.",
@@ -780,82 +485,5 @@
     "importance_mark": "★★★★★",
     "take": "keep",
     "audience_sex": "any"
-  },
-  {
-    "id": 15,
-    "pmid": "40090937",
-    "source": "PubMed",
-    "article": "Efficacy and safety of topical finasteride spray solution in the treatment of Chinese men with androgenetic alopecia: A phase III, multicenter, randomized, double-blind, placebo-controlled study.",
-    "authors": [
-      "Zhou Cheng",
-      "Yang Bin",
-      "Zeng Huiming",
-      "Xia Rushan",
-      "Dang Ningning",
-      "Yang Qinping",
-      "Li Ji",
-      "Zhang Chunlei",
-      "Zhang Guoqiang",
-      "Wei Aihua",
-      "Lai Wei",
-      "Yang Shuxia",
-      "Diao Qingchun",
-      "Ding Yangfeng",
-      "Wu Liming",
-      "Liu Lunfei",
-      "Jia Danyang",
-      "Zhu Hanjie",
-      "Zhang Jianzhong"
-    ],
-    "date": "2025-03-17",
-    "journal": "Chinese medical journal",
-    "doi": "10.1097/CM9.0000000000003495",
-    "topic": "АГА",
-    "topic_key": "aga",
-    "topic_keys": [
-      "aga"
-    ],
-    "topics": [
-      "АГА"
-    ],
-    "abstract_en": "BACKGROUND: Topical finasteride is a novel treatment for men with androgenetic alopecia (AGA). This study aimed to evaluate the efficacy and safety of topical finasteride spray solution in Chinese men with AGA.\n\nMETHODS: This randomized, double-blind, placebo-controlled, phase III trial enrolled 270 individuals with AGA from 16 sites across China between December 2021 and March 2023. The participants were randomized at a ratio of 2:1 to receive either topical finasteride or placebo treatment once daily for 24 weeks. The primary endpoint was the change from baseline in target area (0.903 cm 2 area) hair count at week 24. The secondary endpoints were change from baseline in target area hair count at week 12, target area terminal hair count at weeks 12 and 24, target area terminal hair width at week 24, and target area hair width at week 24; an improvement of vertex hair growth assessed by the investigator at week 24; and the patient-assessed scores on the Male Hair Growth Questionnaire at week 24.\n\nRESULTS: A total of 270 individuals were enrolled and randomized, and 251 completed the study (165 in topical finasteride group, 86 in placebo group). Compared with the placebo group, in the topical finasteride group, the change from baseline in target area hair count was significantly higher at week 24 ( P  <0.05), although it was only numerically higher at week 12 ( P  = 0.0688). Significant differences favoring topical finasteride over placebo were observed for change from baseline in target area terminal hair count at weeks 12 ( P  <0.05) and 24 ( P  <0.01). The improvement of vertex hair growth assessed by the investigator was significantly greater in the topical finasteride group vs. the placebo group at week 24 ( P  <0.01). Topical finasteride was generally safe and well-tolerated.\n\nCONCLUSIONS: In Chinese men with AGA, topical finasteride spray solution increased hair growth and showed good safety and tolerability profile during a 24-week treatment period.\n\nCLINICAL TRIAL REGISTRATION: ClinicalTrials.gov identifier: NCT05135468.",
-    "article_link": "https://pubmed.ncbi.nlm.nih.gov/40090937/",
-    "pmc_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13043251/",
-    "html_available": true,
-    "html_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13043251/",
-    "title_ru": "Эффективность и безопасность спрея с финастеридом для наружного применения у китайских мужчин с андрогенетической алопецией: многоцентровое рандомизированное исследование III фазы",
-    "summary": "В многоцентровом рандомизированном двойном слепом исследовании III фазы участвовали 270 китайских мужчин с андрогенетической алопецией в области макушки, преимущественно III–V степеней по шкале Гамильтона — Норвуда. В течение 24 недель участники ежедневно получали наружный финастерид в форме спрея или плацебо. К концу исследования в группе финастерида увеличение количества волос в целевой области было статистически значимо больше, чем в группе плацебо: 11,96 против 6,68 волоса по оценке исследуемого участка; также наблюдалось преимущество по количеству терминальных волос и оценке роста волос врачом. Лечение в целом характеризовалось хорошей переносимостью, однако представленный фрагмент не содержит подробных данных о нежелательных явлениях и не позволяет оценить долгосрочную безопасность.",
-    "practical_use": "Врач может использовать результаты как клиническое обоснование обсуждения наружного финастерида с мужчинами с андрогенетической алопецией, учитывая, что в данном исследовании преимущество перед плацебо было подтверждено по количеству волос через 24 недели. При обсуждении ожидаемого эффекта важно учитывать, что удовлетворённость внешним видом и оценка эффективности самими пациентами статистически значимо не различались между группами, а исследование проводилось преимущественно среди китайских мужчин. Представленный фрагмент не содержит достаточных данных для самостоятельного определения схемы применения или полного сравнения рисков с пероральным финастеридом.",
-    "patient_plain": "В исследовании у мужчин с наследственным поредением волос спрей с финастеридом за 24 недели помог увеличить количество волос в исследуемой области сильнее, чем плацебо. Врачи также чаще отмечали улучшение роста волос на макушке, но сами участники не сообщали о значимом преимуществе по удовлетворённости внешним видом. Препарат в целом хорошо переносился в течение исследования, однако эти результаты не доказывают отсутствие побочных эффектов и не показывают, насколько долго сохраняется эффект после окончания лечения. Подходит ли наружный финастерид в конкретном случае, следует обсуждать с врачом.",
-    "_reason": "Это рандомизированное исследование III фазы с контрольной группой плацебо, которое подтверждает эффективность наружного финастерида по объективным показателям роста волос за 24 недели. Практическая ценность высокая для врача, обсуждающего варианты лечения мужской андрогенетической алопеции, но ограничена отсутствием в представленном фрагменте подробных результатов безопасности, долгосрочного наблюдения и данных о других популяциях.",
-    "why_read": "Статья полезна дерматологам и трихологам, которым нужны данные контролируемого клинического исследования наружного финастерида. Пациентам она поможет понять, что улучшение количества волос не обязательно сопровождается заметным изменением удовлетворённости внешностью и что краткосрочная хорошая переносимость не равнозначна доказанной долгосрочной безопасности.",
-    "limitations": [
-      "The primary endpoint was the change from baseline in target area (0.903 cm 2 area) hair count at week 24.",
-      "At week 12, the change from baseline in target area hair count was higher in the topical finasteride group than in the placebo group, although the difference was not significant",
-      "At week 24, the changes in target area hair width and terminal hair width from baseline were similar across the treatment groups (P >0.05).",
-      "At week 24, the patient-assessed MHGQ scores for the item regarding treatment efficacy and satisfaction with appearance did not significantly differ between the treatment groups.",
-      "The text is truncated."
-    ],
-    "advice_items": [
-      {
-        "quote": "At week 24, the LSM (standard error [SE]) change in target area hair count from baseline was significant in the topical finasteride group compared with placebo group (11.96 [1.31] vs. 6.68 [1.84]; LSM [SE] difference, 5.28 [2.20]; 95% CI [0.98–9.59]; P <0.05)",
-        "advice": "При обсуждении наружного финастерида объясняйте пациенту, что в исследовании через 24 недели количество волос в целевой области увеличилось сильнее, чем при применении плацебо. Это средние результаты исследования, а не гарантия аналогичного эффекта у конкретного человека. Учитывайте, что оценивался ограниченный участок кожи головы.",
-        "audience": "врач"
-      },
-      {
-        "quote": "At week 24, the patient-assessed MHGQ scores for the item regarding treatment efficacy and satisfaction with appearance did not significantly differ between the treatment groups.",
-        "advice": "При обсуждении ожидаемого результата разделяйте объективное увеличение количества волос и субъективную удовлетворённость внешним видом. В этом исследовании преимущество спрея по измеряемым показателям не сопровождалось статистически значимым преимуществом по оценке эффективности лечения и удовлетворённости внешностью самими участниками. Поэтому заранее обсудите с пациентом, какой результат он считает значимым.",
-        "audience": "врач"
-      },
-      {
-        "quote": "Topical finasteride was generally safe and well-tolerated.",
-        "advice": "Сообщайте пациенту, что авторы оценили переносимость наружного финастерида в течение исследования как в целом хорошую. Не интерпретируйте эту формулировку как отсутствие побочных эффектов или доказательство долгосрочной безопасности: в доступном фрагменте нет подробных данных о нежелательных явлениях и длительном наблюдении. Индивидуальные риски следует обсуждать с врачом.",
-        "audience": "пациент"
-      }
-    ],
-    "importance_stars": 5,
-    "importance_mark": "★★★★★",
-    "take": "keep",
-    "audience_sex": "men"
   }
 ]
