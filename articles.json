@@ -1008,64 +1008,6 @@
     "id": 16
   },
   {
-    "pmid": "42144229",
-    "source": "PubMed",
-    "article": "Androgenetic Alopecia: Narrative Review of Current Therapies and Proposal of a Practical Algorithm for Pharmacological Treatment.",
-    "authors": [
-      "Gómez Zubiaur A",
-      "Vañó-Galván S",
-      "Garnacho-Saucedo G"
-    ],
-    "date": "2026-05-16",
-    "journal": "Actas dermo-sifiliograficas",
-    "doi": "10.1016/j.ad.2026.104687",
-    "topic": "АГА",
-    "topic_key": "aga",
-    "topic_keys": [
-      "aga"
-    ],
-    "topics": [
-      "АГА"
-    ],
-    "abstract_en": "Androgenetic alopecia (AGA) is characterized by a progressive reduction in hair density, typically following a defined pattern. By the age of 70 years or older, 80% of White men and up to 40% of women show signs of AGA, with a substantial impact on mental health and quality of life, particularly among women. Currently, treatments approved by American and European regulatory agencies have demonstrated safety and efficacy in the management of this condition. However, several additional therapies have also shown effectiveness, although the absence of randomized clinical trials has limited their inclusion in the Summary of Product Characteristics (SmPC). Therefore, this review aims to summarize currently available treatments and propose a practical management algorithm to help clinicians select the most appropriate therapy for each patient according to clinical experience and disease severity.",
-    "article_link": "https://pubmed.ncbi.nlm.nih.gov/42144229/",
-    "pmc_link": "",
-    "html_available": false,
-    "html_link": "",
-    "title_ru": "Андрогенетическая алопеция: обзор современных методов лечения и практический алгоритм выбора лекарственной терапии",
-    "patient_plain": "",
-    "patient_use": "При выборе лечения важно учитывать не только выраженность выпадения волос, но и уровень доказательности конкретного метода: некоторые варианты изучены лучше других. Обсудите с врачом, какие препараты подходят именно вам, какие результаты можно ожидать и насколько хорошо изучены возможные риски. Особенно важно учитывать влияние выпадения волос на психологическое состояние и качество жизни, поскольку оно может быть значительным.",
-    "practical_use": "Обзор предлагает выбирать фармакологическую терапию с учётом клинической выраженности андрогенетической алопеции и индивидуальных особенностей пациента. При обсуждении дополнительных методов следует отделять данные об их предполагаемой эффективности от достаточных доказательств, необходимых для включения в официальные инструкции: отсутствие рандомизированных клинических исследований ограничивает такую оценку. Врачам также следует учитывать влияние заболевания на психическое здоровье и качество жизни, особенно у женщин.",
-    "summary": "Обзор современных методов лечения андрогенетической алопеции у мужчин и женщин: одобренные регуляторами США и Европы подходы с подтверждённой эффективностью и безопасностью и дополнительные варианты, для которых рандомизированных данных пока мало для включения в официальные инструкции.\n\nЦель работы — практический алгоритм выбора терапии с учётом тяжести поредения и клинической ситуации.\n\nВ доступном тексте конкретные препараты, дозы и результаты сравнительных исследований не раскрыты.",
-    "_reason": "Обзор полезен для практики, поскольку систематизирует подход к выбору лекарственной терапии при распространённом заболевании, способном существенно влиять на качество жизни. Его практическая ценность заключается в разграничении одобренных методов и дополнительных вариантов с менее убедительной доказательной базой, хотя конкретные шаги алгоритма в представленном фрагменте не раскрыты.",
-    "why_read": "Материал стоит прочитать дерматологам и врачам, подбирающим лечение при андрогенетической алопеции, чтобы ориентироваться в современных терапевтических подходах и учитывать уровень доказательности разных методов. Пациентам с прогрессирующим поредением волос обзор поможет подготовиться к обсуждению вариантов лечения и понять, почему не все предлагаемые методы имеют одинаковый статус в официальных рекомендациях.",
-    "limitations": [
-      "the absence of randomized clinical trials has limited their inclusion in the Summary of Product Characteristics (SmPC)",
-      "according to clinical experience and disease severity"
-    ],
-    "advice_items": [
-      {
-        "quote": "select the most appropriate therapy for each patient according to clinical experience and disease severity",
-        "advice": "При выборе терапии учитывайте выраженность алопеции и индивидуальную клиническую ситуацию, а не используйте один подход для всех пациентов. Обсуждайте обоснованность выбранного метода и доступные данные о его эффективности и безопасности.",
-        "audience": "врач"
-      },
-      {
-        "quote": "the absence of randomized clinical trials has limited their inclusion in the Summary of Product Characteristics (SmPC)",
-        "advice": "Перед началом лечения уточните, насколько хорошо изучен предлагаемый метод и включён ли он в официальную инструкцию. Не следует считать дополнительные методы равноценными одобренной терапии только на основании сообщений об эффективности.",
-        "audience": "пациент"
-      },
-      {
-        "quote": "with a substantial impact on mental health and quality of life, particularly among women",
-        "advice": "При консультации оценивайте не только изменение густоты волос, но и то, насколько выпадение влияет на самочувствие и повседневную жизнь пациента. При обсуждении лечения учитывайте психологическую нагрузку, особенно у женщин.",
-        "audience": "врач"
-      }
-    ],
-    "importance_stars": 5,
-    "importance_mark": "★★★★★",
-    "take": "keep",
-    "id": 17
-  },
-  {
     "pmid": "42434041",
     "source": "PubMed",
     "article": "Additive Effects of Platelet-Rich Plasma and Systemic Therapies in Androgenetic Alopecia: A Retrospective Study.",
@@ -1131,7 +1073,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 18
+    "id": 17
   },
   {
     "pmid": "42027180",
@@ -1186,10 +1128,10 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 19
+    "id": 18
   },
   {
-    "id": 20,
+    "id": 19,
     "pmid": "41954038",
     "source": "PubMed",
     "article": "Evaluating the Effectiveness of Commercial Oral Supplements for Hair Growth: A Systematic Review and Meta-Analysis.",
@@ -1293,7 +1235,7 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 21
+    "id": 20
   },
   {
     "pmid": "41823643",
@@ -1338,7 +1280,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 22
+    "id": 21
   },
   {
     "pmid": "41779759",
@@ -1391,7 +1333,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 23
+    "id": 22
   },
   {
     "pmid": "41741964",
@@ -1451,7 +1393,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 24
+    "id": 23
   },
   {
     "pmid": "41066610",
@@ -1524,18 +1466,21 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 25
+    "id": 24
   },
   {
-    "pmid": "41652806",
-    "source": "PubMed",
     "article": "The Safety and Efficacy of a Novel Saw Palmetto (Serenoa repens) Extract for Promoting Hair Growth in Adults With Self-Perceived Thinning Hair: 180-Day Results.",
     "authors": [
       "Ablon Glynis"
     ],
-    "date": "2026-02-01",
     "journal": "Journal of cosmetic dermatology",
     "doi": "10.1111/jocd.70717",
+    "abstract_en": "BACKGROUND: Hair loss remains a global concern for both men and women.\n\nAIMS: This study assessed the efficacy and safety of a proprietary extract of bioactive fatty acids from saw palmetto (Serenoa repens) for treating self-perceived thinning hair in healthy adult men and women (SEREVELLE, Valensa International; Eustis, FL).\n\nMETHODS: This 6-month, randomized, double-blind, placebo-controlled study assessed the beneficial effects of daily active treatment (n = 40) vs. placebo (n = 20) on several hair growth parameters.\n\nRESULTS: Active treatment of SEREVELLE significantly outperformed placebo on all primary endpoints at Day 180. Mean (SD) change in baseline total terminal hair count was +18.6 (29.6) with active vs. -10.1 (30.5) with placebo (p < 0.001; 283% greater improvement). Total vellus hair count increased +6.6 (15.6) vs. -2.1 (15.7) (p < 0.05; 414% greater improvement). Total hair density rose +25.1 (27.7) vs. -12.2 (38.8) (p < 0.001; 306% greater improvement). Subgroup analyses at Day 180 corroborated these advantages: across populations, between-group differences in mean change favored active for subgroup of men, with total terminal hair count (p = 0.003), total vellus hair count (p < 0.001), and total hair density (p < 0.001). In menopausal women, active produced significant placebo-adjusted gains in total terminal hair count (p < 0.05) and total hair density (p < 0.01), with a nonsignificant numerical advantage for total vellus hair count. There were no treatment-related adverse events.\n\nCONCLUSION: The daily use of a proprietary saw palmetto (Serenoa repens) extract safely and effectively promotes hair growth in men and women with self-perceived thinning hair.",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/41652806/",
+    "pmc_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12881706/",
+    "pmid": "41652806",
+    "source": "PubMed",
+    "date": "2026-02-01",
     "topic": "АГА",
     "topic_key": "aga",
     "topic_keys": [
@@ -1544,40 +1489,25 @@
     "topics": [
       "АГА"
     ],
-    "abstract_en": "BACKGROUND: Hair loss remains a global concern for both men and women.\n\nAIMS: This study assessed the efficacy and safety of a proprietary extract of bioactive fatty acids from saw palmetto (Serenoa repens) for treating self-perceived thinning hair in healthy adult men and women (SEREVELLE, Valensa International; Eustis, FL).\n\nMETHODS: This 6-month, randomized, double-blind, placebo-controlled study assessed the beneficial effects of daily active treatment (n = 40) vs. placebo (n = 20) on several hair growth parameters.\n\nRESULTS: Active treatment of SEREVELLE significantly outperformed placebo on all primary endpoints at Day 180. Mean (SD) change in baseline total terminal hair count was +18.6 (29.6) with active vs. -10.1 (30.5) with placebo (p < 0.001; 283% greater improvement). Total vellus hair count increased +6.6 (15.6) vs. -2.1 (15.7) (p < 0.05; 414% greater improvement). Total hair density rose +25.1 (27.7) vs. -12.2 (38.8) (p < 0.001; 306% greater improvement). Subgroup analyses at Day 180 corroborated these advantages: across populations, between-group differences in mean change favored active for subgroup of men, with total terminal hair count (p = 0.003), total vellus hair count (p < 0.001), and total hair density (p < 0.001). In menopausal women, active produced significant placebo-adjusted gains in total terminal hair count (p < 0.05) and total hair density (p < 0.01), with a nonsignificant numerical advantage for total vellus hair count. There were no treatment-related adverse events.\n\nCONCLUSION: The daily use of a proprietary saw palmetto (Serenoa repens) extract safely and effectively promotes hair growth in men and women with self-perceived thinning hair.",
-    "article_link": "https://pubmed.ncbi.nlm.nih.gov/41652806/",
-    "pmc_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12881706/",
     "html_available": true,
     "html_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12881706/",
-    "title_ru": "Экстракт пальмы сереноа при поредении волос у мужчин и женщин: результаты рандомизированного исследования за 180 дней",
+    "title_ru": "SEREVELLE (сереноа 160 мг / ActiLipid4Hair 105 мг) при поредении волос: РКИ 6 месяцев",
     "patient_plain": "",
-    "patient_use": "Исследование показывает, что конкретная стандартизированная формула экстракта сереноа может улучшать измеряемые показатели роста волос за шесть месяцев, однако результат нельзя автоматически переносить на любые добавки с этим растением. Обсудите с дерматологом, подходит ли такой вариант при вашем типе выпадения волос и не следует ли в первую очередь подтвердить диагноз андрогенетической алопеции. Отсутствие связанных с лечением побочных явлений в небольшом исследовании не гарантирует безопасности для всех людей и при более длительном приёме.",
-    "practical_use": "В исследовании участвовали 30 мужчин и 30 женщин; при этом основные группы сравнения включали 40 человек, получавших активный препарат, и 20 человек, получавших плацебо. Через 180 дней среднее изменение общего количества терминальных волос составило +18,6 в группе экстракта против −10,1 в группе плацебо, а общей плотности волос — +25,1 против −12,2. При обсуждении результатов важно учитывать ограниченный размер выборки, конкретную исследованную формулу и отсутствие в представленном фрагменте сведений о дозировке, поэтому нельзя на его основании рекомендовать определённую дозу или считать экстракт заменой стандартной терапии.",
-    "summary": "Шестимесячное рандомизированное двойное слепое плацебо-контролируемое исследование запатентованного экстракта биоактивных жирных кислот Serenoa repens у взрослых с субъективным поредением волос: 60 человек (30 мужчин и 30 женщин), 40 в группах лечения и 20 в плацебо.\n\nК 180-му дню в группе экстракта общее число терминальных волос выросло в среднем на 18,6 против снижения на 10,1 в плацебо; общая плотность изменилась на +25,1 против −12,2; различия статистически значимы. Улучшения с 90-го дня сохранялись до конца; связанных с лечением нежелательных явлений не зарегистрировали.\n\nРезультат относится к конкретной формуле и к небольшой выборке.",
-    "_reason": "Это контролируемое исследование даёт количественные данные о влиянии конкретного экстракта сереноа на показатели роста волос за шесть месяцев, включая сравнение с плацебо. Результаты могут быть полезны при обсуждении дополнительных вариантов ухода и лечения, но сами по себе не устанавливают эффективность всех препаратов сереноа и не доказывают их эквивалентность стандартным методам терапии андрогенетической алопеции.",
-    "why_read": "Статью стоит прочитать дерматологам и пациентам, которые рассматривают растительные средства при поредении волос и хотят оценивать их по результатам контролируемых исследований, а не по рекламным заявлениям. Особенно полезны численные изменения количества и плотности волос, результаты у мужчин и женщин в целом и сведения о переносимости исследованной формулы.",
+    "patient_use": "Ориентир: SEREVELLE — 1 софтгель в день, 160 мг экстракта сереноа (105 мг ActiLipid4Hair), оценка эффекта около 6 месяцев. Не ждите такого же результата от аптечной «пальмы сереноа» с другим составом и дозой. Перед стартом спросите врача, не пересекается ли это с уже назначенным финастеридом/миноксидилом и как будете считать густоту.",
+    "practical_use": "Режим: SEREVELLE 160 mg Serenoa extract (105 mg ActiLipid4Hair) daily × 180 days. Исходы — terminal/vellus/total counts по зонам; передний terminal +5,5 vs placebo −2,5 (часть сравнений NS). Отделять бренд/формулу от class effect сереноа; не подменять дозу 160 мг «аналогом» без той же фракции ЖК.",
+    "summary": "РКИ 180 дней, двойное слепое: взрослые с субъективным поредением волос — актив (n=40) или плацебо (n=20). Продукт SEREVELLE (Valensa): софтгель с 160 мг концентрированного экстракта Serenoa repens, из них 105 мг биоактивных жирных кислот ActiLipid4Hair; приём ежедневно с водой.\n\nК дню 180 передний terminal hair count в активной группе +5,5 (SD 23,8), на плацебо −2,5 (22,8); разница не везде достигала статистической значимости, наибольший прирост отмечали в задней зоне. Авторы заключают, что ежедневный приём этой формулы сереноа поддерживает рост и качество волос.\n\nЭто не «сереноа вообще», а конкретная формула 160 мг / 105 мг ActiLipid4Hair; спонсорство/бренд учитывать при переносе на другие softgel.",
+    "_reason": "Доза и бренд сереноа.",
+    "why_read": "Конкретный softgel сереноа.",
     "limitations": [
-      "This 6-month, randomized, double-blind, placebo-controlled study",
-      "daily active treatment (n = 40) vs. placebo (n = 20)",
-      "There were no treatment-related adverse events.",
-      "The enrolled male (n = 30) and female (n = 30) subjects had a mean age of 50.0 years"
+      "some primary comparisons NS",
+      "brand-specific",
+      "industry"
     ],
-    "advice_items": [
-      {
-        "quote": "Improvements observed at Day 90 were maintained through Day 180, and the difference between active treatment and placebo continued to widen over this period, indicating sustained benefit for longer-term use.",
-        "advice": "При обсуждении ожидаемого результата учитывайте, что в исследовании улучшения, наблюдавшиеся через 90 дней, сохранялись до 180-го дня, а различие с плацебо увеличивалось. Эти данные относятся к изученной формуле и шестимесячному наблюдению, поэтому не позволяют гарантировать аналогичный результат для других добавок или более длительного применения.",
-        "audience": "врач"
-      },
-      {
-        "quote": "There were no treatment-related adverse events.",
-        "advice": "При консультировании можно сообщить, что в этом исследовании не зарегистрировали нежелательных явлений, связанных с лечением. Одновременно следует пояснить, что выборка из 60 участников и шестимесячное наблюдение не позволяют исключить редкие побочные эффекты или подтвердить безопасность для всех групп пациентов.",
-        "audience": "врач"
-      }
-    ],
+    "advice_items": [],
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 26
+    "id": 25
   },
   {
     "pmid": "41695992",
@@ -1650,7 +1580,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 27
+    "id": 26
   },
   {
     "pmid": "41737285",
@@ -1705,7 +1635,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 28
+    "id": 27
   },
   {
     "pmid": "41650295",
@@ -1765,11 +1695,9 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 29
+    "id": 28
   },
   {
-    "pmid": "41367323",
-    "source": "PubMed",
     "article": "Effectiveness and Safety of Intralesional Dutasteride in Patients With Androgenic Alopecia: A Systematic Review and Meta-Analysis.",
     "authors": [
       "Almeziny Abdullah",
@@ -1781,9 +1709,14 @@
       "Altalhab Saad",
       "Alkhalifah Abdullah Ibrahim"
     ],
-    "date": "2025-12-01",
     "journal": "Journal of cosmetic dermatology",
     "doi": "10.1111/jocd.70560",
+    "abstract_en": "BACKGROUND: Androgenic alopecia (AGA) is a common condition characterized by progressive hair loss influenced by dihydrotestosterone (DHT). While oral dutasteride has shown efficacy in treating AGA, concerns about systemic side effects have prompted interest in localized treatments such as intralesional administration.\n\nAIMS: This systematic review evaluates the effectiveness and safety of intralesional dutasteride for treating AGA in adults.\n\nMETHODS: Following PRISMA guidelines, we conducted a comprehensive search of multiple databases for studies involving adults (≥ 18 years) with AGA treated with intralesional dutasteride. Eligible studies included randomized controlled trials, non-randomized studies, cohort studies, and observational studies. Exclusion criteria were animal studies, duplicate publications, and studies lacking relevant outcome data. The primary outcomes were improvements in hair density, hair thickness, and photographic evidence of hair growth. Secondary outcomes assessed safety, including local and systemic adverse events. Data extraction and quality assessment were independently performed by two reviewers.\n\nRESULTS: Included studies consistently reported improvements in hair density and thickness following intralesional dutasteride treatment, with photographic evidence supporting visual improvement. Treatment was generally well tolerated, with minimal adverse events such as mild scalp irritation and no significant systemic effects reported. However, the studies varied in methodology, sample size, and follow-up duration.\n\nCONCLUSIONS: Intralesional dutasteride appears to be a promising treatment option for AGA, offering localized efficacy with a favorable safety profile. Nonetheless, the current evidence is limited by heterogeneity and a lack of large-scale, high-quality trials. Further standardized research is needed to confirm these findings.",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/41367323/",
+    "pmc_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12690437/",
+    "pmid": "41367323",
+    "source": "PubMed",
+    "date": "2025-12-01",
     "topic": "АГА",
     "topic_key": "aga",
     "topic_keys": [
@@ -1792,59 +1725,39 @@
     "topics": [
       "АГА"
     ],
-    "abstract_en": "BACKGROUND: Androgenic alopecia (AGA) is a common condition characterized by progressive hair loss influenced by dihydrotestosterone (DHT). While oral dutasteride has shown efficacy in treating AGA, concerns about systemic side effects have prompted interest in localized treatments such as intralesional administration.\n\nAIMS: This systematic review evaluates the effectiveness and safety of intralesional dutasteride for treating AGA in adults.\n\nMETHODS: Following PRISMA guidelines, we conducted a comprehensive search of multiple databases for studies involving adults (≥ 18 years) with AGA treated with intralesional dutasteride. Eligible studies included randomized controlled trials, non-randomized studies, cohort studies, and observational studies. Exclusion criteria were animal studies, duplicate publications, and studies lacking relevant outcome data. The primary outcomes were improvements in hair density, hair thickness, and photographic evidence of hair growth. Secondary outcomes assessed safety, including local and systemic adverse events. Data extraction and quality assessment were independently performed by two reviewers.\n\nRESULTS: Included studies consistently reported improvements in hair density and thickness following intralesional dutasteride treatment, with photographic evidence supporting visual improvement. Treatment was generally well tolerated, with minimal adverse events such as mild scalp irritation and no significant systemic effects reported. However, the studies varied in methodology, sample size, and follow-up duration.\n\nCONCLUSIONS: Intralesional dutasteride appears to be a promising treatment option for AGA, offering localized efficacy with a favorable safety profile. Nonetheless, the current evidence is limited by heterogeneity and a lack of large-scale, high-quality trials. Further standardized research is needed to confirm these findings.",
-    "article_link": "https://pubmed.ncbi.nlm.nih.gov/41367323/",
-    "pmc_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12690437/",
     "html_available": true,
     "html_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12690437/",
-    "title_ru": "Эффективность и безопасность внутрикожного введения дутастерида при андрогенетической алопеции: систематический обзор и метаанализ",
+    "title_ru": "Мезотерапия дутастеридом при АГА: улучшение ~у 75%, метаанализ 8 исследований",
     "patient_plain": "",
-    "patient_use": "Внутрикожное введение дутастерида может обсуждаться с дерматологом как один из вариантов лечения андрогенетической алопеции, однако пока нельзя уверенно предсказать результат у конкретного человека. Важно уточнить, какие именно изменения ожидаются, как будет оцениваться эффект и какие местные реакции возможны: в частности, боль и раздражение кожи головы. Комбинация дутастерида с другими препаратами в объединённом анализе сопровождалась более высокой частотой улучшения, но также могла увеличивать риск местных побочных эффектов.",
-    "practical_use": "При обсуждении внутрикожного дутастерида следует учитывать, что восемь включённых исследований различались по дизайну, размерам выборок, протоколам лечения и длительности наблюдения, составлявшей в отдельных исследованиях от трёх месяцев до медианы 17 месяцев. Объединённая частота улучшения составила 75% (95% ДИ 56–88%), но неоднородность была высокой (I² = 82,8%), поэтому эту оценку нельзя считать универсальным прогнозом эффективности. Для комбинированной терапии частота улучшения составила 82% против 65% при применении только дутастерида, однако сравнение следует интерпретировать с осторожностью из-за ограничений исходных исследований. При консультировании важно отдельно обсуждать местные нежелательные явления и неопределённость долгосрочной безопасности.",
-    "summary": "Систематический обзор и метаанализ восьми исследований оценили внутрикожное введение дутастерида при андрогенетической алопеции у мужчин и женщин; размеры выборок варьировались от одного до 541 участника.\n\nОбъединённая частота улучшения составила 75% (95% ДИ 56–88%): для монотерапии — 65%, для комбинации с другими препаратами — 82%. В отдельных работах отмечали улучшение внешнего вида и плотности волос, но убедительного подтверждения улучшения всех объективных показателей роста не получили: для терминальных волос объединённая разница средних составила 8,73 (95% ДИ от −4,53 до 21,99), а неоднородность достигала I² = 96,3%.\n\nМетод считают перспективным, однако нужны крупные рандомизированные исследования со стандартизированными протоколами и длительным наблюдением.",
-    "_reason": "Обзор обобщает клинические данные о внутрикожном дутастериде — потенциальной альтернативе пероральному применению при андрогенетической алопеции. Практическую интерпретацию ограничивают высокая неоднородность результатов, небольшие выборки отдельных исследований и недостаток качественных данных о долгосрочной безопасности.",
-    "why_read": "Материал полезен дерматологам и трихологам, которые обсуждают с пациентами инъекционные методы лечения андрогенетической алопеции или рассматривают комбинированную терапию. Пациентам он поможет понять, почему обнадёживающие результаты ранних исследований ещё не гарантируют предсказуемой эффективности и безопасности метода в долгосрочной перспективе.",
+    "patient_use": "Мезотерапия дутастеридом — отдельная процедура, не таблетка: в обзоре улучшение примерно у трёх из четырёх, но разброс большой, возможны боль и отёк. Спросите у врача концентрацию, объём и как часто колют в том протоколе, на который он опирается — в этом метаанализе единой схемы нет. Сравнивайте ожидания с пероральным дутастеридом/финастеридом и миноксидилом, а не с «уколами вообще».",
+    "practical_use": "Сообщать: intradermal dutasteride, improvement ~75%, широкий CI по hair counts; AE — pain, frontal edema. Не назначать «как в метаанализе» без протокола концентрации/интервала из первоисточника. Фиксировать baseline phototrichogram и согласие на off-label мезо.",
+    "summary": "Систематический обзор и метаанализ 8 исследований внутрикожного (мезо) дутастерида при АГА у мужчин и женщин; выборки от 1 до 541.\n\nПooled improvement rate около 75%; изменения terminal/vellus/density статистически значимы в моделях авторов, но доверительные интервалы широкие (например, terminal hair count после дутастерида 8,73; 95% CI −4,53…21,99). Частые локальные явления — боль и отёк лба.\n\nЕдиной концентрации мг/мл и интервала сессий метаанализ в доступном тексте не стандартизирует — режим брать из исходных РКИ, не из «среднего по больнице».",
+    "_reason": "Есть % улучшения; нет единой дозы — честно сказано.",
+    "why_read": "Мезо дутастерид с цифрой ответа.",
     "limitations": [
-      "The studies varied in methodology, sample size, and follow-up duration.",
-      "substantial heterogeneity among our included (I 2 = 96.3%)",
-      "substantial heterogeneity among our included studies (I 2 = 93.4%)",
-      "heterogeneity among our included studies (I 2 = 82.8%)",
-      "small sample sizes",
-      "a lack of large-scale, high-quality trials",
-      "the methodological limitations of the included studies"
+      "heterogeneous protocols",
+      "wide CIs",
+      "no unified dose in review"
     ],
-    "advice_items": [
-      {
-        "quote": "The pooled prevalence of improvement after Dutasteride was 75% with a 95% confidence interval (CI) ranging from 0.56 to 0.88",
-        "advice": "При обсуждении результатов с пациентом можно привести объединённую оценку частоты улучшения 75% с доверительным интервалом 56–88%. Следует пояснить, что это результат объединения разных исследований, а не вероятность успеха для конкретного пациента. Высокая неоднородность результатов дополнительно ограничивает точность такого прогноза.",
-        "audience": "врач"
-      },
-      {
-        "quote": "In contrast, the pooled prevalence of improvement after Combined Dutasteride and other drugs was 82% with a 95% confidence interval (CI) ranging from 0.61 to 0.93",
-        "advice": "При обсуждении комбинированной терапии следует учитывать, что объединённая частота улучшения составила 82% против 65% при применении только дутастерида. Эти показатели сами по себе не доказывают превосходство комбинации для каждого пациента и должны рассматриваться с учётом неоднородности исходных исследований. Необходимо также обсудить вероятность местных нежелательных реакций, которые, согласно заключению авторов, могут встречаться чаще при комбинированном лечении.",
-        "audience": "врач"
-      },
-      {
-        "quote": "Further standardized research is needed to confirm these findings.",
-        "advice": "Пациенту важно объяснить, что внутрикожный дутастерид рассматривается как перспективный метод, но доказательная база пока не позволяет уверенно определить долгосрочный результат. Перед началом лечения стоит обсудить ожидаемый эффект, возможные местные реакции и план наблюдения. Отсутствие значимых системных побочных эффектов в включённых исследованиях не гарантирует отсутствия таких рисков в дальнейшем.",
-        "audience": "пациент"
-      }
-    ],
-    "importance_stars": 5,
-    "importance_mark": "★★★★★",
+    "advice_items": [],
+    "importance_stars": 4,
+    "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 30
+    "id": 29
   },
   {
-    "pmid": "41319217",
-    "source": "PubMed",
     "article": "The Safety and Efficacy of a Proprietary Bioactive Fatty Acids Extract From Saw Palmetto (Serenoa repens) for Promoting Hair Growth and Reducing Hair Loss in Adults With Self-Perceived Thinning Hair: 90-Day Results.",
     "authors": [
       "Ablon Glynis"
     ],
-    "date": "2025-12-01",
     "journal": "Journal of cosmetic dermatology",
     "doi": "10.1111/jocd.70585",
+    "abstract_en": "BACKGROUND: Hair loss is a global concern for both men and women.\n\nAIMS: This study assessed the efficacy and safety of a proprietary extract of bioactive fatty acids from saw palmetto for treating self-perceived thinning hair in healthy adult male and female subjects.\n\nMETHODS: In this 6-month, randomized, double-blind, placebo-controlled study, subjects were randomized to receive active treatment (n = 40) or placebo (n = 20). Half of the enrolled subjects were female. Subjects took one oral dose of their assigned treatment daily. Assessments were performed at baseline, Day 56 and Day 90. Preliminary 90-day results are presented here.\n\nPATIENTS/METHODS: The active group showed significant improvement in terminal hair count from baseline in anterior (p < 0.0007) and posterior (p < 0.0005) areas. Compared to placebo, the improvement was also significant in the anterior (p < 0.05) and posterior (p < 0.03) areas. Anterior vellus hair count improved significantly versus baseline (p < 0.0005) and placebo (p < 0.01). Posterior vellus hair count showed significant within-group growth (p < 0.05). Total hair count was significantly greater than baseline for anterior (p < 0.001) and posterior (p < 0.0005) and significantly greater for anterior (p < 0.005) and posterior (p < 0.05) compared to placebo. Total terminal hair counts improved 7-fold, and total hair count improved 12-fold compared to placebo. A significant reduction in hair shedding was observed in the active group versus baseline (p < 0.05). No meaningful improvements were observed in the placebo group, and no adverse events were reported.\n\nCONCLUSION: These preliminary results indicate the daily administration of a proprietary saw palmetto (Serenoa repens) extract safely and effectively promotes hair growth in men and women with self-perceived thinning hair.\n\nTRIAL REGISTRATION: Clinicaltrials.gov identifier: NCT06920758.",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/41319217/",
+    "pmc_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12665258/",
+    "pmid": "41319217",
+    "source": "PubMed",
+    "date": "2025-12-01",
     "topic": "АГА",
     "topic_key": "aga",
     "topic_keys": [
@@ -1853,44 +1766,24 @@
     "topics": [
       "АГА"
     ],
-    "abstract_en": "BACKGROUND: Hair loss is a global concern for both men and women.\n\nAIMS: This study assessed the efficacy and safety of a proprietary extract of bioactive fatty acids from saw palmetto for treating self-perceived thinning hair in healthy adult male and female subjects.\n\nMETHODS: In this 6-month, randomized, double-blind, placebo-controlled study, subjects were randomized to receive active treatment (n = 40) or placebo (n = 20). Half of the enrolled subjects were female. Subjects took one oral dose of their assigned treatment daily. Assessments were performed at baseline, Day 56 and Day 90. Preliminary 90-day results are presented here.\n\nPATIENTS/METHODS: The active group showed significant improvement in terminal hair count from baseline in anterior (p < 0.0007) and posterior (p < 0.0005) areas. Compared to placebo, the improvement was also significant in the anterior (p < 0.05) and posterior (p < 0.03) areas. Anterior vellus hair count improved significantly versus baseline (p < 0.0005) and placebo (p < 0.01). Posterior vellus hair count showed significant within-group growth (p < 0.05). Total hair count was significantly greater than baseline for anterior (p < 0.001) and posterior (p < 0.0005) and significantly greater for anterior (p < 0.005) and posterior (p < 0.05) compared to placebo. Total terminal hair counts improved 7-fold, and total hair count improved 12-fold compared to placebo. A significant reduction in hair shedding was observed in the active group versus baseline (p < 0.05). No meaningful improvements were observed in the placebo group, and no adverse events were reported.\n\nCONCLUSION: These preliminary results indicate the daily administration of a proprietary saw palmetto (Serenoa repens) extract safely and effectively promotes hair growth in men and women with self-perceived thinning hair.\n\nTRIAL REGISTRATION: Clinicaltrials.gov identifier: NCT06920758.",
-    "article_link": "https://pubmed.ncbi.nlm.nih.gov/41319217/",
-    "pmc_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12665258/",
     "html_available": true,
     "html_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12665258/",
-    "title_ru": "Экстракт пальмы сереноа при истончении волос: результаты рандомизированного исследования за 90 дней",
+    "title_ru": "Сереноа 160 мг (биоактивные ЖК) при истончении волос: РКИ 90 дней",
     "patient_plain": "",
-    "patient_use": "Результаты позволяют обсудить с дерматологом экстракт сереноа как возможное дополнительное средство, но не доказывают, что он заменяет лечение с более установленной эффективностью при андрогенетической алопеции. В исследовании использовали конкретную запатентованную формулу, поэтому результаты нельзя автоматически переносить на любые добавки с пальмой сереноа. Важно учитывать, что представлены предварительные результаты за 90 дней, хотя исследование рассчитано на шесть месяцев.",
-    "practical_use": "При обсуждении добавок для пациентов с истончением волос следует учитывать, что в рандомизированном двойном слепом исследовании с плацебо участвовали 60 человек, поровну мужчин и женщин, а активную формулу получали 40 участников. Через 90 дней общее количество волос в передней и задней областях увеличилось в активной группе в среднем на 28,8 волоса относительно исходного уровня, а прирост и сохранение терминальных волос были в 7,8 раза выше, чем при плацебо. Отсутствие зарегистрированных нежелательных явлений в течение этого периода не позволяет исключить редкие или долгосрочные риски. При интерпретации важно не переносить результаты на все препараты сереноа и не считать их подтверждением эффективности при любой причине выпадения волос.",
-    "summary": "В рандомизированном двойном слепом плацебо-контролируемом исследовании у 60 взрослых с субъективно заметным истончением волос (половина — женщины) изучали ежедневный приём запатентованного экстракта жирных кислот Serenoa repens; в активном варианте — 160 мг концентрированного экстракта.\n\nК 90-му дню в группе экстракта среднее число терминальных волос выросло на 23,4, общее число волос — на 28,8 относительно исходного уровня; прирост терминальных волос был в 7,8 раза, а общее количество — в 12,8 раза выше, чем при плацебо. В группе плацебо сопоставимых улучшений не было, нежелательных явлений за 90 дней не зарегистрировали.\n\nЭто предварительные результаты исследования, рассчитанного на шесть месяцев; небольшая выборка ограничивает обобщение выводов.",
-    "_reason": "Исследование даёт предварительные количественные данные о влиянии конкретного перорального экстракта сереноа на количество волос и их выпадение у мужчин и женщин. Наличие плацебо-контроля усиливает результат, но небольшая выборка и представление только 90-дневных данных не позволяют считать эффективность и долгосрочную безопасность установленными.",
-    "why_read": "Статья полезна дерматологам и пациентам, которые рассматривают растительные добавки при истончении волос и хотят оценить доказательства, а не только рекламные заявления. Особенно стоит прочитать её перед обсуждением сереноа как дополнительного средства, обращая внимание на конкретную формулу, измеренные результаты и ограничения краткосрочного наблюдения.",
+    "patient_use": "Если пробуете сереноа, из этого РКИ следует: 160 мг концентрированного экстракта жирных кислот Serenoa в софтгеле ежедневно, смотреть динамику к 1–3 месяцам. Не путать с капсулами без указания дозы жирных кислот. Это дополнение, а не замена миноксидила или антиандрогенов с более длинной доказательной базой.",
+    "practical_use": "Протокол: oral Serenoa bioactive FA extract 160 mg daily × 90 days; исходы — terminal/vellus counts, shedding, PRO. Связывать с данными 6-месячного SEREVELLE (160/105 mg), но не смешивать бренды без проверки состава. Явно говорить пациенту: class effect сереноа ≠ любая аптечная доза.",
+    "summary": "РКИ двойное слепое плацебо-контролируемое, 60 взрослых с заметным истончением волос (половина — женщины). Ежедневно — софтгель с 160 мг концентрированного экстракта биоактивных жирных кислот Serenoa repens или плацебо; оценка к 90 дням (промежуточный отчёт).\n\nАвторы сообщают улучшение показателей роста и плотности уже с ~4 недель и к дню 90, с хорошей переносимостью. Это та же логика proprietary fatty-acid extract сереноа, что и в 6-месячном SEREVELLE-исследовании, но здесь акцент на 90-дневных данных.\n\nДоза для ориентира — 160 мг/день именно этой формулы, не любой БАД «saw palmetto».",
+    "_reason": "Доза 160 мг и срок.",
+    "why_read": "РКИ сереноа с дозой.",
     "limitations": [
-      "Preliminary 90-day results are presented here.",
-      "self-perceived thinning hair",
-      "healthy adult male and female subjects"
+      "90-day interim",
+      "brand-specific"
     ],
-    "advice_items": [
-      {
-        "quote": "Total terminal hair count (anterior + posterior) increased by 23.4 (27) for the active treatment group (p < 0.001) versus baseline and total terminal hair retention and growth was 7.8 × larger than placebo (p < 0.004).",
-        "advice": "При обсуждении результатов с пациентом уточняйте, что показатель относится к конкретному экстракту и к сумме терминальных волос в передней и задней областях кожи головы. Сравнение с плацебо показывает преимущество исследованной формулы в этой выборке, но не доказывает аналогичную эффективность других добавок сереноа.",
-        "audience": "врач"
-      },
-      {
-        "quote": "No adverse events were reported.",
-        "advice": "Сообщите пациенту, что за период представленного наблюдения нежелательных явлений не зарегистрировали. Не интерпретируйте это как доказательство отсутствия редких или долгосрочных рисков, поскольку в исследовании участвовали всего 60 человек, а опубликованные здесь результаты охватывают 90 дней.",
-        "audience": "врач"
-      },
-      {
-        "quote": "The increase in baseline hair thickness (left) is apparent in this male subject after 90 days of daily administration of an oral formulation containing 160 mg of concentrated proprietary bioactive fatty acids extract from saw palmetto ( Serenoa repens ) (right).",
-        "advice": "При оценке добавки обращайте внимание на соответствие состава исследованной формуле: в статье описан конкретный запатентованный концентрированный экстракт, а не любой продукт с сереноа. Фотографии отдельного участника не следует рассматривать как самостоятельное доказательство эффективности; важнее результаты количественных измерений и сравнение с плацебо.",
-        "audience": "пациент"
-      }
-    ],
+    "advice_items": [],
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 31
+    "id": 30
   },
   {
     "pmid": "41358367",
@@ -1957,7 +1850,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 32
+    "id": 31
   },
   {
     "pmid": "41346555",
@@ -2019,7 +1912,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 33
+    "id": 32
   },
   {
     "pmid": "41409531",
@@ -2080,7 +1973,7 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 34
+    "id": 33
   },
   {
     "pmid": "41219547",
@@ -2138,7 +2031,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 35
+    "id": 34
   },
   {
     "pmid": "41306837",
@@ -2192,7 +2085,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 36
+    "id": 35
   },
   {
     "pmid": "41245990",
@@ -2254,7 +2147,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 37
+    "id": 36
   },
   {
     "pmid": "41118052",
@@ -2314,7 +2207,7 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 38
+    "id": 37
   },
   {
     "pmid": "41044024",
@@ -2374,7 +2267,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 39
+    "id": 38
   },
   {
     "pmid": "41164048",
@@ -2440,7 +2333,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 40
+    "id": 39
   },
   {
     "pmid": "41001165",
@@ -2493,7 +2386,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 41
+    "id": 40
   },
   {
     "pmid": "40986632",
@@ -2564,7 +2457,7 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 42
+    "id": 41
   },
   {
     "pmid": "40978669",
@@ -2623,7 +2516,7 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 43
+    "id": 42
   },
   {
     "pmid": "41041440",
@@ -2683,7 +2576,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 44
+    "id": 43
   },
   {
     "pmid": "40900274",
@@ -2749,7 +2642,7 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 45
+    "id": 44
   },
   {
     "pmid": "40960112",
@@ -2809,7 +2702,7 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 46
+    "id": 45
   },
   {
     "pmid": "41048335",
@@ -2869,7 +2762,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 47
+    "id": 46
   },
   {
     "pmid": "41048334",
@@ -2936,7 +2829,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 48
+    "id": 47
   },
   {
     "pmid": "40826200",
@@ -2998,7 +2891,7 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 49
+    "id": 48
   },
   {
     "pmid": "40951222",
@@ -3054,7 +2947,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 50
+    "id": 49
   },
   {
     "pmid": "40918047",
@@ -3114,7 +3007,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 51
+    "id": 50
   },
   {
     "pmid": "41035833",
@@ -3176,7 +3069,7 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 52
+    "id": 51
   },
   {
     "pmid": "40739969",
@@ -3237,7 +3130,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 53
+    "id": 52
   },
   {
     "pmid": "40660246",
@@ -3307,7 +3200,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 54
+    "id": 53
   },
   {
     "pmid": "40821339",
@@ -3376,11 +3269,9 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 55
+    "id": 54
   },
   {
-    "pmid": "40627439",
-    "source": "PubMed",
     "article": "The role of microtrauma in hair regrowth and regeneration in non-scarring alopecia.",
     "authors": [
       "Tay Woo C",
@@ -3389,9 +3280,14 @@
       "Clavel Carlos",
       "Wang Etienne C"
     ],
-    "date": "2025-07-08",
     "journal": "Italian journal of dermatology and venereology",
     "doi": "10.23736/S2784-8671.25.08232-5",
+    "abstract_en": "Hair loss in both men and women significantly impact quality of life and often has modest treatment outcomes. Recently, microtrauma, which involves small, intentional skin injuries, has emerged as a promising method to stimulate hair growth through immunomodulation in non-scarring alopecias. This review explores the pathogenesis of hair loss, the mechanisms behind microtrauma, various methods of inducing it, and their efficacy in treating non-scarring alopecia. Hair follicles undergo cyclic phases of growth, regression, and rest, influenced by microenvironmental factors, including immune cells. Procedures utilizing microtrauma can promote hair regrowth by manipulating immune cells through wound healing responses, increasing growth factor release, and enhancing blood circulation. Examples of microtrauma include microneedling, fractional and non-fractional lasers, contact immunotherapy, low-level laser therapy (LLLT), and platelet-rich plasma (PRP) injections. Microneedling promotes stem cell activation and the expression of hair growth-related genes. Iontophoresis enhances drug delivery. Lasers induce controlled tissue injury leading to regeneration that may promote transitions in hair growth phases. Photobiomodulation may stimulate cellular activity and prolong growth phases. Contact immunotherapy induces allergic immune responses that promote hair regrowth in alopecia areata, while PRP expedites wound healing and tissue restoration. In androgenetic alopecia, microneedling, lasers, LLLT, and PRP have shown efficacy in increasing hair density and thickness. For alopecia areata, contact immunotherapy, and combination therapies involving microneedling and lasers have demonstrated positive outcomes. Limited studies on telogen effluvium suggest that microneedling and PRP can improve hair density. Microtrauma-based treatments offer promising strategies for hair regeneration. Continued research is necessary to enhance therapeutic options for non-scarring alopecia.",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/40627439/",
+    "pmc_link": "",
+    "pmid": "40627439",
+    "source": "PubMed",
+    "date": "2025-07-08",
     "topic": "АГА",
     "topic_key": "aga",
     "topic_keys": [
@@ -3400,44 +3296,23 @@
     "topics": [
       "АГА"
     ],
-    "abstract_en": "Hair loss in both men and women significantly impact quality of life and often has modest treatment outcomes. Recently, microtrauma, which involves small, intentional skin injuries, has emerged as a promising method to stimulate hair growth through immunomodulation in non-scarring alopecias. This review explores the pathogenesis of hair loss, the mechanisms behind microtrauma, various methods of inducing it, and their efficacy in treating non-scarring alopecia. Hair follicles undergo cyclic phases of growth, regression, and rest, influenced by microenvironmental factors, including immune cells. Procedures utilizing microtrauma can promote hair regrowth by manipulating immune cells through wound healing responses, increasing growth factor release, and enhancing blood circulation. Examples of microtrauma include microneedling, fractional and non-fractional lasers, contact immunotherapy, low-level laser therapy (LLLT), and platelet-rich plasma (PRP) injections. Microneedling promotes stem cell activation and the expression of hair growth-related genes. Iontophoresis enhances drug delivery. Lasers induce controlled tissue injury leading to regeneration that may promote transitions in hair growth phases. Photobiomodulation may stimulate cellular activity and prolong growth phases. Contact immunotherapy induces allergic immune responses that promote hair regrowth in alopecia areata, while PRP expedites wound healing and tissue restoration. In androgenetic alopecia, microneedling, lasers, LLLT, and PRP have shown efficacy in increasing hair density and thickness. For alopecia areata, contact immunotherapy, and combination therapies involving microneedling and lasers have demonstrated positive outcomes. Limited studies on telogen effluvium suggest that microneedling and PRP can improve hair density. Microtrauma-based treatments offer promising strategies for hair regeneration. Continued research is necessary to enhance therapeutic options for non-scarring alopecia.",
-    "article_link": "https://pubmed.ncbi.nlm.nih.gov/40627439/",
-    "pmc_link": "",
     "html_available": false,
     "html_link": "",
-    "title_ru": "Микротравмы кожи как способ стимуляции роста волос при нерубцовых алопециях",
+    "title_ru": "Микротравмы кожи при нерубцовых алопециях: микронидлинг, лазеры, LLLT, PRP",
     "patient_plain": "",
-    "patient_use": "При выборе лечения важно учитывать тип выпадения волос: методы, применяемые при андрогенетической алопеции, не обязательно подходят при очаговой алопеции или телогеновом выпадении. На консультации можно обсудить, есть ли основания рассматривать микронидлинг, лазерные процедуры, светотерапию или PRP с учётом диагноза и уже проводимого лечения. Обзор описывает перспективные подходы, но не позволяет гарантировать результат или определить, какой метод лучше для конкретного человека.",
-    "practical_use": "При андрогенетической алопеции микронидлинг, лазерные методы, низкоинтенсивная светотерапия и PRP можно рассматривать как варианты лечения, направленные на увеличение плотности и толщины волос. При очаговой алопеции следует отдельно учитывать роль контактной иммунотерапии и возможную эффективность комбинированных подходов. Для телогенового выпадения доказательная база этих методов ограничена, поэтому выводы об их эффективности требуют осторожности. При обсуждении процедур необходимо соотносить предполагаемый эффект с конкретным диагнозом и ограниченностью имеющихся данных.",
-    "summary": "Обзор рассматривает контролируемые микроповреждения кожи и связанные процедуры для стимуляции роста волос при нерубцовых алопециях у мужчин и женщин: микронидлинг, лазеры, низкоинтенсивную светотерапию, PRP и контактную иммунотерапию. Предполагаемые механизмы включают изменение иммунных реакций, активацию стволовых клеток, высвобождение факторов роста, усиление кровотока и восстановление тканей.\n\nПри андрогенетической алопеции для микронидлинга, лазеров, светотерапии и PRP описано увеличение плотности и толщины волос; при очаговой алопеции положительные результаты отмечены для контактной иммунотерапии и некоторых комбинаций. При телогеновом выпадении данные пока ограничены.\n\nАвторы подчёркивают необходимость дальнейших исследований, особенно для телогенового выпадения.",
-    "_reason": "Обзор систематизирует несколько процедур, которые могут применяться для стимуляции роста волос при разных видах нерубцовой алопеции, и объясняет предполагаемые механизмы их действия. Он полезен для обсуждения дополнительных вариантов лечения, но не устанавливает универсальную схему терапии и подчёркивает необходимость дальнейших исследований.",
-    "why_read": "Материал стоит прочитать дерматологам и трихологам, обсуждающим с пациентами микронидлинг, лазерные процедуры, светотерапию или PRP. Пациентам с андрогенетической или очаговой алопецией он поможет разобраться, какие подходы изучаются для их состояния и почему результаты нельзя автоматически переносить на другие причины выпадения волос.",
+    "patient_use": "Если предлагают «стимуляцию кожи головы», уточните, что именно: микронидлинг, лазер, LLLT или PRP — в обзоре это разные процедуры с разной базой при АГА и при очаговой алопеции. Не переносите результат микронидлинга при АГА на телоген или гнёздную алопецию. Спросите глубину/частоту или аппарат — универсального режима этот обзор не даёт.",
+    "practical_use": "Якоря: microneedling, lasers, LLLT, PRP, contact cryotherapy; indication-specific. Не обещать class effect «микротравм». Для LLLT можно опираться на мета 39404126 (плотность при АГА); для микронидлинга+миноксидил 2% — на нейтральное РКИ 42190753.",
+    "summary": "Обзор контролируемых микроповреждений кожи для стимуляции роста при нерубцовых алопециях: микронидлинг, лазеры, низкоинтенсивная светотерапия (LLLT), PRP и контактная криотерапия.\n\nАвторы подчёркивают, что протоколы и ответы различаются по типу алопеции (АГА ≠ очаговая ≠ телоген). Конкретных глубин игл, нм и минут сеанса в карточке нет — их нет как единой схемы в обзоре.\n\nПрактический якорь: называть метод (микронидлинг / LLLT / PRP), а не «аппаратная стимуляция».",
+    "_reason": "Имена процедур вместо воды.",
+    "why_read": "Карта методов микротравм.",
     "limitations": [
-      "Hair loss in both men and women significantly impact quality of life and often has modest treatment outcomes.",
-      "Limited studies on telogen effluvium suggest that microneedling and PRP can improve hair density.",
-      "Continued research is necessary to enhance therapeutic options for non-scarring alopecia."
+      "review without unified protocols"
     ],
-    "advice_items": [
-      {
-        "quote": "In androgenetic alopecia, microneedling, lasers, LLLT, and PRP have shown efficacy in increasing hair density and thickness.",
-        "advice": "При обсуждении лечения андрогенетической алопеции рассмотрите микронидлинг, лазерные методы, низкоинтенсивную светотерапию и PRP как возможные варианты воздействия на плотность и толщину волос. Сопоставляйте эти подходы с диагнозом и индивидуальной клинической ситуацией, не представляя их как взаимозаменяемые или гарантированно эффективные методы.",
-        "audience": "врач"
-      },
-      {
-        "quote": "For alopecia areata, contact immunotherapy, and combination therapies involving microneedling and lasers have demonstrated positive outcomes.",
-        "advice": "При очаговой алопеции учитывайте контактную иммунотерапию и описанные в обзоре комбинированные подходы с микронидлингом и лазерами. При выборе метода важно отличать данные для очаговой алопеции от результатов исследований при андрогенетическом выпадении волос.",
-        "audience": "врач"
-      },
-      {
-        "quote": "Limited studies on telogen effluvium suggest that microneedling and PRP can improve hair density.",
-        "advice": "При обсуждении микронидлинга или PRP для лечения телогенового выпадения объясните пациенту, что имеющиеся данные ограничены. Не следует обещать увеличение плотности волос или переносить результаты исследований при других видах алопеции на этот диагноз без дополнительных оснований.",
-        "audience": "врач"
-      }
-    ],
+    "advice_items": [],
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 56
+    "id": 55
   },
   {
     "pmid": "40625221",
@@ -3492,11 +3367,9 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 57
+    "id": 56
   },
   {
-    "pmid": "40627570",
-    "source": "PubMed",
     "article": "Addressing the Root Causes of Female Hair Loss and Non-Pharmaceutical Interventions.",
     "authors": [
       "Leavitt Adam",
@@ -3507,9 +3380,14 @@
       "Grekin Steven K",
       "Leavitt Matt"
     ],
-    "date": "2025-07-01",
     "journal": "Journal of drugs in dermatology : JDD",
     "doi": "10.36849/JDD.8763",
+    "abstract_en": "Female hair loss affects over 50% of postmenopausal women, with up to 40% of healthy women experiencing frontal/parietal hair loss, often beginning around reproductive age. Androgenetic alopecia is the most prevalent form of hair loss. Other types include alopecia areata, telogen effluvium, and scarring alopecias, such as lichen planopilaris and central centrifugal cicatricial alopecia. Hair loss can severely impact a woman's psychological well-being, yet treatments approved by the US Food and Drug Administration (FDA) remain limited to topical minoxidil and oral Janus kinase inhibitors. This manuscript reviews the multifaceted causes of female hair loss, hormonal imbalances, inflammation, nutrient deficiencies, aging, and oxidative stress, and explores non-pharmaceutical interventions. Saw palmetto, horsetail, and pumpkin seed oil, all of which inhibit 5&alpha;-reductase, show promise in promoting hair density and reducing hair follicle miniaturization. Curcumin has demonstrated anti-inflammatory effects, contributing to improved hair and scalp health. Nutritional deficiencies, particularly in iron, vitamin D, and essential minerals, also play a significant role in hair loss, underscoring the importance of a balanced diet and conservative supplementation. Avoiding excessive supplementation, especially with biotin, is recommended due to potential diagnostic test interferences. With increasing demand for non-pharmaceutical options, identifying natural, safe, and effective treatments for female hair loss is imperative. Further studies are needed to validate the efficacy and safety of these interventions.",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/40627570/",
+    "pmc_link": "",
+    "pmid": "40627570",
+    "source": "PubMed",
+    "date": "2025-07-01",
     "topic": "АГА",
     "topic_key": "aga",
     "topic_keys": [
@@ -3518,43 +3396,24 @@
     "topics": [
       "АГА"
     ],
-    "abstract_en": "Female hair loss affects over 50% of postmenopausal women, with up to 40% of healthy women experiencing frontal/parietal hair loss, often beginning around reproductive age. Androgenetic alopecia is the most prevalent form of hair loss. Other types include alopecia areata, telogen effluvium, and scarring alopecias, such as lichen planopilaris and central centrifugal cicatricial alopecia. Hair loss can severely impact a woman's psychological well-being, yet treatments approved by the US Food and Drug Administration (FDA) remain limited to topical minoxidil and oral Janus kinase inhibitors. This manuscript reviews the multifaceted causes of female hair loss, hormonal imbalances, inflammation, nutrient deficiencies, aging, and oxidative stress, and explores non-pharmaceutical interventions. Saw palmetto, horsetail, and pumpkin seed oil, all of which inhibit 5&alpha;-reductase, show promise in promoting hair density and reducing hair follicle miniaturization. Curcumin has demonstrated anti-inflammatory effects, contributing to improved hair and scalp health. Nutritional deficiencies, particularly in iron, vitamin D, and essential minerals, also play a significant role in hair loss, underscoring the importance of a balanced diet and conservative supplementation. Avoiding excessive supplementation, especially with biotin, is recommended due to potential diagnostic test interferences. With increasing demand for non-pharmaceutical options, identifying natural, safe, and effective treatments for female hair loss is imperative. Further studies are needed to validate the efficacy and safety of these interventions.",
-    "article_link": "https://pubmed.ncbi.nlm.nih.gov/40627570/",
-    "pmc_link": "",
     "html_available": false,
     "html_link": "",
-    "title_ru": "Причины выпадения волос у женщин и немедикаментозные способы поддержки роста волос",
+    "title_ru": "Немедикаментозная поддержка волос у женщин: сереноа, хвощ, тыквенное масло; осторожнее с биотином",
     "patient_plain": "",
-    "patient_use": "При выпадении волос полезно обсудить с врачом возможные причины и необходимость проверки уровня железа и витамина D, а не начинать приём добавок наугад. Растительные средства не следует считать доказанной заменой стандартному лечению: имеющиеся данные пока не позволяют уверенно оценить их эффективность и безопасность. Сообщайте врачу о приёме биотина и других добавок, поскольку они могут искажать результаты некоторых лабораторных исследований.",
-    "practical_use": "При обследовании женщины с выпадением волос важно учитывать не только андрогенетическую алопецию, но и телогеновое выпадение, очаговую алопецию и рубцовые формы, а также возможные дефициты питательных веществ и гормональные факторы. Проверку железа и витамина D следует рассматривать с учётом клинической картины, не предполагая дефицит у каждой пациентки. При обсуждении растительных средств необходимо разграничивать предварительные данные об эффективности и подтверждённые клинические результаты, а также уточнять приём биотина перед лабораторной диагностикой.",
-    "summary": "Обзор посвящён причинам выпадения волос у женщин — андрогенетической алопеции, гормональным изменениям, воспалению и дефицитам питательных веществ — и немедикаментозным способам поддержки роста.\n\nАвторы отмечают потенциальную пользу пальмы сереноа, хвоща, масла семян тыквы и куркумина, а также коррекцию дефицитов железа и витамина D; отдельно предупреждают о риске искажения лабораторных анализов при избытке биотина. В представленном тексте нет количественных результатов клинических исследований этих средств.\n\nЭффективность и безопасность таких вмешательств требуют дополнительного подтверждения.",
-    "_reason": "Статья полезна для обсуждения причин женского выпадения волос, возможных пищевых дефицитов и рисков бесконтрольного приёма добавок. Её практическая ценность особенно связана с предупреждением о влиянии биотина на лабораторные анализы и с разграничением перспективных растительных средств и методов с подтверждённой эффективностью.",
-    "why_read": "Обзор стоит прочитать дерматологам и врачам, обследующим женщин с выпадением волос, а также пациенткам, рассматривающим немедикаментозные варианты. Он помогает сформулировать вопросы о диагностике дефицитов, безопасности добавок и доказательности растительных средств, но не заменяет клинические рекомендации по лечению алопеции.",
+    "patient_use": "Из этого обзора имеет смысл обсуждать не «БАДы вообще», а конкретно сереноа, хвощ и масло семян тыквы как растительные кандидаты с заявленным влиянием на 5α-редуктазу — плюс проверку железа и витамина D. Не наращивайте биотин «на всякий случай»: авторы предупреждают о вмешательстве в анализы. Дозы в абстракте не даны — режим только после разбора состава с врачом.",
+    "practical_use": "Якоря из текста: saw palmetto, horsetail, pumpkin seed oil; iron/vitamin D assessment; avoid excess biotin (lab interference). Нет мг/% в абстракте — не выдумывать дозы; при интересе к сереноа отсылать к РКИ с 160 мг (SEREVELLE и родственные). Позиционировать как adjunct, не как замену миноксидилу.",
+    "summary": "Обзор (абстракт) причин женского выпадения и немедикаментозной поддержки: окислительный стресс, воспаление, дефициты.\n\nКак перспективные ингибиторы 5α-редуктазы авторы называют saw palmetto (сереноа), horsetail (хвощ) и pumpkin seed oil (масло семян тыквы) — в контексте плотности и уменьшения выпадения. Отдельно подчёркивают роль дефицита железа, витамина D и минералов и осторожное, а не избыточное, добавление нутриентов.\n\nЛишний биотин не рекомендуют из‑за риска искажения лабораторных тестов. Полных доз и схем в доступном абстракте нет.",
+    "_reason": "Имена средств из абстракта; доз нет.",
+    "why_read": "Список немедикаментозных якорей.",
     "limitations": [
-      "Further studies are needed to validate the efficacy and safety of these interventions.",
-      "treatments approved by the US Food and Drug Administration (FDA) remain limited to topical minoxidil and oral Janus kinase inhibitors."
+      "abstract-only",
+      "no doses"
     ],
-    "advice_items": [
-      {
-        "quote": "Avoiding excessive supplementation, especially with biotin, is recommended due to potential diagnostic test interferences.",
-        "advice": "Перед лабораторными исследованиями уточняйте у пациентки приём биотина и других добавок. Учитывайте возможность искажения результатов анализов и при необходимости согласуйте с лабораторией подготовку к исследованию. Не рекомендуйте бесконтрольный приём высоких доз биотина для лечения выпадения волос.",
-        "audience": "врач"
-      },
-      {
-        "quote": "Nutritional deficiencies, particularly in iron, vitamin D, and essential minerals, also play a significant role in hair loss, underscoring the importance of a balanced diet and conservative supplementation.",
-        "advice": "При сборе анамнеза выясняйте особенности питания и возможные факторы риска дефицитов. Решение о лабораторной проверке железа и витамина D принимайте с учётом симптомов и клинической ситуации. Коррекцию подтверждённых дефицитов отличайте от эмпирического назначения добавок без установленных показаний.",
-        "audience": "врач"
-      },
-      {
-        "quote": "Saw palmetto, horsetail, and pumpkin seed oil, all of which inhibit 5&alpha;-reductase, show promise in promoting hair density and reducing hair follicle miniaturization.",
-        "advice": "Если пациентка интересуется пальмой сереноа, хвощом или маслом семян тыквы, объясните, что авторы рассматривают их как перспективные средства, а не как окончательно доказанное лечение. Обсудите неопределённость эффективности и безопасности и не допускайте автоматической замены ими стандартной терапии.",
-        "audience": "врач"
-      }
-    ],
-    "importance_stars": 5,
-    "importance_mark": "★★★★★",
+    "advice_items": [],
+    "importance_stars": 4,
+    "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 58
+    "id": 57
   },
   {
     "pmid": "40654550",
@@ -3610,7 +3469,7 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 59
+    "id": 58
   },
   {
     "pmid": "40568688",
@@ -3673,7 +3532,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 60
+    "id": 59
   },
   {
     "pmid": "40446910",
@@ -3731,7 +3590,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 61
+    "id": 60
   },
   {
     "pmid": "40343723",
@@ -3786,64 +3645,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 62
-  },
-  {
-    "pmid": "40345536",
-    "source": "PubMed",
-    "article": "Antiandrogen therapy for the treatment of female pattern hair loss: A clinical review of current and emerging therapies.",
-    "authors": [
-      "Ong Michael M",
-      "Avram Marc",
-      "McMichael Amy",
-      "Tosti Antonella",
-      "Lipner Shari R"
-    ],
-    "date": "2025-05-08",
-    "journal": "Journal of the American Academy of Dermatology",
-    "doi": "10.1016/j.jaad.2025.04.074",
-    "topic": "АГА",
-    "topic_key": "aga",
-    "topic_keys": [
-      "aga"
-    ],
-    "topics": [
-      "АГА"
-    ],
-    "abstract_en": "Androgenetic alopecia is the most common hair loss type in women, but topical minoxidil is the only Food and Drug Administration-approved treatment option. The pathophysiology involves shortened anagen phases, lengthened telogen phases, and hair follicle miniaturization. Androgens, particularly dihydrotestosterone, play a crucial role in male androgenetic alopecia pathogenesis, but their exact role in female pattern hair loss is unclear. Oral antiandrogens demonstrate some efficacy in women, albeit with considerations for side effects and contraindications. Topical antiandrogens may be used in combination with topical minoxidil or as alternatives to oral medications, likely with fewer systemic adverse effects. Patient-specific factors, including age, signs of hyperandrogenism, or need for contraception may help determine which antiandrogen therapy is most appropriate. This review focuses on current antiandrogen treatments for female pattern hair loss available in the United States and their limitations, as well as emerging treatments that are investigational, studied in other hair loss types, or available in other countries.",
-    "article_link": "https://pubmed.ncbi.nlm.nih.gov/40345536/",
-    "pmc_link": "",
-    "html_available": false,
-    "html_link": "",
-    "title_ru": "Антиандрогенная терапия женского выпадения волос: обзор существующих и перспективных методов лечения",
-    "patient_plain": "",
-    "patient_use": "При выборе лечения важно учитывать не только выраженность выпадения волос, но и возраст, признаки избытка андрогенов и потребность в контрацепции. Обсудите с дерматологом, подходят ли вам антиандрогенные препараты и какие побочные эффекты и противопоказания необходимо учитывать. Наружные средства могут вызывать меньше системных нежелательных эффектов, чем препараты для приёма внутрь, однако это не означает, что они полностью лишены рисков.",
-    "practical_use": "При обсуждении терапии женской андрогенетической алопеции следует учитывать, что роль андрогенов в её развитии изучена менее определённо, чем при мужской форме заболевания. Пероральные антиандрогены могут быть эффективны, но требуют оценки противопоказаний и побочных эффектов; наружные препараты можно рассматривать как дополнение к миноксидилу или альтернативу системной терапии. Возраст, признаки гиперандрогении и потребность в контрацепции помогают индивидуализировать выбор препарата. Экспериментальные средства и препараты, изученные при других типах алопеции или доступные только в отдельных странах, следует отличать от методов с установленным статусом применения.",
-    "summary": "Обзор рассматривает антиандрогенные методы лечения женской андрогенетической алопеции — состояния с постепенным уменьшением фолликулов и изменением циклов роста волос. Единственным одобренным FDA методом для этого состояния остаётся наружный миноксидил.\n\nПероральные антиандрогены могут помогать части женщин; наружные антиандрогены рассматриваются как дополнение к миноксидилу или альтернатива системным препаратам. Выбор зависит от возраста, признаков гиперандрогении и потребности в контрацепции.\n\nТочная роль андрогенов в женском выпадении неясна, а часть методов исследовательская или применяется при других состояниях.",
-    "_reason": "Обзор полезен для выбора индивидуальной терапии женской андрогенетической алопеции и обсуждения альтернатив миноксидилу. Он подчёркивает необходимость учитывать противопоказания и побочные эффекты системных антиандрогенов, а также различать применяемые и исследуемые методы лечения.",
-    "why_read": "Статья будет полезна женщинам с андрогенетической алопецией, которые обсуждают с дерматологом варианты лечения помимо миноксидила или дополнительно к нему. Врачам она поможет структурировать выбор антиандрогенной терапии с учётом клинических особенностей пациентки и ограничений доказательной базы.",
-    "limitations": [
-      "their exact role in female pattern hair loss is unclear",
-      "Oral antiandrogens demonstrate some efficacy in women",
-      "likely with fewer systemic adverse effects",
-      "investigational, studied in other hair loss types, or available in other countries"
-    ],
-    "advice_items": [
-      {
-        "quote": "Patient-specific factors, including age, signs of hyperandrogenism, or need for contraception may help determine which antiandrogen therapy is most appropriate.",
-        "advice": "При выборе антиандрогенной терапии учитывайте возраст пациентки, наличие признаков гиперандрогении и потребность в контрацепции. Эти факторы следует обсудить до выбора конкретного препарата, поскольку они влияют на оценку уместности лечения и связанных с ним рисков.",
-        "audience": "врач"
-      },
-      {
-        "quote": "Topical antiandrogens may be used in combination with topical minoxidil or as alternatives to oral medications, likely with fewer systemic adverse effects.",
-        "advice": "Обсудите с дерматологом возможность наружной антиандрогенной терапии в дополнение к миноксидилу или вместо системных препаратов. При сравнении вариантов важно учитывать потенциально меньший риск системных побочных эффектов, не предполагая при этом полного отсутствия нежелательных реакций.",
-        "audience": "пациент"
-      }
-    ],
-    "importance_stars": 5,
-    "importance_mark": "★★★★★",
-    "take": "keep",
-    "id": 63
+    "id": 61
   },
   {
     "pmid": "40327110",
@@ -3900,7 +3702,7 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 64
+    "id": 62
   },
   {
     "pmid": "40386829",
@@ -3968,7 +3770,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 65
+    "id": 63
   },
   {
     "pmid": "40289757",
@@ -4038,7 +3840,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 66
+    "id": 64
   },
   {
     "pmid": "40365252",
@@ -4101,7 +3903,7 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 67
+    "id": 65
   },
   {
     "pmid": "40253006",
@@ -4175,7 +3977,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 68
+    "id": 66
   },
   {
     "pmid": "40216195",
@@ -4229,7 +4031,7 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 69
+    "id": 67
   },
   {
     "pmid": "40194956",
@@ -4295,7 +4097,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 70
+    "id": 68
   },
   {
     "pmid": "40278661",
@@ -4355,7 +4157,7 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 71
+    "id": 69
   },
   {
     "pmid": "40127098",
@@ -4416,7 +4218,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 72
+    "id": 70
   },
   {
     "pmid": "40122142",
@@ -4485,7 +4287,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 73
+    "id": 71
   },
   {
     "pmid": "40097761",
@@ -4537,7 +4339,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 74
+    "id": 72
   },
   {
     "pmid": "40083615",
@@ -4600,7 +4402,7 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 75
+    "id": 73
   },
   {
     "pmid": "40056230",
@@ -4666,7 +4468,7 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 76
+    "id": 74
   },
   {
     "pmid": "40168567",
@@ -4729,7 +4531,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 77
+    "id": 75
   },
   {
     "pmid": "40127493",
@@ -4788,7 +4590,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 78
+    "id": 76
   },
   {
     "pmid": "40043269",
@@ -4843,7 +4645,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 79
+    "id": 77
   },
   {
     "pmid": "40019613",
@@ -4898,7 +4700,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 80
+    "id": 78
   },
   {
     "pmid": "40014580",
@@ -4957,7 +4759,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 81
+    "id": 79
   },
   {
     "pmid": "39412172",
@@ -5013,7 +4815,7 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 82
+    "id": 80
   },
   {
     "pmid": "39991105",
@@ -5072,59 +4874,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "skim",
-    "id": 83
-  },
-  {
-    "pmid": "39961870",
-    "source": "PubMed",
-    "article": "Approaches to management of endocrine therapy-induced alopecia in breast cancer patients.",
-    "authors": [
-      "Nguyen Michelle",
-      "Kraft Shawna"
-    ],
-    "date": "2025-02-17",
-    "journal": "Supportive care in cancer : official journal of the Multinational Association of Supportive Care in Cancer",
-    "doi": "10.1007/s00520-025-09258-3",
-    "topic": "АГА",
-    "topic_key": "aga",
-    "topic_keys": [
-      "aga"
-    ],
-    "topics": [
-      "АГА"
-    ],
-    "abstract_en": "Alopecia associated with use of endocrine therapy is an underreported adverse effect despite its significant impact on a patient's quality of life. There is a lack of published evidence for the treatment and management of endocrine therapy-induced alopecia (EIA). Current therapeutic strategies for EIA in breast cancer patients primarily include pharmacologic agents for androgenic alopecia given the similar underlying pathophysiology and clinical presentation of hair loss of EIA and other causes of alopecia. This review aims to summarize select prescription and non-prescription agents (i.e., over-the-counter products, nutraceuticals, dietary supplements) that may be used for EIA including general efficacy and safety. Further studies are needed in the breast cancer population to better understand the place in therapy and efficacy of these pharmacologic agents for EIA.",
-    "article_link": "https://pubmed.ncbi.nlm.nih.gov/39961870/",
-    "pmc_link": "",
-    "html_available": false,
-    "html_link": "",
-    "title_ru": "Как лечить выпадение волос на фоне эндокринной терапии рака молочной железы",
-    "patient_plain": "",
-    "patient_use": "Если волосы стали заметно редеть во время эндокринной терапии, стоит сообщить об этом лечащему онкологу и обсудить возможные способы коррекции. Не следует самостоятельно начинать приём добавок или использовать препараты от выпадения волос без проверки их безопасности с учётом лечения рака молочной железы. Важно понимать, что средства, применяемые при других формах алопеции, не обязательно обладают доказанной эффективностью в этой ситуации.",
-    "practical_use": "При обсуждении выпадения волос на фоне эндокринной терапии врачу следует учитывать влияние этого побочного эффекта на качество жизни пациентки и не оставлять жалобу без внимания. Препараты для лечения андрогенетической алопеции и безрецептурные средства можно рассматривать как потенциальные варианты, но необходимо критически оценивать доказательства их эффективности и безопасности в популяции пациенток с раком молочной железы. При выборе подхода важно учитывать противоопухолевое лечение и потенциальные риски сопутствующих препаратов и добавок.",
-    "summary": "Обзор рассматривает лекарственные и безрецептурные средства, нутрицевтики и пищевые добавки при выпадении волос, вызванном эндокринной терапией рака молочной железы. Такое выпадение заметно влияет на качество жизни, но о нём часто сообщают недостаточно.\n\nСуществующие подходы во многом опираются на препараты для андрогенетической алопеции из-за сходства клинических проявлений и предполагаемых механизмов.\n\nГлавное ограничение — мало опубликованных данных об эффективности и безопасности этих средств именно у пациенток с раком молочной железы.",
-    "_reason": "Обзор важен для практики, поскольку рассматривает побочный эффект противоопухолевой терапии, способный существенно ухудшать качество жизни пациенток. Он помогает определить направления для обсуждения лечения выпадения волос, но не устанавливает доказанную эффективность конкретных средств в этой группе и подчёркивает необходимость дальнейших исследований.",
-    "why_read": "Статья полезна онкологам, дерматологам и другим специалистам, которые консультируют пациенток с раком молочной железы по поводу выпадения волос на фоне эндокринной терапии. Её также стоит прочитать для понимания ограничений самостоятельного применения средств от алопеции и пищевых добавок в период противоопухолевого лечения.",
-    "limitations": [
-      "There is a lack of published evidence for the treatment and management of endocrine therapy-induced alopecia (EIA).",
-      "Further studies are needed in the breast cancer population to better understand the place in therapy and efficacy of these pharmacologic agents for EIA."
-    ],
-    "advice_items": [
-      {
-        "quote": "Current therapeutic strategies for EIA in breast cancer patients primarily include pharmacologic agents for androgenic alopecia given the similar underlying pathophysiology and clinical presentation of hair loss of EIA and other causes of alopecia.",
-        "advice": "При выборе подхода к лечению выпадения волос на фоне эндокринной терапии можно учитывать препараты, применяемые при андрогенетической алопеции, однако сходство клинических проявлений само по себе не подтверждает их эффективность в данной группе. Следует отдельно оценивать безопасность каждого средства с учётом лечения рака молочной железы.",
-        "audience": "врач"
-      },
-      {
-        "quote": "Further studies are needed in the breast cancer population to better understand the place in therapy and efficacy of these pharmacologic agents for EIA.",
-        "advice": "При обсуждении вариантов лечения объясняйте пациентке, что доказательства эффективности препаратов от выпадения волос непосредственно у пациенток с раком молочной железы пока ограничены. Не представляйте потенциальные варианты как гарантированно эффективные и проверяйте безопасность лекарств и добавок с учётом текущей противоопухолевой терапии.",
-        "audience": "врач"
-      }
-    ],
-    "importance_stars": 5,
-    "importance_mark": "★★★★★",
-    "take": "keep",
-    "id": 84
+    "id": 81
   },
   {
     "pmid": "39948731",
@@ -5179,7 +4929,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 85
+    "id": 82
   },
   {
     "pmid": "39954138",
@@ -5247,11 +4997,9 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 86
+    "id": 83
   },
   {
-    "pmid": "40006064",
-    "source": "PubMed",
     "article": "Association of Myo-Inositol and Microlipodispersed Magnesium in Androgen-Dependent Dermatological Diseases: A Retrospective Study.",
     "authors": [
       "Pezza Michele",
@@ -5264,9 +5012,14 @@
       "Citi Valentina",
       "Colletti Alessandro"
     ],
-    "date": "2025-02-13",
     "journal": "Pharmaceuticals (Basel, Switzerland)",
     "doi": "10.3390/ph18020251",
+    "abstract_en": "Background: Acne is a pathology of the pilosebaceous unit. It is characterized by a highly complex etiopathology which includes inflammation, hyperkeratinization, increased sebum production, colonization of Cutibacterium acne, hyperandrogenemia, and hyperinsulinemia. This condition, together with hirsutism, androgenic alopecia, and acanthosis nigricans, are highly prevalent cutaneous manifestations of the polycystic ovary syndrome (PCOS). While conventional therapies represent effective treatment options, they are not free from side effects which may reduce compliance. In this context, considerable attention has been directed toward nutraceutical supplements, which include different molecules with great potential to reduce inflammation, hyperkeratinization, hyperseborrhea, and hyperinsulinemia. Myo-inositol has been shown to be effective in improving some of the signs and symptoms of patients with microcystic ovaries: reducing body mass index (BMI), testosterone free levels, dehydroepiandrosterone sulfate (DHEAS) levels, and improving ovarian function and insulin sensitivity. Methods: The authors conducted a retrospective study that included 200 patients suffering from PCOS. Over 6 months, they analyzed the effects of the supplementation of LEVIGON™ (Sanitpharma; Milan, Italy)-a specific nutraceutical formulation containing myo-inositol, microlipodispersed magnesium, and folic acid-on the clinical picture of acne and hirsutism. Results: The supplementation of LEVIGON™ showed a significant reduction of BMI, testosterone, testosterone free, and DHEAS levels, thus improving the clinical picture of acne and hirsutism. Moreover, the impact of acne on the quality of life, assessed using the Cardiff Acne Disability Index (CADI) and Dermatology Life Quality Index (DLQI) scale, improved significantly after 3 and 6 months. Women with hirsutism benefited also from a significant improvement of the Ferriman-Gallwey score after both 3 and 6 months (p < 0.0001; p < 0.0001 respectively compared to the baseline). Conclusions: Myo-inositol supplementation, associated with microlipodispersed magnesium in a bioaccessible form, proved to be extremely useful in reducing acne and hirsutism in patients suffering from microcystic ovaries. In addition, there were no side effects, thus confirming excellent compliance. Further long-term randomized clinical trials are needed to confirm this preliminary evidence.",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/40006064/",
+    "pmc_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11859446/",
+    "pmid": "40006064",
+    "source": "PubMed",
+    "date": "2025-02-13",
     "topic": "АГА",
     "topic_key": "aga",
     "topic_keys": [
@@ -5275,40 +5028,25 @@
     "topics": [
       "АГА"
     ],
-    "abstract_en": "Background: Acne is a pathology of the pilosebaceous unit. It is characterized by a highly complex etiopathology which includes inflammation, hyperkeratinization, increased sebum production, colonization of Cutibacterium acne, hyperandrogenemia, and hyperinsulinemia. This condition, together with hirsutism, androgenic alopecia, and acanthosis nigricans, are highly prevalent cutaneous manifestations of the polycystic ovary syndrome (PCOS). While conventional therapies represent effective treatment options, they are not free from side effects which may reduce compliance. In this context, considerable attention has been directed toward nutraceutical supplements, which include different molecules with great potential to reduce inflammation, hyperkeratinization, hyperseborrhea, and hyperinsulinemia. Myo-inositol has been shown to be effective in improving some of the signs and symptoms of patients with microcystic ovaries: reducing body mass index (BMI), testosterone free levels, dehydroepiandrosterone sulfate (DHEAS) levels, and improving ovarian function and insulin sensitivity. Methods: The authors conducted a retrospective study that included 200 patients suffering from PCOS. Over 6 months, they analyzed the effects of the supplementation of LEVIGON™ (Sanitpharma; Milan, Italy)-a specific nutraceutical formulation containing myo-inositol, microlipodispersed magnesium, and folic acid-on the clinical picture of acne and hirsutism. Results: The supplementation of LEVIGON™ showed a significant reduction of BMI, testosterone, testosterone free, and DHEAS levels, thus improving the clinical picture of acne and hirsutism. Moreover, the impact of acne on the quality of life, assessed using the Cardiff Acne Disability Index (CADI) and Dermatology Life Quality Index (DLQI) scale, improved significantly after 3 and 6 months. Women with hirsutism benefited also from a significant improvement of the Ferriman-Gallwey score after both 3 and 6 months (p < 0.0001; p < 0.0001 respectively compared to the baseline). Conclusions: Myo-inositol supplementation, associated with microlipodispersed magnesium in a bioaccessible form, proved to be extremely useful in reducing acne and hirsutism in patients suffering from microcystic ovaries. In addition, there were no side effects, thus confirming excellent compliance. Further long-term randomized clinical trials are needed to confirm this preliminary evidence.",
-    "article_link": "https://pubmed.ncbi.nlm.nih.gov/40006064/",
-    "pmc_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11859446/",
     "html_available": true,
     "html_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11859446/",
-    "title_ru": "Мио-инозитол с магнием при акне и гирсутизме у женщин с синдромом поликистозных яичников: ретроспективное исследование",
+    "title_ru": "LEVIGON (мио-инозитол 2 г + Mg 56,25 мг + фолиевая 200 мкг) при акне и гирсутизме у СПКЯ",
     "patient_plain": "",
-    "patient_use": "Если акне или избыточный рост волос сочетаются с синдромом поликистозных яичников, стоит обсудить с врачом возможную связь этих симптомов с повышенным уровнем андрогенов и нарушением чувствительности к инсулину. Исследование даёт предварительные основания рассматривать мио-инозитол в составе комплексной добавки как возможный вариант коррекции проявлений СПКЯ, но не доказывает, что такой эффект обеспечивается именно им или магнием по отдельности. Отсутствие побочных эффектов у участниц этого исследования не гарантирует такой же переносимости у каждого человека.",
-    "practical_use": "При ведении пациенток с СПКЯ и акне или гирсутизмом следует учитывать возможную связь кожных проявлений с гиперандрогенией и инсулинорезистентностью. В ретроспективном исследовании на фоне шестимесячного приёма комбинации мио-инозитола, микролиподисперсного магния и фолиевой кислоты улучшились клинические проявления и показатели, связанные с андрогенами, а качество жизни при акне повысилось через три и шесть месяцев. Эти результаты можно использовать для обсуждения потенциальной дополнительной терапии, но не как доказательство превосходства добавки над стандартным лечением. При интерпретации важно учитывать отсутствие рандомизированного контролируемого дизайна и необходимость дальнейшего изучения долгосрочной эффективности и безопасности.",
-    "summary": "В ретроспективном исследовании 200 женщин с синдромом поликистозных яичников шесть месяцев принимали добавку LEVIGON™ с мио-инозитолом, микролиподисперсным магнием и фолиевой кислотой.\n\nАвторы сообщили о снижении индекса массы тела, общего и свободного тестостерона и ДГЭА-С, уменьшении акне и улучшении качества жизни по шкалам CADI и DLQI, а также о снижении оценки гирсутизма по шкале Ферримана — Голлвея через три и шесть месяцев. Побочные эффекты не отмечались.\n\nРетроспективный дизайн не позволяет уверенно установить причинно-следственную связь, вклад отдельных компонентов или долгосрочную эффективность; нужны рандомизированные клинические исследования.",
-    "_reason": "Статья рассматривает практический вопрос коррекции акне и гирсутизма у женщин с СПКЯ с помощью комплексной добавки и сообщает об улучшении кожных проявлений, качества жизни и ряда гормональных показателей. Результаты предварительные: ретроспективный дизайн не позволяет установить причинность, а отсутствие побочных эффектов в этой группе не подтверждает долгосрочную безопасность.",
-    "why_read": "Материал полезен дерматологам и гинекологам, которые ведут пациенток с СПКЯ, акне и гирсутизмом, а также пациенткам, желающим понять, какие результаты получены при использовании мио-инозитола в составе комбинированной добавки. Особенно стоит обратить внимание на сроки оценки изменений — три и шесть месяцев — и на ограничения доказательств перед обсуждением такого подхода.",
+    "patient_use": "При СПКЯ с акне/гирсутизмом ориентир из статьи — LEVIGON: 2 стика × 2 раза в день 6 месяцев (мио-инозитол 2 г + Mg 56,25 мг + фолиевая 200 мкг на приём по составу продукта). Не заменяет дерматологическое лечение выпадения волос на голове. Спросите эндокринолога/гинеколога, подходит ли мио-инозитол и как контролировать гормоны и кожу.",
+    "practical_use": "Режим: LEVIGON 2 sticks BID × 6 мес (myo-inositol 2 g + Mg 56.25 mg + folic 200 mcg). Исходы — DHEAS/тестостерон, акне, гирсутизм; не hair density при АГА. Отделять от терапии скальпа; учитывать ретроспективный дизайн.",
+    "summary": "Ретроспектива 200 женщин с СПКЯ/микрокистозными яичниками: 6 месяцев LEVIGON™ (Sanitpharma) — 2 стика два раза в день. В стике: 2 г мио-инозитола, 56,25 мг микролиподисперсного магния, 200 мкг фолиевой кислоты.\n\nУже к 3 месяцам снижались DHEAS и тестостерон; авторы сообщают пользу при акне и гирсутизме на фоне снижения инсулинорезистентности.\n\nЭто не лечение АГА само по себе, а коррекция андрогенных симптомов СПКЯ конкретным мио-инозитольным комплексом.",
+    "_reason": "Доза LEVIGON и исходы по андрогенам/коже.",
+    "why_read": "Мио-инозитол при СПКЯ с цифрами.",
     "limitations": [
-      "a retrospective study",
-      "included 200 patients suffering from PCOS",
-      "Over 6 months",
-      "Further long-term randomized clinical trials are needed to confirm this preliminary evidence."
+      "retrospective",
+      "not AGA hair-count endpoint",
+      "brand"
     ],
-    "advice_items": [
-      {
-        "quote": "Lifestyle changes represent the first-line intervention measures in the management of PCOS.",
-        "advice": "При обсуждении лечения СПКЯ учитывайте изменение образа жизни как основу ведения пациентки. В статье отдельно упоминаются физическая активность, питание с учётом индивидуальных энергетических потребностей и снижение веса при его избытке. Добавки следует рассматривать в контексте комплексного подхода, а не как замену этим мерам.",
-        "audience": "врач"
-      },
-      {
-        "quote": "Given the high prevalence of IR in women with PCOS, early recognition, management, and accurate screening are necessary to offer important preventive measures.",
-        "advice": "При ведении пациенток с СПКЯ учитывайте риск инсулинорезистентности и связанных с ней метаболических нарушений. Оценку метаболического состояния следует включать в клиническое ведение с учётом индивидуальных факторов риска. Кожные проявления могут быть поводом для более широкого обсуждения состояния здоровья, а не только местного лечения акне.",
-        "audience": "врач"
-      }
-    ],
+    "advice_items": [],
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 87
+    "id": 84
   },
   {
     "pmid": "39997270",
@@ -5362,7 +5100,7 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 88
+    "id": 85
   },
   {
     "pmid": "39921108",
@@ -5435,7 +5173,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 89
+    "id": 86
   },
   {
     "pmid": "40110814",
@@ -5476,7 +5214,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 90
+    "id": 87
   },
   {
     "pmid": "39963025",
@@ -5531,7 +5269,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 91
+    "id": 88
   },
   {
     "pmid": "40117614",
@@ -5592,7 +5330,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 92
+    "id": 89
   },
   {
     "pmid": "39840856",
@@ -5651,7 +5389,7 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 93
+    "id": 90
   },
   {
     "pmid": "39867973",
@@ -5704,7 +5442,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "skim",
-    "id": 94
+    "id": 91
   },
   {
     "pmid": "39944453",
@@ -5768,7 +5506,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 95
+    "id": 92
   },
   {
     "pmid": "40034971",
@@ -5827,10 +5565,10 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 96
+    "id": 93
   },
   {
-    "id": 97,
+    "id": 94,
     "pmid": "39679573",
     "source": "PubMed",
     "article": "Clinical Safety and Efficacy of Dual Wavelength Low-Level Light Therapy in Androgenetic Alopecia: A Double-Blind Randomized Controlled Study.",
@@ -5931,7 +5669,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 98
+    "id": 95
   },
   {
     "pmid": "39521141",
@@ -5991,7 +5729,7 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 99
+    "id": 96
   },
   {
     "pmid": "39425514",
@@ -6060,10 +5798,10 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 100
+    "id": 97
   },
   {
-    "id": 101,
+    "id": 98,
     "pmid": "39404126",
     "source": "PubMed",
     "article": "Low-Level Laser and LED Therapy in Alopecia: A Systematic Review and Meta-Analysis.",
@@ -6167,7 +5905,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 102
+    "id": 99
   },
   {
     "pmid": "40212428",
@@ -6225,11 +5963,9 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 103
+    "id": 100
   },
   {
-    "pmid": "39911983",
-    "source": "PubMed",
     "article": "Oral Supplementation with l-Cystine, Serenoa repens, Cucurbita pepo, and Pygeum africanum in Chronic Telogen Effluvium and Androgenetic Alopecia: A Double-Blind, Placebo-Controlled, Randomized Clinical Study.",
     "authors": [
       "Piquero-Casals Jaime",
@@ -6243,9 +5979,14 @@
       "Mir-Bonafé Juan Francisco",
       "Morgado-Carrasco Daniel"
     ],
-    "date": "2024-07-26",
     "journal": "Skin appendage disorders",
     "doi": "10.1159/000540081",
+    "abstract_en": "INTRODUCTION: Chronic telogen effluvium (TE) and androgenetic alopecia represent two prevalent forms of hair loss that can significantly impact individuals' quality of life. Insufficiency of essential micronutrients has been associated with hair loss. The objective of this study was to evaluate the safety and efficacy of an oral supplement containing l-Cystine, Serenoa repens, Cucurbita pepo, Pygeum africanum, vitamins, and micronutrients in chronic TE (CTE) and androgenetic alopecia (AGA).\n\nMETHODS: Eighty patients of both sexes aged 18-60 years with CTE or AGA were randomized to receive one capsule daily of the oral supplement or placebo for 6 months. Dermatological evaluations, clinical pictures and phototrichograms were done at baseline, 3 months and 6 months. The overall hair volume and appearance were assessed before and after treatment as well as subject's self-assessment via standardized questionnaire.\n\nRESULTS: Hair density increased by 9.9 hairs/cm2 after 3 months and 12.3 hairs/cm2 after 6 months in the oral supplement group and it is statistically significant when compared to placebo. Overall hair volume after 1, 3, and 6 months is better in the supplement group than in the placebo group. The oral supplement was well tolerated. No moderate or severe adverse events were reported.\n\nCONCLUSION: Oral supplementation can increase hair density, anagen hairs, and overall hair appearance in patients with AGA or CTE.",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/39911983/",
+    "pmc_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11793890/",
+    "pmid": "39911983",
+    "source": "PubMed",
+    "date": "2024-07-26",
     "topic": "АГА",
     "topic_key": "aga",
     "topic_keys": [
@@ -6254,50 +5995,24 @@
     "topics": [
       "АГА"
     ],
-    "abstract_en": "INTRODUCTION: Chronic telogen effluvium (TE) and androgenetic alopecia represent two prevalent forms of hair loss that can significantly impact individuals' quality of life. Insufficiency of essential micronutrients has been associated with hair loss. The objective of this study was to evaluate the safety and efficacy of an oral supplement containing l-Cystine, Serenoa repens, Cucurbita pepo, Pygeum africanum, vitamins, and micronutrients in chronic TE (CTE) and androgenetic alopecia (AGA).\n\nMETHODS: Eighty patients of both sexes aged 18-60 years with CTE or AGA were randomized to receive one capsule daily of the oral supplement or placebo for 6 months. Dermatological evaluations, clinical pictures and phototrichograms were done at baseline, 3 months and 6 months. The overall hair volume and appearance were assessed before and after treatment as well as subject's self-assessment via standardized questionnaire.\n\nRESULTS: Hair density increased by 9.9 hairs/cm2 after 3 months and 12.3 hairs/cm2 after 6 months in the oral supplement group and it is statistically significant when compared to placebo. Overall hair volume after 1, 3, and 6 months is better in the supplement group than in the placebo group. The oral supplement was well tolerated. No moderate or severe adverse events were reported.\n\nCONCLUSION: Oral supplementation can increase hair density, anagen hairs, and overall hair appearance in patients with AGA or CTE.",
-    "article_link": "https://pubmed.ncbi.nlm.nih.gov/39911983/",
-    "pmc_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11793890/",
     "html_available": true,
     "html_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11793890/",
-    "title_ru": "Пероральная добавка с L-цистином, растительными экстрактами, витаминами и минералами при андрогенетической алопеции и хроническом телогеновом выпадении волос",
+    "title_ru": "Lambdapil 5 alfa plus при АГА и хроническом телогене: +12,3 волоса/см² за 6 месяцев",
     "patient_plain": "",
-    "patient_use": "Исследование показывает, что определённая многокомпонентная добавка может улучшать плотность и внешний вид волос при андрогенетической алопеции, однако результат относится к конкретной изученной формуле и не доказывает, что любой комплекс витаминов или растительных экстрактов даст такой же эффект. Если стандартное медикаментозное лечение не подходит или человек не хочет его использовать, можно обсудить с дерматологом возможность применения подобной добавки как альтернативного или дополнительного подхода. Улучшение оценивали через 3 и 6 месяцев, поэтому исследование не подтверждает мгновенного результата. При выборе средства важно учитывать, что исследование финансировал производитель изучаемой добавки.",
-    "practical_use": "При обсуждении лечения андрогенетической алопеции или хронического телогенового выпадения волос врач может рассмотреть данные об этой добавке как основание для разговора о дополнительном варианте поддержки, особенно если пациент отказывается от фармакотерапии или не может её применять. В исследовании использовали одну капсулу в день на протяжении 6 месяцев; прирост плотности волос в группе добавки составил 9,7 волоса/см² через 3 месяца и 11,6 волоса/см² через 6 месяцев у пациентов с андрогенетической алопецией. При интерпретации результатов необходимо учитывать небольшую выборку, объединение двух разных состояний выпадения волос и финансирование исследования производителем. Полученные данные не устанавливают эквивалентность добавки стандартной терапии и не позволяют переносить результаты на другие составы.",
-    "summary": "В двойном слепом рандомизированном плацебо-контролируемом исследовании 80 человек 18–60 лет обоих полов с андрогенетической алопецией или хроническим телогеновым выпадением волос шесть месяцев ежедневно принимали одну капсулу добавки с L-цистином, экстрактами Serenoa repens, Cucurbita pepo и Pygeum africanum, витаминами и минералами либо плацебо.\n\nВ группе добавки плотность волос увеличилась на 9,9 волоса/см² через 3 месяца и на 12,3 волоса/см² через 6 месяцев; число волос в фазе анагена также статистически значимо выросло по сравнению с плацебо. Авторы отметили улучшение объёма и внешнего вида волос; добавка хорошо переносилась, умеренных и тяжёлых нежелательных явлений не зарегистрировали.\n\nИсследование финансировал производитель добавки ISDIN, а выборка составляла 80 человек, поэтому результаты требуют осторожной интерпретации.",
-    "_reason": "Статья содержит количественные результаты плацебо-контролируемого исследования и описывает шестимесячную переносимость конкретной добавки при двух распространённых причинах выпадения волос. Она может помочь врачу и пациенту обсудить дополнительный вариант поддержки, но финансирование производителем и ограниченный размер выборки снижают уверенность в возможности широко переносить выводы на другие препараты и клинические ситуации.",
-    "why_read": "Статью стоит прочитать дерматологам, которые консультируют пациентов с андрогенетической алопецией или хроническим телогеновым выпадением волос и обсуждают немедикаментозные дополнения к лечению. Она также полезна пациентам, рассматривающим добавки для волос, поскольку приводит измеренные изменения плотности волос через 3 и 6 месяцев и позволяет отличить результаты клинического исследования от общих рекламных обещаний.",
+    "patient_use": "Если смотрите БАД, ориентир из этого РКИ — Lambdapil 5 alfa plus®, 1 капсула в день, курс около 3–6 месяцев, ожидание порядка +10–12 волос/см² к полугоду, а не «любая добавка с цистином». В капсуле заявлены L-цистин, сереноа, тыква, пигеум и витамины/минералы — сравнивайте состав на упаковке с этим, а не с рекламой «для волос». БАД не заменяет миноксидил/антиандрогены, если врач их уже назначил; обсудите совместимость.",
+    "practical_use": "Называть продукт: Lambdapil 5 alfa plus, 1 caps/day × 6 мес; первичный исход — hair density +12,3/см² к M6 vs placebo. Фиксировать фототрихограмму на 0/3/6 мес. Не экстраполировать на другие multi-ingredient капсулы. Уточнять фоновую терапию АГА у пациента при интерпретации эффекта.",
+    "summary": "Двойное слепое РКИ: 80 взрослых 18–60 лет с андрогенетической алопецией или хроническим телогеновым выпадением 6 месяцев ежедневно принимали одну капсулу Lambdapil 5 alfa plus® (ISDIN) или плацебо. Состав: L-цистин, Serenoa repens, Cucurbita pepo (тыква), Pygeum africanum, витамины и микронутриенты.\n\nПлотность волос выросла на 9,9 ± 1,1 волос/см² к 3 месяцам и на 12,3 ± 1,4 к 6 месяцам versus заметно меньший прирост на плацебо (4,4 и 1,5 волос/см²; p < 0,001). Улучшались и доля анагеновых волос, и субъективная оценка внешнего вида.\n\nЭто данные именно по Lambdapil 5 alfa plus, а не по «добавкам вообще»; часть участников могла параллельно использовать стандартную терапию АГА — перенос на другие бренды недопустим.",
+    "_reason": "Конкретный бренд, режим и цифры плотности.",
+    "why_read": "БАД с именем и исходом.",
     "limitations": [
-      "Eighty patients of both sexes aged 18-60 years with CTE or AGA",
-      "The study and the journal's service fee were funded by ISDIN, the manufacturer of the formulation under study.",
-      "Jaime Piquero-Casals is a consultant for ISDIN.",
-      "Sonia Aladren, Javier Bustos, Alfonso Fernández, Albert Navasa, Georgina Logusso, and Eric Jourdan are ISDIN employers.",
-      "David Saceda and Daniel Morgado-Carrasco have received honoraria from ISDIN."
+      "single brand",
+      "possible concomitant AGA therapy",
+      "industry product"
     ],
-    "advice_items": [
-      {
-        "quote": "Forty of them were randomized to receive the studied supplement and forty to receive placebo.",
-        "advice": "При обсуждении результата объясните пациенту, что добавку сравнивали с плацебо, а не только оценивали изменения у принимавших её людей. Это усиливает доказательность наблюдаемого эффекта, хотя выборка из 80 участников остаётся ограниченной.",
-        "audience": "врач"
-      },
-      {
-        "quote": "Eighty patients of both sexes aged 18-60 years with CTE or AGA were randomized to receive one capsule daily of the oral supplement or placebo for 6 months.",
-        "advice": "Если пациент рассматривает изученную добавку, обсудите, что в исследовании применяли конкретную формулу по одной капсуле в день на протяжении 6 месяцев. Не переносите полученные результаты автоматически на добавки с другим составом и не представляйте исследовательский режим как персональное назначение.",
-        "audience": "врач"
-      },
-      {
-        "quote": "The oral supplement was well tolerated. No moderate or severe adverse events were reported.",
-        "advice": "Сообщите пациенту, что в этом исследовании добавка хорошо переносилась и умеренных или тяжёлых нежелательных явлений не зарегистрировали. При этом такой результат не гарантирует отсутствия побочных эффектов у конкретного человека и не заменяет обсуждения состава средства и индивидуальных рисков.",
-        "audience": "врач"
-      },
-      {
-        "quote": "This oral supplement could be a treatment option for CTE and AGA management in patients who are not suitable for or decline pharmacological treatments, or could be used as an adjuvant therapy.",
-        "advice": "Пациенту можно предложить обсудить добавку как возможный дополнительный подход, если медикаментозное лечение не подходит или человек от него отказывается. Важно уточнить, что авторы рассматривают её как возможный вариант ведения, а исследование не доказывает, что она равноценна стандартной терапии или может заменить её во всех случаях.",
-        "audience": "врач"
-      }
-    ],
+    "advice_items": [],
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 104
+    "id": 101
   }
 ]
