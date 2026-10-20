@@ -297,12 +297,14 @@ const DATA_FILE = "articles.json";
 const PAGE_SIZE = 72;
 const TOPIC_SHORT = {
   aga:"АГА",
-  crs:"Хронический риносинусит"
+  crs:"Хронический риносинусит",
+  hyper:"Гипертрофия мышц"
 };
 const TOPIC_MERGE = {
   aga_drugs:"aga",
   aga_diagnosis:"aga",
-  crs_care:"crs"
+  crs_care:"crs",
+  hyper_women:"hyper"
 };
 function mapTopicKey(k){
   return TOPIC_MERGE[k]||k;
