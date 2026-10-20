@@ -209,7 +209,7 @@ a:hover{text-decoration:underline}
       <section class="hero">
         <div class="hero-kicker">PubMed</div>
         <h2>Что можно применить пациенту</h2>
-        <p>Каталог клинических статей. Пять звёзд — доза, эффект или риск, на которые можно опереться на приёме. Это пересказ исследований, не схема лечения.</p>
+        <p>Каталог клинических статей</p>
         <div class="stats">
           <div class="stat"><div class="num" id="statCatalog">—</div><div class="lbl">во всём каталоге</div></div>
         </div>
@@ -299,12 +299,14 @@ const TOPIC_SHORT = {
   aga: "АГА",
   crs: "Хронический риносинусит",
   hyper: "Гипертрофия мышц",
+  cox: "Коксартроз",
 };
 const TOPIC_MERGE = {
-  aga_drugs:"aga",
-  aga_diagnosis:"aga",
-  crs_care:"crs",
-  hyper_women:"hyper"
+  aga_drugs: "aga",
+  aga_diagnosis: "aga",
+  crs_care: "crs",
+  hyper_women: "hyper",
+  coxarthrosis: "cox",
 };
 function mapTopicKey(k){
   return TOPIC_MERGE[k]||k;
