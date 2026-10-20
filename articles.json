@@ -556,6 +556,74 @@
     "id": 9
   },
   {
+    "id": 10,
+    "pmid": "42514369",
+    "source": "PubMed",
+    "article": "Diet, Nutrition, and Rhinosinusitis: A Systematic Review of Dietary Interventions and Exposures.",
+    "authors": [
+      "Martinez Cenorina",
+      "Sitkowski Emily M",
+      "Martinez Maria E",
+      "Martinez Esbeyda",
+      "Patel Priyali N",
+      "Walsh Hannah L",
+      "Khalili Sammy"
+    ],
+    "date": "2026-07-14",
+    "journal": "Nutrients",
+    "doi": "10.3390/nu18142299",
+    "topic": "Хронический риносинусит",
+    "topic_key": "crs",
+    "topic_keys": [
+      "crs"
+    ],
+    "topics": [
+      "Хронический риносинусит"
+    ],
+    "abstract_en": "Background/Objectives: Rhinosinusitis (RS) is a prevalent inflammatory condition with substantial morbidity and variable response to standard therapies. Diet is a modifiable determinant of systemic inflammation, yet its role in sinonasal disease remains incompletely defined. Methods: A systematic review was conducted in accordance with Preferred Reporting Items for Systematic Reviews and Meta-Analyses guidelines. PubMed, Scopus, Cochrane Library, and Web of Science were searched from inception through 28 June 2026. Studies assessing dietary exposures or interventions in RS were included using predefined criteria. Risk of bias was assessed using ROBINS-I and Joanna Briggs Institute tools. Due to heterogeneity in study design and outcomes, findings were synthesized narratively. Results: Ten studies met inclusion criteria (5 adult, 4 pediatric, 1 mixed), including interventional and observational designs. Anti-inflammatory dietary patterns were associated with improved sinonasal outcomes. In children, Mediterranean diet adherence reduced recurrent inflammatory episodes, and reduced sugar intake improved sinus infection scores with decreased TNF-α concentrations. In adults, both allergen-guided elimination diets and a low-arachidonic acid, low-salicylate, high-fiber dietary intervention improved symptom severity, with accompanying improvements in endoscopic outcomes. Observational studies demonstrated that higher fruit intake was associated with lower RS prevalence, whereas higher fat intake, caloric intake, Dietary Inflammatory Index scores, frequent meals prepared away from home, and ultra-processed food intake were associated with increased disease risk or sinonasal symptom burden. Phenotype-specific associations included increased dietary salicylate sensitivity and food-triggered symptom exacerbation among patients with nasal polyposis. Conclusions: Dietary patterns and specific nutritional exposures are associated with RS outcomes across age groups. Anti-inflammatory dietary profiles demonstrate potential protective effects, whereas pro-inflammatory dietary patterns are associated with increased disease burden. However, the predominance of observational data and study heterogeneity limit causal inference. Well-designed prospective and randomized studies are needed to define the therapeutic role of dietary modification in RS.",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/42514369/",
+    "pmc_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13414780/",
+    "html_available": true,
+    "html_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13414780/",
+    "title_ru": "Питание и риносинусит: систематический обзор влияния рациона и отдельных пищевых факторов",
+    "patient_plain": "",
+    "patient_use": "Если симптомы риносинусита сохраняются или повторяются, полезно обсудить с врачом, может ли питание быть одним из факторов, влияющих на их выраженность. В обзоре с улучшением исходов были связаны средиземноморская диета, снижение потребления сахара, увеличение доли клетчатки и исключение продуктов с учётом индивидуальных пищевых триггеров; однако результаты не гарантируют аналогичного эффекта у каждого человека. При хроническом риносинусите с носовыми полипами стоит сообщить врачу о повторяющемся усилении симптомов после определённых продуктов, поскольку в обзоре описана связь с чувствительностью к салицилатам. Не следует самостоятельно вводить широкие ограничения в питании или отменять назначенное лечение только на основании этих данных.",
+    "practical_use": "При сборе анамнеза у пациентов с хроническим или рецидивирующим риносинуситом целесообразно уточнять особенности рациона, потребление сахара, фруктов, жиров и ультрапереработанных продуктов, а также возможную связь симптомов с конкретной пищей. У детей обзор указывает на связь средиземноморской диеты с меньшей частотой повторных воспалительных эпизодов и снижения потребления сахара — с улучшением показателей инфекции и уменьшением TNF-α. У взрослых следует учитывать результаты исследований диет с исключением индивидуальных пищевых аллергенов и с низким содержанием арахидоновой кислоты и салицилатов при высоком содержании клетчатки, включая улучшение эндоскопических показателей. Эти подходы можно обсуждать как дополнение к стандартной терапии, подчёркивая, что неоднородность исследований и преобладание наблюдательных данных не позволяют считать причинную связь установленной.",
+    "summary": "Систематический обзор изучает связь питания с развитием, выраженностью симптомов и повторными эпизодами риносинусита у детей и взрослых. Авторы включили 10 исследований: 5 исследований взрослых, 4 педиатрических и 1 смешанное. Рассматривались хронический риносинусит, хронический риносинусит с носовыми полипами и без них, а также другие формы риносинусита. Поиск проводился в PubMed, Scopus, Cochrane Library и Web of Science по 28 июня 2026 года.\n\nВ детских исследованиях приверженность средиземноморской диете была связана с уменьшением повторных воспалительных эпизодов, а снижение потребления сахара — с улучшением показателей инфекций околоносовых пазух и уменьшением концентрации TNF-α. У взрослых улучшение выраженности симптомов отмечалось при исключении продуктов с учётом индивидуальных пищевых аллергенов, а также при диете с низким содержанием арахидоновой кислоты и салицилатов и высоким содержанием клетчатки. В этих исследованиях также улучшались эндоскопические показатели. В наблюдательных исследованиях более высокое потребление фруктов было связано с меньшей распространённостью риносинусита, тогда как высокое потребление жиров и калорий, повышенный Dietary Inflammatory Index, частое употребление еды вне дома и ультрапереработанных продуктов были связаны с более высоким риском заболевания или большей выраженностью симптомов.\n\nУ пациентов с носовыми полипами отдельно отмечены связь с повышенной чувствительностью к пищевым салицилатам и усиление симптомов после определённых продуктов. Результаты указывают на потенциальную пользу противовоспалительных пищевых привычек, но не доказывают, что именно изменение рациона вызывает улучшение: значительная часть данных получена в наблюдательных исследованиях, а методы и оцениваемые исходы различались. Обзор рассматривает питание как возможное дополнение к стандартному лечению, включающему интраназальные кортикостероиды и промывание солевыми растворами, а не как доказанную замену этим методам.",
+    "_reason": "Обзор объединяет данные о конкретных пищевых факторах и диетических вмешательствах, которые могут быть связаны с частотой и выраженностью риносинусита у детей и взрослых. Практическая ценность заключается в возможности учитывать питание и индивидуальные пищевые триггеры при обсуждении дополнительных мер, но доказательств пока недостаточно, чтобы рекомендовать определённую диету как самостоятельное лечение.",
+    "why_read": "Статья полезна оториноларингологам и врачам, наблюдающим детей и взрослых с хроническим или рецидивирующим риносинуситом, особенно при недостаточном контроле симптомов. Пациентам с носовыми полипами она поможет понять, почему стоит обращать внимание на возможную связь питания с симптомами, не приравнивая такую связь к доказанной пищевой непереносимости. Врачам и пациентам важно различать результаты наблюдательных исследований и данные о вмешательствах, непосредственно оценивавших изменение рациона.",
+    "limitations": [
+      "Due to heterogeneity in study design and outcomes, findings were synthesized narratively.",
+      "the predominance of observational data and study heterogeneity limit causal inference.",
+      "Well-designed prospective and randomized studies are needed to define the therapeutic role of dietary modification in RS."
+    ],
+    "advice_items": [
+      {
+        "quote": "In children, Mediterranean diet adherence reduced recurrent inflammatory episodes, and reduced sugar intake improved sinus infection scores with decreased TNF-α concentrations.",
+        "advice": "При наблюдении детей с повторными воспалительными эпизодами околоносовых пазух обсудите особенности питания, включая приверженность средиземноморской диете и потребление сахара. Уточните, что обзор выявил связь этих факторов с улучшением исходов, но не устанавливает универсальную лечебную схему или величину эффекта для отдельного ребёнка.",
+        "audience": "врач"
+      },
+      {
+        "quote": "In adults, both allergen-guided elimination diets and a low-arachidonic acid, low-salicylate, high-fiber dietary intervention improved symptom severity, with accompanying improvements in endoscopic outcomes.",
+        "advice": "У взрослых с риносинуситом можно обсудить, наблюдается ли связь симптомов с конкретными продуктами и имеет ли смысл оценить рацион с учётом индивидуальных пищевых триггеров. В обзоре улучшение симптомов и эндоскопических показателей было связано с диетами, исключающими выявленные пищевые аллергены, и с рационом с низким содержанием арахидоновой кислоты и салицилатов и высоким содержанием клетчатки. Не следует автоматически переносить эти ограничения на всех пациентов без оценки клинического контекста.",
+        "audience": "врач"
+      },
+      {
+        "quote": "Observational studies demonstrated that higher fruit intake was associated with lower RS prevalence, whereas higher fat intake, caloric intake, Dietary Inflammatory Index scores, frequent meals prepared away from home, and ultra-processed food intake were associated with increased disease risk or sinonasal symptom burden.",
+        "advice": "При обсуждении образа жизни уточняйте потребление фруктов, жиров, калорий и ультрапереработанных продуктов, а также частоту употребления еды вне дома. Объясните пациенту, что выявленные связи могут помочь определить направления для обсуждения рациона, но наблюдательные данные сами по себе не доказывают, что изменение каждого из этих факторов уменьшит симптомы или предотвратит заболевание.",
+        "audience": "врач"
+      },
+      {
+        "quote": "Phenotype-specific associations included increased dietary salicylate sensitivity and food-triggered symptom exacerbation among patients with nasal polyposis.",
+        "advice": "У пациентов с хроническим риносинуситом и носовыми полипами уточняйте, замечают ли они повторное усиление симптомов после определённых продуктов. При наличии такой связи оцените её клиническую значимость, не считая сам факт ухудшения симптомов доказательством чувствительности к салицилатам и не назначая всем пациентам одинаковую исключающую диету.",
+        "audience": "врач"
+      }
+    ],
+    "importance_stars": 4,
+    "importance_mark": "★★★★☆",
+    "take": "keep"
+  },
+  {
     "pmid": "42430069",
     "source": "PubMed",
     "article": "Topical latanoprost acid for female androgenetic alopecia: a pilot proof-of-concept trial with mechanistic evidence of prostaglandin F2α receptor activation.",
@@ -625,7 +693,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 10
+    "id": 11
   },
   {
     "pmid": "42325479",
@@ -685,10 +753,10 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 11
+    "id": 12
   },
   {
-    "id": 12,
+    "id": 13,
     "pmid": "42535115",
     "source": "PubMed",
     "article": "Efficacy of Topical Tretinoin and Topical Minoxidil Cotherapy in Androgenetic Alopecia: A Review.",
@@ -801,7 +869,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 13
+    "id": 14
   },
   {
     "pmid": "42190753",
@@ -861,7 +929,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 14
+    "id": 15
   },
   {
     "pmid": "42168420",
@@ -919,10 +987,10 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 15
+    "id": 16
   },
   {
-    "id": 16,
+    "id": 17,
     "pmid": "42434041",
     "source": "PubMed",
     "article": "Additive Effects of Platelet-Rich Plasma and Systemic Therapies in Androgenetic Alopecia: A Retrospective Study.",
@@ -968,6 +1036,55 @@
       "NS difference"
     ],
     "advice_items": [],
+    "importance_stars": 4,
+    "importance_mark": "★★★★☆",
+    "take": "keep"
+  },
+  {
+    "id": 18,
+    "pmid": "41934348",
+    "source": "PubMed",
+    "article": "Incidence and Risks of Chronic Rhinosinusitis in Head and Neck Cancer: A Meta-Analysis.",
+    "authors": [
+      "Dewey John",
+      "Majeethia Heli",
+      "Modi Kushal",
+      "Ramadan Hassan H",
+      "Makary Chadi A"
+    ],
+    "date": "2026-04-04",
+    "journal": "The Laryngoscope",
+    "doi": "10.1002/lary.70538",
+    "topic": "Хронический риносинусит",
+    "topic_key": "crs",
+    "topic_keys": [
+      "crs"
+    ],
+    "topics": [
+      "Хронический риносинусит"
+    ],
+    "abstract_en": "OBJECTIVE: Several studies have described the occurrence of chronic rhinosinusitis (CRS) in adult patients with head and neck cancers (HNC). The goal of this review is to identify the incidence and risk factors for CRS in adult patients with HNC.\n\nDATA SOURCES: PubMed, Scopus, Web of Science, and Cochrane Central Register of Controlled Trials.\n\nREVIEW METHODS: A systematic search was performed from inception to July 2025 and reported according to the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) protocol. Studies that looked at the development of CRS following treatment of HNC were included.\n\nRESULTS: Seventeen studies representing a total of 3685 patients were pooled. There was significant heterogeneity in how CRS was diagnosed. The overall pooled incidence of CRS in all HNC patients was 0.37 (95% CI, 0.27-0.47). The incidence was significantly higher in patients with nasopharyngeal cancer (NPC) (0.45 vs. 0.18, p < 0.001). The maxillary sinuses were the most common sinuses involved with an incidence of 0.60 followed by the ethmoid sinuses at 0.45. Radiation therapy was associated with a higher risk of CRS (log OR = 1.46, 95% CI of 0.76, 2.16), especially in patients with NPC (log OR of 1.82 vs. log OR of 0.52, p = 0.01). Qualitative review showed that concurrent chemotherapy and advanced disease stage also increased the risk of CRS.\n\nCONCLUSIONS: The presence of NPC, radiation therapy, advanced stage, and concurrent chemotherapy significantly increases the risk of CRS in patients with head and neck cancers. Clinicians should be aware of the risk when treating these patients.",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/41934348/",
+    "pmc_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13460659/",
+    "html_available": true,
+    "html_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13460659/",
+    "title_ru": "Частота хронического риносинусита и факторы риска у пациентов с опухолями головы и шеи: метаанализ",
+    "patient_plain": "",
+    "patient_use": "Если вы проходите или прошли лечение рака головы и шеи, особенно рака носоглотки, важно знать о повышенном риске хронического риносинусита после лечения. Спросите лечащего врача, какие симптомы со стороны носа и околоносовых пазух требуют обследования и как будет организовано наблюдение после лучевой терапии или сочетания лучевой терапии с химиотерапией. Показатель 37% относится к объединённым данным онкологических пациентов из исследований, а не к индивидуальному прогнозу.",
+    "practical_use": "При наблюдении пациентов после лечения опухолей головы и шеи следует учитывать рак носоглотки, лучевую терапию, распространённую стадию и сопутствующую химиотерапию как факторы, связанные с повышенным риском ХРС. Более высокая частота заболевания при раке носоглотки (45% против 18%) обосновывает особое внимание к этой группе при оценке симптомов и планировании наблюдения. При интерпретации частоты ХРС необходимо учитывать значительную неоднородность диагностических критериев в 17 включённых исследованиях.",
+    "summary": "Систематический обзор и метаанализ объединили результаты 17 исследований с участием 3685 взрослых пациентов с опухолями головы и шеи. Авторы изучали развитие хронического риносинусита (ХРС) после лечения онкологического заболевания. Объединённая частота ХРС составила 37% (95% ДИ 27–47%). У пациентов с раком носоглотки она была значительно выше, чем при других опухолях головы и шеи: 45% против 18% (p < 0,001).\n\nЛучевая терапия была связана с повышенным риском ХРС: log OR 1,46 (95% ДИ 0,76–2,16). Связь была выраженнее при раке носоглотки, чем при других опухолях головы и шеи (log OR 1,82 против 0,52; p = 0,01). В обзоре также установлено, что сопутствующая химиотерапия и распространённая стадия заболевания связаны с повышенным риском ХРС. Чаще всего поражались верхнечелюстные пазухи (частота 60%), затем решётчатые пазухи (45%).\n\nВажное ограничение — значительная неоднородность методов диагностики ХРС между исследованиями. Поэтому объединённые показатели следует интерпретировать с учётом различий в определении и выявлении заболевания.",
+    "_reason": "Обзор количественно оценивает риск хронического риносинусита после лечения опухолей головы и шеи и выделяет группы с наиболее высокой частотой заболевания. Эти данные помогают обосновать внимание к симптомам со стороны околоносовых пазух, особенно после лечения рака носоглотки, хотя различия в диагностике между исследованиями ограничивают точность обобщённых оценок.",
+    "why_read": "Статья полезна оториноларингологам и онкологам, наблюдающим взрослых пациентов после лечения опухолей головы и шеи, а также пациентам, которые хотят понять риск ХРС после терапии. Особенно актуально прочитать её при раке носоглотки и после лучевой или комбинированной химиолучевой терапии.",
+    "limitations": [
+      "There was significant heterogeneity in how CRS was diagnosed."
+    ],
+    "advice_items": [
+      {
+        "quote": "The presence of NPC, radiation therapy, advanced stage, and concurrent chemotherapy significantly increases the risk of CRS in patients with head and neck cancers.",
+        "advice": "При наблюдении после лечения опухолей головы и шеи учитывайте рак носоглотки, лучевую терапию, распространённую стадию и сопутствующую химиотерапию как факторы повышенного риска хронического риносинусита. При появлении соответствующих симптомов оценивайте необходимость обследования околоносовых пазух.",
+        "audience": "врач"
+      }
+    ],
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep"
@@ -1025,10 +1142,10 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 17
+    "id": 19
   },
   {
-    "id": 18,
+    "id": 20,
     "pmid": "41954038",
     "source": "PubMed",
     "article": "Evaluating the Effectiveness of Commercial Oral Supplements for Hair Growth: A Systematic Review and Meta-Analysis.",
@@ -1132,7 +1249,7 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 19
+    "id": 21
   },
   {
     "pmid": "41823643",
@@ -1177,7 +1294,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 20
+    "id": 22
   },
   {
     "pmid": "41779759",
@@ -1230,10 +1347,10 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 21
+    "id": 23
   },
   {
-    "id": 22,
+    "id": 24,
     "pmid": "41741964",
     "source": "PubMed",
     "article": "Quality of life and patient-reported side effects of low-dose oral minoxidil in treating female pattern hair loss.",
@@ -1351,10 +1468,68 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 23
+    "id": 25
   },
   {
-    "id": 24,
+    "id": 26,
+    "pmid": "42138052",
+    "source": "PubMed",
+    "article": "Steroid-eluting stents in chronic rhinosinusitis: a systematic review.",
+    "authors": [
+      "Miechowski Wiktor",
+      "Czerwaty Katarzyna",
+      "Dzaman Karolina"
+    ],
+    "date": "2026-02-05",
+    "journal": "Otolaryngologia polska = The Polish otolaryngology",
+    "doi": "10.5604/01.3001.0055.4790",
+    "topic": "Хронический риносинусит",
+    "topic_key": "crs",
+    "topic_keys": [
+      "crs"
+    ],
+    "topics": [
+      "Хронический риносинусит"
+    ],
+    "abstract_en": "&lt;b&gt;Introduction:&lt;/b&gt; In recent years, new treatments for chronic rhinosinusitis (CRS) have been sought, among which steroid-eluting implants (SEIs) are one of the most effective. &lt;br&gt;&lt;br&gt;&lt;b&gt;Aim:&lt;/b&gt; The aim of the systematic review was to collect available studies on the use of SEIs in CRS. &lt;br&gt;&lt;br&gt;&lt;b&gt;Materials and methods:&lt;/b&gt; A systematic review according to PRISMA (4 databases: PubMed/MEDLINE, Scopus, Web of Science, and Cochrane Library) as of March 17, 2025, including full-text original papers in English. Risk of bias was assessed using the Cochrane and JBI critical appraisal. &lt;br&gt;&lt;br&gt;&lt;b&gt;Results:&lt;/b&gt; In total, 347 articles were identified, 26 of which met the inclusion criteria for the analysis, covering a population of 9311 patients. Most investigators confirmed the efficacy of SEIs in improving SNOT, endoscopic nasal assessment, reducing polyps, and reducing postoperative adhesions, and a non-significant role in lateralization of the middle turbinate. SEIs reduced the need for oral steroids and the risk of sinus reoperation comparably to intranasal steroids. Side effects of SEI therapy were mild and included parosmia, nose bleeding, headache, and nasal pain, sinusitis, discomfort, and local swelling in the nose. &lt;br&gt;&lt;br&gt;&lt;b&gt;Conclusions:&lt;/b&gt; SEIs are effective and safe, but prospective cohort studies with long postoperative follow-up are desirable.",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/42138052/",
+    "pmc_link": "",
+    "html_available": false,
+    "html_link": "",
+    "title_ru": "Стенты с высвобождением кортикостероидов при хроническом риносинусите: систематический обзор",
+    "patient_plain": "",
+    "patient_use": "Если после операции по поводу хронического риносинусита врач предлагает стент с высвобождением кортикостероида, полезно уточнить, какую цель он преследует: уменьшение полипов, профилактику спаек или снижение вероятности повторной операции. По данным обзора, применение таких стентов может уменьшать потребность в системных стероидах, но не исключает побочных эффектов, включая носовые кровотечения, головную боль и нарушения обоняния. Спросите врача, какие симптомы и изменения при эндоскопическом осмотре будут оцениваться в ходе наблюдения.",
+    "practical_use": "При обсуждении послеоперационного ведения пациентов с хроническим риносинуситом следует учитывать данные 26 исследований, включавших 9311 пациентов: большинство авторов сообщали об улучшении SNOT и эндоскопической картины, уменьшении полипов и послеоперационных спаек. Обзор указывает на снижение потребности в пероральных стероидах и риска повторной операции, сопоставимое с результатами применения интраназальных стероидов, но не подтверждает значимого влияния на латерализацию средней носовой раковины. При информировании пациента стоит перечислить описанные местные и общие нежелательные явления и учитывать, что для оценки долгосрочных послеоперационных исходов необходимы дополнительные проспективные данные.",
+    "summary": "Авторы систематического обзора оценили эффективность и безопасность стентов с высвобождением кортикостероидов (SEI) при хроническом риносинусите. Поиск проводился в четырёх базах данных — PubMed/MEDLINE, Scopus, Web of Science и Cochrane Library — по состоянию на 17 марта 2025 года. Из 347 найденных публикаций критериям включения соответствовали 26 исследований с общей численностью 9311 пациентов.\n\nВ большинстве исследований применение стентов улучшало показатели SNOT, отражающие симптомы и качество жизни при риносинусите, и результаты эндоскопического осмотра носа, уменьшало количество полипов и риск послеоперационных спаек. Убедительного эффекта в отношении латерализации средней носовой раковины не выявлено. Стенты также снижали потребность в пероральных кортикостероидах и риск повторной операции на околоносовых пазухах; по этим исходам авторы описали сопоставимые результаты с интраназальными стероидами.\n\nПобочные эффекты преимущественно были лёгкими: искажение обоняния (паросмия), носовые кровотечения, головная боль, боль в носу, синусит, дискомфорт и локальный отёк. Авторы считают стенты эффективным и безопасным вариантом лечения, однако отмечают необходимость проспективных когортных исследований с длительным послеоперационным наблюдением.",
+    "_reason": "Обзор объединяет 26 исследований с участием 9311 пациентов и показывает, что стенты с высвобождением кортикостероидов могут улучшать симптомы хронического риносинусита, уменьшать полипы и послеоперационные спайки, а также снижать потребность в системных стероидах и риск повторной операции. Практическая ценность высока для обсуждения послеоперационного лечения, хотя долгосрочная эффективность требует дальнейшего изучения.",
+    "why_read": "Материал стоит прочитать оториноларингологам, которые выбирают послеоперационную тактику при хроническом риносинусите, особенно при наличии полипов и риске повторного вмешательства. Пациентам с хроническим риносинуситом он поможет понять потенциальные преимущества стентов, их возможные побочные эффекты и ограничения имеющихся данных.",
+    "limitations": [
+      "a non-significant role in lateralization of the middle turbinate",
+      "prospective cohort studies with long postoperative follow-up are desirable"
+    ],
+    "advice_items": [
+      {
+        "quote": "Most investigators confirmed the efficacy of SEIs in improving SNOT, endoscopic nasal assessment, reducing polyps, and reducing postoperative adhesions, and a non-significant role in lateralization of the middle turbinate.",
+        "advice": "При обсуждении стентов с высвобождением кортикостероидов учитывайте, что наиболее последовательно описаны улучшение показателей SNOT и эндоскопической картины, уменьшение полипов и послеоперационных спаек. Не следует обещать выраженного влияния на латерализацию средней носовой раковины, поскольку значимого эффекта по этому исходу обзор не подтверждает.",
+        "audience": "врач"
+      },
+      {
+        "quote": "SEIs reduced the need for oral steroids and the risk of sinus reoperation comparably to intranasal steroids.",
+        "advice": "При выборе послеоперационной терапии обсудите с пациентом потенциальную возможность снизить потребность в пероральных стероидах и риск повторной операции. Сопоставимость результатов с интраназальными стероидами не следует трактовать как доказательство превосходства стентов над ними.",
+        "audience": "врач"
+      },
+      {
+        "quote": "Side effects of SEI therapy were mild and included parosmia, nose bleeding, headache, and nasal pain, sinusitis, discomfort, and local swelling in the nose.",
+        "advice": "До начала лечения объясните пациенту, какие нежелательные явления описаны при использовании стентов: искажение обоняния, носовые кровотечения, головная боль, боль в носу, синусит, дискомфорт и местный отёк. При последующем наблюдении уточняйте, появились ли эти симптомы и насколько они выражены.",
+        "audience": "врач"
+      }
+    ],
+    "importance_stars": 4,
+    "importance_mark": "★★★★☆",
+    "take": "keep"
+  },
+  {
+    "id": 27,
     "pmid": "41652806",
     "source": "PubMed",
     "article": "The Safety and Efficacy of a Novel Saw Palmetto (Serenoa repens) Extract for Promoting Hair Growth in Adults With Self-Perceived Thinning Hair: 180-Day Results.",
@@ -1394,7 +1569,66 @@
     "take": "keep"
   },
   {
-    "id": 25,
+    "id": 28,
+    "pmid": "41579839",
+    "source": "PubMed",
+    "article": "Efficacy and safety of corticosteroids in the management of chronic rhinosinusitis: A systematic review and meta-analysis of randomized and non-randomized studies.",
+    "authors": [
+      "Wang BinBin",
+      "Liu Feng",
+      "Wei Bo"
+    ],
+    "date": "2026-01-23",
+    "journal": "Brazilian journal of otorhinolaryngology",
+    "doi": "10.1016/j.bjorl.2026.101760",
+    "topic": "Хронический риносинусит",
+    "topic_key": "crs",
+    "topic_keys": [
+      "crs"
+    ],
+    "topics": [
+      "Хронический риносинусит"
+    ],
+    "abstract_en": "OBJECTIVE: To evaluate the efficacy and safety of corticosteroids in Chronic Rhinosinusitis (CRS), focusing on health-related quality of life, disease severity, systemic steroid-sparing effects, and Serious Adverse Events (SAEs).\n\nMETHODS: Following PRISMA 2020 guidelines, PubMed, Web of Science, and Cochrane CENTRAL were systematically searched for randomized and non-randomized studies in adults with CRS. Outcomes included SNOT-22 scores, endoscopic findings, systemic corticosteroid use, and SAEs. Risk of bias was assessed using RoB 2.0 and Newcastle-Ottawa Scale. Meta-analyses employed random-effects models, with pooled estimates reported as Mean Differences (MD) or Odds Ratios (OR) and 95% Confidence Intervals (95% CI).\n\nRESULTS: Eleven studies (3,542 patients) were included. Corticosteroid therapy significantly improved SNOT-22 scores (MD = -16.00, 95% CI: -18.91 to -13.09, p < 0.0001; I² = 90.3%) and endoscopic outcomes (MD = -2.32, 95% CI: -2.71 to -1.94, p < 0.001; I² = 61.2%). Local corticosteroids reduced systemic steroid dependence (OR = 0.30, 95% CI: 0.27-0.34, p < 0.0001; I² = 0%). No statistically significant increase in SAEs was observed (OR = 1.47, 95% CI: 0.44-4.93, p = 0.9848; I² = 0%). Heterogeneity was high for SNOT-22 and endoscopic outcomes, but funnel plots showed no major publication bias.\n\nCONCLUSION: Corticosteroids improve quality of life and objective disease measures in CRS while reducing reliance on systemic steroids, with no significant increase in SAEs. Future studies should compare delivery modalities, assess long-term safety, and explore biomarker-guided strategies.",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/41579839/",
+    "pmc_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12861221/",
+    "html_available": true,
+    "html_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12861221/",
+    "title_ru": "Эффективность и безопасность кортикостероидов при хроническом риносинусите: систематический обзор и метаанализ 11 исследований",
+    "patient_plain": "",
+    "patient_use": "Кортикостероиды могут не только уменьшать симптомы хронического риносинусита и улучшать эндоскопическую картину, но и снижать потребность в системных стероидах, применение которых связано с дополнительными рисками. На приёме полезно уточнить, подходит ли местная форма препарата и какой способ доставки рассматривается: в обзоре изучались назальные промывания, спреи и небулизация, но результаты отдельных способов нельзя автоматически считать взаимозаменяемыми. Для пациентов с полипами и эозинофильным воспалением важно учитывать, что в одном исследовании небулизация будесонида по 1 мг дважды в день в течение 14 дней уменьшала размер полипов, однако этот результат не гарантирует такого же эффекта у каждого пациента.",
+    "practical_use": "При обсуждении терапии следует учитывать одновременно субъективный эффект по SNOT-22, эндоскопическую динамику и возможность уменьшить потребность в системных стероидах. Снижение вероятности применения системных стероидов при местной терапии было выраженным (OR 0,30; 95% ДИ 0,27–0,34), что поддерживает рассмотрение местных кортикостероидов как базового компонента лечения. Вместе с тем высокая неоднородность результатов по SNOT-22 и эндоскопии требует осторожности при переносе объединённых оценок на конкретного пациента. При выборе способа доставки и планировании длительной терапии необходимо учитывать, что авторы отдельно отмечают потребность в сравнении методов доставки, оценке долгосрочной безопасности и изучении стратегий с учётом биомаркеров.",
+    "summary": "Систематический обзор и метаанализ объединил 11 исследований с участием 3542 пациентов со взрослым хроническим риносинуситом. Авторы оценивали влияние кортикостероидов на качество жизни по шкале SNOT-22, эндоскопические признаки заболевания, потребность в системных стероидах и серьёзные нежелательные явления. В анализ вошли 6 рандомизированных контролируемых исследований, 3 ретроспективных когортных исследования, одно проспективное наблюдательное исследование и один анализ регистра.\n\nНа фоне лечения показатели SNOT-22 улучшились в среднем на 16 баллов по сравнению с контрольными условиями (MD −16,00; 95% ДИ от −18,91 до −13,09), а эндоскопические показатели — на 2,32 балла (MD −2,32; 95% ДИ от −2,71 до −1,94). Местные кортикостероиды также были связаны со снижением вероятности применения системных стероидов: OR 0,30 (95% ДИ 0,27–0,34). Статистически значимого увеличения числа серьёзных нежелательных явлений не выявлено (OR 1,47; 95% ДИ 0,44–4,93).\n\nВ отдельных исследованиях изучались промывания носа будесонидом, его трансназальная небулизация и применение мометазона в виде промывания или спрея. При промывании носа будесонидом в течение не менее 12 месяцев у пациентов с риносинуситом и астмой наблюдалось снижение потребности в пероральных стероидах и антибиотиках. В двойном слепом рандомизированном исследовании пациентов с эозинофильным риносинуситом и полипами небулизация будесонида по 1 мг дважды в день в течение 14 дней уменьшала размер полипов и улучшала симптомы; подавления функции надпочечников и серьёзных нежелательных явлений в этом исследовании не отмечено. При этом неоднородность результатов для SNOT-22 была высокой (I² = 90,3%), а для эндоскопических показателей — существенной (I² = 61,2%), поэтому величина эффекта может различаться между исследованиями и клиническими ситуациями.",
+    "_reason": "Обзор объединяет 11 исследований и количественно показывает улучшение качества жизни и эндоскопических показателей при применении кортикостероидов, а также снижение потребности в системных стероидах. Практическая ценность высокая, поскольку результаты помогают обсуждать местную терапию как способ контроля хронического риносинусита, хотя неоднородность части результатов ограничивает точность прогноза для отдельного пациента.",
+    "why_read": "Статья полезна оториноларингологам, которые выбирают местную кортикостероидную терапию и оценивают необходимость системных стероидов при хроническом риносинусите. Её также стоит прочитать врачам, работающим с пациентами с астмой, эозинофильным риносинуситом и полипами, поскольку в отдельных исследованиях представлены результаты промываний будесонидом и его небулизации.",
+    "limitations": [
+      "I² = 90.3%",
+      "I² = 61.2%",
+      "Future studies should compare delivery modalities, assess long-term safety, and explore biomarker-guided strategies."
+    ],
+    "advice_items": [
+      {
+        "quote": "Local corticosteroids reduced systemic steroid dependence (OR = 0.30, 95% CI: 0.27-0.34, p < 0.0001; I² = 0%).",
+        "advice": "При обсуждении лечения учитывайте возможность снижения потребности в системных стероидах на фоне местной кортикостероидной терапии. Объясняйте пациенту, что это объединённая оценка из нескольких исследований, а не гарантия отмены системных препаратов в каждом конкретном случае.",
+        "audience": "врач"
+      },
+      {
+        "quote": "Budesonide nasal irrigation ≥12-monthsOral steroid use↓ (p < 0.001)Antibiotic use↓ (p < 0.005)SNOT-22, LK scoreImproved (p < 0.001)Minimal side effects",
+        "advice": "При хроническом риносинусите в сочетании с астмой можно обсудить данные о длительных промываниях носа будесонидом: в ретроспективной когорте при применении не менее 12 месяцев отмечались улучшение SNOT-22 и эндоскопической оценки, а также снижение использования пероральных стероидов и антибиотиков. Учитывайте, что это наблюдательные данные, которые сами по себе не доказывают причинно-следственную связь.",
+        "audience": "врач"
+      },
+      {
+        "quote": "Budesonide nebulization 1 mg BID × 14 days",
+        "advice": "При оценке данных для пациентов с эозинофильным риносинуситом и полипами обратите внимание на исследованную схему небулизации будесонида: 1 мг дважды в день в течение 14 дней. В соответствующем двойном слепом рандомизированном исследовании уменьшался размер полипов и улучшались симптомы; авторы не зарегистрировали подавления функции надпочечников или серьёзных нежелательных явлений. Не переносите результат этого отдельного исследования на другие способы доставки препарата без дополнительного обоснования.",
+        "audience": "врач"
+      }
+    ],
+    "importance_stars": 5,
+    "importance_mark": "★★★★★",
+    "take": "keep"
+  },
+  {
+    "id": 29,
     "pmid": "41695992",
     "source": "PubMed",
     "article": "Expanding the therapeutic landscape of minoxidil for androgenetic alopecia: topical, oral and sublingual formulations.",
@@ -1489,7 +1723,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 26
+    "id": 30
   },
   {
     "pmid": "41650295",
@@ -1549,7 +1783,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 27
+    "id": 31
   },
   {
     "article": "Effectiveness and Safety of Intralesional Dutasteride in Patients With Androgenic Alopecia: A Systematic Review and Meta-Analysis.",
@@ -1597,7 +1831,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 28
+    "id": 32
   },
   {
     "article": "The Safety and Efficacy of a Proprietary Bioactive Fatty Acids Extract From Saw Palmetto (Serenoa repens) for Promoting Hair Growth and Reducing Hair Loss in Adults With Self-Perceived Thinning Hair: 90-Day Results.",
@@ -1637,7 +1871,59 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 29
+    "id": 33
+  },
+  {
+    "id": 34,
+    "pmid": "40714983",
+    "source": "PubMed",
+    "article": "Effect of calcifediol on chronic rhinosinusitis, a randomized clinical trial.",
+    "authors": [
+      "Popko-Zagor M",
+      "Jandziak P",
+      "Sierdzinski J",
+      "Rusetska N",
+      "Sarnowska E"
+    ],
+    "date": "2025-12-01",
+    "journal": "Rhinology",
+    "doi": "10.4193/Rhin25.070",
+    "topic": "Хронический риносинусит",
+    "topic_key": "crs",
+    "topic_keys": [
+      "crs"
+    ],
+    "topics": [
+      "Хронический риносинусит"
+    ],
+    "abstract_en": "BACKGROUND: Recent studies suggest that intranasally administered vitamin D can be an effective treatment for patients with chronic rhinosinusitis (CRS). We performed a double-blind, placebo-controlled, randomized clinical trial to evaluate the effect of adding calcifediol to saline sinus irrigation with budesonide for patients with CRS.\n\nMETHODS: A total of 113 adult patients with CRS were enrolled. Patients were randomized to either calcifediol (n = 58, 51%) or placebo (n = 55, 49%) lavage and were instructed to irrigate both nasal cavities twice daily for 21 days, with either calcifediol or placebo dissolved in a solution of saline with budesonide. The primary outcome measure was the change in Sino-Nasal Outcome Test (SNOT-22) scores, endoscopic examination scored by the Lund-Kennedy (L-K) grading system, and physician-reported response to treatment, as measured with decreased need for nasal steroids/cessation of nasal steroids in the calcifediol group compared with the placebo group. The secondary outcome measures included the change in serum 25(OH)D concentration and the correlation of results with other clinical data.\n\nRESULTS: 108 patients completed the trial. Significant changes in SNOT-22 score, L-K score and serum 25(OH)D were reported between the 2 study groups. A significant percentage of participants in the calcifediol group could cease nasal steroids.\n\nCONCLUSION: Calcifediol in saline nasal lavage with budesonide results in clinically significant benefits beyond the benefits of saline with budesonide alone for patients with CRS.",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/40714983/",
+    "pmc_link": "",
+    "html_available": false,
+    "html_link": "",
+    "title_ru": "Кальцифедиол при хроническом риносинусите: рандомизированное клиническое исследование",
+    "patient_plain": "",
+    "patient_use": "Исследование показывает, что добавление кальцифедиола к промыванию с солевым раствором и будесонидом может улучшать симптомы хронического риносинусита и состояние слизистой носа, а также помогать некоторым пациентам отказаться от назальных стероидов. Если симптомы сохраняются на фоне текущего лечения, можно спросить врача, насколько применимы эти результаты к вашей ситуации и какие данные о безопасности такого способа введения витамина D имеются. Самостоятельно добавлять кальцифедиол в раствор или отменять будесонид на основании этих результатов не следует: исследованная схема включала оба средства и продолжалась 21 день.",
+    "practical_use": "При обсуждении дополнительной терапии хронического риносинусита важно учитывать, что кальцифедиол изучали не отдельно, а в сочетании с солевым промыванием и будесонидом дважды в день на протяжении 21 дня. Эффективность оценивали по SNOT-22, эндоскопической шкале Lund–Kennedy и возможности сократить или прекратить применение назальных стероидов; эти показатели позволяют сопоставить субъективные симптомы с объективной эндоскопической картиной. При интерпретации результатов следует учитывать, что испытание завершили 108 из 113 участников, а доступное описание не содержит численных величин межгрупповых различий и подробного анализа нежелательных явлений.",
+    "summary": "В двойном слепом рандомизированном исследовании с плацебо-контролем оценили, улучшает ли добавление кальцифедиола — формы витамина D — к промыванию носовых полостей солевым раствором с будесонидом результаты лечения хронического риносинусита. В исследовании участвовали 113 взрослых: 58 человек получали промывание с кальцифедиолом, а 55 — с плацебо. Обе группы проводили промывания обеих половин носа дважды в день в течение 21 дня.\n\nИсследователи оценивали выраженность симптомов по шкале SNOT-22, эндоскопическую картину по шкале Lund–Kennedy и возможность уменьшить применение или полностью отменить назальные стероиды. Испытание завершили 108 участников. Между группами выявили статистически значимые различия по показателям SNOT-22, Lund–Kennedy и концентрации 25(OH)D в сыворотке крови. В группе кальцифедиола значительная доля участников смогла прекратить применение назальных стероидов.\n\nАвторы заключили, что добавление кальцифедиола к солевому промыванию с будесонидом обеспечивает клинически значимую дополнительную пользу по сравнению с промыванием с будесонидом без кальцифедиола. В представленном описании не приведены точная величина улучшения по шкалам, доля пациентов, отменивших стероиды, и подробные данные о нежелательных явлениях, поэтому масштаб эффекта и безопасность такого применения по этому исследованию оценить в деталях нельзя.",
+    "_reason": "Рандомизированное исследование с плацебо-контролем у взрослых пациентов показывает дополнительную пользу кальцифедиола при хроническом риносинусите на фоне промываний с будесонидом. Практическое значение состоит в улучшении симптомов и эндоскопических показателей, а также в возможности прекращения назальных стероидов у части пациентов, хотя точный размер эффекта и подробные данные о безопасности в представленном описании не указаны.",
+    "why_read": "Статья полезна оториноларингологам и врачам, которые ведут взрослых пациентов с хроническим риносинуситом и рассматривают дополнительные варианты лечения на фоне промываний с будесонидом. Её также стоит прочитать пациентам, желающим понять, какие результаты получены при добавлении кальцифедиола и почему эти данные не означают, что можно самостоятельно менять назначенную терапию.",
+    "limitations": [],
+    "advice_items": [
+      {
+        "quote": "The primary outcome measure was the change in Sino-Nasal Outcome Test (SNOT-22) scores, endoscopic examination scored by the Lund-Kennedy (L-K) grading system, and physician-reported response to treatment, as measured with decreased need for nasal steroids/cessation of nasal steroids in the calcifediol group compared with the placebo group.",
+        "advice": "При оценке ответа на лечение хронического риносинусита сопоставляйте динамику симптомов по SNOT-22 с эндоскопической картиной по Lund–Kennedy и потребностью в назальных стероидах. В этом исследовании именно эти показатели использовали для сравнения кальцифедиола с плацебо на фоне промываний с солевым раствором и будесонидом. Не следует считать возможность отмены стероидов универсальным результатом для каждого пациента.",
+        "audience": "врач"
+      },
+      {
+        "quote": "Patients were randomized to either calcifediol (n = 58, 51%) or placebo (n = 55, 49%) lavage and were instructed to irrigate both nasal cavities twice daily for 21 days, with either calcifediol or placebo dissolved in a solution of saline with budesonide.",
+        "advice": "При обсуждении результатов с пациентом уточняйте, что кальцифедиол изучали как добавку к солевому промыванию с будесонидом, а не как самостоятельную замену стандартной терапии. Исследованная схема предусматривала промывание обеих половин носа дважды в день в течение 21 дня. Не переносите эту схему на практику без оценки применимости и безопасности для конкретного пациента.",
+        "audience": "врач"
+      }
+    ],
+    "importance_stars": 5,
+    "importance_mark": "★★★★★",
+    "take": "keep"
   },
   {
     "pmid": "41358367",
@@ -1704,7 +1990,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 30
+    "id": 35
   },
   {
     "pmid": "41346555",
@@ -1766,7 +2052,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 31
+    "id": 36
   },
   {
     "pmid": "41409531",
@@ -1827,7 +2113,7 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 32
+    "id": 37
   },
   {
     "pmid": "41219547",
@@ -1885,7 +2171,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 33
+    "id": 38
   },
   {
     "pmid": "41306837",
@@ -1939,7 +2225,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 34
+    "id": 39
   },
   {
     "pmid": "41245990",
@@ -2001,7 +2287,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 35
+    "id": 40
   },
   {
     "pmid": "41118052",
@@ -2061,7 +2347,7 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 36
+    "id": 41
   },
   {
     "pmid": "41044024",
@@ -2121,7 +2407,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 37
+    "id": 42
   },
   {
     "pmid": "41164048",
@@ -2187,7 +2473,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 38
+    "id": 43
   },
   {
     "pmid": "41001165",
@@ -2240,7 +2526,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 39
+    "id": 44
   },
   {
     "pmid": "40986632",
@@ -2311,7 +2597,7 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 40
+    "id": 45
   },
   {
     "pmid": "40978669",
@@ -2370,10 +2656,10 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 41
+    "id": 46
   },
   {
-    "id": 42,
+    "id": 47,
     "pmid": "41041440",
     "source": "PubMed",
     "article": "Relative efficacy of minoxidil in combination with other treatments for androgenic alopecia: a network meta-analysis based on randomized controlled trials.",
@@ -2480,7 +2766,7 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 43
+    "id": 48
   },
   {
     "pmid": "40960112",
@@ -2540,7 +2826,7 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 44
+    "id": 49
   },
   {
     "pmid": "41048335",
@@ -2600,10 +2886,10 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 45
+    "id": 50
   },
   {
-    "id": 46,
+    "id": 51,
     "pmid": "41048334",
     "source": "PubMed",
     "article": "Response to \"Improvement of female pattern hair loss with bicalutamide: A time-dependent process\".",
@@ -2704,10 +2990,10 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 47
+    "id": 52
   },
   {
-    "id": 48,
+    "id": 53,
     "pmid": "40951222",
     "source": "PubMed",
     "article": "Alopecia as an Emerging Adverse Effect Associated With Glucagon-Like Peptide-1 (GLP-1) Receptor Agonists for Weight Loss: A Scoping Review.",
@@ -2807,7 +3093,62 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 49
+    "id": 54
+  },
+  {
+    "id": 55,
+    "pmid": "40735130",
+    "source": "PubMed",
+    "article": "Efficacy, Safety, and Tolerability of Nasal Wash in Patients with Upper Respiratory Tract Diseases.",
+    "authors": [
+      "La Mantia Ignazio",
+      "Stilo Giovanna",
+      "Lentini Lepanto",
+      "Ciprandi Giorgio"
+    ],
+    "date": "2025-07-29",
+    "journal": "International archives of otorhinolaryngology",
+    "doi": "10.1055/s-0045-1802576",
+    "topic": "Хронический риносинусит",
+    "topic_key": "crs",
+    "topic_keys": [
+      "crs"
+    ],
+    "topics": [
+      "Хронический риносинусит"
+    ],
+    "abstract_en": "INTRODUCTION: Nasal irrigation is a standard therapeutic option to clean the upper airways to remove abundant secretions and harmful substances. The Nasal Wash (SIIT, Milan, Italy) sinus irrigation system contains saline, bicarbonates, and polyethylene glycol.\n\nOBJECTIVE: The present randomized controlled trial evaluated and compared the Nasal Wash hypertonic solution (NW-HS) with physiological saline (PS) in patients with nasal symptoms common to different upper airway diseases (infectious rhinitis, allergic rhinitis, and acute and chronic rhinosinusitis).\n\nMETHODS: The symptomatic patients were divided into two groups: those receiving NW-HS 1 to 2 times a day for 7 days and those receiving PS 1 to 2 times a day for 7 days. The primary efficacy measures included total nasal symptom score (TNSS) and the score on the verbal numeric rating scale (VNRS), assessed at baseline and during the treatment period.\n\nRESULTS: In total, 70 patients participated in the trial: 35 were allocated to the NW-HS group and 35 to the PS group. In the NW-HS group, we observed a significant reduction in the TNSS over time, at rates higher than those of the PS group ( p  < 0.001), as well as a significant reduction in the VNRS score at all observation times, and also at rates higher than those of the PS group ( p  < 0.001). The safety was good for all patients.\n\nCONCLUSION: The present trial documented the efficacy and safety of NW-HS in the treatment of nasal symptoms common to upper respiratory tract disorders. Most of the beneficial effects appeared as early as three days after the beginning of the treatment. In addition, compared to PS, NW-HS showed impressive results; thus, it may represent a safe and valuable option in the non-pharmacological therapy for rhinitis.",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/40735130/",
+    "pmc_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12307079/",
+    "html_available": true,
+    "html_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12307079/",
+    "title_ru": "Гипертонический раствор Nasal Wash при рините и риносинусите: эффективность и безопасность по сравнению с физиологическим раствором",
+    "patient_plain": "",
+    "patient_use": "При насморке и заложенности носа промывание гипертоническим раствором Nasal Wash может уменьшать симптомы сильнее, чем обычный физиологический раствор: за 7 дней среднее снижение TNSS составило 5,9 против 2,0 балла. Первые улучшения в исследовании обычно появлялись в течение трёх дней, поэтому полезно оценивать динамику симптомов в этот период. Уточните у врача, подходит ли такой раствор именно при вашем заболевании и как правильно выполнять промывание; исследование подтверждает результат только за неделю и не показывает, насколько эффект сохраняется при длительном использовании.",
+    "practical_use": "При обсуждении немедикаментозного контроля симптомов ринита и риносинусита можно учитывать сравнительное преимущество гипертонического Nasal Wash над физиологическим раствором по TNSS и VNRS (p < 0,001). В исследовании использовали промывание 1–2 раза в день в течение 7 дней, а различия по VNRS выявлялись уже на третий день. Состав раствора включает хлорид натрия, бикарбонаты и полиэтиленгликоль; хорошая переносимость отмечена у всех 70 участников. При этом смешанная когорта не позволяет уверенно переносить величину эффекта на пациентов исключительно с хроническим риносинуситом, а краткий период наблюдения не отвечает на вопросы о долгосрочной безопасности и эффективности.",
+    "summary": "В рандомизированном контролируемом исследовании сравнили гипертонический раствор Nasal Wash (NW-HS) и физиологический раствор (PS) для промывания носа у 70 пациентов с симптомами инфекционного и аллергического ринита, а также острого и хронического риносинусита. В каждую группу включили по 35 человек. Оба раствора применяли 1–2 раза в день в течение 7 дней. Nasal Wash содержит хлорид натрия, бикарбонаты и полиэтиленгликоль; его компоненты способствуют механическому удалению слизи, увлажнению и уменьшению отёка слизистой.\n\nК седьмому дню суммарная оценка назальных симптомов (TNSS) снизилась в среднем на 5,9 ± 1,56 балла в группе Nasal Wash и на 2,0 ± 0,97 балла в группе физиологического раствора; различие было статистически значимым (p < 0,001). По вербальной числовой шкале выраженности симптомов (VNRS) преимущество Nasal Wash также выявлялось начиная с третьего дня и сохранялось на пятый и седьмой дни. Большинство положительных изменений наблюдалось уже через три дня после начала применения. Оценки увлажнения носа также различались между группами (p = 0,001).\n\nПереносимость была хорошей у всех участников, и авторы оценили безопасность гипертонического раствора как благоприятную. Однако исследование длилось только 7 дней и включало 70 пациентов с разными заболеваниями верхних дыхательных путей. Поэтому результаты подтверждают краткосрочное уменьшение назальных симптомов, но не устанавливают эффективность длительного применения и не позволяют отдельно оценить эффект при хроническом риносинусите.",
+    "_reason": "Исследование даёт конкретные сравнительные данные в пользу гипертонического Nasal Wash: за неделю симптомы уменьшились сильнее, чем при промывании физиологическим раствором, а улучшение было заметно уже с третьего дня. Это помогает предметно обсуждать выбор средства для облегчения назальных симптомов, но короткое наблюдение и объединение нескольких заболеваний ограничивают выводы именно для хронического риносинусита.",
+    "why_read": "Статья полезна врачам-оториноларингологам и пациентам с ринитом или риносинуситом, которые рассматривают промывание носа как немедикаментозный способ облегчения симптомов. Особенно стоит прочитать её тем, кто выбирает между гипертоническим и физиологическим растворами: приведены результаты по двум шкалам симптомов, сроки появления улучшения и краткосрочная оценка безопасности.",
+    "limitations": [
+      "In total, 70 patients participated in the trial: 35 were allocated to the NW-HS group and 35 to the PS group.",
+      "Most of the beneficial effects appeared as early as three days after the beginning of the treatment.",
+      "The safety was good for all patients."
+    ],
+    "advice_items": [
+      {
+        "quote": "The symptomatic patients were divided into two groups: those receiving NW-HS 1 to 2 times a day for 7 days and those receiving PS 1 to 2 times a day for 7 days.",
+        "advice": "При обсуждении результатов исследования учитывайте, что оба раствора применяли 1–2 раза в день на протяжении семи дней. Именно в рамках этого краткого режима было показано преимущество гипертонического Nasal Wash; результаты не определяют оптимальную продолжительность длительного применения.",
+        "audience": "врач"
+      },
+      {
+        "quote": "Most of the beneficial effects appeared as early as three days after the beginning of the treatment.",
+        "advice": "Объясните пациенту, что первые улучшения при использовании гипертонического раствора в исследовании обычно появлялись примерно через три дня. При оценке результата важно отслеживать изменение заложенности и других назальных симптомов, не считая отсутствие быстрого эффекта доказательством необходимости самостоятельно менять лечение.",
+        "audience": "пациент"
+      }
+    ],
+    "importance_stars": 5,
+    "importance_mark": "★★★★★",
+    "take": "keep"
   },
   {
     "pmid": "41035833",
@@ -2869,7 +3210,7 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 50
+    "id": 56
   },
   {
     "pmid": "40739969",
@@ -2930,7 +3271,75 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 51
+    "id": 57
+  },
+  {
+    "id": 58,
+    "pmid": "40725695",
+    "source": "PubMed",
+    "article": "The Efficacy and Safety of Probiotics in the Management of Chronic Rhinosinusitis: A Systematic Review and Meta-Analysis.",
+    "authors": [
+      "Abbas Ali",
+      "Abbas Mohammed",
+      "Mughal Zahir",
+      "Martinez-Devesa Pablo",
+      "Qureishi Ali"
+    ],
+    "date": "2025-07-15",
+    "journal": "Journal of clinical medicine",
+    "doi": "10.3390/jcm14145001",
+    "topic": "Хронический риносинусит",
+    "topic_key": "crs",
+    "topic_keys": [
+      "crs"
+    ],
+    "topics": [
+      "Хронический риносинусит"
+    ],
+    "abstract_en": "Background/Objectives: In this study, we aimed to evaluate probiotics' clinical efficacy and safety in adults with chronic rhinosinusitis (CRS), and summarize mechanistic evidence related to mucosal immunity and microbiota modulation. Methods: We performed a systematic review and random-effects meta-analysis. MEDLINE, Embase, Scopus, Web of Science, and the Cochrane Library were searched until May 2025. Eligibility: Randomized controlled trials (RCTs) and mechanistic studies investigating probiotics (any strain, dose, or administration route) in adults with CRS were eligible. Primary outcomes included changes in Sino-Nasal Outcome Test (SNOT-20/22) scores and CRS relapse rates. Secondary outcomes were adverse events and mechanistic endpoints. Results: Six studies (four RCTs, n = 337; two mechanistic studies) met the inclusion criteria. Probiotics did not significantly improve SNOT scores compared with the placebo, but trended in that direction (pooled mean difference-2.70; 95% CI -7.12 to 1.72; I2 = 0%). Furthermore, probiotic use was associated with a non-significant trend towards fewer CRS relapses (risk ratio 0.41; 95% CI 0.16-1.04; p = 0.06; I2 = 48%). Adverse events were mild and comparable to the placebo (risk ratio 0.87; 95% CI 0.33-2.34). Mechanistic data indicated that intranasal Lactococcus lactis W136 might downregulate type 1 inflammatory pathways and modestly increase microbiome diversity. Subgroup analyses (by route, duration, and CRS subtype) revealed no statistically significant effect modifiers, though mechanistic insights suggest possible differences in efficacy based on the CRS endotype and delivery method. Conclusions: Probiotics appear safe and may provide a small, non-significant improvement in CRS symptoms; emerging evidence of reduced relapse rates warrants further investigation through larger, endotype-stratified trials utilizing targeted probiotic strains and optimized delivery methods.",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/40725695/",
+    "pmc_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12295326/",
+    "html_available": true,
+    "html_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12295326/",
+    "title_ru": "Пробиотики при хроническом риносинусите: систематический обзор и метаанализ эффективности и безопасности",
+    "patient_plain": "",
+    "patient_use": "При обсуждении пробиотиков важно различать хорошую переносимость и доказанную эффективность: в объединённом анализе они не обеспечили статистически значимого уменьшения симптомов по SNOT-20/22. Возможное снижение риска рецидива выглядит перспективно, но пока не подтверждено с достаточной уверенностью. Если рассматривается интраназальный Lactococcus lactis W136, стоит уточнить, на каких данных основано предложение именно этого штамма и способа введения, поскольку результаты нельзя автоматически переносить на все пробиотики.",
+    "practical_use": "При консультировании пациентов с ХРС следует сообщать, что четыре РКИ с общей выборкой 337 человек не показали статистически значимого улучшения SNOT-20/22, хотя точечная оценка эффекта была в пользу пробиотиков. Снижение частоты рецидивов имело относительный риск 0,41, но 95% ДИ 0,16–1,04 и p = 0,06 не позволяют считать эффект доказанным. Нежелательные явления были лёгкими и сопоставимыми с плацебо, однако широкий доверительный интервал не исключает неопределённости оценки безопасности. Механистические данные об интраназальном Lactococcus lactis W136 и возможных различиях между эндотипами ХРС следует рассматривать как основание для дальнейших исследований, а не как подтверждённую схему лечения.",
+    "summary": "Авторы систематического обзора и метаанализа оценили эффективность и безопасность пробиотиков у взрослых с хроническим риносинуситом (ХРС), с полипами носа и без них. В анализ вошли шесть исследований: четыре рандомизированных контролируемых испытания с участием 337 человек и два исследования механизмов действия. Поиск литературы охватывал MEDLINE, Embase, Scopus, Web of Science и Cochrane Library по май 2025 года. Изучались разные штаммы пробиотиков, дозировки, продолжительность применения и способы введения, включая приём внутрь и интраназальное применение.\n\nПробиотики не обеспечили статистически значимого улучшения симптомов по шкалам SNOT-20/22 по сравнению с плацебо: объединённая разница составила −2,70 балла (95% ДИ от −7,12 до 1,72; I² = 0%). Наблюдалась тенденция к снижению частоты рецидивов ХРС, но результат также не достиг статистической значимости: относительный риск 0,41 (95% ДИ 0,16–1,04; p = 0,06; I² = 48%). Нежелательные явления были преимущественно лёгкими и встречались сопоставимо часто при применении пробиотиков и плацебо (относительный риск 0,87; 95% ДИ 0,33–2,34).\n\nМеханистические данные указывают, что интраназальный Lactococcus lactis W136 может подавлять отдельные пути воспаления первого типа и несколько повышать разнообразие микробиома. Однако анализ подгрупп по способу введения, продолжительности применения и варианту ХРС не выявил статистически значимых факторов, изменяющих эффект. В целом пробиотики выглядят относительно безопасными, но убедительных доказательств клинической эффективности пока нет; возможное влияние на рецидивы требует проверки в более крупных исследованиях с учётом воспалительного эндотипа и целевого выбора штаммов.",
+    "_reason": "Обзор напрямую отвечает на практический вопрос о применении пробиотиков при хроническом риносинусите и объединяет данные о симптомах, рецидивах и безопасности. Его главная ценность — показать, что хорошая переносимость и возможное снижение числа рецидивов пока не означают доказанного клинического эффекта; это помогает реалистично обсуждать ожидания от таких средств.",
+    "why_read": "Статья полезна оториноларингологам и врачам, которые обсуждают с пациентами дополнительные методы лечения ХРС, а также пациентам, рассматривающим пробиотики вместо или в дополнение к стандартной терапии. Особенно стоит прочитать тем, кто хочет разобраться в различии между результатами по симптомам, тенденцией к уменьшению рецидивов и предварительными данными о Lactococcus lactis W136.",
+    "limitations": [
+      "Six studies (four RCTs, n = 337; two mechanistic studies)",
+      "Probiotics did not significantly improve SNOT scores compared with the placebo",
+      "a non-significant trend towards fewer CRS relapses",
+      "The protocol was not registered in PROSPERO or any other review registry.",
+      "no statistically significant effect modifiers"
+    ],
+    "advice_items": [
+      {
+        "quote": "Probiotics did not significantly improve SNOT scores compared with the placebo, but trended in that direction (pooled mean difference-2.70; 95% CI -7.12 to 1.72; I2 = 0%).",
+        "advice": "При обсуждении пробиотиков объясняйте пациенту, что объединённые результаты не подтвердили статистически значимого уменьшения симптомов ХРС по SNOT-20/22. Отрицать возможный небольшой эффект также нельзя, поскольку оценка была направлена в пользу пробиотиков, но доверительный интервал включал отсутствие эффекта.",
+        "audience": "врач"
+      },
+      {
+        "quote": "Furthermore, probiotic use was associated with a non-significant trend towards fewer CRS relapses (risk ratio 0.41; 95% CI 0.16-1.04; p = 0.06; I2 = 48%).",
+        "advice": "При обсуждении профилактики рецидивов указывайте относительный риск 0,41, но обязательно поясняйте, что результат не достиг статистической значимости. Не представляйте снижение риска как установленную эффективность пробиотиков.",
+        "audience": "врач"
+      },
+      {
+        "quote": "Adverse events were mild and comparable to the placebo (risk ratio 0.87; 95% CI 0.33-2.34).",
+        "advice": "При консультировании можно сообщить, что в включённых исследованиях нежелательные явления были лёгкими и сопоставимыми с плацебо. При этом не следует трактовать результат как доказательство отсутствия любых рисков: доверительный интервал широкий, а клиническая база включает только четыре рандомизированных испытания.",
+        "audience": "врач"
+      },
+      {
+        "quote": "Mechanistic data indicated that intranasal Lactococcus lactis W136 might downregulate type 1 inflammatory pathways and modestly increase microbiome diversity.",
+        "advice": "Если пациент спрашивает об интраназальных пробиотиках, отдельно обсуждайте Lactococcus lactis W136 как конкретный штамм, для которого описаны предварительные иммунологические и микробиомные эффекты. Подчёркивайте, что эти механистические наблюдения сами по себе не доказывают клинического улучшения симптомов или предотвращения рецидивов.",
+        "audience": "врач"
+      }
+    ],
+    "importance_stars": 5,
+    "importance_mark": "★★★★★",
+    "take": "keep"
   },
   {
     "pmid": "40660246",
@@ -3000,7 +3409,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 52
+    "id": 59
   },
   {
     "pmid": "40821339",
@@ -3069,7 +3478,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 53
+    "id": 60
   },
   {
     "article": "The role of microtrauma in hair regrowth and regeneration in non-scarring alopecia.",
@@ -3112,7 +3521,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 54
+    "id": 61
   },
   {
     "pmid": "40625221",
@@ -3167,7 +3576,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 55
+    "id": 62
   },
   {
     "article": "Addressing the Root Causes of Female Hair Loss and Non-Pharmaceutical Interventions.",
@@ -3213,7 +3622,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 56
+    "id": 63
   },
   {
     "pmid": "40654550",
@@ -3269,7 +3678,7 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 57
+    "id": 64
   },
   {
     "pmid": "40568688",
@@ -3332,7 +3741,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 58
+    "id": 65
   },
   {
     "pmid": "40446910",
@@ -3390,7 +3799,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 59
+    "id": 66
   },
   {
     "pmid": "40327110",
@@ -3447,10 +3856,10 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 60
+    "id": 67
   },
   {
-    "id": 61,
+    "id": 68,
     "pmid": "40386829",
     "source": "PubMed",
     "article": "Real-World Efficacy and Safety of Cuticapil Stem Hair Serum as an Add-On to Minoxidil in Androgenetic Alopecia: A Prospective Observational Study.",
@@ -3568,7 +3977,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 62
+    "id": 69
   },
   {
     "pmid": "40365252",
@@ -3631,7 +4040,7 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 63
+    "id": 70
   },
   {
     "pmid": "40216195",
@@ -3685,10 +4094,10 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 64
+    "id": 71
   },
   {
-    "id": 65,
+    "id": 72,
     "pmid": "40194956",
     "source": "PubMed",
     "article": "Platelet-rich plasma for androgenetic alopecia: intradermal injection or microneedle delivery?",
@@ -3733,6 +4142,67 @@
     "advice_items": [],
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
+    "take": "keep"
+  },
+  {
+    "id": 73,
+    "pmid": "39729039",
+    "source": "PubMed",
+    "article": "Budesonide nasal irrigation for chronic rhinosinusitis: a meta-analysis of therapeutic outcomes and safety profile.",
+    "authors": [
+      "Magboul N",
+      "Alharbi A F",
+      "Alqutub A T",
+      "Almatrafi S",
+      "Alroqi A",
+      "Aldousary S H",
+      "Alromaih S R",
+      "Alrasheed A S",
+      "Alsaleh S A"
+    ],
+    "date": "2025-04-01",
+    "journal": "Rhinology",
+    "doi": "10.4193/Rhin24.349",
+    "topic": "Хронический риносинусит",
+    "topic_key": "crs",
+    "topic_keys": [
+      "crs"
+    ],
+    "topics": [
+      "Хронический риносинусит"
+    ],
+    "abstract_en": "BACKGROUND: Corticosteroids are used in managing Chronic Rhinosinusitis (CRS) through several formulations, including oral steroids and nasal sprays. More recently, incorporating concentrated budesonide respules into high-volume saline irrigations has been proposed to enhance the penetration of topical steroids into the paranasal sinuses. We aim to evaluate the safety and efficacy of budesonide nasal irrigation (BNI) in managing CRS.\n\nMETHODOLOGY: A systematic review with meta-analysis was performed following PRISMA guidelines. Data were extracted independently from the eligible studies. In double-arm and single-arm meta-analyses, continuous outcomes were pooled using mean difference (MD) with a 95% confidence interval (CI).\n\nRESULTS: Twenty-six studies were reviewed, comprising 1464 patients. BNI had better outcomes than saline nasal irrigation (SNI) regarding Sino-Nasal Outcome Test score (SNOT-22). Lund-Kennedy Endoscopy scores (LKES) changed from baseline. Regarding safety, there was no significant difference between BNI and SNI regarding Intraocular Pressure (IOP). Single-arm analysis showed a pooled mean serum cortisol level within the normal range after BNI.\n\nCONCLUSIONS: BNI demonstrated improved SNOT-22 and LKES scores, with normal post-treatment IOP and cortisol levels, indicating a beneficial impact on CRS while maintaining safety.",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/39729039/",
+    "pmc_link": "",
+    "html_available": false,
+    "html_link": "",
+    "title_ru": "Промывание носа будесонидом при хроническом риносинусите: эффективность и безопасность по данным метаанализа",
+    "patient_plain": "",
+    "patient_use": "Если симптомы хронического риносинусита сохраняются несмотря на обычные солевые промывания, можно спросить врача, подходит ли вам вариант с добавлением будесонида. В обзоре этот метод показал лучшие результаты по SNOT-22, чем промывание одним солевым раствором, но точная величина улучшения в абстракте не приведена. Средние показатели внутриглазного давления и кортизола не указывали на неблагоприятные изменения, однако это не означает отсутствия любых рисков у каждого пациента.",
+    "practical_use": "При обсуждении местной кортикостероидной терапии хронического риносинусита следует учитывать, что метаанализ 26 исследований с 1464 пациентами выявил преимущество промывания будесонидом перед солевым промыванием по SNOT-22. Изменения Lund–Kennedy Endoscopy Score дополняют оценку симптомов эндоскопическими данными, хотя величина эффекта в представленном абстракте не указана. При оценке безопасности авторы не обнаружили значимого различия по внутриглазному давлению между группами, а объединённый средний уровень кортизола после BNI оставался в нормальном диапазоне; эти показатели не заменяют оценку индивидуальных противопоказаний и других возможных нежелательных эффектов.",
+    "summary": "Систематический обзор и метаанализ объединили результаты 26 исследований с участием 1464 пациентов с хроническим риносинуситом. Авторы оценивали промывание носа большим объёмом солевого раствора с добавлением концентрированного будесонида (BNI), который относится к кортикостероидам и предназначен для местного воздействия на слизистую оболочку и околоносовые пазухи. Результаты сравнивали с обычным промыванием солевым раствором без будесонида (SNI).\n\nПромывание с будесонидом показало лучшие результаты по опроснику SNOT-22, оценивающему выраженность симптомов и влияние заболевания на качество жизни. Также отмечались изменения показателей эндоскопии по шкале Lund–Kennedy (LKES) относительно исходного уровня, однако в представленном абстракте не указаны величина этих изменений и их статистическая значимость.\n\nПо показателям безопасности статистически значимых различий между BNI и SNI по внутриглазному давлению не выявлено. Объединённая средняя концентрация кортизола в сыворотке крови после применения будесонида оставалась в пределах нормы. Эти результаты поддерживают эффективность местного применения будесонида при хроническом риносинусите без выявленного неблагоприятного влияния на указанные показатели безопасности, но сами по себе не исключают других побочных эффектов.",
+    "_reason": "Обзор даёт клинически полезные сравнительные данные о промывании носа будесонидом при хроническом риносинусите: улучшение показателя симптомов SNOT-22 относительно солевого промывания и результаты оценки безопасности по внутриглазному давлению и кортизолу. Практическую ценность ограничивает отсутствие в абстракте численных величин эффекта, конкретных схем применения и подробного перечня нежелательных явлений.",
+    "why_read": "Статья полезна пациентам с хроническим риносинуситом, которые хотят обсудить с врачом местную терапию будесонидом вместо одного солевого промывания или в дополнение к нему. Врачам она поможет ориентироваться в совокупных результатах 26 исследований и учитывать данные о SNOT-22, эндоскопической шкале Lund–Kennedy, внутриглазном давлении и кортизоле при обсуждении эффективности и безопасности метода.",
+    "limitations": [],
+    "advice_items": [
+      {
+        "quote": "BNI had better outcomes than saline nasal irrigation (SNI) regarding Sino-Nasal Outcome Test score (SNOT-22).",
+        "advice": "При обсуждении вариантов местной терапии объясните пациенту, что в метаанализе промывание с будесонидом показало лучшие результаты по SNOT-22, чем промывание солевым раствором без препарата. Не обещайте конкретную величину улучшения: в представленном абстракте она не приведена.",
+        "audience": "врач"
+      },
+      {
+        "quote": "Regarding safety, there was no significant difference between BNI and SNI regarding Intraocular Pressure (IOP).",
+        "advice": "При разъяснении безопасности укажите, что обзор не выявил статистически значимого различия во внутриглазном давлении между промыванием с будесонидом и обычным солевым промыванием. Не интерпретируйте этот результат как доказательство отсутствия всех возможных побочных эффектов.",
+        "audience": "врач"
+      },
+      {
+        "quote": "Single-arm analysis showed a pooled mean serum cortisol level within the normal range after BNI.",
+        "advice": "При обсуждении системного воздействия будесонида можно сообщить пациенту, что объединённый средний уровень кортизола после промывания оставался в пределах нормы. Уточните, что это результат группового анализа, а не гарантия одинаковой реакции у каждого человека.",
+        "audience": "пациент"
+      }
+    ],
+    "importance_stars": 5,
+    "importance_mark": "★★★★★",
     "take": "keep"
   },
   {
@@ -3793,7 +4263,7 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 66
+    "id": 74
   },
   {
     "pmid": "40127098",
@@ -3854,10 +4324,10 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 67
+    "id": 75
   },
   {
-    "id": 68,
+    "id": 76,
     "pmid": "40122142",
     "source": "PubMed",
     "article": "Whether the transient hair shedding phase exist after minoxidil treatment and does it predict treatment efficacy? A retrospective study in androgenetic alopecia patients.",
@@ -3957,7 +4427,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 69
+    "id": 77
   },
   {
     "pmid": "40083615",
@@ -4020,7 +4490,7 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 70
+    "id": 78
   },
   {
     "pmid": "40056230",
@@ -4086,7 +4556,7 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 71
+    "id": 79
   },
   {
     "pmid": "40168567",
@@ -4149,7 +4619,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 72
+    "id": 80
   },
   {
     "pmid": "40127493",
@@ -4208,7 +4678,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 73
+    "id": 81
   },
   {
     "pmid": "40043269",
@@ -4263,7 +4733,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 74
+    "id": 82
   },
   {
     "pmid": "40019613",
@@ -4318,10 +4788,10 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 75
+    "id": 83
   },
   {
-    "id": 76,
+    "id": 84,
     "pmid": "40014580",
     "source": "PubMed",
     "article": "Epidemiological landscape of androgenetic alopecia in the US: An All of Us cross-sectional study.",
@@ -4416,7 +4886,7 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 77
+    "id": 85
   },
   {
     "pmid": "39991105",
@@ -4475,7 +4945,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "skim",
-    "id": 78
+    "id": 86
   },
   {
     "pmid": "39948731",
@@ -4530,7 +5000,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 79
+    "id": 87
   },
   {
     "pmid": "39954138",
@@ -4598,7 +5068,7 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 80
+    "id": 88
   },
   {
     "article": "Association of Myo-Inositol and Microlipodispersed Magnesium in Androgen-Dependent Dermatological Diseases: A Retrospective Study.",
@@ -4647,7 +5117,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 81
+    "id": 89
   },
   {
     "pmid": "39997270",
@@ -4701,7 +5171,7 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 82
+    "id": 90
   },
   {
     "pmid": "39921108",
@@ -4774,10 +5244,10 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 83
+    "id": 91
   },
   {
-    "id": 84,
+    "id": 92,
     "pmid": "39963025",
     "source": "PubMed",
     "article": "Analysis of Common Treatment Drugs and Allergen Sensitization in Hair Loss Patients.",
@@ -4877,7 +5347,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 85
+    "id": 93
   },
   {
     "pmid": "39840856",
@@ -4936,7 +5406,7 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 86
+    "id": 94
   },
   {
     "pmid": "39867973",
@@ -4989,7 +5459,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "skim",
-    "id": 87
+    "id": 95
   },
   {
     "pmid": "39944453",
@@ -5053,7 +5523,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 88
+    "id": 96
   },
   {
     "pmid": "40034971",
@@ -5112,10 +5582,70 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 89
+    "id": 97
   },
   {
-    "id": 90,
+    "id": 98,
+    "pmid": "40657344",
+    "source": "PubMed",
+    "article": "Synergistic Impact of Nasal Irrigation and Health Education in Reducing Chronic Rhinosinusitis Among Cement Plant Workers: a Randomized Controlled Trial.",
+    "authors": [
+      "Hung Nguyen Quang",
+      "Long Vo Hoang",
+      "Truong Nguyen Quang"
+    ],
+    "date": "2025-01-01",
+    "journal": "Medical archives (Sarajevo, Bosnia and Herzegovina)",
+    "doi": "10.5455/medarh.2025.79.184-189",
+    "topic": "Хронический риносинусит",
+    "topic_key": "crs",
+    "topic_keys": [
+      "crs"
+    ],
+    "topics": [
+      "Хронический риносинусит"
+    ],
+    "abstract_en": "BACKGROUND: Chronic rhinosinusitis (CRS) is a prevalent and debilitating condition among industrial workers exposed to occupational hazards such as dust and chemical irritants. Despite its significant impact on quality of life and productivity, evidence-based interventions for occupational CRS remain limited.\n\nOBJECTIVE: This study evaluates the effectiveness of combined health education and nasal irrigation in reducing CRS symptoms among direct labor workers at the Hai Phong Cement Plant, Vietnam.\n\nMETHODS: A randomized controlled trial was conducted from 2014 to 2015, involving 90 workers diagnosed with CRS. Participants were randomly assigned to an intervention group (n=45), receiving nasal irrigation kits and training, or a control group (n=45), receiving health education only. Health education sessions focused on improving knowledge, attitudes, and practices (KAP) related to CRS prevention. Nasal irrigation involved twice-daily rinsing with 0.9% saline solution. Outcomes were assessed using structured questionnaires, clinical examinations, and the Intervention Effectiveness Index (HQCT).\n\nRESULTS: The health education intervention significantly improved KAP scores, with a 2967% increase in positive attitudes and an 847% improvement in understanding preventive measures. Nasal irrigation demonstrated substantial efficacy, reducing moderate nasal discharge by 58% and nasal congestion by 1600%. Objective findings revealed a 1657% increase in workers reporting no nasal cavity discharge and a 158% improvement in nasal mucosal health. After six months, 60% of the nasal irrigation group reported \"good\" improvement, compared to 11.1% in the control group (p < 0.05).\n\nCONCLUSIONS: This study highlights the synergistic potential of health education and nasal irrigation in managing occupational CRS. Nasal irrigation, in particular, emerged as a highly effective, low-cost intervention for alleviating CRS symptoms in high-risk industrial settings. These findings underscore the importance of integrating non-pharmacological approaches into occupational health programs to safeguard respiratory health among workers exposed to environmental hazards.",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/40657344/",
+    "pmc_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12253579/",
+    "html_available": true,
+    "html_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12253579/",
+    "title_ru": "Промывание носа солевым раствором и обучение профилактике хронического риносинусита у работников цементного завода: рандомизированное контролируемое исследование",
+    "patient_plain": "",
+    "patient_use": "Если хронический риносинусит связан с работой в пыльной или химически загрязнённой среде, стоит обсудить с врачом не только профилактические меры, но и промывание носа изотоническим солевым раствором. В исследовании использовали раствор NaCl 0,9% дважды в день, а через шесть месяцев хорошее улучшение отметили 60% участников этой группы. Важно учитывать, что исследование проводилось среди работников цементного завода, поэтому такой результат не гарантирует аналогичного эффекта при других причинах заболевания.",
+    "practical_use": "При консультировании пациентов с профессиональным воздействием пыли и раздражающих веществ можно рассматривать сочетание структурированного обучения и регулярного промывания носа раствором NaCl 0,9% как немедикаментозный подход. В сравнении с одним обучением сочетание вмешательств обеспечило более высокую долю хорошего улучшения через шесть месяцев: 60% против 11,1% (p < 0,05); также уменьшились выделения, зуд и заложенность носа. При интерпретации результатов следует учитывать единственную профессиональную популяцию, размер выборки 90 человек и отсутствие в представленном фрагменте подробных абсолютных данных по отдельным симптомам.",
+    "summary": "В рандомизированном контролируемом исследовании участвовали 90 работников цементного завода Hai Phong во Вьетнаме с хроническим риносинуситом. В течение исследования сравнивали две группы по 45 человек: первая получала обучение профилактике заболевания, а вторая дополнительно использовала наборы для промывания носа и обучалась процедуре. Промывание проводили дважды в день раствором хлорида натрия концентрацией 0,9%. Результаты оценивали по опросникам, клиническим осмотрам и индексу эффективности вмешательства HQCT.\n\nОбучение улучшило знания работников о профилактике риносинусита и их отношение к управлению заболеванием. В группе промывания умеренные выделения из носа уменьшились на 58%, умеренный зуд в носу — на 71%; также улучшились показатели заложенности носа, кашля, боли или заложенности в ушах и состояния слизистой оболочки. После вмешательства увеличение доли работников без заложенности носа составило 1600%, а доли сообщавших об отсутствии выделений из носовой полости — 1657%; состояние слизистой улучшилось на 158%. Эти проценты приведены авторами, однако без исходных абсолютных значений их клиническую величину трудно интерпретировать.\n\nЧерез шесть месяцев хорошее улучшение отметили 60% участников группы промывания против 11,1% в группе, получавшей только обучение; различие было статистически значимым (p < 0,05). Удовлетворительное улучшение наблюдалось соответственно у 37,8% и 17,8% участников, а плохого улучшения в группе промывания не зарегистрировали. Исследование поддерживает применение обучения в сочетании с промыванием носа у работников, подвергающихся производственному воздействию пыли и раздражающих веществ, но его результаты получены в одной профессиональной группе и не позволяют автоматически переносить эффект на всех пациентов с хроническим риносинуситом.",
+    "_reason": "Исследование даёт конкретные данные о немедикаментозном подходе к хроническому риносинуситу у работников с интенсивным воздействием производственной пыли: промывание носа раствором NaCl 0,9% дважды в день в сочетании с обучением сопровождалось лучшими результатами, чем одно обучение. Практическая ценность заключается в сравнении групп и оценке улучшения через шесть месяцев, хотя переносимость результатов на другие группы пациентов ограничена.",
+    "why_read": "Статья полезна врачам-оториноларингологам и специалистам по медицине труда, работающим с пациентами, подвергающимися воздействию цементной пыли и химических раздражителей. Её стоит прочитать тем, кто оценивает роль промывания носа и профилактического обучения: авторы сообщают о 60% хороших улучшений в группе промывания против 11,1% при одном обучении через шесть месяцев.",
+    "limitations": [
+      "involving 90 workers diagnosed with CRS",
+      "receiving health education only",
+      "twice-daily rinsing with 0.9% saline solution",
+      "After six months, 60% of the nasal irrigation group reported \"good\" improvement, compared to 11.1% in the control group (p < 0.05)."
+    ],
+    "advice_items": [
+      {
+        "quote": "Nasal irrigation involved twice-daily rinsing with 0.9% saline solution.",
+        "advice": "При обсуждении немедикаментозного лечения уточните, подходит ли пациенту промывание носа изотоническим раствором NaCl 0,9%. В исследовании процедуру проводили дважды в день в сочетании с обучением профилактике хронического риносинусита. Не переносите этот протокол автоматически на пациентов с другими клиническими особенностями.",
+        "audience": "врач"
+      },
+      {
+        "quote": "After six months, 60% of the nasal irrigation group reported \"good\" improvement, compared to 11.1% in the control group (p < 0.05).",
+        "advice": "Объясните пациенту, что в исследовании работников цементного завода через шесть месяцев хорошее улучшение отметили 60% участников группы промывания и 11,1% участников группы обучения без промывания. Это результат конкретной профессиональной популяции, а не гарантия индивидуального ответа. При оценке динамики учитывайте изменения симптомов и производственные воздействия.",
+        "audience": "врач"
+      },
+      {
+        "quote": "The educational initiative effectively augmented participants' comprehension, attitudes, and practical approaches towards managing their condition",
+        "advice": "При работе с пациентами, имеющими профессиональный контакт с пылью и раздражающими веществами, включайте в обучение конкретные меры профилактики и способы контроля симптомов. В исследовании обучение улучшило знания и отношение работников к профилактике, а в группе вмешательства все участники сообщили, что стали применять промывание носа. Обучение целесообразно сочетать с практическими мерами, а не рассматривать как единственное вмешательство.",
+        "audience": "врач"
+      }
+    ],
+    "importance_stars": 5,
+    "importance_mark": "★★★★★",
+    "take": "keep"
+  },
+  {
+    "id": 99,
     "pmid": "39679573",
     "source": "PubMed",
     "article": "Clinical Safety and Efficacy of Dual Wavelength Low-Level Light Therapy in Androgenetic Alopecia: A Double-Blind Randomized Controlled Study.",
@@ -5216,7 +5746,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 91
+    "id": 100
   },
   {
     "pmid": "39521141",
@@ -5276,7 +5806,7 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 92
+    "id": 101
   },
   {
     "pmid": "39425514",
@@ -5345,10 +5875,10 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 93
+    "id": 102
   },
   {
-    "id": 94,
+    "id": 103,
     "pmid": "39404126",
     "source": "PubMed",
     "article": "Low-Level Laser and LED Therapy in Alopecia: A Systematic Review and Meta-Analysis.",
@@ -5392,7 +5922,78 @@
     "take": "keep"
   },
   {
-    "id": 95,
+    "id": 104,
+    "pmid": "40066382",
+    "source": "PubMed",
+    "article": "To Study the Incidence of Biofilm Formation, its Microbiology and its Effect on the Development of Acute and Chronic Rhinosinusitis- A Prospective Study.",
+    "authors": [
+      "Pandey Akshat",
+      "Yadav Ramraj",
+      "Mishra Vivek",
+      "Sharma Akanksha",
+      "Saroj Sanjay Kumar",
+      "Yadav Rahul",
+      "Rynjah Jeffrey Oswin",
+      "Bhansali Srishti",
+      "Sharma Anjalika",
+      "Shekar Gundra Chandra",
+      "Yadav Sishupal",
+      "Goyal Arpit",
+      "Tilak Ragini",
+      "Aggarwal Sushil Kumar"
+    ],
+    "date": "2024-10-10",
+    "journal": "Indian journal of otolaryngology and head and neck surgery : official publication of the Association of Otolaryngologists of India",
+    "doi": "10.1007/s12070-024-05091-y",
+    "topic": "Хронический риносинусит",
+    "topic_key": "crs",
+    "topic_keys": [
+      "crs"
+    ],
+    "topics": [
+      "Хронический риносинусит"
+    ],
+    "abstract_en": "Bacterial biofilms are organised complex structures having polymicrobial nature in a single community, which provide protection to bacteria from antibiotics by various means. The aim of our study was to determine the prevalence of biofilm-forming bacteria in clinical isolates of acute and chronic rhinosinusitis (ARS and CRS) patients with sinonasal mucopurulence. To know the incidence of bacterial biofilms in patient with ARS and CRS, to study the microbiology of bacterial biofilms in ARS and CRS, to assess the role and effects of biofilm in ARS and CRS and to correlate the association between the formation of the biofilm and development of rhinosinusitis. This prospective study was carried out at a tertiary care centre in Eastern part of India, in which 60 patients were taken as sample size. All patients of rhinosinusitis between age-group of 10 to70 years, who came to our out-patient department, were taken for our study. Biofilm formation was observed in 50% cases and were absent in 50% cases of chronic rhinosinusitis in our study. 83.3% (50) of patients out of 60 patients got improved after treatment and recurrence was observed in only 16.6% (10) of patients. Recurrence was more at 3 months follow-up as compared to follow-up at 1 month, though it was not statistically significant. Though our study highlighted the incidence and role of biofilms in the development of chronic rhinosinusitis, but few more randomized controlled studies involving larger sample sizes should be done to exactly determine the pathophysiological role of biofilms in the development and recurrence of acute and chronic rhinosinusuitis.",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/40066382/",
+    "pmc_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11890489/",
+    "html_available": true,
+    "html_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11890489/",
+    "title_ru": "Бактериальные биоплёнки при остром и хроническом риносинусите: частота выявления и связь с рецидивами",
+    "patient_plain": "",
+    "patient_use": "Биоплёнки могут защищать бактерии от антибиотиков, поэтому их возможная роль имеет значение при обсуждении хронического или повторяющегося риносинусита. В исследовании улучшение после лечения наблюдалось у 83,3% пациентов, а у 16,6% возник рецидив; при этом нельзя утверждать, что рецидивы были вызваны именно биоплёнками. Если симптомы возвращаются, полезно обсудить с врачом сроки наблюдения и дальнейшую оценку заболевания, учитывая, что в исследовании повторные эпизоды чаще отмечались через 3 месяца, чем через 1 месяц.",
+    "practical_use": "При обсуждении хронического риносинусита следует учитывать, что биоплёнки обнаруживались в половине исследованных случаев и теоретически способны снижать чувствительность бактериальных сообществ к антибиотикам. После лечения улучшение отмечено у 50 из 60 пациентов, а рецидив — у 10; тенденция к более частым рецидивам через 3 месяца не достигла статистической значимости. Эти результаты не позволяют использовать наличие биоплёнки как самостоятельный доказанный предиктор рецидива или делать выводы об эффективности конкретного антибиотика. Для изменения лечебной тактики необходимы дополнительные данные, в том числе результаты более крупных рандомизированных исследований.",
+    "summary": "В проспективном исследовании в специализированном медицинском центре на востоке Индии участвовали 60 пациентов с острым или хроническим риносинуситом в возрасте от 10 до 70 лет, у которых наблюдались слизисто-гнойные выделения из носа и околоносовых пазух. Авторы изучали частоту образования бактериальных биоплёнок, их микробиологические характеристики и возможную связь с развитием заболевания и его повторными эпизодами. Биоплёнки представляют собой сообщества бактерий, которые могут защищать микроорганизмы от действия антибиотиков.\n\nПри хроническом риносинусите биоплёнки обнаружили в 50% случаев, а в остальных 50% они отсутствовали. После лечения улучшение отмечено у 50 из 60 пациентов (83,3%), рецидив зарегистрирован у 10 пациентов (16,6%). Повторные эпизоды чаще наблюдались при контрольном обследовании через 3 месяца, чем через 1 месяц, однако различие не было статистически значимым.\n\nРезультаты указывают на возможную роль бактериальных биоплёнок в хроническом риносинусите, но не доказывают, что именно они вызывают заболевание или его рецидивы. Исследование включало небольшую группу пациентов, а для более точной оценки причинно-следственной связи авторы считают необходимыми рандомизированные контролируемые исследования с большими выборками.",
+    "_reason": "Статья приводит конкретные данные о выявлении бактериальных биоплёнок и исходах лечения у пациентов с риносинуситом, что помогает понять одну из возможных причин устойчивого или повторного течения заболевания. Однако небольшая выборка и отсутствие статистически значимого различия по срокам рецидивов не позволяют считать биоплёнки доказанной причиной повторного заболевания или на основании этих результатов выбирать лечение.",
+    "why_read": "Статья будет полезна оториноларингологам, которые наблюдают пациентов с хроническим или рецидивирующим риносинуситом, а также пациентам, желающим разобраться в возможной роли бактериальных биоплёнок. Особенно стоит обратить внимание на частоту их обнаружения, долю улучшений после лечения и ограничения данных о рецидивах.",
+    "limitations": [
+      "This prospective study was carried out at a tertiary care centre in Eastern part of India",
+      "in which 60 patients were taken as sample size",
+      "Recurrence was more at 3 months follow-up as compared to follow-up at 1 month, though it was not statistically significant",
+      "few more randomized controlled studies involving larger sample sizes should be done"
+    ],
+    "advice_items": [
+      {
+        "quote": "Biofilm formation was observed in 50% cases and were absent in 50% cases of chronic rhinosinusitis in our study.",
+        "advice": "При обсуждении результатов обследования учитывайте, что в этой выборке биоплёнки выявлялись только у половины пациентов с хроническим риносинуситом. Сам по себе этот результат не позволяет установить наличие биоплёнки у конкретного пациента без соответствующих диагностических данных.",
+        "audience": "врач"
+      },
+      {
+        "quote": "83.3% (50) of patients out of 60 patients got improved after treatment and recurrence was observed in only 16.6% (10) of patients.",
+        "advice": "Используйте эти показатели для описания исходов наблюдавшейся группы, а не как гарантированный прогноз для отдельного пациента. При консультировании важно разделять улучшение после лечения и отсутствие последующих рецидивов: в исследовании эти исходы были зарегистрированы отдельно.",
+        "audience": "врач"
+      },
+      {
+        "quote": "Recurrence was more at 3 months follow-up as compared to follow-up at 1 month, though it was not statistically significant.",
+        "advice": "При обсуждении наблюдения после лечения учитывайте, что в исследовании рецидивы чаще отмечались через 3 месяца, чем через 1 месяц, но различие не было статистически значимым. Эти данные не устанавливают оптимальную периодичность контрольных визитов, однако подчёркивают, что оценка только в ранний срок может не отражать все последующие рецидивы.",
+        "audience": "врач"
+      }
+    ],
+    "importance_stars": 4,
+    "importance_mark": "★★★★☆",
+    "take": "keep"
+  },
+  {
+    "id": 105,
     "pmid": "39327649",
     "source": "PubMed",
     "article": "Low-Dose Oral Minoxidil and Associated Adverse Events: Analyses of the FDA Adverse Event Reporting System (FAERS) With a Focus on Pericardial Effusions.",
@@ -5493,7 +6094,7 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 96
+    "id": 106
   },
   {
     "article": "Oral Supplementation with l-Cystine, Serenoa repens, Cucurbita pepo, and Pygeum africanum in Chronic Telogen Effluvium and Androgenetic Alopecia: A Double-Blind, Placebo-Controlled, Randomized Clinical Study.",
@@ -5543,6 +6144,6 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 97
+    "id": 107
   }
 ]
