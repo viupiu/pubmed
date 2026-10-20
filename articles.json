@@ -737,72 +737,6 @@
     "take": "keep"
   },
   {
-    "pmid": "42396141",
-    "source": "PubMed",
-    "article": "Sexual dysfunction associated with 5α-reductase inhibitors in the treatment of androgenetic alopecia: a systematic review.",
-    "authors": [
-      "Złotowska Aleksandra",
-      "Jastrząb-Miśkiewicz Beata",
-      "Krajewski Piotr K"
-    ],
-    "date": "2026-06-18",
-    "journal": "Frontiers in medicine",
-    "doi": "10.3389/fmed.2026.1787706",
-    "topic": "АГА",
-    "topic_key": "aga",
-    "topic_keys": [
-      "aga"
-    ],
-    "topics": [
-      "АГА"
-    ],
-    "abstract_en": "INTRODUCTION: 5α-reductase inhibitors (5-ARIs) are most commonly used to treat benign prostatic hyperplasia (BPH) and androgenetic alopecia (AGA). Preclinical and clinical studies suggest that in patients with AGA treated with 5-ARIs, a subset reports sexual adverse events, including decreased libido, erectile dysfunction, and ejaculatory disorders. This review explores the development of sexual dysfunction in patients with androgenetic alopecia due to the use of 5-ARIs, emphasizing their importance in the clinical diagnosis of health disorders coexisting with hair loss.\n\nMETHODS: A systematic review was conducted by searching electronic databases, including MEDLINE, Scopus, Web of Science and Google Scholar, according to the PRISMA guidelines. The search was limited to articles published in English and up to December 2025. Key search terms included \"5α-reductase inhibitors\" or \"5-ARIs\" or \"finasteride\" or \"dutasteride\" AND \"side effects\" or \"sexual side effects\" or \"sexual\" or \"sexual dysfunction\" AND \"androgenetic alopecia\" or \"male pattern hair loss\" or \"female pattern hair loss.\" Data synthesis included findings from 41 studies, comprising 33 primary-evidence studies in AGA/MPHL/FPHL populations and 8 supporting-evidence studies providing pharmacokinetic, mixed-indication, or comparative context.\n\nRESULTS: 5-ARIs are effective therapies for androgenetic alopecia and are generally well tolerated. Across placebo-controlled RCTs evaluating oral finasteride 1 mg in men with AGA, sexual adverse events were reported in 1.9-6.7% of treated patients compared with 0.9-3.9% in placebo groups, with most events mild and reversible upon discontinuation. Topical finasteride 0.25% was associated with lower rates of sexual adverse events (2.8%) compared with oral finasteride (4.8%). For dutasteride 0.5 mg, sexual adverse events ranged from 4.1 to 12.0% across RCTs, compared with 4.0-5.0% in placebo groups. No sexual adverse effects were consistently reported in women treated with 5-ARIs for AGA. In most reports, the effects were transient and reversible after discontinuation.\n\nCONCLUSION: Overall, clinicians should counsel patients that most sexual side effects reported in controlled AGA studies are infrequent, mild, and reversible, but individual susceptibility varies. Shared decision-making, careful monitoring of sexual function, and further high-quality long-term studies-using standardized definitions of sexual dysfunction and persistence-are needed to quantify risks better and identify vulnerable subgroups.",
-    "article_link": "https://pubmed.ncbi.nlm.nih.gov/42396141/",
-    "pmc_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13322902/",
-    "html_available": true,
-    "html_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13322902/",
-    "title_ru": "Сексуальные побочные эффекты финастерида и дутастерида при лечении андрогенетической алопеции: систематический обзор",
-    "patient_plain": "",
-    "patient_use": "Перед началом лечения стоит обсудить с врачом возможные изменения либидо, эрекции и эякуляции, а также то, как действовать при появлении таких симптомов. Важно учитывать, что побочные эффекты встречаются не у всех, а их частота в исследованиях различалась в зависимости от препарата и условий наблюдения. Наружный финастерид в концентрации 0,25% был связан с меньшей частотой сексуальных побочных эффектов, чем пероральный препарат, но долгосрочные сравнительные данные пока ограничены. Если сексуальные нарушения возникают или сохраняются после прекращения лечения, это следует обсудить с врачом, поскольку частота и причины длительных симптомов остаются неопределёнными.",
-    "practical_use": "При назначении финастерида или дутастерида врачу следует заранее обсудить сексуальные побочные эффекты и зафиксировать исходное состояние сексуальной функции, чтобы последующее наблюдение было информативным. При оценке риска нужно учитывать, что в контролируемых исследованиях частота нежелательных явлений при применении финастерида часто была близка к показателям плацебо, тогда как для дутастерида диапазон значений был шире. Наружный финастерид можно рассматривать при обсуждении вариантов лечения с учётом потенциально меньшего системного воздействия, не считая его долгосрочную безопасность окончательно установленной. При сообщениях о стойких симптомах после отмены препарата важно не преувеличивать доказанность причинной связи, поскольку наблюдательные исследования подвержены систематическим ошибкам отбора и регистрации.",
-    "summary": "Систематический обзор 41 исследования (33 по андрогенетической алопеции у мужчин и женщин и 8 дополнительных по фармакокинетике, механизмам и сравнительной безопасности) оценил сексуальные побочные эффекты финастерида и дутастерида.\n\nУ мужчин при финастериде 1 мг/сут такие явления отмечали у 1,9–6,7% участников РКИ (плацебо 0,9–3,9%), при дутастериде 0,5 мг — у 4,1–12,0% (плацебо 4,0–5,0%); большинство случаев были лёгкими и обратимыми. Наружный финастерид 0,25% — 2,8% против 4,8% при приёме внутрь.\n\nДанные о сохраняющихся симптомах после отмены неоднозначны; сведения о безопасности у женщин ограничены.",
-    "_reason": "Обзор помогает сопоставить пользу лечения андрогенетической алопеции с риском сексуальных побочных эффектов и обсуждать его на основе количественных данных, а не только отдельных сообщений пациентов. Особенно полезны сравнения с плацебо и сведения о неопределённости длительных симптомов после отмены, хотя различия между исследованиями не позволяют считать приведённые диапазоны универсальным прогнозом для конкретного человека.",
-    "why_read": "Пациентам, рассматривающим финастерид или дутастерид при выпадении волос, статья поможет подготовиться к разговору о сексуальных побочных эффектах и возможных альтернативах. Дерматологам и другим назначающим врачам обзор полезен для обсуждения индивидуального соотношения пользы и риска, наблюдения за сексуальной функцией и корректного объяснения неопределённости данных о стойких симптомах.",
-    "limitations": [
-      "The search was limited to articles published in English and up to December 2025.",
-      "although longer-term comparative data are still needed",
-      "the prevalence, causal relationship, and underlying mechanisms remain uncertain and susceptible to reporting and selection bias",
-      "inconsistent reporting of sexual or endocrine adverse effects",
-      "small sample size warrants cautious interpretation of the results"
-    ],
-    "advice_items": [
-      {
-        "quote": "Shared decision-making, careful monitoring of sexual function, and further high-quality long-term studies—using standardized definitions of sexual dysfunction and persistence—are needed to quantify risks better and identify vulnerable subgroups.",
-        "advice": "При обсуждении терапии финастеридом или дутастеридом заранее объясняйте пациенту возможные сексуальные нежелательные явления и совместно оценивайте пользу и риски лечения. В ходе наблюдения уточняйте изменения либидо, эрекции и эякуляции, а при жалобах после отмены препарата документируйте их длительность. Не представляйте частоту стойких симптомов как точно установленную: имеющиеся данные не позволяют надёжно определить распространённость и причинную связь.",
-        "audience": "врач"
-      },
-      {
-        "quote": "Among available 5-ARIs, topical finasteride may offer a favorable safety profile by reducing systemic exposure while maintaining clinical benefit, although longer-term comparative data are still needed.",
-        "advice": "При выборе лечения можно обсудить наружный финастерид как вариант, потенциально связанный с меньшим системным воздействием. Объясните пациенту, что сравнительные данные указывают на меньшую частоту сексуальных нежелательных явлений по сравнению с пероральной формой, но долгосрочное преимущество по безопасности пока не подтверждено окончательно. Решение следует принимать с учётом ожидаемой пользы и индивидуальных факторов риска.",
-        "audience": "врач"
-      },
-      {
-        "quote": "In most reports, the effects were transient and reversible after discontinuation.",
-        "advice": "Объясните пациенту, что в большинстве исследований сексуальные побочные эффекты проходили после прекращения лечения, однако это не гарантирует одинакового исхода у каждого человека. При появлении симптомов необходимо обсудить их с врачом, а не самостоятельно менять лечение без оценки пользы и риска. Если нарушения сохраняются после отмены, важно сообщить об этом на приёме.",
-        "audience": "пациент"
-      },
-      {
-        "quote": "In women, oral 5-ARIs are used off-label in selected cases; available studies suggest potential efficacy, with inconsistent reporting of sexual or endocrine adverse effects, and strict pregnancy prevention is essential because of teratogenic risk.",
-        "advice": "При рассмотрении пероральных ингибиторов 5α-редуктазы у женщин учитывайте, что такое применение при андрогенетической алопеции является использованием вне зарегистрированных показаний. Обсудите неопределённость данных о сексуальных и эндокринных побочных эффектах. Из-за риска тератогенного действия необходима строгая профилактика беременности.",
-        "audience": "врач"
-      }
-    ],
-    "importance_stars": 5,
-    "importance_mark": "★★★★★",
-    "take": "keep",
-    "id": 13
-  },
-  {
     "pmid": "42234621",
     "source": "PubMed",
     "article": "Assessment and treatment of adolescent hair loss.",
@@ -867,7 +801,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 14
+    "id": 13
   },
   {
     "pmid": "42190753",
@@ -927,7 +861,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 15
+    "id": 14
   },
   {
     "pmid": "42168420",
@@ -985,10 +919,10 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 16
+    "id": 15
   },
   {
-    "id": 17,
+    "id": 16,
     "pmid": "42434041",
     "source": "PubMed",
     "article": "Additive Effects of Platelet-Rich Plasma and Systemic Therapies in Androgenetic Alopecia: A Retrospective Study.",
@@ -1091,10 +1025,10 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 18
+    "id": 17
   },
   {
-    "id": 19,
+    "id": 18,
     "pmid": "41954038",
     "source": "PubMed",
     "article": "Evaluating the Effectiveness of Commercial Oral Supplements for Hair Growth: A Systematic Review and Meta-Analysis.",
@@ -1198,7 +1132,7 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 20
+    "id": 19
   },
   {
     "pmid": "41823643",
@@ -1243,7 +1177,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 21
+    "id": 20
   },
   {
     "pmid": "41779759",
@@ -1296,9 +1230,10 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 22
+    "id": 21
   },
   {
+    "id": 22,
     "pmid": "41741964",
     "source": "PubMed",
     "article": "Quality of life and patient-reported side effects of low-dose oral minoxidil in treating female pattern hair loss.",
@@ -1328,35 +1263,22 @@
     "pmc_link": "",
     "html_available": false,
     "html_link": "",
-    "title_ru": "Низкодозный пероральный миноксидил при женском выпадении волос: качество жизни и нежелательный рост волос",
+    "title_ru": "LDOM при FPHL: гипертрихоз частый, но редко ломает приверженность",
     "patient_plain": "",
-    "patient_use": "При обсуждении миноксидила важно заранее учитывать вероятность появления нежелательных волос на лице и теле: в этом исследовании с таким эффектом столкнулись примерно семь из десяти женщин. При этом 93,2% участниц не считали нежелательный рост волос поводом отказаться от лечения, а большинство случаев были лёгкими или умеренными. Эти данные помогут обсудить с врачом, насколько такой побочный эффект приемлем лично для вас, и сопоставить его с ожидаемым улучшением состояния волос и качества жизни.",
-    "practical_use": "При обсуждении низкодозного перорального миноксидила с пациенткой стоит отдельно проговорить вероятность гипертрихоза и уточнить, насколько нежелательный рост волос повлияет на её готовность продолжать лечение. В этой когорте выраженность выпадения волос и показатели качества жизни улучшились, а гипертрихоз редко становился причиной прекращения терапии. Однако результаты опроса одной клиники не позволяют гарантировать аналогичный эффект каждой пациентке или оценить все риски препарата.",
-    "summary": "Телефонный опрос одной клиники: 102 женщины с женским типом выпадения волос, принимавшие низкодозный миноксидил внутрь не менее месяца (медиана 12 месяцев).\n\nМедианная оценка выраженности выпадения снизилась с 7 до 4 из 10, показатель WAA-QOL улучшился с 67 до 39 (p<0,001). Нежелательный рост волос на лице, руках и ногах возник у 71,6%, но 93,2% не считали его поводом прекращать лечение.\n\nОпрос в одном учреждении не доказывает причинно-следственную связь и не выявляет предикторы гипертрихоза.",
-    "_reason": "Статья даёт полезные для принятия решения данные о воспринимаемой эффективности низкодозного перорального миноксидила и переносимости наиболее заметного побочного эффекта. Результаты помогают предметно обсуждать ожидания пациентки, но опросный дизайн и отсутствие контрольной группы ограничивают возможность судить об эффективности и безопасности лечения в сравнении с другими подходами.",
-    "why_read": "Статья будет полезна дерматологам и трихологам, которые обсуждают с пациентками с женским типом выпадения волос пероральный миноксидил. Пациенткам она поможет понять, насколько часто встречается нежелательный рост волос и как участницы исследования оценивали его влияние на продолжение лечения.",
+    "patient_use": "Перед стартом таблеток миноксидила решите для себя, готовы ли вы к возможным волоскам на лице и теле — это самый частый компромисс этой формы, не «редкий казус». Если пушок на лице для вас стоп-фактор сильнее, чем удобство таблеток, лучше сразу говорить с врачом про наружный миноксидил или другие схемы, а не бросать курс через месяц в панике. Если уже пьёте и появились волоски — это само по себе не значит, что лечение «не то»; многие продолжают на фоне лёгкого гипертрихоза, но порог комфорта у всех разный.",
+    "practical_use": "Consent до назначения LDOM: отдельно проговорить лицо/руки/ноги как ожидаемый trade-off, не прятать в общий список AE. Мониторинг удобно вести шкалой тяжести выпадения и WAA-QOL, а не только фото темени. Гипертрихоз редко = discontinue в этой когорте — не обещать «не будет волос на лице», но и не пугать обязательной отменой; single-center telephone survey.",
+    "summary": "Телефонный опрос одной клиники: 102 женщины с FPHL на низкодозном пероральном миноксидиле ≥1 месяца (медиана курса 12 месяцев).\n\nСубъективная тяжесть выпадения: медиана с 7 до 4 из 10. WAA-QOL: с 67 до 39 (p<0,001). Нежелательный рост волос на лице, руках или ногах — у 71,6%; в большинстве лёгкий/умеренный.\n\n93,2% не назвали гипертрихоз причиной отмены. Предикторов лишнего роста волос не нашли. Опрос одной клиники — не РКИ.",
+    "_reason": "Гипертрихоз vs приверженность без копипаста цифр по блокам.",
+    "why_read": "Как говорить о LDOM и пушке.",
     "limitations": [
-      "at a single institution",
-      "telephone survey",
-      "currently taking or previously treated with LDOM for at least one month",
-      "no predictors of unwanted hair growth identified"
+      "single clinic telephone survey",
+      "no dose listed in abstract",
+      "no predictors of hypertrichosis"
     ],
-    "advice_items": [
-      {
-        "quote": "Unwanted hair growth occurred in 71.6% of patients, most commonly on the face, arms, and legs; however, 93.2% did not consider it a reason to discontinue treatment, and most cases were mild or moderate.",
-        "advice": "До начала лечения обсудите с пациенткой вероятность нежелательного роста волос на лице и теле и выясните, насколько этот эффект для неё приемлем. Объясните, что в исследованной группе он встречался часто, но большинство участниц не считали его поводом прекратить лечение, а выраженность обычно была лёгкой или умеренной. Не переносите эти показатели автоматически на каждую пациентку.",
-        "audience": "врач"
-      },
-      {
-        "quote": "WAA-QOL scores improved significantly from baseline (67 to 39, p<0.001), with no predictors of unwanted hair growth identified.",
-        "advice": "При оценке результата лечения учитывайте не только выраженность выпадения волос, но и связанное с ним качество жизни. В исследовании показатель WAA-QOL значительно улучшился, однако авторы не выявили факторов, позволяющих предсказать нежелательный рост волос. Поэтому не следует обещать пациентке отсутствие этого побочного эффекта на основании её исходных характеристик.",
-        "audience": "врач"
-      }
-    ],
+    "advice_items": [],
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
-    "take": "keep",
-    "id": 23
+    "take": "keep"
   },
   {
     "pmid": "41066610",
@@ -1429,7 +1351,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 24
+    "id": 23
   },
   {
     "article": "The Safety and Efficacy of a Novel Saw Palmetto (Serenoa repens) Extract for Promoting Hair Growth in Adults With Self-Perceived Thinning Hair: 180-Day Results.",
@@ -1470,10 +1392,10 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 25
+    "id": 24
   },
   {
-    "id": 26,
+    "id": 25,
     "pmid": "41695992",
     "source": "PubMed",
     "article": "Expanding the therapeutic landscape of minoxidil for androgenetic alopecia: topical, oral and sublingual formulations.",
@@ -1568,7 +1490,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 27
+    "id": 26
   },
   {
     "pmid": "41650295",
@@ -1628,7 +1550,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 28
+    "id": 27
   },
   {
     "article": "Effectiveness and Safety of Intralesional Dutasteride in Patients With Androgenic Alopecia: A Systematic Review and Meta-Analysis.",
@@ -1676,7 +1598,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 29
+    "id": 28
   },
   {
     "article": "The Safety and Efficacy of a Proprietary Bioactive Fatty Acids Extract From Saw Palmetto (Serenoa repens) for Promoting Hair Growth and Reducing Hair Loss in Adults With Self-Perceived Thinning Hair: 90-Day Results.",
@@ -1716,7 +1638,7 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 30
+    "id": 29
   },
   {
     "pmid": "41358367",
@@ -1783,7 +1705,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 31
+    "id": 30
   },
   {
     "pmid": "41346555",
@@ -1845,7 +1767,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 32
+    "id": 31
   },
   {
     "pmid": "41409531",
@@ -1906,7 +1828,7 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 33
+    "id": 32
   },
   {
     "pmid": "41219547",
@@ -1964,7 +1886,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 34
+    "id": 33
   },
   {
     "pmid": "41306837",
@@ -2018,7 +1940,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 35
+    "id": 34
   },
   {
     "pmid": "41245990",
@@ -2080,7 +2002,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 36
+    "id": 35
   },
   {
     "pmid": "41118052",
@@ -2140,7 +2062,7 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 37
+    "id": 36
   },
   {
     "pmid": "41044024",
@@ -2200,7 +2122,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 38
+    "id": 37
   },
   {
     "pmid": "41164048",
@@ -2266,7 +2188,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 39
+    "id": 38
   },
   {
     "pmid": "41001165",
@@ -2319,7 +2241,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 40
+    "id": 39
   },
   {
     "pmid": "40986632",
@@ -2390,7 +2312,7 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 41
+    "id": 40
   },
   {
     "pmid": "40978669",
@@ -2449,10 +2371,10 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 42
+    "id": 41
   },
   {
-    "id": 43,
+    "id": 42,
     "pmid": "41041440",
     "source": "PubMed",
     "article": "Relative efficacy of minoxidil in combination with other treatments for androgenic alopecia: a network meta-analysis based on randomized controlled trials.",
@@ -2559,7 +2481,7 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 44
+    "id": 43
   },
   {
     "pmid": "40960112",
@@ -2619,7 +2541,7 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 45
+    "id": 44
   },
   {
     "pmid": "41048335",
@@ -2679,10 +2601,10 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 46
+    "id": 45
   },
   {
-    "id": 47,
+    "id": 46,
     "pmid": "41048334",
     "source": "PubMed",
     "article": "Response to \"Improvement of female pattern hair loss with bicalutamide: A time-dependent process\".",
@@ -2783,10 +2705,10 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 48
+    "id": 47
   },
   {
-    "id": 49,
+    "id": 48,
     "pmid": "40951222",
     "source": "PubMed",
     "article": "Alopecia as an Emerging Adverse Effect Associated With Glucagon-Like Peptide-1 (GLP-1) Receptor Agonists for Weight Loss: A Scoping Review.",
@@ -2886,7 +2808,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 50
+    "id": 49
   },
   {
     "pmid": "41035833",
@@ -2948,7 +2870,7 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 51
+    "id": 50
   },
   {
     "pmid": "40739969",
@@ -3009,7 +2931,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 52
+    "id": 51
   },
   {
     "pmid": "40660246",
@@ -3079,7 +3001,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 53
+    "id": 52
   },
   {
     "pmid": "40821339",
@@ -3148,7 +3070,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 54
+    "id": 53
   },
   {
     "article": "The role of microtrauma in hair regrowth and regeneration in non-scarring alopecia.",
@@ -3191,7 +3113,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 55
+    "id": 54
   },
   {
     "pmid": "40625221",
@@ -3246,7 +3168,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 56
+    "id": 55
   },
   {
     "article": "Addressing the Root Causes of Female Hair Loss and Non-Pharmaceutical Interventions.",
@@ -3292,7 +3214,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 57
+    "id": 56
   },
   {
     "pmid": "40654550",
@@ -3348,7 +3270,7 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 58
+    "id": 57
   },
   {
     "pmid": "40568688",
@@ -3411,7 +3333,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 59
+    "id": 58
   },
   {
     "pmid": "40446910",
@@ -3469,62 +3391,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 60
-  },
-  {
-    "pmid": "40343723",
-    "source": "PubMed",
-    "article": "The TNFRSF1B Connection: Implications for Androgenetic Alopecia Pathogenesis and Treatment.",
-    "authors": [
-      "Xu Feihong",
-      "He Ye",
-      "Sun Yang",
-      "Liu Shizhao",
-      "Wang Hailin",
-      "Li Wenzhen",
-      "Li Xin",
-      "Hu Zhiqi"
-    ],
-    "date": "2025-05-15",
-    "journal": "FASEB journal : official publication of the Federation of American Societies for Experimental Biology",
-    "doi": "10.1096/fj.202402832R",
-    "topic": "АГА",
-    "topic_key": "aga",
-    "topic_keys": [
-      "aga"
-    ],
-    "topics": [
-      "АГА"
-    ],
-    "abstract_en": "Androgenetic alopecia (AGA) is a prevalent form of hair loss with poorly understood mechanisms. This study investigates the association between the tumor necrosis factor receptor superfamily member 1B (TNFRSF1B) gene and AGA, aiming to validate its potential causal relationship. Transcriptomic data from AGA patients were obtained from the Gene Expression Omnibus (GEO) database to identify differentially expressed genes (DEGs). Gene Ontology (GO) and Kyoto Encyclopedia of Genes and Genomes (KEGG) enrichment analyses, along with Weighted Gene Co-expression Network Analysis (WGCNA), were employed to determine AGA-related key genes. We then performed Mendelian randomization (MR) analysis with genome-wide association study (GWAS) data to assess the causal relationship between key genes and AGA, employing methods such as weighted median and MR-Egger regression for sensitivity analysis. Meta-analysis of AGA-related datasets from GEO was conducted, followed by in vitro and in vivo experiments on TNFRSF1B to evaluate its impact on hair dermal papilla cells (HDPCs) and AGA models. RNA-seq data revealed significant upregulation of TNFRSF1B, PIK3CD, and THEMIS2 in AGA patient hair follicles. ROC analysis indicated their diagnostic potential, with WGCNA and gene intersection analysis identifying TNFRSF1B as closely associated with AGA. MR confirmed a causal relationship between TNFRSF1B and AGA. Meta-analysis further validated TNFRSF1B upregulation across multiple AGA datasets. In vitro experiments demonstrated that TNFRSF1B knockdown enhanced HDPC proliferation and migration, reduced apoptosis, and upregulated β-catenin and CyclinD1 expression. Additionally, TNFRSF1B knockdown reduced ROS levels and increased Catalase and SOD2 expression under oxidative stress. In vivo, TNFRSF1B knockdown promoted hair regeneration and reduced oxidative stress in an AGA mice model. The findings suggest that TNFRSF1B is a potential pathogenic factor in AGA, providing a novel therapeutic target for intervention.",
-    "article_link": "https://pubmed.ncbi.nlm.nih.gov/40343723/",
-    "pmc_link": "",
-    "html_available": false,
-    "html_link": "",
-    "title_ru": "TNFRSF1B как возможный фактор развития андрогенетической алопеции и перспективная мишень для лечения",
-    "patient_plain": "",
-    "patient_use": "При обсуждении андрогенетической алопеции полезно понимать, что учёные продолжают изучать не только гормональные механизмы, но и процессы воспаления и окислительного стресса в волосяных фолликулах. TNFRSF1B пока нельзя считать готовой мишенью для самостоятельного лечения: положительные результаты получены в клеточных экспериментах и на мышиной модели. Не стоит заменять проверенные методы лечения экспериментальными средствами, воздействующими на этот ген.",
-    "practical_use": "Результаты позволяют рассматривать TNFRSF1B как потенциальный участник патогенеза андрогенетической алопеции и направление для дальнейших исследований. Повышенная экспрессия TNFRSF1B, PIK3CD и THEMIS2 в волосяных фолликулах указывает на возможный диагностический потенциал этих генов, однако абстракт не приводит показателей точности тестирования и не подтверждает их готовность к клиническому применению. При обсуждении перспектив таргетной терапии необходимо учитывать, что функциональные эффекты подавления TNFRSF1B пока продемонстрированы в доклинических моделях.",
-    "summary": "Исследователи по транскриптомным данным пациентов с андрогенетической алопецией, генетическому анализу и метаанализу выделили ген TNFRSF1B: его экспрессия была повышена в поражённых волосяных фолликулах, а менделевская рандомизация указала на причинную связь с алопецией.\n\nВ клеточных и животных моделях подавление гена улучшало пролиферацию и миграцию клеток дермального сосочка, уменьшало апоптоз и окислительный стресс и у мышей способствовало восстановлению роста волос.\n\nРезультаты не доказывают эффективность и безопасность такого вмешательства у людей.",
-    "_reason": "Статья предлагает потенциально новое направление изучения патогенеза андрогенетической алопеции и связывает TNFRSF1B с изменениями в клетках волосяных фолликулов. Практическая значимость пока исследовательская: результаты могут стать основой для разработки будущих диагностических подходов и таргетной терапии, но не меняют непосредственно текущую тактику лечения.",
-    "why_read": "Статья будет полезна дерматологам и трихологам, которые следят за молекулярными механизмами андрогенетической алопеции, а также исследователям генетических маркеров и новых терапевтических мишеней. Её стоит читать для понимания роли TNFRSF1B, связи окислительного стресса с функцией клеток волосяного сосочка и перспектив дальнейших доклинических исследований.",
-    "limitations": [],
-    "advice_items": [
-      {
-        "quote": "In vivo, TNFRSF1B knockdown promoted hair regeneration and reduced oxidative stress in an AGA mice model.",
-        "advice": "При оценке перспектив лечения следует отделять результаты на животных от доказательств клинической эффективности у людей. Восстановление роста волос после подавления TNFRSF1B обосновывает дальнейшее изучение мишени, но само по себе не позволяет рекомендовать такое вмешательство пациентам.",
-        "audience": "врач"
-      },
-      {
-        "quote": "RNA-seq data revealed significant upregulation of TNFRSF1B, PIK3CD, and THEMIS2 in AGA patient hair follicles.",
-        "advice": "Повышенная экспрессия этих генов у пациентов указывает на кандидатов для дальнейшей проверки в качестве диагностических маркеров. До использования таких маркеров в клинической практике необходимо подтвердить их диагностическую точность и дополнительную ценность по сравнению с обычной оценкой выпадения волос.",
-        "audience": "врач"
-      }
-    ],
-    "importance_stars": 4,
-    "importance_mark": "★★★★☆",
-    "take": "keep",
-    "id": 61
+    "id": 59
   },
   {
     "pmid": "40327110",
@@ -3581,10 +3448,10 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 62
+    "id": 60
   },
   {
-    "id": 63,
+    "id": 61,
     "pmid": "40386829",
     "source": "PubMed",
     "article": "Real-World Efficacy and Safety of Cuticapil Stem Hair Serum as an Add-On to Minoxidil in Androgenetic Alopecia: A Prospective Observational Study.",
@@ -3702,7 +3569,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 64
+    "id": 62
   },
   {
     "pmid": "40365252",
@@ -3765,7 +3632,7 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 65
+    "id": 63
   },
   {
     "pmid": "40216195",
@@ -3819,10 +3686,10 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 66
+    "id": 64
   },
   {
-    "id": 67,
+    "id": 65,
     "pmid": "40194956",
     "source": "PubMed",
     "article": "Platelet-rich plasma for androgenetic alopecia: intradermal injection or microneedle delivery?",
@@ -3927,7 +3794,7 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 68
+    "id": 66
   },
   {
     "pmid": "40127098",
@@ -3988,10 +3855,10 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 69
+    "id": 67
   },
   {
-    "id": 70,
+    "id": 68,
     "pmid": "40122142",
     "source": "PubMed",
     "article": "Whether the transient hair shedding phase exist after minoxidil treatment and does it predict treatment efficacy? A retrospective study in androgenetic alopecia patients.",
@@ -4091,7 +3958,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 71
+    "id": 69
   },
   {
     "pmid": "40083615",
@@ -4154,7 +4021,7 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 72
+    "id": 70
   },
   {
     "pmid": "40056230",
@@ -4220,7 +4087,7 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 73
+    "id": 71
   },
   {
     "pmid": "40168567",
@@ -4283,7 +4150,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 74
+    "id": 72
   },
   {
     "pmid": "40127493",
@@ -4342,7 +4209,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 75
+    "id": 73
   },
   {
     "pmid": "40043269",
@@ -4397,7 +4264,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 76
+    "id": 74
   },
   {
     "pmid": "40019613",
@@ -4452,10 +4319,10 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 77
+    "id": 75
   },
   {
-    "id": 78,
+    "id": 76,
     "pmid": "40014580",
     "source": "PubMed",
     "article": "Epidemiological landscape of androgenetic alopecia in the US: An All of Us cross-sectional study.",
@@ -4550,7 +4417,7 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 79
+    "id": 77
   },
   {
     "pmid": "39991105",
@@ -4609,7 +4476,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "skim",
-    "id": 80
+    "id": 78
   },
   {
     "pmid": "39948731",
@@ -4664,7 +4531,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 81
+    "id": 79
   },
   {
     "pmid": "39954138",
@@ -4732,7 +4599,7 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 82
+    "id": 80
   },
   {
     "article": "Association of Myo-Inositol and Microlipodispersed Magnesium in Androgen-Dependent Dermatological Diseases: A Retrospective Study.",
@@ -4781,7 +4648,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 83
+    "id": 81
   },
   {
     "pmid": "39997270",
@@ -4835,7 +4702,7 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 84
+    "id": 82
   },
   {
     "pmid": "39921108",
@@ -4908,10 +4775,10 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 85
+    "id": 83
   },
   {
-    "id": 86,
+    "id": 84,
     "pmid": "39963025",
     "source": "PubMed",
     "article": "Analysis of Common Treatment Drugs and Allergen Sensitization in Hair Loss Patients.",
@@ -5011,7 +4878,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 87
+    "id": 85
   },
   {
     "pmid": "39840856",
@@ -5070,7 +4937,7 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 88
+    "id": 86
   },
   {
     "pmid": "39867973",
@@ -5123,7 +4990,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "skim",
-    "id": 89
+    "id": 87
   },
   {
     "pmid": "39944453",
@@ -5187,7 +5054,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 90
+    "id": 88
   },
   {
     "pmid": "40034971",
@@ -5246,10 +5113,10 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 91
+    "id": 89
   },
   {
-    "id": 92,
+    "id": 90,
     "pmid": "39679573",
     "source": "PubMed",
     "article": "Clinical Safety and Efficacy of Dual Wavelength Low-Level Light Therapy in Androgenetic Alopecia: A Double-Blind Randomized Controlled Study.",
@@ -5350,7 +5217,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 93
+    "id": 91
   },
   {
     "pmid": "39521141",
@@ -5410,7 +5277,7 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 94
+    "id": 92
   },
   {
     "pmid": "39425514",
@@ -5479,10 +5346,10 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 95
+    "id": 93
   },
   {
-    "id": 96,
+    "id": 94,
     "pmid": "39404126",
     "source": "PubMed",
     "article": "Low-Level Laser and LED Therapy in Alopecia: A Systematic Review and Meta-Analysis.",
@@ -5526,7 +5393,7 @@
     "take": "keep"
   },
   {
-    "id": 97,
+    "id": 95,
     "pmid": "39327649",
     "source": "PubMed",
     "article": "Low-Dose Oral Minoxidil and Associated Adverse Events: Analyses of the FDA Adverse Event Reporting System (FAERS) With a Focus on Pericardial Effusions.",
@@ -5627,7 +5494,7 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 98
+    "id": 96
   },
   {
     "article": "Oral Supplementation with l-Cystine, Serenoa repens, Cucurbita pepo, and Pygeum africanum in Chronic Telogen Effluvium and Androgenetic Alopecia: A Double-Blind, Placebo-Controlled, Randomized Clinical Study.",
@@ -5677,6 +5544,6 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 99
+    "id": 97
   }
 ]
