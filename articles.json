@@ -10169,6 +10169,45 @@
   },
   {
     "id": 180,
+    "pmid": "39312909",
+    "source": "PubMed",
+    "article": "2023 American Academy of Orthopaedic Surgeons Management of Osteoarthritis of the Hip Evidence-Based Clinical Practice Guideline: Case Studies.",
+    "authors": [
+      "Nandi Sumon",
+      "Hannon Charles P",
+      "Fillingham Yale"
+    ],
+    "date": "2024-09-18",
+    "journal": "The Journal of the American Academy of Orthopaedic Surgeons",
+    "doi": "10.5435/JAAOS-D-24-00427",
+    "topic": "Коксартроз",
+    "topic_key": "cox",
+    "topic_keys": [
+      "cox"
+    ],
+    "topics": [
+      "Коксартроз"
+    ],
+    "abstract_en": "The American Academy of Orthopaedic Surgeons, together with The Hip Society, American Association of Hip and Knee Surgeons, American College of Radiology, and American Physical Therapy Association, recently released the updated 2023 Management of Osteoarthritis of the Hip Evidence-Based Clinical Practice Guidelines. 8 recommendations and 9 options comprise these guidelines intended to optimize treatment outcomes in a patient population that is growing exponentially over time. In this article, we present case studies that illustrate utilization of the clinical practice guideline workgroup's evidence-based recommendations in clinical practice.",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/39312909/",
+    "pmc_link": "",
+    "html_available": false,
+    "html_link": "",
+    "title_ru": "Клинические случаи применения рекомендаций Американской академии ортопедических хирургов 2023 года при остеоартрозе тазобедренного сустава",
+    "patient_plain": "",
+    "patient_use": "Статья помогает понять, что лечение коксартроза должно опираться на клинические рекомендации, а выбор тактики зависит от конкретной ситуации. На приёме полезно попросить врача объяснить, какие варианты лечения из рекомендаций подходят именно вам и какие результаты ожидаются от каждого из них. Также стоит уточнить, как выбранная тактика будет оцениваться и при каких обстоятельствах её потребуется пересмотреть.",
+    "practical_use": "Материал может служить отправной точкой для внедрения рекомендаций AAOS 2023 года в повседневную практику и обсуждения клинических решений на примерах пациентов. Врачам и специалистам по реабилитации полезно сверять собственную тактику ведения коксартроза с актуальным руководством и согласовывать подходы между дисциплинами. При использовании статьи для выбора конкретного вмешательства следует обращаться к полному тексту рекомендаций, поскольку приведённое описание не раскрывает содержание отдельных рекомендаций и вариантов действий.",
+    "summary": "В статье разбирается применение обновлённых клинических рекомендаций Американской академии ортопедических хирургов (AAOS) 2023 года по лечению остеоартроза тазобедренного сустава, известного также как коксартроз. Документ подготовлен совместно с Обществом хирургии тазобедренного сустава (The Hip Society), Американской ассоциацией хирургов тазобедренного и коленного суставов (AAHKS), Американской коллегией радиологии (ACR) и Американской ассоциацией физиотерапии (APTA). Авторы используют клинические случаи, чтобы показать, как применять научно обоснованные рекомендации при выборе тактики лечения пациентов.\n\nРекомендации включают 8 рекомендаций и 9 вариантов действий. Цель документа — улучшить результаты лечения растущей группы пациентов с остеоартрозом тазобедренного сустава. Статья иллюстрирует практическое использование рекомендаций, но в представленном описании не раскрывает конкретные клинические случаи, отдельные методы лечения, их дозировки или сравнительные результаты.",
+    "_reason": "Практическая ценность статьи заключается в демонстрации применения обновлённых рекомендаций по коксартрозу на клинических примерах, что помогает связать доказательную базу с решениями на приёме. Однако конкретные вмешательства и результаты отдельных случаев в представленном тексте не описаны, поэтому материал полезнее для знакомства с подходом к принятию решений, чем для выбора определённого метода лечения.",
+    "why_read": "Статья предназначена прежде всего для ортопедов, врачей, занимающихся лечением коксартроза, и специалистов по реабилитации, которым важно применять рекомендации AAOS 2023 года в клинической практике. Она также может быть полезна для междисциплинарного обсуждения лечения пациентов с остеоартрозом тазобедренного сустава.",
+    "limitations": [],
+    "advice_items": [],
+    "importance_stars": 4,
+    "importance_mark": "★★★★☆",
+    "take": "skim"
+  },
+  {
+    "id": 181,
     "pmid": "39228051",
     "source": "PubMed",
     "article": "Prognostic Factors and Changes in Pain, Physical Functioning, and Participation in Patients With Hip and/or Knee Osteoarthritis: A Systematic Review.",
@@ -10232,7 +10271,7 @@
     "take": "keep"
   },
   {
-    "id": 181,
+    "id": 182,
     "pmid": "39635963",
     "source": "PubMed",
     "article": "Comparison of Maitland Passive Joint Mobilization and Self-Rehabilitation on Function, Activity, and Quality of Life in Beninese Patients With Hip Osteoarthritis: A Pragmatic Randomized Trial.",
@@ -10290,7 +10329,7 @@
     "take": "keep"
   },
   {
-    "id": 182,
+    "id": 183,
     "pmid": "39789623",
     "source": "PubMed",
     "article": "Effects of self-monitoring physical activity with wearable activity trackers on perceived joint function and health-related quality of life in people with hip and knee osteoarthritis: a secondary analysis of a cluster-randomised clinical trial.",
@@ -10341,7 +10380,7 @@
     "take": "keep"
   },
   {
-    "id": 183,
+    "id": 184,
     "pmid": "39970463",
     "source": "PubMed",
     "article": "Effectiveness of ultrasound-guided hip injections on pain and functioning in patients with hip osteoarthritis: A systematic review.",
@@ -10401,7 +10440,7 @@
     "take": "keep"
   },
   {
-    "id": 184,
+    "id": 185,
     "pmid": "39970818",
     "source": "PubMed",
     "article": "Minimal important change in the Hip Disability and Osteoarthritis Outcome Score and the European Quality of Life 5 Dimensions in adults with hip osteoarthritis after 12 weeks of exercise.",
@@ -10458,7 +10497,7 @@
     "take": "keep"
   },
   {
-    "id": 185,
+    "id": 186,
     "pmid": "39922217",
     "source": "PubMed",
     "article": "Addition of aerobic physical activity to resistance exercise for hip osteoarthritis (PHOENIX): a randomised comparative effectiveness trial.",
@@ -10523,7 +10562,7 @@
     "take": "keep"
   },
   {
-    "id": 186,
+    "id": 187,
     "pmid": "39931640",
     "source": "PubMed",
     "article": "Investigation of the effects of combined exercises and self-management education, with and without functional exercises, on pain and functional outcomes in patients with avascular necrosis of the femoral head: a protocol for a single-blind, randomised controlled trial with a parallel design and a 4 month follow-up.",
@@ -10567,7 +10606,65 @@
     "take": "skim"
   },
   {
-    "id": 187,
+    "id": 188,
+    "pmid": "39966101",
+    "source": "PubMed",
+    "article": "Degenerative Hip Osteoarthritis in Unilateral Knee Osteoarthritis Patients: A Correlation Analysis.",
+    "authors": [
+      "Li Juncheng",
+      "Zhu Wenrun",
+      "Yang Jun",
+      "Niu Xinhao",
+      "Tang Han",
+      "Cao Lu",
+      "Guo Changan"
+    ],
+    "date": "2025-02-18",
+    "journal": "Orthopaedic surgery",
+    "doi": "10.1111/os.14372",
+    "topic": "Коксартроз",
+    "topic_key": "cox",
+    "topic_keys": [
+      "cox"
+    ],
+    "topics": [
+      "Коксартроз"
+    ],
+    "abstract_en": "OBJECTIVE: Hip and knee OA often occur successively. However, little is known about the relationship between hip and knee OA in unilateral knee OA patients. The aim of the study was to explore the correlation between unilateral knee OA and bilateral hip degeneration to determine the impact unilateral knee OA has on the severity of hip degeneration.\n\nMETHODS: This retrospective case-control study enrolled 162 patients who were presented with unilateral knee osteoarthritis and hospitalized in Zhongshan hospital, Fudan University, from January 2016 to December 2018. The severity of affected knee joint and bilateral hip joint was evaluated by using the Kellgren-Lawrence (KL) score. Variates, such as gender, age, body mass index (BMI) and Knee Society Score (KSS) at admission, were also recorded. Differences in the severity of OA between ipsilateral, contralateral hip joints and affected knee joints were accessed with chi-square tests. Single-factor and multi-factor logistic regression were applied to determine the risk factors for hip OA in patients with unilateral knee OA.\n\nRESULTS: Gender have no impact on KSS, the length of disease, and BMI of patients. In contralateral hip joints, there was significant difference in the proportion of patients with severe hip degeneration (KL score ≥ 2) compared to those with mild hip degeneration (KL score < 2) when considering length of disease (p < 0.001), KSS symptom score < 70 (p = 0.001) or KSS function score (p < 0.001). The risk factors for contralateral hip degeneration of patients with unilateral knee OA include that long disease course (> 5 years) (OR 3.030 [95% CI 1.476 to 6.220]; p < 0.001), and high KSS function score (≥ 70 year) (OR 0.921 [95% CI 0.878 to 0.967]; p < 0.001), increased risk of contralateral hip degeneration of patients with unilateral knee OA.\n\nCONCLUSIONS: The correlation between unilateral knee OA and contralateral hip degeneration was stronger than that between unilateral knee OA and ipsilateral hip degeneration. For knee OA patients with longer course and lower KSS functional score, more attention should be paid to the degeneration process of the contralateral hip joint.",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/39966101/",
+    "pmc_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11962295/",
+    "html_available": true,
+    "html_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11962295/",
+    "title_ru": "Связь одностороннего артроза колена с дегенеративными изменениями тазобедренных суставов",
+    "patient_plain": "",
+    "patient_use": "Если артроз колена продолжается несколько лет, особенно при заметных трудностях с ходьбой и повседневной активностью, стоит обсудить с врачом состояние обоих тазобедренных суставов, а не только сустава со стороны больного колена. Сообщите специалисту, если появились боль в паху или бедре, скованность либо дополнительное ограничение движений: эти симптомы требуют отдельной оценки, а не объяснения исключительно проблемой колена. Исследование не означает, что изменения тазобедренного сустава обязательно возникнут, и само по себе не служит основанием для рентгенографии без учёта симптомов и осмотра.",
+    "practical_use": "При обследовании пациента с односторонним гонартрозом полезно отдельно уточнять симптомы со стороны обоих тазобедренных суставов и оценивать функциональные ограничения, особенно при длительном течении заболевания. Результаты поддерживают настороженность в отношении противоположного тазобедренного сустава, но не заменяют клиническую оценку и не обосновывают обязательную визуализацию у каждого пациента. При интерпретации важно учитывать, что шкала KL использовалась для оценки структурных изменений, а KSS характеризовала симптомы и функцию колена; эти показатели нельзя считать прямым измерением функции тазобедренного сустава.",
+    "summary": "В ретроспективном исследовании «случай — контроль» изучили 162 пациентов с остеоартрозом (ОА) только одного коленного сустава, госпитализированных в 2016–2018 годах. Авторы оценивали выраженность изменений обоих тазобедренных суставов и поражённого колена по шкале Келлгрена — Лоуренса (KL), а также учитывали возраст, пол, индекс массы тела (ИМТ), продолжительность заболевания и показатели коленного сустава по шкале Knee Society Score (KSS), отражающей симптомы и функциональное состояние. Средняя продолжительность заболевания составляла 7,75 ± 6,34 года; у 87 пациентов она превышала пять лет.\n\nСвязь одностороннего ОА колена с дегенеративными изменениями оказалась сильнее для противоположного тазобедренного сустава, чем для сустава на той же стороне. Для противоположного тазобедренного сустава продолжительность заболевания более пяти лет была связана с повышенными шансами дегенерации: отношение шансов (OR) составило 3,030 при 95%-м доверительном интервале (ДИ) 1,476–6,220 (p < 0,001). В результатах также указано, что функциональный показатель KSS был связан с изменениями противоположного тазобедренного сустава; авторы рекомендуют уделять больше внимания его состоянию у пациентов с длительным течением ОА колена и сниженной функцией. Для тазобедренного сустава на той же стороне статистически значимой связи с продолжительностью заболевания, выраженностью ОА колена и рассмотренными показателями KSS не обнаружили.\n\nИсследование показывает связь между заболеваниями суставов, но не доказывает, что артроз колена вызывает дегенерацию противоположного тазобедренного сустава. Работа проведена в одной больнице и основана на ретроспективных данных; поэтому результаты не устанавливают причинно-следственную связь и не позволяют автоматически переносить выводы на всех пациентов с коксартрозом.",
+    "_reason": "Статья обращает внимание на возможную связь одностороннего артроза колена с дегенерацией противоположного тазобедренного сустава и выделяет длительность заболевания как клинически значимый фактор. Это полезно для комплексной оценки пациента, однако ретроспективный дизайн не позволяет заключить, что заболевание колена непосредственно вызывает изменения тазобедренного сустава.",
+    "why_read": "Статья будет полезна ортопедам, врачам физической и реабилитационной медицины и специалистам по лечебной физкультуре, которые ведут пациентов с длительным односторонним артрозом колена. Её стоит прочитать тем, кто хочет учитывать возможное поражение противоположного тазобедренного сустава при оценке боли и функциональных ограничений, не преувеличивая доказательность полученных результатов.",
+    "limitations": [
+      "This retrospective case-control study enrolled 162 patients",
+      "hospitalized in Zhongshan hospital, Fudan University, from January 2016 to December 2018",
+      "The correlation between unilateral knee OA and contralateral hip degeneration was stronger than that between unilateral knee OA and ipsilateral hip degeneration."
+    ],
+    "advice_items": [
+      {
+        "quote": "For knee OA patients with longer course and lower KSS functional score, more attention should be paid to the degeneration process of the contralateral hip joint.",
+        "advice": "При длительном течении остеоартроза колена и выраженном снижении функции следует целенаправленно уточнять наличие симптомов со стороны противоположного тазобедренного сустава. При жалобах необходимо провести клиническую оценку и решать вопрос о дополнительных исследованиях с учётом осмотра. Не следует трактовать эту рекомендацию как доказательство неизбежного развития коксартроза.",
+        "audience": "врач"
+      },
+      {
+        "quote": "The correlation between unilateral knee OA and contralateral hip degeneration was stronger than that between unilateral knee OA and ipsilateral hip degeneration.",
+        "advice": "При обсуждении симптомов с пациентом учитывайте не только тазобедренный сустав на стороне поражённого колена, но и противоположный сустав. Уточняйте локализацию боли, скованность и ограничения движений, чтобы не приписывать все жалобы коленному артрозу. Объясняйте, что выявленная связь статистическая и не доказывает причинного влияния одного сустава на другой.",
+        "audience": "врач"
+      }
+    ],
+    "importance_stars": 4,
+    "importance_mark": "★★★★☆",
+    "take": "keep"
+  },
+  {
+    "id": 189,
     "pmid": "39976796",
     "source": "PubMed",
     "article": "Efficacy and safety of biological products in hip osteoarthritis: a systematic review and meta-analysis of randomized controlled trials.",
@@ -10622,7 +10719,7 @@
     "take": "keep"
   },
   {
-    "id": 188,
+    "id": 190,
     "pmid": "40001000",
     "source": "PubMed",
     "article": "Efficacy and safety of fasinumab in an NSAID-controlled study in patients with pain due to osteoarthritis of the knee or hip.",
@@ -10700,7 +10797,7 @@
     "take": "keep"
   },
   {
-    "id": 189,
+    "id": 191,
     "pmid": "41424957",
     "source": "PubMed",
     "article": "Effectiveness of platelet-rich plasma in pain management of osteoarthritis with developmental dysplasia of the hip: a double-blind, randomized controlled trial.",
@@ -10758,7 +10855,80 @@
     "take": "keep"
   },
   {
-    "id": 190,
+    "id": 192,
+    "pmid": "40225053",
+    "source": "PubMed",
+    "article": "Intra-articular administration of autologous adipose-derived stem cells in hip osteoarthritis: Longitudinal treatment trajectories and prognostic factors.",
+    "authors": [
+      "Hatano Masaki",
+      "Ishikura Hisatoshi",
+      "Terao Tomohiro",
+      "Kasai Taro",
+      "Yamagami Ryota",
+      "Higuchi Junya",
+      "Yoshida Shuichi",
+      "Arino Yusuke",
+      "Murakami Ryo",
+      "Sato Masashi",
+      "Maenohara Yuji",
+      "Makii Yuma",
+      "Matsuzaki Tokio",
+      "Inoue Keita",
+      "Tsuji Shinsaku",
+      "Tanaka Sakae",
+      "Saito Taku"
+    ],
+    "date": "2025-03-27",
+    "journal": "Regenerative therapy",
+    "doi": "10.1016/j.reth.2025.03.010",
+    "topic": "Коксартроз",
+    "topic_key": "cox",
+    "topic_keys": [
+      "cox"
+    ],
+    "topics": [
+      "Коксартроз"
+    ],
+    "abstract_en": "INTRODUCTION: Evidence regarding the effectiveness of mesenchymal stem cells in improving hip function in patients with hip osteoarthritis (OA) remains inconsistent. Therefore, we aimed to estimate the longitudinal trajectories of treatment effects in individuals with hip OA following intra-articular administration of autologous adipose-derived stem cells (ASCs), both in the overall cohort and the cohort stratified by OA severity, and to explore the prognostic factors of treatment outcomes.\n\nMETHODS: This retrospective study included adults with hip OA who underwent magnetic resonance imaging (MRI) before treatment between 2020 and 2023. All patients underwent intra-articular ASC administration. The primary outcomes were the total scores on the Japanese Orthopaedic Association Hip Disease Evaluation Questionnaire (JHEQ) at 1, 3, and 6 months after treatment. A linear mixed-effects model was used to estimate the marginally predicted JHEQ total score changes over time for all patients and compare these changes among subgroups categorized according to OA severity. Furthermore, models that included MRI findings were used to explore potential prognostic factors.\n\nRESULTS: We identified 168 hips in 129 patients. In the analysis of all patients, the JHEQ total scores significantly increased at 1, 3, and 6 months after treatment compared with baseline. In the mixed-effects analysis, the predicted change in the JHEQ total score from the baseline to the 6-month follow-up was 10.6 points (95 % confidence interval, 8.3 to 12.8), with an increasing trend over time. The effect modification by OA severity on the JHEQ total score was observed over time after treatment (P = 0.016). Prognostic analysis revealed that patients with moderate hip OA had higher JHEQ total scores after treatment than those with mild hip OA (P = 0.028). Additionally, female patients had higher JHEQ total scores after treatment than male patients (P = 0.025). The presence of ligamentum teres abnormalities was associated with low JHEQ total scores after treatment (P = 0.011).\n\nCONCLUSIONS: Intra-articular ASC treatment enhanced patient-reported outcomes over 6 months, with differences observed across hip OA severities. Female sex and moderate hip OA were positive prognostic factors, whereas ligamentum teres abnormalities were negative prognostic factors for patient-reported outcomes after ASC treatment. These findings can be used to inform patients and clinicians about the expected course of treatment and aid clinical decision-making regarding the use of intra-articular ASC treatment for hip OA.",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/40225053/",
+    "pmc_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11992404/",
+    "html_available": true,
+    "html_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11992404/",
+    "title_ru": "Внутрисуставное введение собственных стволовых клеток из жировой ткани при коксартрозе: динамика улучшения и факторы прогноза",
+    "patient_plain": "",
+    "patient_use": "Если вы рассматриваете введение собственных стволовых клеток из жировой ткани при коксартрозе, обсудите с врачом, насколько убедительны доказательства пользы именно этой процедуры по сравнению со стандартными вариантами лечения. Спросите, как тяжесть артроза и состояние круглой связки по данным МРТ могут повлиять на ожидаемый результат в вашем случае. Важно учитывать, что улучшение в течение полугода в этом исследовании не гарантирует такого же эффекта у конкретного пациента и не подтверждает долгосрочную эффективность или безопасность процедуры.",
+    "practical_use": "При обсуждении внутрисуставной терапии ASC следует отдельно объяснить пациенту ретроспективный характер данных и отсутствие контрольной группы, чтобы не представлять наблюдаемое улучшение как доказанный причинный эффект лечения. Прогностические результаты позволяют учитывать пол, степень коксартроза и изменения круглой связки при обсуждении ожидаемой динамики, но не обосновывают отказ в лечении или выбор процедуры только по одному из этих признаков. Для оценки результата полезно сопоставлять исходное состояние с динамикой пациентского опросника в течение наблюдения, не смешивая улучшение субъективных показателей с доказательством структурного восстановления сустава.",
+    "summary": "В ретроспективном исследовании оценили результаты внутрисуставного введения аутологичных стволовых клеток, полученных из жировой ткани (ASC), у взрослых с остеоартрозом тазобедренного сустава (коксартрозом). В анализ включили 129 пациентов с поражением 168 тазобедренных суставов, которым перед лечением выполняли магнитно-резонансную томографию (МРТ). Тяжёлый коксартроз был у 98 суставов, умеренный — у 39, лёгкий — у 31. Изменения оценивали через 1, 3 и 6 месяцев по суммарному баллу японского опросника оценки заболеваний тазобедренного сустава (JHEQ), отражающего сообщаемое пациентами состояние.\n\nПосле введения ASC суммарные баллы JHEQ статистически значимо повышались во все три контрольные точки. Расчётное улучшение относительно исходного уровня через 6 месяцев составило 10,6 балла (95%-й доверительный интервал 8,3–12,8); динамика указывала на постепенное нарастание эффекта. Связь между тяжестью коксартроза и динамикой результатов была статистически значимой (P = 0,016). В прогностическом анализе умеренный коксартроз был связан с более высокими итоговыми баллами JHEQ, чем лёгкий (P = 0,028); у женщин результаты были лучше, чем у мужчин (P = 0,025). Изменения круглой связки головки бедренной кости по данным МРТ были связаны с худшими результатами (P = 0,011).\n\nАвторы заключили, что улучшение сообщаемых пациентами результатов сохранялось в течение шестимесячного наблюдения, однако эффект различался в зависимости от тяжести заболевания и отдельных характеристик пациентов. Исследование было ретроспективным, без контрольной группы, не получало финансирования; часть авторов работала в клинике, где набирали пациентов, проводили лечение и наблюдение. Поэтому результаты не доказывают, что улучшение было вызвано именно введением клеток, и не позволяют надёжно сравнить эту процедуру с другими методами лечения.",
+    "_reason": "Статья даёт конкретные ориентиры ожидаемой динамики после внутрисуставного введения собственных стволовых клеток из жировой ткани и указывает на возможные прогностические признаки, включая тяжесть коксартроза и состояние круглой связки по МРТ. Для практики важны ограничения дизайна: без контрольной группы нельзя установить, насколько улучшение связано с процедурой, а не с другими факторами. Материал полезен для информированного обсуждения экспериментальных или недостаточно подтверждённых вариантов лечения, но сам по себе не обосновывает их предпочтение стандартной помощи.",
+    "why_read": "Статью стоит прочитать ортопедам, специалистам по лечению коксартроза и врачам, консультирующим пациентов по поводу клеточных процедур. Она поможет объяснить, какие изменения сообщаемого пациентами состояния наблюдались в первые шесть месяцев и какие признаки были связаны с более благоприятными или неблагоприятными результатами. Особенно важно прочитать её тем, кто оценивает доказательность внутрисуставного введения ASC и должен разъяснять пациентам ограничения ретроспективных исследований.",
+    "limitations": [
+      "Evidence regarding the effectiveness of mesenchymal stem cells in improving hip function in patients with hip osteoarthritis (OA) remains inconsistent.",
+      "This retrospective study included adults with hip OA who underwent magnetic resonance imaging (MRI) before treatment between 2020 and 2023.",
+      "Because this study was not a clinical trial, it did not receive any funding"
+    ],
+    "advice_items": [
+      {
+        "quote": "Evidence regarding the effectiveness of mesenchymal stem cells in improving hip function in patients with hip osteoarthritis (OA) remains inconsistent.",
+        "advice": "При консультировании объясняйте, что доказательства эффективности клеточной терапии при коксартрозе остаются неоднозначными. Не представляйте результаты одной ретроспективной работы как достаточное подтверждение превосходства процедуры над стандартным лечением.",
+        "audience": "врач"
+      },
+      {
+        "quote": "The presence of ligamentum teres abnormalities was associated with low JHEQ total scores after treatment (P = 0.011).",
+        "advice": "При обсуждении прогноза учитывайте состояние круглой связки головки бедренной кости по данным МРТ как возможный признак менее благоприятного результата. Разъясняйте пациенту, что обнаруженная связь не позволяет индивидуально предсказать исход с полной уверенностью и не доказывает, что изменения связки являются причиной слабого ответа.",
+        "audience": "врач"
+      },
+      {
+        "quote": "Intra-articular ASC treatment enhanced patient-reported outcomes over 6 months, with differences observed across hip OA severities.",
+        "advice": "При информировании пациента уточняйте, что в исследовании улучшение сообщаемых пациентами результатов наблюдалось на протяжении шести месяцев, но различалось в зависимости от тяжести коксартроза. Не обещайте аналогичный эффект конкретному человеку и отдельно обсудите неопределённость долгосрочных результатов.",
+        "audience": "врач"
+      }
+    ],
+    "importance_stars": 4,
+    "importance_mark": "★★★★☆",
+    "take": "keep"
+  },
+  {
+    "id": 193,
     "pmid": "40566421",
     "source": "PubMed",
     "article": "Elderly Hip Osteoarthritis: A Review of Short-Term Pain Relief Through Non-Weight-Bearing Therapies.",
@@ -10817,7 +10987,7 @@
     "take": "keep"
   },
   {
-    "id": 191,
+    "id": 194,
     "pmid": "40486337",
     "source": "PubMed",
     "article": "Effects of Local Vibration and Foam Rolling on Hip Pain and Function in Mild to Moderate Hip Osteoarthritis: A Randomized Controlled Trial.",
@@ -10877,7 +11047,7 @@
     "take": "keep"
   },
   {
-    "id": 192,
+    "id": 195,
     "pmid": "40343507",
     "source": "PubMed",
     "article": "Intra-articular hyaluronic acid injections for hip osteoarthritis: a level I systematic review.",
@@ -10940,7 +11110,7 @@
     "take": "keep"
   },
   {
-    "id": 193,
+    "id": 196,
     "pmid": "40375257",
     "source": "PubMed",
     "article": "Pain management of hip osteoarthritis with corticosteroids vs injection therapies: a systematic review and meta-analysis.",
@@ -10983,7 +11153,7 @@
     "take": "keep"
   },
   {
-    "id": 194,
+    "id": 197,
     "pmid": "40480912",
     "source": "PubMed",
     "article": "Chemical ablation of pericapsular nerve group with 95% ethanol for pain relief and quality of life in patients with hip osteoarthritis: a prospective, double-blinded, randomised, controlled trial.",
@@ -11039,7 +11209,7 @@
     "take": "keep"
   },
   {
-    "id": 195,
+    "id": 198,
     "pmid": "40731752",
     "source": "PubMed",
     "article": "Effects of Non-Immersive Virtual Reality Exercise on Self-Reported Pain and Mechanical Hyperalgesia in Older Adults with Knee and Hip Osteoarthritis: A Secondary Analysis of a Randomized Controlled Trial.",
@@ -11103,7 +11273,83 @@
     "take": "keep"
   },
   {
-    "id": 196,
+    "id": 199,
+    "pmid": "40731783",
+    "source": "PubMed",
+    "article": "Functional Burden and Quality of Life in Hip and Knee Osteoarthritis: A Cross-Sectional Study.",
+    "authors": [
+      "Pavel Roxana Maria Sânziana",
+      "Purza Anamaria Lavinia",
+      "Tit Delia Mirela",
+      "Radu Andrei-Flavius",
+      "Iovanovici Diana Carina",
+      "Vasileva Danche",
+      "Uivaraseanu Bogdan",
+      "Bungau Gabriela",
+      "Nistor-Cseppento Carmen Delia"
+    ],
+    "date": "2025-06-26",
+    "journal": "Medicina (Kaunas, Lithuania)",
+    "doi": "10.3390/medicina61071155",
+    "topic": "Коксартроз",
+    "topic_key": "cox",
+    "topic_keys": [
+      "cox"
+    ],
+    "topics": [
+      "Коксартроз"
+    ],
+    "abstract_en": "Background and Objectives: Osteoarthritis, the most common degenerative joint disease, causes pain, decreased mobility, and functional disability, having a significant impact on patients' quality of life. This study aimed to evaluate the impact of hip osteoarthritis (HOA) and knee osteoarthritis (KOA) on physical functioning and quality of life, and to explore how these outcomes vary according to sex, disease stage, and common comorbidities. Materials and Methods: A cross-sectional study was conducted between 1 October and 30 December 2024, at the Medical Rehabilitation Department of Avram Iancu Clinical Hospital in Oradea, Romania. A total of 133 adult patients diagnosed with HOA or KOA, based on clinical and radiographic criteria, were included. Functional status was assessed using the Western Ontario and McMaster Universities Osteoarthritis Index (WOMAC), while quality of life was evaluated using the World Health Organization quality of life questionnaire-BREF version (WHOQOL-BREF). The main outcomes were the total scores of these instruments, analyzed in relation to demographic and clinical variables. Results: Based on the clinical staging criteria applied in the study, 23 patients (17.3%) were classified as being in the early stage, 98 (73.7%) in the progressive stage, and 12 (9.0%) in the advanced or end stage of the disease. The mean WOMAC total score was 52.0 ± 7.9 (scale: 0-96), indicating moderate to severe functional impairment. The mean WHOQOL-BREF score was 67.9 ± 13.1 (scale: 0-100), reflecting a moderately reduced quality of life. A moderate, statistically significant inverse correlation was observed between WOMAC and WHOQOL-BREF scores (Spearman's rho = -0.565, p < 0.001). Patients with knee osteoarthritis reported significantly lower quality of life compared to those without this condition (66.48 ± 12.73 vs. 71.76 ± 13.31, p = 0.006). No statistically significant differences were found in functional, or quality-of-life scores based on sex. Conclusions: Knee osteoarthritis, particularly when combined with hip involvement, is associated with a substantial decline in quality of life and functional capacity. The severity and location of joint involvement appear to be the primary determinants of disability in this patient population, while systemic comorbidities have a less pronounced influence in the rehabilitation setting.",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/40731783/",
+    "pmc_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12300247/",
+    "html_available": true,
+    "html_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12300247/",
+    "title_ru": "Функциональные ограничения и качество жизни при артрозе тазобедренных и коленных суставов: поперечное исследование",
+    "patient_plain": "",
+    "patient_use": "При обсуждении состояния с врачом полезно оценивать не только боль, но и то, насколько трудно ходить, подниматься по лестнице, обслуживать себя и участвовать в привычной деятельности. Если одновременно поражены тазобедренный и коленный суставы, стоит отдельно обсудить, как сочетание этих проблем влияет на повседневную самостоятельность и качество жизни. Результаты помогают понять, почему реабилитационные цели должны учитывать реальные функциональные ограничения, а не только снимки или интенсивность боли.",
+    "practical_use": "В реабилитационной практике результаты поддерживают совместную оценку функционального состояния и качества жизни с использованием WOMAC и WHOQOL-BREF, особенно у пациентов с поражением нескольких суставов. При интерпретации жалоб важно учитывать локализацию остеоартроза и сочетанное поражение тазобедренного и коленного суставов, поскольку они связаны с выраженностью ограничений. Отсутствие выявленных различий между полами не обосновывает использование пола как самостоятельного показателя тяжести функциональных нарушений в этой выборке. Поперечный дизайн не позволяет по этим данным судить об эффективности конкретной реабилитационной программы или прогнозировать индивидуальное течение заболевания.",
+    "summary": "Исследование оценивало физические ограничения и качество жизни у 133 взрослых пациентов с остеоартрозом тазобедренного и/или коленного сустава, проходивших лечение в отделении медицинской реабилитации в Румынии с октября по декабрь 2024 года. Диагноз подтверждали клиническими и рентгенологическими критериями. Функциональное состояние измеряли с помощью индекса WOMAC (Western Ontario and McMaster Universities Osteoarthritis Index — индекс остеоартроза университетов Западного Онтарио и Макмастера), а качество жизни — с помощью опросника WHOQOL-BREF (краткая версия опросника качества жизни Всемирной организации здравоохранения). На раннюю стадию заболевания приходились 17,3% участников, на прогрессирующую — 73,7%, на позднюю — 9,0%. Средний балл WOMAC составил 52,0 ± 7,9 из 96, что указывало на умеренные или выраженные функциональные ограничения, а средний показатель качества жизни достиг 67,9 ± 13,1 из 100, отражая её умеренное снижение.\n\nМежду выраженностью функциональных нарушений и качеством жизни выявили умеренную обратную связь: чем выше был балл WOMAC, тем ниже оказывался показатель WHOQOL-BREF (коэффициент корреляции Спирмена −0,565; p < 0,001). У пациентов с остеоартрозом коленного сустава качество жизни было ниже, чем у участников без поражения колена: 66,48 ± 12,73 против 71,76 ± 13,31 балла (p = 0,006). Статистически значимых различий функционального состояния и качества жизни между мужчинами и женщинами не обнаружили. Авторы заключили, что поражение коленного сустава, особенно в сочетании с остеоартрозом тазобедренного сустава, связано с более выраженными ограничениями и снижением качества жизни.\n\nЭто поперечное исследование описывает связи между состоянием суставов, функциональными ограничениями и качеством жизни, но не доказывает причинно-следственных отношений и не позволяет установить, как показатели меняются со временем. Участники были пациентами реабилитационного отделения, поэтому результаты не обязательно отражают состояние всех людей с остеоартрозом. Авторы также отмечают, что существующие лечебные подходы направлены преимущественно на контроль симптомов, а не на остановку или обратное развитие заболевания.",
+    "_reason": "Статья полезна для практики тем, что количественно показывает связь функциональных ограничений с качеством жизни и выделяет поражение коленного сустава, особенно при сочетанном поражении тазобедренного сустава, как важный клинический фактор. Она помогает обосновать комплексную оценку повседневных возможностей пациента при реабилитации, но не сравнивает методы лечения и не устанавливает, какие вмешательства эффективнее.",
+    "why_read": "Статью стоит прочитать врачам физической и реабилитационной медицины, физиотерапевтам и специалистам, сопровождающим пациентов с коксартрозом и гонартрозом. Она особенно пригодится при планировании оценки функциональных ограничений и качества жизни у пациентов с поражением нескольких суставов. Исследование также полезно для понимания ограничений данных: результаты получены в одной реабилитационной клинике и отражают связи показателей в конкретный период, а не динамику заболевания.",
+    "limitations": [
+      "A cross-sectional study was conducted between 1 October and 30 December 2024",
+      "A total of 133 adult patients diagnosed with HOA or KOA",
+      "No statistically significant differences were found in functional, or quality-of-life scores based on sex.",
+      "no current therapeutic option has demonstrated efficacy in halting or reversing disease progression"
+    ],
+    "advice_items": [
+      {
+        "quote": "Functional performance limitations have negative effects on mental health, QoL, and participation in social, recreational, and occupational activities.",
+        "advice": "При оценке пациента с остеоартрозом уточняйте, какие повседневные, социальные и рабочие занятия стали труднее или недоступны. Используйте эти сведения при формировании целей реабилитации наряду с оценкой боли и подвижности суставов.",
+        "audience": "врач"
+      },
+      {
+        "quote": "The mean WOMAC total score was 52.0 ± 7.9 (scale: 0-96), indicating moderate to severe functional impairment.",
+        "advice": "Для систематической оценки функциональных ограничений можно использовать индекс WOMAC, учитывая его общий балл и ограничения конкретного пациента. Результат следует интерпретировать вместе с клинической картиной, локализацией поражения и повседневными трудностями, а не как самостоятельное основание для выбора лечения.",
+        "audience": "врач"
+      },
+      {
+        "quote": "Patients with knee osteoarthritis reported significantly lower quality of life compared to those without this condition (66.48 ± 12.73 vs. 71.76 ± 13.31, p = 0.006).",
+        "advice": "При наличии остеоартроза коленного сустава отдельно оценивайте качество жизни и связанные с ним ограничения, даже если основной повод обращения — боль в тазобедренном суставе. При сочетанном поражении нескольких суставов обсуждайте, как их совокупное влияние отражается на самостоятельности и активности пациента.",
+        "audience": "врач"
+      },
+      {
+        "quote": "No statistically significant differences were found in functional, or quality-of-life scores based on sex.",
+        "advice": "Не следует предполагать выраженность функциональных ограничений или снижение качества жизни только по полу пациента. Ориентируйтесь на фактическую симптоматику, поражённые суставы и результаты индивидуальной оценки; отсутствие статистически значимых различий в этой выборке не доказывает полного отсутствия различий во всех группах пациентов.",
+        "audience": "врач"
+      },
+      {
+        "quote": "Management strategies remain confined to symptom control through both medical and non-medical interventions, with surgical procedures reserved for advanced or refractory cases.",
+        "advice": "Объясняйте пациенту, что лечение остеоартроза направлено прежде всего на контроль симптомов и сохранение функции, а не на гарантированное восстановление повреждённого сустава. Обсуждая дальнейшую тактику, разделяйте консервативные подходы и ситуации, в которых при тяжёлом или устойчивом к лечению состоянии рассматривают хирургическое вмешательство.",
+        "audience": "врач"
+      }
+    ],
+    "importance_stars": 4,
+    "importance_mark": "★★★★☆",
+    "take": "keep"
+  },
+  {
+    "id": 200,
     "pmid": "40618157",
     "source": "PubMed",
     "article": "The impacts of transcranial direct current stimulation combined with aquatic neuromuscular training on pain, function, kinesiophobia, knee instability, and quality of life in knee osteoarthritis: a double-blind randomized trial.",
@@ -11166,7 +11412,7 @@
     "take": "keep"
   },
   {
-    "id": 197,
+    "id": 201,
     "pmid": "40712915",
     "source": "PubMed",
     "article": "Booster sessions for maintaining the effect of neuromuscular exercise and progressive resistance training in hip osteoarthritis: 12-month follow-up from a multicenter cluster-randomized controlled trial.",
@@ -11230,7 +11476,7 @@
     "take": "keep"
   },
   {
-    "id": 198,
+    "id": 202,
     "pmid": "40753994",
     "source": "PubMed",
     "article": "Clinical and cost-effectiveness of a cycling and education intervention versus usual physiotherapy care for the treatment of hip osteoarthritis in the UK (CLEAT): a pragmatic, randomised, controlled trial.",
@@ -11299,7 +11545,7 @@
     "take": "keep"
   },
   {
-    "id": 199,
+    "id": 203,
     "pmid": "40759020",
     "source": "PubMed",
     "article": "Efficacy of a Very-Low-Calorie Weight Loss Diet Plus Exercise Compared With Exercise Alone on Hip Osteoarthritis Pain : A Randomized Controlled Trial.",
@@ -11361,7 +11607,7 @@
     "take": "keep"
   },
   {
-    "id": 200,
+    "id": 204,
     "pmid": "40858208",
     "source": "PubMed",
     "article": "Comparative Efficacy of Various Exercise Modalities and Doses in Reducing Pain and Improving Function in Older Adults With Knee or Hip Osteoarthritis: A Bayesian Network and Dose-Response Meta-analysis.",
@@ -11421,7 +11667,7 @@
     "take": "keep"
   },
   {
-    "id": 201,
+    "id": 205,
     "pmid": "40963665",
     "source": "PubMed",
     "article": "Optimizing resistance training for pain management in knee and hip osteoarthritis: a pairwise and dose-response meta-analysis.",
@@ -11476,7 +11722,71 @@
     "take": "keep"
   },
   {
-    "id": 202,
+    "id": 206,
+    "pmid": "40974584",
+    "source": "PubMed",
+    "article": "Diagnostic Performance of Ultrasound to Evaluate Mild Hip Osteoarthritis: Comparison With Radiography and MRI.",
+    "authors": [
+      "Kemppainen Antti",
+      "Kaartinen Saana",
+      "Nevalainen Mika T"
+    ],
+    "date": "2025-09-20",
+    "journal": "Journal of clinical ultrasound : JCU",
+    "doi": "10.1002/jcu.70086",
+    "topic": "Коксартроз",
+    "topic_key": "cox",
+    "topic_keys": [
+      "cox"
+    ],
+    "topics": [
+      "Коксартроз"
+    ],
+    "abstract_en": "PURPOSE: To study the diagnostic performance of ultrasound (US) in mild hip osteoarthritis (HOA) compared to conventional radiography (CR) and magnetic resonance imaging (MRI).\n\nMETHODS: Fifty-eight patients referred to CR for suspected HOA with at least unilateral Kellgren-Lawrence (KL) 2 change in the CRs were recruited. Bilateral hip US and MRI (n = 116) were performed, and patients filled the Visual Analog Scale (VAS) bilaterally. A sum US score was formed, and its correlation to KL grades and VAS scores was tested. Descriptive statistics, Chi square and McNemar's test, Spearman correlation, and linear regression analysis were applied as statistical techniques.\n\nRESULTS: US and CR showed similar moderate diagnostic performance compared to MRI with moderate correlation (r = 0.449) between US sum score and KL grades. With pain associations, US sum score showed an OR = 1.725 (CI 1.169-2.546) and KL grades an OR = 2.058 (CI 1.038-4.082).\n\nCONCLUSION: US and CR demonstrated similar moderate diagnostic capability in detecting mild HOA compared to MRI, and both the US sum score and KL grades were associated with increased hip pain. With US and CR demonstrating different aspects of HOA, our findings support the complementary role of US in evaluating patients with suspected HOA.",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/40974584/",
+    "pmc_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12866370/",
+    "html_available": true,
+    "html_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12866370/",
+    "title_ru": "УЗИ при раннем коксартрозе: сравнение с рентгенографией и МРТ",
+    "patient_plain": "",
+    "patient_use": "Если при подозрении на коксартроз врач предлагает УЗИ, стоит уточнить, какую задачу оно должно решить: например, выявить выпот в суставе, оценить доступные для ультразвуковой визуализации структуры или дополнить результаты рентгенографии. Нормальное или малоизменённое УЗИ не исключает повреждения хряща и других структур тазобедренного сустава. При сохраняющейся боли результаты обследования важно обсуждать вместе с симптомами и данными других методов визуализации, а не ориентироваться только на один снимок.",
+    "practical_use": "Врач может использовать УЗИ как дополнительный метод при оценке подозреваемого коксартроза, особенно когда важно визуализировать суставной выпот или доступные для ультразвукового исследования остеофиты и контуры головки бедренной кости. При интерпретации следует учитывать низкую чувствительность УЗИ к повреждениям хряща в этой выборке и невозможность полноценно оценить некоторые изменения суставной щели и субхондральной кости. УЗИ и рентгенография отражают разные аспекты заболевания, поэтому результаты целесообразно сопоставлять с клинической картиной и при необходимости с МРТ.",
+    "summary": "В исследовании сравнили диагностические возможности ультразвукового исследования (УЗИ), обычной рентгенографии и магнитно-резонансной томографии (МРТ) при лёгком остеоартрозе тазобедренного сустава. В исследование включили 58 пациентов с подозрением на коксартроз, у которых хотя бы на одном рентгеновском снимке уже выявлялись изменения второй степени по классификации Келлгрена — Лоуренса. Обследовали оба тазобедренных сустава, всего 116 суставов. Средний возраст пациентов составлял 66 лет, 41 участник (70,7%) были женщинами. МРТ использовали как референсный метод для сравнения диагностической точности.\n\nУЗИ и рентгенография показали умеренные и в целом сопоставимые диагностические возможности. При выявлении остеофитов чувствительность УЗИ составляла 62–74%, специфичность — 53–86%, точность — 61–82%. Для рентгенографии соответствующие показатели составляли 56–92%, 69–93% и 75–87%. При выявлении повреждения суставного хряща чувствительность УЗИ составляла 30%, специфичность — 89%, точность — 65%. УЗИ также позволяло выявлять выпот в суставе и деформацию головки бедренной кости. При этом рентгенография и МРТ показывали некоторые изменения, недоступные ультразвуковой визуализации, включая сужение суставной щели и изменения субхондральной кости.\n\nРазработанная суммарная оценка изменений по УЗИ умеренно коррелировала со степенью остеоартроза по классификации Келлгрена — Лоуренса (r = 0,449). И суммарная оценка УЗИ, и рентгенологическая степень изменений независимо ассоциировались с более выраженной болью: отношение шансов составляло 1,725 для УЗИ и 2,058 для рентгенографии. Авторы считают УЗИ полезным дополнительным методом к рентгенографии, а не её заменой. Результаты следует интерпретировать с учётом умеренной диагностической точности, ограниченного размера выборки и того, что участники уже имели рентгенологические признаки заболевания.",
+    "_reason": "Статья полезна для практики, поскольку показывает реальные возможности и ограничения УЗИ при лёгком коксартрозе и помогает понять, почему одного метода визуализации может быть недостаточно. Главный практический вывод состоит в том, что УЗИ может дополнять рентгенографию, но не позволяет надёжно исключить все структурные повреждения тазобедренного сустава.",
+    "why_read": "Статью стоит прочитать врачам, которые обследуют пациентов с болью в тазобедренном суставе и выбирают между УЗИ, рентгенографией и МРТ. Она особенно полезна для понимания диагностических ограничений УЗИ при повреждении хряща и его дополнительных возможностей при выявлении выпота и отдельных костных изменений.",
+    "limitations": [
+      "Overall, US and CR showed only moderate diagnostic performance to detect mild HOA.",
+      "The developed US sum score showed a rather weak correlation to KL grades",
+      "Mean delay between CRs and MRI and US examination was 106.2 days (median 89 and range 65–218 days)."
+    ],
+    "advice_items": [
+      {
+        "quote": "With US and CR demonstrating different aspects of HOA, our findings support the complementary role of US in evaluating patients with suspected HOA.",
+        "advice": "Используйте УЗИ как дополнение к рентгенографии, когда необходимо оценить доступные для ультразвуковой визуализации структуры тазобедренного сустава. При объяснении результатов пациенту уточняйте, что эти методы показывают разные аспекты остеоартроза и не заменяют клиническую оценку.",
+        "audience": "врач"
+      },
+      {
+        "quote": "For cartilage lesions (Figure 2), the US showed 30% sensitivity, 89% specificity, and 65% accuracy, whereas CR depicted 30%–88% sensitivity, 32%–95% specificity, and 41%–68% accuracy.",
+        "advice": "Не используйте отрицательный результат УЗИ как самостоятельное основание для исключения повреждения суставного хряща. Сопоставляйте ультразвуковые данные с симптомами и результатами других исследований, учитывая ограничения каждого метода.",
+        "audience": "врач"
+      },
+      {
+        "quote": "In US, the sensitivities to detect osteophytes (Figure 1) varied between 62% and 74%, specificities between 53% and 86%, and accuracies between 61% and 82%; for the CR, the respective values were 56%–92%, 69%–93%, and 75%–87%.",
+        "advice": "При интерпретации признаков остеофитов учитывайте, что диагностические показатели УЗИ и рентгенографии варьировали, а их возможности не были полностью взаимозаменяемыми. Не делайте вывод о наличии или отсутствии коксартроза только по одному выявленному или не выявленному признаку.",
+        "audience": "врач"
+      },
+      {
+        "quote": "Last, in the regression analysis to evaluate pain association, the US sum score showed an OR = 1.725 (CI 1.169–2.546), and KL grades an OR = 2.058 (CI 1.038–4.082).",
+        "advice": "При обсуждении результатов объясняйте пациенту, что выраженность структурных изменений по визуализации связана с болью на уровне статистической ассоциации, но сама по себе не определяет индивидуальную интенсивность симптомов. Оценивайте изображения вместе с жалобами и функциональными ограничениями пациента.",
+        "audience": "врач"
+      }
+    ],
+    "importance_stars": 4,
+    "importance_mark": "★★★★☆",
+    "take": "keep"
+  },
+  {
+    "id": 207,
     "pmid": "41104353",
     "source": "PubMed",
     "article": "Patient-reported outcomes following radiofrequency ablation of the hip: a retrospective study.",
@@ -11541,7 +11851,7 @@
     "take": "keep"
   },
   {
-    "id": 203,
+    "id": 208,
     "pmid": "41141645",
     "source": "PubMed",
     "article": "Training load and pain response during progressive resistance training in patients with hip osteoarthritis in the PROHIP trial.",
@@ -11605,7 +11915,7 @@
     "take": "keep"
   },
   {
-    "id": 204,
+    "id": 209,
     "pmid": "42368614",
     "source": "PubMed",
     "article": "App-based exercise intervention versus supervised exercise therapy for patients with hip or knee osteoarthritis-the randomised noninferiority DigiOA trial.",
@@ -11666,7 +11976,7 @@
     "take": "keep"
   },
   {
-    "id": 205,
+    "id": 210,
     "pmid": "41124830",
     "source": "PubMed",
     "article": "Optimal modality and dose of exercise for relieving pain in patients with knee or hip osteoarthritis: Bayesian pairwise, network, and dose-response meta-analyses.",
@@ -11728,7 +12038,7 @@
     "take": "keep"
   },
   {
-    "id": 206,
+    "id": 211,
     "pmid": "41323020",
     "source": "PubMed",
     "article": "The Effects of Fasinumab on Peripheral Nerve Function and Ganglion Anatomy: Results From a Randomized, Double-Blind, Placebo-Controlled Study in Patients With Pain Due to Osteoarthritis of the Knee or Hip, and a Series of Nonclinical Studies.",
@@ -11802,7 +12112,7 @@
     "take": "keep"
   },
   {
-    "id": 207,
+    "id": 212,
     "pmid": "41165671",
     "source": "PubMed",
     "article": "Hip Pain and Mobility Deficits-Hip Osteoarthritis: Revision 2025.",
@@ -11849,7 +12159,7 @@
     "take": "keep"
   },
   {
-    "id": 208,
+    "id": 213,
     "pmid": "41337764",
     "source": "PubMed",
     "article": "Comparison of the Efficacy of Conventional Radiofrequency to Intraarticular Steroid Injections for Advanced Hip Osteoarthritis: A Randomized Trial.",
@@ -11904,7 +12214,7 @@
     "take": "keep"
   },
   {
-    "id": 209,
+    "id": 214,
     "pmid": "41376753",
     "source": "PubMed",
     "article": "Outcomes Following Stem Cell-Based Therapies for Hip Osteoarthritis: A Scoping Review.",
@@ -11962,7 +12272,7 @@
     "take": "keep"
   },
   {
-    "id": 210,
+    "id": 215,
     "pmid": "41346985",
     "source": "PubMed",
     "article": "Sleep disturbances and sleep quality among individuals diagnosed with osteoarthritis: a systematic review and meta-analysis.",
@@ -12019,7 +12329,7 @@
     "take": "keep"
   },
   {
-    "id": 211,
+    "id": 216,
     "pmid": "41450485",
     "source": "PubMed",
     "article": "Orthobiologic injections for hip osteoarthritis: A systematic review of clinical outcomes.",
@@ -12078,7 +12388,7 @@
     "take": "keep"
   },
   {
-    "id": 212,
+    "id": 217,
     "pmid": "41550413",
     "source": "PubMed",
     "article": "Prevalence and impact of sleep disorders in osteoarthritis: A systematic review and meta-analysis.",
@@ -12134,7 +12444,82 @@
     "take": "keep"
   },
   {
-    "id": 213,
+    "id": 218,
+    "pmid": "41473851",
+    "source": "PubMed",
+    "article": "Micro-fragmented adipose tissue for the treatment of hip osteoarthritis: A prospective pilot study at 1-year follow-up.",
+    "authors": [
+      "Zaffagnini Marco",
+      "Raggi Federico",
+      "Carillo Eleonora",
+      "Andriolo Luca",
+      "Boffa Angelo",
+      "Cavallo Carola",
+      "Cattini Luca",
+      "Zaffagnini Stefano",
+      "Filardo Giuseppe"
+    ],
+    "date": "2025-12-28",
+    "journal": "Journal of experimental orthopaedics",
+    "doi": "10.1002/jeo2.70579",
+    "topic": "Коксартроз",
+    "topic_key": "cox",
+    "topic_keys": [
+      "cox"
+    ],
+    "topics": [
+      "Коксартроз"
+    ],
+    "abstract_en": "PURPOSE: Micro-fragmented adipose tissue (MFAT) has been proposed as a promising option for hip osteoarthritis (OA). The aim of this prospective study was to evaluate clinical outcomes of MFAT injections in patients with hip OA.\n\nMETHODS: Thirty patients (19 men and 11 women, 55.7 ± 8.2 years) with symptomatic hip OA (Tönnis Grade 1-2) were treated with a single ultrasound-guided MFAT injection. Patients were evaluated at baseline and 1-3-6-12 months of follow-up with the Visual Analogue Scale (VAS), Western Ontario and McMaster Universities Arthritis Index (WOMAC), and Harris Hip Score (HHS). Adverse events were also documented. MFAT samples were evaluated for cell analysis and characterization.\n\nRESULTS: No major complications were reported, and only three patients failed. The total WOMAC score significantly improved from baseline (31.2 ± 16.4) only at 1 month (21.0 ± 14.3, p = 0.015) and 3 months (19.3 ± 15.8, p = 0.012), while VAS and HHS scores showed a significant improvement from baseline to all follow-ups. The minimal clinically important difference (MCID) for the total WOMAC score was achieved in 56.7% of patients at 6 and 12 months. Better clinical improvement and MCID achievement were observed in mild compared to moderate hip OA. A total of 300.000 cells derived from MFAT produced small colonies from Day 10 (89.9 ± 61.2), increasing by Day 20 (129.9 ± 47.9).\n\nCONCLUSIONS: A single ultrasound-guided intra-articular MFAT injection represents a safe and promising option for hip OA treatment. However, the clinical benefit was partial, and better outcomes were observed in mild compared to moderate hip OA.\n\nLEVEL OF EVIDENCE: Level IV.",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/41473851/",
+    "pmc_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12745173/",
+    "html_available": true,
+    "html_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12745173/",
+    "title_ru": "Микрофрагментированная жировая ткань при коксартрозе: результаты пилотного исследования через год после инъекции",
+    "patient_plain": "",
+    "patient_use": "Если рассматривается инъекция MFAT, стоит обсудить с ортопедом степень коксартроза и реалистичные цели процедуры: результаты в исследовании были лучше при менее выраженных изменениях сустава. Важно понимать, что уменьшение боли и улучшение функции не гарантируют устойчивого улучшения всех симптомов на протяжении года. До принятия решения следует уточнить, какие нежелательные явления возможны, как будет оцениваться результат и что планируется делать, если улучшение окажется недостаточным.",
+    "practical_use": "При обсуждении MFAT следует разграничивать динамику боли по VAS, функции по HHS и общего состояния по WOMAC: эти показатели демонстрировали неодинаковую устойчивость улучшения. Степень коксартроза по Tönnis может помочь при консультировании о вероятности клинически значимого ответа, но данные небольшой пилотной выборки не дают надёжного индивидуального прогноза. Врачам следует сообщать пациентам об ограниченности доказательств, фиксировать исходные показатели и оценивать динамику в течение наблюдения, не интерпретируя отсутствие тяжёлых осложнений как окончательное подтверждение безопасности метода.",
+    "summary": "В проспективном пилотном исследовании оценили результаты лечения симптоматического коксартроза микрофрагментированной жировой тканью (MFAT). В исследование вошли 30 пациентов, 19 мужчин и 11 женщин, средний возраст которых составлял 55,7 ± 8,2 года. У всех был коксартроз 1–2-й степени по классификации Tönnis. Пациентам однократно вводили MFAT внутрь тазобедренного сустава под ультразвуковым контролем. Состояние оценивали до процедуры, а затем через 1, 3, 6 и 12 месяцев по визуальной аналоговой шкале боли (VAS), индексу остеоартрита университетов Западного Онтарио и Макмастера (WOMAC) и шкале Harris для тазобедренного сустава (HHS).\n\nПосле инъекции боль по VAS статистически значимо уменьшилась на всех контрольных сроках: средний показатель снизился с 5,9 до 3,6 через месяц, составлял 3,5 через 6 месяцев и 4,1 через год. Показатель HHS также значимо улучшился на протяжении всего наблюдения: с 68,8 исходно до 82,0 через 12 месяцев. Общий балл WOMAC значимо улучшился только через 1 и 3 месяца, а через 6 месяцев статистически значимого улучшения уже не было; через год результат также не отличался статистически значимо от исходного. Минимально клинически значимое улучшение WOMAC через 6 и 12 месяцев достигнуто у 56,7% участников.\n\nРезультаты были лучше у пациентов с более лёгким коксартрозом Tönnis 1, чем у пациентов со степенью Tönnis 2. Через год минимально клинически значимого улучшения WOMAC достигли соответственно 65,2% и 28,6% пациентов этих групп. Тяжёлых осложнений, связанных с процедурой, не зарегистрировали, однако были отдельные лёгкие нежелательные явления и три случая неудачи лечения. Исследование указывает на потенциальную пользу однократной инъекции MFAT, но её эффект неполный, а небольшая выборка и IV уровень доказательности не позволяют считать метод доказанной заменой стандартному лечению.",
+    "_reason": "Статья даёт конкретные годовые результаты однократного введения MFAT при коксартрозе и показывает, что уменьшение боли может сохраняться дольше, чем статистически значимое улучшение общего показателя WOMAC. Особенно важно различие результатов между лёгкой и умеренной степенью заболевания: оно помогает обсуждать ожидания с пациентом. Однако пилотный характер исследования, 30 участников и IV уровень доказательности ограничивают уверенность в эффективности метода.",
+    "why_read": "Статью стоит прочитать ортопедам, врачам спортивной медицины и специалистам, которые консультируют пациентов с коксартрозом по поводу инъекционных методов лечения. Она полезна для обсуждения MFAT на фоне конкретных результатов по боли, функции, WOMAC и различий между степенями Tönnis. Пациентам, рассматривающим такую процедуру, материал поможет понять, почему возможное облегчение симптомов не означает гарантированного стойкого улучшения.",
+    "limitations": [
+      "Thirty patients (19 men and 11 women, 55.7 ± 8.2 years)",
+      "Tönnis Grade 1-2",
+      "The total WOMAC score showed a statistically significant improvement from 31.2 ± 16.4 to 21.0 ± 14.3 at 1 month (p = 0.015), and to 19.3 ± 15.8 at 3 months (p = 0.012)",
+      "it did not show any statistically significant improvement at 12 months (20.8 ± 19.3)",
+      "The MCID for the WOMAC total score was achieved in 56.7% of patients at 6 months",
+      "The clinical benefit was partial",
+      "better outcomes were observed in patients with mild compared to moderate hip OA",
+      "LEVEL OF EVIDENCE: Level IV"
+    ],
+    "advice_items": [
+      {
+        "quote": "Better clinical improvement and MCID achievement were observed in mild compared to moderate hip OA.",
+        "advice": "При консультировании пациента обсудите степень коксартроза и не обещайте одинаковой вероятности успеха при разной выраженности заболевания. В исследовании клинически значимое улучшение чаще отмечалось при более лёгком поражении сустава.",
+        "audience": "врач"
+      },
+      {
+        "quote": "The MCID for the total WOMAC score was achieved in 56.7% of patients at 6 and 12 months.",
+        "advice": "Объясните пациенту, что клинически значимого улучшения общего показателя WOMAC через 6 и 12 месяцев достигли немногим более половины участников. Процедуру не следует представлять как гарантию выраженного или стойкого результата для каждого пациента.",
+        "audience": "пациент"
+      },
+      {
+        "quote": "No major complications were reported, and only three patients failed.",
+        "advice": "При обсуждении безопасности сообщите, что тяжёлых осложнений в этой небольшой группе не зарегистрировали, но лечение не помогло всем участникам. Отдельно обсудите возможные нежелательные явления и заранее определите, по каким критериям будет оцениваться успех процедуры.",
+        "audience": "врач"
+      },
+      {
+        "quote": "The HHS showed a statistically significant improvement from baseline to all follow-ups.",
+        "advice": "При оценке результата после инъекции учитывайте не только боль, но и функцию тазобедренного сустава. Для наблюдения полезно сопоставлять исходные и последующие показатели HHS с динамикой боли и WOMAC, поскольку разные шкалы могут отражать неодинаковую устойчивость улучшения.",
+        "audience": "врач"
+      }
+    ],
+    "importance_stars": 4,
+    "importance_mark": "★★★★☆",
+    "take": "keep"
+  },
+  {
+    "id": 219,
     "pmid": "42287090",
     "source": "PubMed",
     "article": "Comparison of Clinical Efficiency and Safety Between Intra-Articular Injection of Platelet-Rich Plasma and Hyaluronic Acid for Hip Osteoarthritis: A Systematic Review and Meta-Analysis.",
@@ -12203,7 +12588,7 @@
     "take": "keep"
   },
   {
-    "id": 214,
+    "id": 220,
     "pmid": "41545313",
     "source": "PubMed",
     "article": "A phase III, randomised, double-blind, multi-dose, placebo- and naproxen-controlled study to evaluate the efficacy and safety of fasinumab in patients with pain due to osteoarthritis of the knee or hip.",
@@ -12275,7 +12660,7 @@
     "take": "keep"
   },
   {
-    "id": 215,
+    "id": 221,
     "pmid": "41598681",
     "source": "PubMed",
     "article": "Clinical Outcomes of Intra-Articular Ozone Injections in Hip Osteoarthritis: A Retrospective Study Comparing Different Injection Frequencies.",
@@ -12342,7 +12727,7 @@
     "take": "keep"
   },
   {
-    "id": 216,
+    "id": 222,
     "pmid": "41599942",
     "source": "PubMed",
     "article": "Using Dose-Response Correlation Re-Analyzing to Distinguish Placebo from Standardized Rose-Hip Powder (Lito) in a Clinical Trial on Osteoarthritis Where Data Initially Looked Identical.",
@@ -12396,7 +12781,7 @@
     "take": "keep"
   },
   {
-    "id": 217,
+    "id": 223,
     "pmid": "41618213",
     "source": "PubMed",
     "article": "Investigating the therapeutic impact of platelet-rich plasma on knee, hip, and traumatic osteoarthritis: a meta-analysis and systematic review.",
@@ -12456,7 +12841,7 @@
     "take": "keep"
   },
   {
-    "id": 218,
+    "id": 224,
     "pmid": "41736839",
     "source": "PubMed",
     "article": "Intra-articular hyaluronic acid (viscosupplementation) for osteoarthritis: is it effective?",
@@ -12525,7 +12910,7 @@
     "take": "keep"
   },
   {
-    "id": 219,
+    "id": 225,
     "pmid": "41730219",
     "source": "PubMed",
     "article": "Stable Supportive Footwear for Self-managing Hip Osteoarthritis Pain : A Randomized Clinical Trial.",
@@ -12587,7 +12972,76 @@
     "take": "keep"
   },
   {
-    "id": 220,
+    "id": 226,
+    "pmid": "41755803",
+    "source": "PubMed",
+    "article": "Long-term efficacy of intra-articular viscosupplementation in delaying hip osteoarthritis radiographic progression: a retrospective, non-controlled study from the ANTIAGE registry.",
+    "authors": [
+      "Migliore Alberto",
+      "Iannarelli Nazzareno",
+      "Devito Antonio",
+      "Saporito Raffaele",
+      "Saccone Luca",
+      "Beriotto Irene",
+      "Grassi Michele",
+      "Cunego Eugenio",
+      "Paglionico Annamaria",
+      "Tormenta Sandro"
+    ],
+    "date": "2026-02-25",
+    "journal": "Reumatismo",
+    "doi": "10.4081/reumatismo.2026.1917",
+    "topic": "Коксартроз",
+    "topic_key": "cox",
+    "topic_keys": [
+      "cox"
+    ],
+    "topics": [
+      "Коксартроз"
+    ],
+    "abstract_en": "OBJECTIVE: Viscosupplementation is a recognized treatment for improving pain and joint function in the long term. The study aimed to analyze the radiological changes after 2 years of treatment with HyalOne® (Hyalubrix® 60 Italian brand name) in patients with symptomatic hip osteoarthritis (OA). The primary objective was to evaluate the ability of delaying hip OA progression, measured by the percentage of patients showing no radiological Kellgren-Lawrence (K-L) grade change ≥1 at 2 years. Secondary objectives included variations in pain at rest, Lequesne index, and non-steroidal anti-inflammatory drug (NSAID) intake after 2 years of treatment.\n\nMETHODS: Data of patients suffering from symptomatic hip OA treated with HyalOne®/Hyalubrix® 60 were selected from the ANTIAGE national registry. The analysis included 78 patients aged 50 to 80 years with radiological and clinical OA (K-L grade 1-3), body mass index ≤35, and at least 2 years of radiological follow-up. Patients with significant comorbidities or who received previous treatment within two years after HyalOne®/Hyalubrix® 60 were excluded.\n\nRESULTS: This retrospective observational non-controlled study showed that intra-articular injections with HyalOne®/Hyalubrix® 60 were well tolerated and may help maintain clinical and radiographic stability in patients with hip OA. At 2-year follow-up, the K-L grade remained stable in 72 hips (92.31%). Symptom reduction was also observed, supporting lower NSAID consumption and the avoidance of the related adverse events.\n\nCONCLUSIONS: These results are clinically meaningful and support the treatment with HyalOne® as a valuable background therapy for maintaining clinical and radiographic stability in patients with hip OA.",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/41755803/",
+    "pmc_link": "",
+    "html_available": false,
+    "html_link": "",
+    "title_ru": "Внутрисуставные инъекции гиалуроновой кислоты при коксартрозе: стабильность изменений на рентгене и симптомы через два года",
+    "patient_plain": "",
+    "patient_use": "При обсуждении внутрисуставного лечения стоит уточнить, подходит ли оно для вашей степени коксартроза и насколько реалистично ожидать уменьшения боли и потребности в обезболивающих препаратах. Важно понимать, что сохранение рентгенологической степени артроза в течение двух лет не означает восстановления повреждённого сустава и не гарантирует такого же результата каждому пациенту. Если после лечения потребность в НПВП уменьшится, обсудите с врачом пересмотр их применения, а не меняйте приём самостоятельно.",
+    "practical_use": "Врач может использовать результаты регистра как основание для обсуждения гиалуроновой вискосуплементации у отдельных пациентов с симптоматическим коксартрозом 1–3-й степени, объясняя при этом неопределённость причинно-следственной связи. При наблюдении целесообразно раздельно фиксировать боль в покое, функциональные ограничения по индексу Лекена, потребление НПВП и рентгенологическую динамику, поскольку именно эти исходы изучались авторами. При оценке применимости результатов необходимо учитывать критерии отбора пациентов и отсутствие контрольной группы.",
+    "summary": "В исследовании оценивали, помогает ли внутрисуставное введение HyalOne® (Hyalubrix® 60) замедлить прогрессирование коксартроза и уменьшить симптомы в течение двух лет. Авторы проанализировали данные национального регистра ANTIAGE о 78 пациентах в возрасте от 50 до 80 лет с клинически выраженным и подтверждённым на рентгене артрозом тазобедренного сустава 1–3-й степени по классификации Келлгрена — Лоуренса. Индекс массы тела участников не превышал 35, а наблюдение по рентгенограммам продолжалось не менее двух лет. Пациентов со значимыми сопутствующими заболеваниями и получавших другое лечение в течение двух лет после введения препарата исключали.\n\nЧерез два года рентгенологическая степень артроза оставалась стабильной в 72 тазобедренных суставах, что составило 92,31%. Также наблюдалось уменьшение выраженности симптомов, сопровождавшееся снижением потребления нестероидных противовоспалительных препаратов (НПВП). Авторы считают, что внутрисуставное введение HyalOne®/Hyalubrix® 60 может способствовать поддержанию клинической и рентгенологической стабильности и потенциально уменьшать воздействие нежелательных эффектов НПВП.\n\nПрепарат характеризовался хорошей переносимостью в изученной группе. Однако исследование было ретроспективным, наблюдательным и неконтролируемым: без контрольной группы нельзя уверенно установить, что стабильность суставов и уменьшение симптомов обусловлены именно инъекциями. Результаты также не позволяют автоматически переносить выводы на пациентов с тяжёлым артрозом, значимыми сопутствующими заболеваниями или другими характеристиками, исключёнными из исследования.",
+    "_reason": "Статья представляет практический интерес для обсуждения внутрисуставной вискосуплементации при коксартрозе: в течение двух лет у большинства обследованных суставов не отмечалось изменения рентгенологической степени артроза, а симптомы уменьшались. Однако неконтролируемый ретроспективный дизайн не доказывает, что именно HyalOne® обеспечил эти результаты, поэтому исследование поддерживает обсуждение метода, но не позволяет считать его доказанным способом остановить прогрессирование заболевания.",
+    "why_read": "Статья полезна врачам, реабилитологам и специалистам, обсуждающим варианты лечения симптоматического коксартроза и стремящимся уменьшить потребность пациентов в НПВП. Пациентам она поможет понять, какие результаты наблюдались после введения HyalOne®/Hyalubrix® 60 и почему хорошие показатели двухлетнего наблюдения ещё не гарантируют индивидуального эффекта.",
+    "limitations": [
+      "retrospective, non-controlled study",
+      "78 patients aged 50 to 80 years",
+      "K-L grade 1-3",
+      "body mass index ≤35",
+      "at least 2 years of radiological follow-up",
+      "Patients with significant comorbidities or who received previous treatment within two years after HyalOne®/Hyalubrix® 60 were excluded."
+    ],
+    "advice_items": [
+      {
+        "quote": "The primary objective was to evaluate the ability of delaying hip OA progression, measured by the percentage of patients showing no radiological Kellgren-Lawrence (K-L) grade change ≥1 at 2 years.",
+        "advice": "При обсуждении результатов с пациентом различайте сохранение рентгенологической степени артроза и доказанное замедление заболевания благодаря лечению. В этом исследовании стабильность оценивали по отсутствию повышения степени по Келлгрену — Лоуренсу как минимум на одну ступень за два года. Поскольку контрольной группы не было, этот показатель нельзя напрямую трактовать как доказанный эффект препарата.",
+        "audience": "врач"
+      },
+      {
+        "quote": "Symptom reduction was also observed, supporting lower NSAID consumption and the avoidance of the related adverse events.",
+        "advice": "При последующем наблюдении уточняйте не только интенсивность боли, но и фактическую потребность пациента в НПВП. Обсуждайте возможное снижение их применения с учётом симптомов и индивидуальных рисков, не предполагая, что уменьшение потребления автоматически означает полное устранение риска нежелательных реакций.",
+        "audience": "врач"
+      },
+      {
+        "quote": "This retrospective observational non-controlled study showed that intra-articular injections with HyalOne®/Hyalubrix® 60 were well tolerated and may help maintain clinical and radiographic stability in patients with hip OA.",
+        "advice": "Перед принятием решения спросите врача, насколько результаты исследования применимы к вашей степени коксартроза и сопутствующим заболеваниям. Обсудите ожидаемое облегчение симптомов, ограничения метода и альтернативы. Хорошая переносимость в этой группе не гарантирует отсутствия осложнений у конкретного человека.",
+        "audience": "пациент"
+      }
+    ],
+    "importance_stars": 4,
+    "importance_mark": "★★★★☆",
+    "take": "keep"
+  },
+  {
+    "id": 227,
     "pmid": "41736456",
     "source": "PubMed",
     "article": "Minimal Important Change and Minimal Clinically Important Difference in Pain and Function With Exercise in Hip Osteoarthritis.",
@@ -12653,7 +13107,7 @@
     "take": "keep"
   },
   {
-    "id": 221,
+    "id": 228,
     "pmid": "41706544",
     "source": "PubMed",
     "article": "Moderators of the Effects of Exercise and Manual Therapy for People With Knee and Hip Osteoarthritis: A Secondary Analysis of a Randomized Clinical Trial.",
@@ -12718,7 +13172,7 @@
     "take": "keep"
   },
   {
-    "id": 222,
+    "id": 229,
     "pmid": "42012877",
     "source": "PubMed",
     "article": "Motor imagery and action observation for knee and hip osteoarthritis: systematic review and meta-analysis.",
@@ -12775,7 +13229,7 @@
     "take": "keep"
   },
   {
-    "id": 223,
+    "id": 230,
     "pmid": "42038512",
     "source": "PubMed",
     "article": "Viscosupplementation with High Molecular Weight Hyaluronic Acid for Hip Osteoarthritis: An Updated Systematic Review and Meta-Analysis of Randomized Controlled Trials.",
@@ -12839,7 +13293,7 @@
     "take": "keep"
   },
   {
-    "id": 224,
+    "id": 231,
     "pmid": "42033031",
     "source": "PubMed",
     "article": "Editorial Commentary: When Efficacy is Similar, Risk Should Decide: Why Ketorolac Deserves Priority Over Corticosteroids For Hip Injections.",
@@ -12897,7 +13351,7 @@
     "take": "keep"
   },
   {
-    "id": 225,
+    "id": 232,
     "pmid": "42220332",
     "source": "PubMed",
     "article": "Changes in sleep and clinical outcomes in hip osteoarthritis: A longitudinal secondary analysis of a randomised controlled trial.",
@@ -12956,7 +13410,7 @@
     "take": "keep"
   },
   {
-    "id": 226,
+    "id": 233,
     "pmid": "42255387",
     "source": "PubMed",
     "article": "Combined ultrasound-guided hyaluronic acid injections, high-power laser therapy and physiotherapy improve hip function in osteoarthritis: A randomized controlled trial.",
@@ -13022,7 +13476,7 @@
     "take": "keep"
   },
   {
-    "id": 227,
+    "id": 234,
     "pmid": "42389754",
     "source": "PubMed",
     "article": "Effects of aquatic exercise on pain and physical function in overweight/obese patients with lower limb osteoarthritis: a systematic review and meta-analysis.",
@@ -13084,7 +13538,7 @@
     "take": "keep"
   },
   {
-    "id": 228,
+    "id": 235,
     "pmid": "42373005",
     "source": "PubMed",
     "article": "Effectiveness of a blended care intervention in physiotherapy with exercise and education for patients with hip or knee osteoarthritis (SmArt-E): A multicentre pragmatic randomized controlled trial.",
@@ -13168,7 +13622,134 @@
     "take": "keep"
   },
   {
-    "id": 229,
+    "id": 236,
+    "pmid": "42445164",
+    "source": "PubMed",
+    "article": "Sensorimotor dysfunction and altered pain sensitivity in early hip osteoarthritis: associations with hip proprioception and balance impairment.",
+    "authors": [
+      "Alshahrani Mastour Saeed",
+      "Reddy Ravi Shankar"
+    ],
+    "date": "2026-06-29",
+    "journal": "Frontiers in medicine",
+    "doi": "10.3389/fmed.2026.1873645",
+    "topic": "Коксартроз",
+    "topic_key": "cox",
+    "topic_keys": [
+      "cox"
+    ],
+    "topics": [
+      "Коксартроз"
+    ],
+    "abstract_en": "BACKGROUND: Early hip osteoarthritis is associated with subtle sensorimotor impairments and altered pain processing, which may contribute to functional limitations before advanced structural changes occur. However, the interplay between hip proprioception, postural control, and pain sensitivity remains insufficiently understood. To compare hip joint position sense between individuals with early hip osteoarthritis and asymptomatic controls, and to examine the associations among proprioception, posturographic balance, and pressure pain sensitivity.\n\nMETHODS: A cross-sectional study was conducted, including 38 participants with early hip osteoarthritis and 38 age- and sex-matched controls. Hip proprioception was assessed using a digital inclinometer-measured joint position sense. Postural stability was evaluated using force-platform posturography, and pressure pain thresholds were measured at local and remote sites. Between-group differences were analyzed using independent-samples t tests, while associations were examined using Pearson correlation and multiple linear regression analyses.\n\nRESULTS: Participants with early hip osteoarthritis demonstrated significantly higher hip repositioning error (composite error: 5.51 ± 1.21° vs. 3.56 ± 0.92°, p < 0.001), higher postural sway (single-leg eyes closed COP velocity: 6.16 ± 1.51 vs. 4.64 ± 1.32 cm/s, p < 0.001), and lower local pressure pain thresholds (303.00 ± 68.00 vs. 415.00 ± 75.00 kPa, p < 0.001). Proprioceptive error was moderately associated with sway velocity (r = 0.56, p < 0.001) and inversely with local pain thresholds (r = -0.50, p = 0.001). Regression analyses indicated that proprioceptive error (β = 0.42, p = 0.004) and local pain sensitivity (β = -0.31, p = 0.021) independently predicted balance performance.\n\nCONCLUSION: Early hip osteoarthritis is characterized by concurrent proprioceptive deficits, balance impairments, and increased pain sensitivity, with significant interactions among these domains, suggesting that altered pain processing and sensorimotor dysfunction are interconnected features of early hip osteoarthritis.",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/42445164/",
+    "pmc_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13357179/",
+    "html_available": true,
+    "html_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13357179/",
+    "title_ru": "Нарушение проприоцепции тазобедренного сустава, равновесия и чувствительности к боли при раннем коксартрозе",
+    "patient_plain": "",
+    "patient_use": "При обсуждении раннего коксартроза с врачом или специалистом по реабилитации полезно обратить внимание не только на боль, но и на устойчивость при ходьбе, способность вставать со стула, подвижность бедра и уверенность при опоре на одну ногу. Если боль сопровождается ощущением неустойчивости или затруднениями при повседневных движениях, стоит обсудить комплексную оценку функции сустава и равновесия. Результаты исследования не означают, что каждому пациенту необходимы специальные тесты на проприоцепцию или что тренировка равновесия сама по себе остановит развитие артроза.",
+    "practical_use": "На приёме целесообразно сопоставлять выраженность боли с объективными функциональными показателями: внутренней ротацией бедра, тестом Timed Up and Go, вставаниями со стула и шестиминутной ходьбой. При наличии соответствующих возможностей оценка равновесия в условиях ограниченного зрительного контроля и проприоцепции может дополнить стандартное обследование, особенно при жалобах на неустойчивость. Следует учитывать, что выявленные корреляции не доказывают, что сенсомоторные нарушения или повышенная чувствительность к боли являются первопричиной функциональных ограничений.",
+    "summary": "В исследовании сравнили 38 человек с ранним остеоартрозом тазобедренного сустава (коксартрозом) и 38 участников без симптомов, сопоставимых по возрасту и полу. Авторы оценивали проприоцепцию — способность ощущать положение сустава, — с помощью цифрового инклинометра, устойчивость позы с помощью силовой платформы и чувствительность к давлению с помощью измерения болевого порога. Дополнительно сравнивали подвижность сустава, физическую активность и выполнение функциональных тестов.\n\nПри раннем коксартрозе точность воспроизведения заданного положения тазобедренного сустава была ниже: суммарная ошибка составляла 5,51 ± 1,21° против 3,56 ± 0,92° у контрольной группы (p < 0,001). Особенно выраженные нарушения выявили при внутреннем вращении бедра. При стоянии на одной ноге с закрытыми глазами скорость колебаний центра давления составляла 6,16 ± 1,51 против 4,64 ± 1,32 см/с (p < 0,001), что указывало на худшую постуральную устойчивость. Местный болевой порог при давлении был ниже — 303 ± 68 против 415 ± 75 кПа (p < 0,001), то есть чувствительность к боли была выше. Ошибка проприоцепции умеренно коррелировала с колебаниями позы (r = 0,56) и обратно коррелировала с местным болевым порогом (r = −0,50).\n\nУ участников с коксартрозом также отмечались меньшая внутренняя ротация тазобедренного сустава, более медленное выполнение теста Timed Up and Go, меньшее количество вставаний со стула и сокращение дистанции шестиминутной ходьбы примерно на 64 м по сравнению с контрольной группой. Регрессионный анализ показал, что ошибка проприоцепции и местная чувствительность к боли независимо связаны с показателями равновесия. Исследование было поперечным, поэтому оно выявляет связи между нарушениями, но не доказывает причинно-следственную зависимость и не устанавливает, улучшит ли коррекция этих нарушений течение заболевания.",
+    "_reason": "Статья показывает, что при раннем коксартрозе функциональные нарушения могут сочетаться с ухудшением ощущения положения сустава и повышенной чувствительностью к боли, даже до выраженных структурных изменений. Практическая ценность заключается в обосновании комплексной оценки боли, подвижности и равновесия, но исследование не проверяло эффективность конкретного лечения или реабилитационной программы.",
+    "why_read": "Статья полезна врачам, физиотерапевтам и специалистам по реабилитации, которые работают с пациентами на ранних стадиях коксартроза и хотят лучше понимать причины функциональных ограничений. Пациентам она помогает понять, почему при артрозе стоит обсуждать не только интенсивность боли, но и устойчивость, подвижность бедра и выполнение повседневных действий. Результаты следует трактовать как данные о взаимосвязях, а не как доказательство эффективности определённого метода лечения.",
+    "limitations": [
+      "A cross-sectional study was conducted",
+      "The interplay between hip proprioception, postural control, and pain sensitivity remains insufficiently understood"
+    ],
+    "advice_items": [
+      {
+        "quote": "These findings demonstrate a clear interaction between sensorimotor dysfunction and altered pain processing in early hip osteoarthritis, emphasizing the importance of integrated assessment approaches targeting both domains.",
+        "advice": "При обследовании пациента с ранним коксартрозом оценивайте не только интенсивность боли, но и сенсомоторную функцию, устойчивость позы и ощущение положения тазобедренного сустава. Сопоставляйте результаты этих оценок с функциональными ограничениями, не трактуя обнаруженные связи как доказательство причинности.",
+        "audience": "врач"
+      },
+      {
+        "quote": "Proprioceptive deficits are moderately associated with balance impairments, particularly under conditions of reduced visual input, and are inversely related to pressure pain thresholds.",
+        "advice": "При жалобах на неустойчивость учитывайте возможное сочетание нарушенной проприоцепции и повышенной чувствительности к боли. Если клиническая ситуация и доступное оборудование позволяют, рассмотрите оценку равновесия при ограниченном зрительном контроле и измерение положения тазобедренного сустава.",
+        "audience": "врач"
+      },
+      {
+        "quote": "Both proprioceptive error and local pain sensitivity independently contribute to postural instability, while pain sensitivity and balance performance are significant determinants of proprioceptive accuracy.",
+        "advice": "Объясните пациенту, что нарушения равновесия, неточное ощущение положения сустава и повышенная чувствительность к боли могут сочетаться. Обсудите необходимость оценивать несколько аспектов функции, а не судить о состоянии сустава исключительно по интенсивности болевых ощущений.",
+        "audience": "пациент"
+      }
+    ],
+    "importance_stars": 4,
+    "importance_mark": "★★★★☆",
+    "take": "keep"
+  },
+  {
+    "id": 237,
+    "pmid": "42381613",
+    "source": "PubMed",
+    "article": "Early-Stage Symptomatic Hip Osteoarthritis: A Window of Opportunity.",
+    "authors": [
+      "Heerey Joshua",
+      "van Klij Pim",
+      "Diamond Laura E",
+      "Mascarenhas Vasco",
+      "Whittaker Jackie L",
+      "Agricola Rintje",
+      "Kierkegaard-Brøchner Signe",
+      "Kemp Joanne",
+      "Scholes Mark"
+    ],
+    "date": "2026-07-01",
+    "journal": "The Journal of orthopaedic and sports physical therapy",
+    "doi": "10.2519/jospt.2026.14223",
+    "topic": "Коксартроз",
+    "topic_key": "cox",
+    "topic_keys": [
+      "cox"
+    ],
+    "topics": [
+      "Коксартроз"
+    ],
+    "abstract_en": "BACKGROUND: While hip osteoarthritis (OA) typically affects older adults, its prevalence in young adults is growing. Hip OA exists on a continuum; the early stages may be when treatments (surgical or nonsurgical) have the greatest chance of slowing or changing its trajectory. Most research and clinical interest have centered on early-stage symptomatic knee OA, with several global initiatives in place to improve diagnosis, classification, and treatment. Early-stage symptomatic hip OA has not had adequate attention. Clinicians and patients often do not recognize the condition or understand when and how to provide effective treatment. CLINICAL QUESTIONS: Why is it important to identify early-stage symptomatic hip OA? What are the benefits and challenges of developing classification criteria? Which candidate features should inform future consensus-based classification? What evidence exists regarding its development, trajectory, clinical and imaging characteristics, and management? KEY RESULTS: We propose candidate symptom, clinical, and imaging (radiographic and magnetic resonance imaging) criteria to stimulate clinical and research interest and to support future initiatives. Mechanical factors are implicated in the development and progression of early-stage symptomatic hip OA. A major clinical challenge is differentiating imaging findings indicative of symptomatic disease from normal age-related variation or incidental changes. Surgical and nonsurgical treatments may be appropriate for early-stage symptomatic hip OA. CLINICAL APPLICATION: Clinicians should consider early-stage symptomatic hip OA in patients with hip pain. While evidence specific to this stage of OA is still evolving, familiarity with its trajectory, key clinical and imaging findings, and factors associated with its development may improve early recognition and guide management decisions. J Orthop Sports Phys Ther 2026;56(7):399-412. Epub 26 May 2026. doi:10.2519/jospt.2026.14223.",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/42381613/",
+    "pmc_link": "",
+    "html_available": false,
+    "html_link": "",
+    "title_ru": "Ранний симптоматический коксартроз: возможность своевременно повлиять на течение заболевания",
+    "patient_plain": "",
+    "patient_use": "При боли в тазобедренном суставе стоит обсудить с врачом, может ли она быть связана с ранним коксартрозом, даже если заболевание обычно ассоциируют с пожилым возрастом. При оценке результатов рентгена или магнитно-резонансной томографии важно выяснить, соответствуют ли найденные изменения симптомам и клиническому осмотру, а не считать любую находку доказательством причины боли. Раннее распознавание заболевания может помочь своевременно обсудить подходящие варианты ведения, включая нехирургические и хирургические методы, с учётом индивидуальной ситуации.",
+    "practical_use": "Врачам следует включать ранний симптоматический коксартроз в дифференциальную оценку пациентов с болью в тазобедренном суставе, в том числе молодых взрослых. Предварительные критерии авторов помогают систематизировать симптомы, результаты клинического обследования и рентгенологических или магнитно-резонансных исследований, однако их нельзя трактовать как окончательно валидированные диагностические стандарты. При выборе тактики необходимо учитывать возможные механические факторы и не приписывать боль возрастным или случайным изменениям на снимках без соответствующего клинического контекста.",
+    "summary": "Обзор посвящён раннему симптоматическому остеоартрозу тазобедренного сустава (коксартрозу), который всё чаще встречается у молодых взрослых, но пока привлекает меньше внимания, чем ранний остеоартроз коленного сустава. Авторы рассматривают развитие заболевания, его возможное течение, клинические проявления, признаки на рентгенограммах и магнитно-резонансных томограммах, а также хирургические и нехирургические подходы к лечению. Основная идея состоит в том, что ранняя стадия может быть благоприятным периодом для вмешательства, способного замедлить или изменить дальнейшее развитие заболевания.\n\nАвторы предлагают предварительные критерии классификации раннего симптоматического коксартроза, включающие симптомы, клинические признаки и данные визуализации. В развитии и прогрессировании заболевания могут участвовать механические факторы. При этом обнаруженные на снимках изменения не всегда означают, что именно они вызывают боль: необходимо отличать признаки симптоматического заболевания от нормальных возрастных изменений и случайных находок.\n\nДля пациентов с болью в области тазобедренного сустава авторы рекомендуют учитывать возможность раннего коксартроза и оценивать клинические проявления вместе с результатами визуализации. Специфические доказательства для этой ранней стадии пока формируются, поэтому предложенные критерии следует рассматривать как основу для дальнейшего согласования, исследований и совершенствования клинической практики, а не как окончательно утверждённые диагностические правила.",
+    "_reason": "Обзор обращает внимание на недостаточно распознаваемую раннюю стадию коксартроза, когда своевременная оценка и выбор тактики потенциально способны повлиять на дальнейшее течение заболевания. Практическая ценность состоит прежде всего в улучшении раннего распознавания и интерпретации снимков, а не в доказательстве эффективности конкретного лечения.",
+    "why_read": "Статья полезна врачам, физиотерапевтам и специалистам по реабилитации, которые обследуют людей с болью в тазобедренном суставе и хотят лучше различать ранний коксартроз и случайные изменения на снимках. Её также стоит прочитать специалистам, участвующим в разработке диагностических критериев и исследовательских протоколов, поскольку авторы предлагают предварительные симптомы и клинические и визуализационные признаки для будущей классификации.",
+    "limitations": [
+      "Early-stage symptomatic hip OA has not had adequate attention.",
+      "A major clinical challenge is differentiating imaging findings indicative of symptomatic disease from normal age-related variation or incidental changes.",
+      "While evidence specific to this stage of OA is still evolving"
+    ],
+    "advice_items": [
+      {
+        "quote": "Clinicians should consider early-stage symptomatic hip OA in patients with hip pain.",
+        "advice": "При обследовании пациента с болью в тазобедренном суставе включайте ранний симптоматический коксартроз в число возможных причин, в том числе у молодых взрослых. Сопоставляйте жалобы с клиническими признаками и результатами визуализации, а не исключайте заболевание только из-за возраста пациента.",
+        "audience": "врач"
+      },
+      {
+        "quote": "A major clinical challenge is differentiating imaging findings indicative of symptomatic disease from normal age-related variation or incidental changes.",
+        "advice": "Не интерпретируйте изменения на рентгенограммах или магнитно-резонансных томограммах изолированно от клинической картины. Проверяйте, согласуются ли находки с локализацией боли и результатами осмотра, чтобы не приписывать симптомы случайным или возрастным изменениям.",
+        "audience": "врач"
+      },
+      {
+        "quote": "Surgical and nonsurgical treatments may be appropriate for early-stage symptomatic hip OA.",
+        "advice": "Обсуждайте варианты хирургического и нехирургического ведения в зависимости от клинической ситуации пациента. Не представляйте один из подходов как обязательный для всех пациентов с ранним коксартрозом: обзор допускает оба варианта, но не устанавливает универсальную схему лечения.",
+        "audience": "врач"
+      },
+      {
+        "quote": "Mechanical factors are implicated in the development and progression of early-stage symptomatic hip OA.",
+        "advice": "При сборе анамнеза и клинической оценке учитывайте возможную роль механических факторов в развитии и прогрессировании заболевания. Интерпретируйте их в контексте симптомов и результатов обследования, не делая вывод о конкретном механизме у отдельного пациента без дополнительных оснований.",
+        "audience": "врач"
+      }
+    ],
+    "importance_stars": 4,
+    "importance_mark": "★★★★☆",
+    "take": "keep"
+  },
+  {
+    "id": 238,
     "pmid": "42540495",
     "source": "PubMed",
     "article": "Comparison of the efficacy and safety of acetaminophen versus NSAIDs for the treatment of chronic pain in older adults with osteoarthritis of the hip and knee: Findings from the randomized, double-blind, parallel-group, non-inferiority RETHINK study.",
@@ -13250,7 +13831,7 @@
     "take": "keep"
   },
   {
-    "id": 230,
+    "id": 239,
     "pmid": "42436006",
     "source": "PubMed",
     "article": "Signals for mineralization and inflammation are observed following treatment with fasinumab, a specific nerve growth factor inhibitor.",
@@ -13313,7 +13894,7 @@
     "take": "keep"
   },
   {
-    "id": 231,
+    "id": 240,
     "pmid": "42462884",
     "source": "PubMed",
     "article": "Efficacy of Intra-Articular Corticosteroid Injection for Hip Osteoarthritis: A Systematic Review With Meta-Analysis.",
@@ -13377,7 +13958,7 @@
     "take": "keep"
   },
   {
-    "id": 232,
+    "id": 241,
     "pmid": "42486497",
     "source": "PubMed",
     "article": "Exercise for osteoarthritis of the hip.",
@@ -13450,7 +14031,75 @@
     "take": "keep"
   },
   {
-    "id": 233,
+    "id": 242,
+    "pmid": "42801267",
+    "source": "PubMed",
+    "article": "Pain management in osteoarthritis of the hip using percutaneous obturator nerve neuromodulation with pulsed radiofrequency ablation under CT guidance.",
+    "authors": [
+      "Kosmoliaptsis Panagiotis",
+      "Makri Danae",
+      "Michailidis Antonis",
+      "Dimou Georgios",
+      "Mingou Georgia",
+      "Papadimitriou Ioannis",
+      "Kalinderis Alexandros",
+      "Agathangelidis Filon",
+      "Poultsides Lazaros",
+      "Petsatodis Evangelos"
+    ],
+    "date": "2026-09-27",
+    "journal": "Hip international : the journal of clinical and experimental research on hip pathology and therapy",
+    "doi": "10.1177/11207000261472760",
+    "topic": "Коксартроз",
+    "topic_key": "cox",
+    "topic_keys": [
+      "cox"
+    ],
+    "topics": [
+      "Коксартроз"
+    ],
+    "abstract_en": "INTRODUCTION: The effectiveness of percutaneous neuromodulation of the obturator nerve using pulsed radiofrequency ablation (PRF) in patients with hip osteoarthritis refractory to conservative treatment should be evaluated.\n\nMETHODS: 33 hips in 30 patients with radiographically confirmed hip osteoarthritis (Kellgren-Lawrence grades 2-4), underwent CT-guided pulsed radiofrequency ablation (PRF), targeting the obturator nerve. The mean age of patients was 69 (range 25-90) years. PRF was applied for 12 minutes. The effectiveness of the procedure was evaluated retrospectively based on a pain analog scale (VAS) prior and 1 week, 1, 3, 6 and 12 months post PRF. Paired samples t-test analysis was used to compare baseline and follow-up VAS scores. CIRSE classification system was used for complication reportingResults:A marked reduction in pain intensity was observed immediately following the procedure, with a mean decrease of approximately 9 points on the VAS scale. Patients with mild osteoarthritis seem to benefit more from the procedure with a reduction in pain scale of an average of 6 points at 6 months and an average of 4 points at 12 months. Cases with end-stage osteoarthritis (stage 4) had recurred pain at an average of 3 months post intervention. No complications were reported during or after the procedure.\n\nCONCLUSIONS: Percutaneous neuromodulation of the obturator nerve with the use of PRF ablation is an effective and safe procedure with durable pain relief in patients with mild-to-moderate osteoarthritis up to 12 months, whereas in severe disease (grade 4) disease the effect is predominantly short-term, with recurrence of pain after approximately 3 months.",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/42801267/",
+    "pmc_link": "",
+    "html_available": false,
+    "html_link": "",
+    "title_ru": "Обезболивание при коксартрозе с помощью импульсной радиочастотной нейромодуляции запирательного нерва под контролем КТ",
+    "patient_plain": "",
+    "patient_use": "Если обычные консервативные методы не обеспечивают достаточного обезболивания, можно обсудить с лечащим врачом, подходит ли нейромодуляция запирательного нерва в качестве дополнительного способа уменьшить боль. Важно уточнить, насколько выражен артроз по рентгенограмме: по результатам исследования при тяжёлой, 4-й степени заболевания облегчение обычно было непродолжительным. Перед согласием на вмешательство стоит обсудить ожидаемую продолжительность эффекта, возможные риски и дальнейший план действий, если боль вернётся.",
+    "practical_use": "При обсуждении процедуры следует учитывать, что исследование включало пациентов с рентгенологическими степенями артроза 2–4, а продолжительность обезболивания существенно различалась в зависимости от тяжести поражения. Врач может использовать эти данные для реалистичного информирования пациента об ожидаемом результате и вероятности повторного появления боли, особенно при терминальном коксартрозе. Для оценки динамики целесообразно ориентироваться на исходную интенсивность боли и её изменение в последующие месяцы, учитывая, что опубликованные результаты получены при ретроспективном наблюдении небольшой выборки.",
+    "summary": "В исследовании оценили эффективность чрескожной нейромодуляции запирательного нерва импульсной радиочастотной абляцией (PRF) у пациентов с коксартрозом, которым не помогло консервативное лечение. Процедуру под контролем компьютерной томографии (КТ) выполнили у 30 пациентов с поражением 33 тазобедренных суставов. Степень артроза по рентгенологической классификации Келлгрена — Лоуренса составляла 2–4, средний возраст участников — 69 лет, диапазон — от 25 до 90 лет. Воздействие на запирательный нерв продолжалось 12 минут. Интенсивность боли оценивали по визуальной аналоговой шкале (ВАШ) до процедуры, через неделю, а также через 1, 3, 6 и 12 месяцев после неё.\n\nСразу после вмешательства среднее снижение боли составило приблизительно 9 баллов по ВАШ. У пациентов с менее выраженным артрозом эффект сохранялся дольше: среднее снижение боли составляло 6 баллов через 6 месяцев и 4 балла через 12 месяцев. При терминальной стадии артроза, соответствующей 4-й степени, боль в среднем возвращалась примерно через 3 месяца. Во время процедуры и после неё осложнений не зарегистрировали.\n\nАвторы заключили, что импульсная радиочастотная нейромодуляция запирательного нерва может обеспечивать длительное облегчение боли при лёгком и умеренном коксартрозе, тогда как при тяжёлом поражении эффект преимущественно кратковременный. Результаты основаны на ретроспективном анализе небольшой группы пациентов, поэтому отсутствие зарегистрированных осложнений не доказывает полной безопасности процедуры, а её эффективность требует подтверждения в более крупных исследованиях.",
+    "_reason": "Статья представляет практический интерес для пациентов с коксартрозом, у которых консервативное лечение не обеспечило достаточного обезболивания: она описывает конкретную процедуру и показывает, что её эффект зависит от тяжести артроза. Особенно важно различие между более продолжительным облегчением при лёгком и умеренном поражении и возвратом боли примерно через три месяца при 4-й степени. Небольшая выборка и ретроспективный дизайн ограничивают уверенность в результатах.",
+    "why_read": "Статью стоит прочитать травматологам-ортопедам, специалистам по лечению хронической боли и врачам, обсуждающим интервенционные методы обезболивания при коксартрозе. Она поможет объяснить пациенту возможную продолжительность эффекта импульсной радиочастотной нейромодуляции и сформировать реалистичные ожидания в зависимости от рентгенологической стадии заболевания.",
+    "limitations": [
+      "33 hips in 30 patients",
+      "The effectiveness of the procedure was evaluated retrospectively",
+      "Patients with mild osteoarthritis seem to benefit more from the procedure",
+      "Cases with end-stage osteoarthritis (stage 4) had recurred pain at an average of 3 months post intervention.",
+      "No complications were reported during or after the procedure."
+    ],
+    "advice_items": [
+      {
+        "quote": "Patients with mild osteoarthritis seem to benefit more from the procedure with a reduction in pain scale of an average of 6 points at 6 months and an average of 4 points at 12 months.",
+        "advice": "При обсуждении нейромодуляции с пациентом учитывайте, что наиболее продолжительное облегчение в этой серии наблюдений отмечалось при менее выраженном артрозе. Объясните, что опубликованные значения отражают результаты небольшой ретроспективной выборки и не гарантируют аналогичного эффекта у конкретного человека.",
+        "audience": "врач"
+      },
+      {
+        "quote": "Cases with end-stage osteoarthritis (stage 4) had recurred pain at an average of 3 months post intervention.",
+        "advice": "При коксартрозе 4-й степени заранее обсудите с пациентом вероятность возвращения боли через несколько месяцев и необходимость дальнейшего плана обезболивания. Не представляйте процедуру как гарантированный способ длительно устранить симптомы при терминальном поражении сустава.",
+        "audience": "врач"
+      },
+      {
+        "quote": "No complications were reported during or after the procedure.",
+        "advice": "Сообщите пациенту, что в данной серии наблюдений осложнений во время вмешательства и после него не зарегистрировали. Одновременно поясните, что отсутствие осложнений у 30 пациентов не исключает редких или не выявленных рисков и само по себе не подтверждает полную безопасность метода.",
+        "audience": "врач"
+      }
+    ],
+    "importance_stars": 4,
+    "importance_mark": "★★★★☆",
+    "take": "keep"
+  },
+  {
+    "id": 243,
     "pmid": "42803956",
     "source": "PubMed",
     "article": "Systematic evidence analysis of symptom modification in hip osteoarthritis following MSC-based interventions.",
