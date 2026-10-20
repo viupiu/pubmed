@@ -11606,6 +11606,67 @@
   },
   {
     "id": 204,
+    "pmid": "42368614",
+    "source": "PubMed",
+    "article": "App-based exercise intervention versus supervised exercise therapy for patients with hip or knee osteoarthritis-the randomised noninferiority DigiOA trial.",
+    "authors": [
+      "Martinsen Lars",
+      "Østerås Nina",
+      "Moseng Tuva",
+      "Tveter Anne Therese"
+    ],
+    "date": "2025-10-07",
+    "journal": "EULAR rheumatology open",
+    "doi": "10.1016/j.ero.2025.09.003",
+    "topic": "Коксартроз",
+    "topic_key": "cox",
+    "topic_keys": [
+      "cox"
+    ],
+    "topics": [
+      "Коксартроз"
+    ],
+    "abstract_en": "OBJECTIVES: Incorporating technology in the treatment of osteoarthritis is seen as a viable solution to preserve the sustainability of the healthcare system. We aimed to determine whether the use of an exercise app was noninferior to supervised exercise therapy in patients with hip/knee osteoarthritis.\n\nMETHODS: In this noninferiority randomised controlled trial, patients with hip/knee osteoarthritis in primary care physiotherapy in Norway were provided individually tailored exercise therapy for 6 weeks randomly assigned 1:1 to either in-person delivery (standard treatment) or delivery through an app (experimental treatment). Both groups received patient osteoarthritis education prior to randomisation. The primary outcome was the proportion of OMERACT-OARSI (Outcome Measures in Rheumatology-Osteoarthritis Research Society International) responders (change in pain, physical function, and disease activity) at 6 weeks postrandomisation.\n\nRESULTS: Between July 2021 and December 2023, 103 patients were assessed for eligibility; 68 patients (43% of the calculated sample size) participated in patient education and were randomly allocated to the standard or the experimental group, resulting in 34 patients in each group. At 6 weeks, 53 (78%) reported on the primary outcome. Fifteen patients fulfilled the OMERACT-OARSI responder criteria, of which 7 were in the standard and 8 in the experimental treatment group, respectively. Risk difference between the groups was 0.03 (95% CI -0.22, 0.27).\n\nCONCLUSIONS: The results indicate a potential positive effect of app-based exercise at 6 weeks follow-up; however, we cannot conclude whether app-based exercise was noninferior to in-person supervised exercise therapy as the lower bound of the 95% confidence interval exceeded the noninferiority margin of 20%.",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/42368614/",
+    "pmc_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13292499/",
+    "html_available": true,
+    "html_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13292499/",
+    "title_ru": "Домашние упражнения через приложение или занятия с физиотерапевтом при остеоартрозе тазобедренного и коленного суставов: рандомизированное исследование DigiOA",
+    "patient_plain": "",
+    "patient_use": "Если очные занятия затруднены из-за расписания, расстояния или других обстоятельств, стоит обсудить с физиотерапевтом возможность выполнения индивидуально подобранных упражнений через приложение. При выборе формата учитывайте не только удобство, но и готовность самостоятельно пользоваться цифровыми инструментами: в исследовании некоторые пациенты отказались участвовать именно из-за неуверенности в своих цифровых навыках, а другие предпочитали личные занятия. Не следует считать приложение заведомо равноценной заменой очной терапии, поскольку исследование этого не подтвердило.",
+    "practical_use": "Врачам и физиотерапевтам можно рассматривать приложение как потенциальный дополнительный способ организации лечебной физкультуры, предварительно оценив цифровые навыки пациента, его предпочтения и возможность самостоятельно выполнять программу. При обсуждении результатов важно различать отсутствие доказанной не меньшей эффективности и доказательство неэффективности: DigiOA не позволило сделать окончательный вывод ни в пользу равноценности, ни против неё. При внедрении цифрового формата следует отслеживать боль, физическую функцию, соблюдение программы и сохранение участия в наблюдении, поскольку выбытие пациентов существенно ограничило интерпретацию результатов.",
+    "summary": "В норвежском исследовании DigiOA сравнили две формы индивидуально подобранной лечебной физкультуры у пациентов с остеоартрозом тазобедренного или коленного сустава: занятия под непосредственным наблюдением физиотерапевта и выполнение упражнений через мобильное приложение. Перед распределением по группам все участники прошли обучение по остеоартрозу. Программа упражнений в обеих группах продолжалась 6 недель. Исследование было рандомизированным контролируемым, а его главной задачей было проверить, не уступает ли цифровой формат очным занятиям по эффективности.\n\nИз 103 пациентов, прошедших оценку соответствия критериям участия, в исследование включили 68 человек: по 34 в каждую группу. Через 6 недель основные результаты предоставили 53 участника (78%). Критериям ответа на лечение OMERACT-OARSI (Outcome Measures in Rheumatology — Osteoarthritis Research Society International, критерии улучшения боли, физической функции и активности заболевания) соответствовали 15 пациентов: 7 в группе очных занятий и 8 в группе приложения. Разница между группами составила 0,03, а 95%-й доверительный интервал находился в диапазоне от −0,22 до 0,27.\n\nАвторы не смогли подтвердить, что упражнения через приложение не уступают очной терапии: нижняя граница доверительного интервала вышла за предел допустимой разницы в 20%. Исследование включило лишь 43% от запланированного числа участников из-за трудностей набора, поэтому результаты недостаточно точны для окончательного сравнения эффективности. К 18-й неделе наблюдение завершили только 35 человек (51%). Цифровой формат выглядит перспективным, но его равноценность занятиям с физиотерапевтом пока не доказана.",
+    "_reason": "Исследование непосредственно касается выбора доступного формата лечебной физкультуры при остеоартрозе тазобедренного и коленного суставов. Оно показывает, что упражнения через приложение могут быть перспективны, однако небольшая выборка и значительное выбытие участников не позволяют считать цифровую программу доказанной равноценной заменой занятиям с физиотерапевтом. Практическая ценность статьи состоит в обоснованном обсуждении цифрового формата без завышенных обещаний эффективности.",
+    "why_read": "Статья полезна физиотерапевтам, врачам первичного звена и специалистам, которые помогают пациентам с коксартрозом выбирать формат лечебной физкультуры. Её также стоит прочитать пациентам, рассматривающим самостоятельные занятия через приложение вместо очных визитов. Исследование помогает понять, почему удобство цифрового решения ещё не означает, что его равноценность стандартному лечению доказана.",
+    "limitations": [
+      "As our study was underpowered, the results should be interpreted cautiously.",
+      "we cannot conclude whether app-based exercise was noninferior to in-person supervised exercise therapy",
+      "This corresponds to 43% of the estimated sample size.",
+      "Of those enrolled, 53 (78%) completed the 6-week follow-up visit and 35 (51%) completed the 18-week follow-up."
+    ],
+    "advice_items": [
+      {
+        "quote": "Reasons for declining participation were predominantly patients' belief of insufficient digital literacy, particularly justified by their age, followed by a preference for face-to-face treatment.",
+        "advice": "Перед выбором цифровой программы выясните, насколько пациенту удобно пользоваться смартфоном и приложениями, и предпочитает ли он самостоятельные занятия или очный контакт. Если цифровые навыки вызывают затруднения или пациент хочет заниматься под наблюдением, учитывайте это при согласовании формата реабилитации. Не следует предполагать, что приложение одинаково доступно всем возрастным группам.",
+        "audience": "врач"
+      },
+      {
+        "quote": "As our study was underpowered, the results should be interpreted cautiously.",
+        "advice": "При обсуждении цифровой лечебной физкультуры объясните, что исследование не набрало запланированное число участников и не подтвердило не меньшую эффективность приложения по сравнению с очными занятиями. Не интерпретируйте близкое число ответивших на лечение в двух группах как доказательство их равноценности. При принятии решения опирайтесь также на индивидуальные потребности и предпочтения пациента.",
+        "audience": "врач"
+      },
+      {
+        "quote": "Despite the challenges, we believe that there is a need and place for apps and digital technologies in the management of OA in primary care in the future, and sufficiently powered studies evaluating their effectiveness and cost-effectiveness are warranted.",
+        "advice": "Если пациенту удобнее заниматься дома, обсудите возможность цифровой поддержки упражнений как одного из вариантов организации помощи при остеоартрозе. Уточните, сможет ли он самостоятельно следовать инструкциям приложения и регулярно выполнять программу. Представляйте этот вариант как перспективный, но не как доказанную замену очной терапии.",
+        "audience": "пациент"
+      }
+    ],
+    "importance_stars": 5,
+    "importance_mark": "★★★★★",
+    "take": "keep"
+  },
+  {
+    "id": 205,
     "pmid": "41124830",
     "source": "PubMed",
     "article": "Optimal modality and dose of exercise for relieving pain in patients with knee or hip osteoarthritis: Bayesian pairwise, network, and dose-response meta-analyses.",
@@ -11667,7 +11728,7 @@
     "take": "keep"
   },
   {
-    "id": 205,
+    "id": 206,
     "pmid": "41323020",
     "source": "PubMed",
     "article": "The Effects of Fasinumab on Peripheral Nerve Function and Ganglion Anatomy: Results From a Randomized, Double-Blind, Placebo-Controlled Study in Patients With Pain Due to Osteoarthritis of the Knee or Hip, and a Series of Nonclinical Studies.",
@@ -11741,7 +11802,7 @@
     "take": "keep"
   },
   {
-    "id": 206,
+    "id": 207,
     "pmid": "41165671",
     "source": "PubMed",
     "article": "Hip Pain and Mobility Deficits-Hip Osteoarthritis: Revision 2025.",
@@ -11788,7 +11849,7 @@
     "take": "keep"
   },
   {
-    "id": 207,
+    "id": 208,
     "pmid": "41337764",
     "source": "PubMed",
     "article": "Comparison of the Efficacy of Conventional Radiofrequency to Intraarticular Steroid Injections for Advanced Hip Osteoarthritis: A Randomized Trial.",
@@ -11843,7 +11904,7 @@
     "take": "keep"
   },
   {
-    "id": 208,
+    "id": 209,
     "pmid": "41376753",
     "source": "PubMed",
     "article": "Outcomes Following Stem Cell-Based Therapies for Hip Osteoarthritis: A Scoping Review.",
@@ -11901,7 +11962,7 @@
     "take": "keep"
   },
   {
-    "id": 209,
+    "id": 210,
     "pmid": "41346985",
     "source": "PubMed",
     "article": "Sleep disturbances and sleep quality among individuals diagnosed with osteoarthritis: a systematic review and meta-analysis.",
@@ -11958,7 +12019,7 @@
     "take": "keep"
   },
   {
-    "id": 210,
+    "id": 211,
     "pmid": "41450485",
     "source": "PubMed",
     "article": "Orthobiologic injections for hip osteoarthritis: A systematic review of clinical outcomes.",
@@ -12017,7 +12078,7 @@
     "take": "keep"
   },
   {
-    "id": 211,
+    "id": 212,
     "pmid": "41550413",
     "source": "PubMed",
     "article": "Prevalence and impact of sleep disorders in osteoarthritis: A systematic review and meta-analysis.",
@@ -12073,7 +12134,76 @@
     "take": "keep"
   },
   {
-    "id": 212,
+    "id": 213,
+    "pmid": "42287090",
+    "source": "PubMed",
+    "article": "Comparison of Clinical Efficiency and Safety Between Intra-Articular Injection of Platelet-Rich Plasma and Hyaluronic Acid for Hip Osteoarthritis: A Systematic Review and Meta-Analysis.",
+    "authors": [
+      "Zhang Di",
+      "Ma Shen Hong",
+      "Wang He Ling",
+      "Han Qiao Hua",
+      "Shen Kai",
+      "Zhuang Weisheng"
+    ],
+    "date": "2026-01-01",
+    "journal": "Pain research & management",
+    "doi": "10.1155/prm/6521682",
+    "topic": "Коксартроз",
+    "topic_key": "cox",
+    "topic_keys": [
+      "cox"
+    ],
+    "topics": [
+      "Коксартроз"
+    ],
+    "abstract_en": "PURPOSE: The aim of this study is to compare the clinical efficacy and safety of platelet-rich plasma (PRP) and hyaluronic acid in the treatment of hip osteoarthritis.\n\nMETHODS: Data were collected from the PubMed, Embase, Cochrane Library, and Web of Science databases. The outcomes selected included the Visual Analog Scale (VAS) score, the Harris Hip Score (HHS), the Western Ontario, and McMaster Universities Osteoarthritis Index (WOMAC) and its relevant subscores. A standardized mean difference (SMD) was used as the combined effect size, and a random-effects model was applied for analysis. The magnitude of the effect size was interpreted according to Jacob Cohen's criteria.\n\nRESULTS: A total of seven studies involving 465 patients were included. The meta-analysis results indicated that in terms of pain relief, the PRP group showed a statistically significant advantage in VAS scores at 6 months (SMD = -0.38 and p = 0.01). Subgroup analysis revealed that LP-PRP yielded significant improvement (SMD = -0.32 and p = 0.02), whereas LR-PRP did not (SMD = -0.46 and p = 0.18). Similarly, multiple injections (SMD = -0.43 and p = 0.02) demonstrated superiority compared to a single injection (SMD = -0.12 and p = 0.63).Regarding WOMAC-pain scores, the PRP group exhibited statistical differences at 6 months (SMD = -0.45 and p = 0.0006) and 12 months (SMD = -0.36 and p = 0.03). In terms of functional impairment, no significant differences were found in the HHS (SMD = 0.13 and p = 0.64) or WOMAC subscores (WOMAC-stiffness: SMD = 0.01 and p = 0.97 and WOMAC-function: SMD = -0.24 and p = 0.06) at any follow-up time point. However, the WOMAC total score indicated that the overall health status of patients in the PRP group was superior to that in the HA group after treatment (SMD = -0.42 and p = 0.009).\n\nDISCUSSION: The findings of this study indicate that compared with HA, PRP demonstrates a statistically significant advantage in alleviating pain (VAS and WOMAC-pain) and improving overall symptoms (WOMAC total score) in patients with hip osteoarthritis (HOA) although the effect size was found to be moderate. However, regarding the improvement of joint function (HHS and WOMAC-function), no significant differences were observed between the two groups. In summary, while PRP presents a statistical benefit over HA in the treatment of HOA, the effect size is limited; therefore, further high-quality studies are warranted to definitively confirm its clinical superiority.",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/42287090/",
+    "pmc_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13263705/",
+    "html_available": true,
+    "html_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13263705/",
+    "title_ru": "Плазма, обогащённая тромбоцитами, или гиалуроновая кислота при коксартрозе: сравнение эффективности и безопасности инъекций",
+    "patient_plain": "",
+    "patient_use": "При обсуждении инъекционного лечения стоит уточнить, какую именно PRP используют — лейкоцит-бедную или лейкоцит-богатую, — поскольку результаты исследования различались в зависимости от состава препарата. Важно заранее обсудить реалистичные ожидания: уменьшение боли может проявиться через несколько месяцев, но улучшение повседневной функции тазобедренного сустава не гарантировано. Также следует спросить врача, на каких данных основан предлагаемый протокол инъекций и какие риски и расходы связаны с процедурой.",
+    "practical_use": "Врач может использовать результаты для совместного принятия решения с пациентом, отдельно обсуждая возможное уменьшение боли и отсутствие убедительного превосходства PRP по функциональным показателям. При выборе процедуры целесообразно фиксировать исходную боль и ограничения активности, а затем оценивать их в динамике, не подменяя функциональный результат только снижением болевого балла. При информированном согласии следует разъяснять, что выводы основаны на семи исследованиях и что различия в составе PRP и протоколах инъекций затрудняют стандартизацию лечения.",
+    "summary": "Систематический обзор и метаанализ семи исследований с участием 465 пациентов сравнил внутрисуставные инъекции плазмы, обогащённой тромбоцитами (PRP), и гиалуроновой кислоты (HA) при остеоартрозе тазобедренного сустава (коксартрозе). Авторы оценивали боль по визуальной аналоговой шкале (VAS) и индексу WOMAC (индекс остеоартроза университетов Западного Онтарио и Макмастера), общие симптомы и функцию сустава по шкале Харриса (HHS). Для объединения результатов использовали стандартизированную разницу средних (SMD).\n\nПо сравнению с гиалуроновой кислотой PRP обеспечивала статистически значимое, но умеренное уменьшение боли через шесть месяцев: SMD составила −0,38 (p = 0,01) по VAS. По подшкале WOMAC-боль преимущество PRP выявлено через шесть месяцев (SMD = −0,45; p = 0,0006) и через 12 месяцев (SMD = −0,36; p = 0,03). Общий балл WOMAC также был лучше после PRP (SMD = −0,42; p = 0,009). При этом убедительных различий в функции сустава по HHS и подшкалам WOMAC, оценивающим скованность и физические ограничения, не обнаружено.\n\nАнализ подгрупп показал, что значимое уменьшение боли отмечалось при использовании лейкоцит-бедной PRP (LP-PRP; SMD = −0,32; p = 0,02), тогда как для лейкоцит-богатой PRP (LR-PRP) статистически значимого преимущества не выявлено (p = 0,18). Несколько инъекций продемонстрировали значимое преимущество по боли, в отличие от однократной инъекции, однако эти результаты не устанавливают универсальную схему лечения. Авторы подчёркивают умеренную величину эффекта, отсутствие подтверждённого преимущества по функции сустава и необходимость более качественных исследований. Несмотря на то что безопасность PRP характеризуется как в целом приемлемая, представленный фрагмент не содержит подробных сравнительных данных о нежелательных явлениях.",
+    "_reason": "Обзор даёт конкретное основание обсуждать PRP как альтернативу гиалуроновой кислоте при коксартрозе, поскольку обнаружено умеренное преимущество по боли и общему баллу WOMAC. Однако он не подтверждает превосходство PRP по функции сустава и не позволяет считать её безусловно лучшим вариантом для каждого пациента.",
+    "why_read": "Статья полезна врачам, которые обсуждают с пациентами внутрисуставные инъекции при коксартрозе, и пациентам, выбирающим между PRP и гиалуроновой кислотой. Особенно стоит прочитать её тем, кто хочет понять, насколько выражено преимущество по боли, почему состав PRP имеет значение и почему результаты нельзя напрямую превращать в универсальную схему инъекций.",
+    "limitations": [
+      "the effect size was found to be moderate",
+      "no significant differences were observed regarding functional improvement",
+      "the lack of standardized preparation and injection protocols",
+      "the paucity of robust evidence regarding its long-term benefits",
+      "further high-quality studies are warranted to definitively confirm its clinical superiority"
+    ],
+    "advice_items": [
+      {
+        "quote": "Recommendations for its use in HOA remain controversial due to the lack of standardized preparation and injection protocols, as well as the paucity of robust evidence regarding its long-term benefits.",
+        "advice": "При обсуждении PRP объясните пациенту, что подготовка препарата и протоколы инъекций пока не стандартизированы, а долгосрочная польза изучена недостаточно. Уточните характеристики используемого препарата и обоснуйте выбор протокола имеющимися данными, не представляя его как общепринятый стандарт.",
+        "audience": "врач"
+      },
+      {
+        "quote": "Subgroup analysis revealed that LP-PRP yielded significant improvement (SMD = -0.32 and p = 0.02), whereas LR-PRP did not (SMD = -0.46 and p = 0.18).",
+        "advice": "При выборе PRP учитывайте, что статистически значимое преимущество по боли обнаружено для лейкоцит-бедного варианта, но не для лейкоцит-богатого. Обсудите с пациентом состав препарата и не трактуйте отсутствие статистической значимости как доказательство полного отсутствия эффекта.",
+        "audience": "врач"
+      },
+      {
+        "quote": "In terms of functional impairment, no significant differences were found in the HHS (SMD = 0.13 and p = 0.64) or WOMAC subscores (WOMAC-stiffness: SMD = 0.01 and p = 0.97 and WOMAC-function: SMD = -0.24 and p = 0.06) at any follow-up time point.",
+        "advice": "Оценивайте боль и функцию тазобедренного сустава как отдельные результаты лечения. При наблюдении фиксируйте не только интенсивность боли, но и скованность, ходьбу и повседневные ограничения, чтобы не считать обезболивание доказательством восстановления функции.",
+        "audience": "врач"
+      },
+      {
+        "quote": "This suggests that the analgesic advantage of PRP may require several months to manifest.",
+        "advice": "Предупредите пациента, что возможное преимущество PRP в уменьшении боли может проявиться не сразу. Согласуйте сроки повторной оценки симптомов и не обещайте быстрого результата на основании этого обзора.",
+        "audience": "врач"
+      }
+    ],
+    "importance_stars": 5,
+    "importance_mark": "★★★★★",
+    "take": "keep"
+  },
+  {
+    "id": 214,
     "pmid": "41545313",
     "source": "PubMed",
     "article": "A phase III, randomised, double-blind, multi-dose, placebo- and naproxen-controlled study to evaluate the efficacy and safety of fasinumab in patients with pain due to osteoarthritis of the knee or hip.",
@@ -12145,7 +12275,7 @@
     "take": "keep"
   },
   {
-    "id": 213,
+    "id": 215,
     "pmid": "41598681",
     "source": "PubMed",
     "article": "Clinical Outcomes of Intra-Articular Ozone Injections in Hip Osteoarthritis: A Retrospective Study Comparing Different Injection Frequencies.",
@@ -12212,7 +12342,7 @@
     "take": "keep"
   },
   {
-    "id": 214,
+    "id": 216,
     "pmid": "41599942",
     "source": "PubMed",
     "article": "Using Dose-Response Correlation Re-Analyzing to Distinguish Placebo from Standardized Rose-Hip Powder (Lito) in a Clinical Trial on Osteoarthritis Where Data Initially Looked Identical.",
@@ -12266,7 +12396,7 @@
     "take": "keep"
   },
   {
-    "id": 215,
+    "id": 217,
     "pmid": "41618213",
     "source": "PubMed",
     "article": "Investigating the therapeutic impact of platelet-rich plasma on knee, hip, and traumatic osteoarthritis: a meta-analysis and systematic review.",
@@ -12326,7 +12456,7 @@
     "take": "keep"
   },
   {
-    "id": 216,
+    "id": 218,
     "pmid": "41736839",
     "source": "PubMed",
     "article": "Intra-articular hyaluronic acid (viscosupplementation) for osteoarthritis: is it effective?",
@@ -12395,7 +12525,7 @@
     "take": "keep"
   },
   {
-    "id": 217,
+    "id": 219,
     "pmid": "41730219",
     "source": "PubMed",
     "article": "Stable Supportive Footwear for Self-managing Hip Osteoarthritis Pain : A Randomized Clinical Trial.",
@@ -12457,7 +12587,7 @@
     "take": "keep"
   },
   {
-    "id": 218,
+    "id": 220,
     "pmid": "41736456",
     "source": "PubMed",
     "article": "Minimal Important Change and Minimal Clinically Important Difference in Pain and Function With Exercise in Hip Osteoarthritis.",
@@ -12523,7 +12653,7 @@
     "take": "keep"
   },
   {
-    "id": 219,
+    "id": 221,
     "pmid": "41706544",
     "source": "PubMed",
     "article": "Moderators of the Effects of Exercise and Manual Therapy for People With Knee and Hip Osteoarthritis: A Secondary Analysis of a Randomized Clinical Trial.",
@@ -12588,7 +12718,7 @@
     "take": "keep"
   },
   {
-    "id": 220,
+    "id": 222,
     "pmid": "42012877",
     "source": "PubMed",
     "article": "Motor imagery and action observation for knee and hip osteoarthritis: systematic review and meta-analysis.",
@@ -12645,7 +12775,7 @@
     "take": "keep"
   },
   {
-    "id": 221,
+    "id": 223,
     "pmid": "42038512",
     "source": "PubMed",
     "article": "Viscosupplementation with High Molecular Weight Hyaluronic Acid for Hip Osteoarthritis: An Updated Systematic Review and Meta-Analysis of Randomized Controlled Trials.",
@@ -12709,7 +12839,7 @@
     "take": "keep"
   },
   {
-    "id": 222,
+    "id": 224,
     "pmid": "42033031",
     "source": "PubMed",
     "article": "Editorial Commentary: When Efficacy is Similar, Risk Should Decide: Why Ketorolac Deserves Priority Over Corticosteroids For Hip Injections.",
@@ -12767,7 +12897,560 @@
     "take": "keep"
   },
   {
-    "id": 223,
+    "id": 225,
+    "pmid": "42220332",
+    "source": "PubMed",
+    "article": "Changes in sleep and clinical outcomes in hip osteoarthritis: A longitudinal secondary analysis of a randomised controlled trial.",
+    "authors": [
+      "Zhang Hanzhi",
+      "Dobson Fiona",
+      "Allison Kim",
+      "Knox Gabrielle",
+      "Spiers Libby",
+      "Egorova-Brumley Natalia",
+      "Klyne David M",
+      "Ferreira Paulo",
+      "Hall Michelle"
+    ],
+    "date": "2026-05-12",
+    "journal": "Osteoarthritis and cartilage open",
+    "doi": "10.1016/j.ocarto.2026.100813",
+    "topic": "Коксартроз",
+    "topic_key": "cox",
+    "topic_keys": [
+      "cox"
+    ],
+    "topics": [
+      "Коксартроз"
+    ],
+    "abstract_en": "OBJECTIVE: To investigate whether improvements in sleep quality and duration are associated with improvements pain and physical function in people with hip osteoarthritis (OA) following exercise.\n\nMETHODS: Data from 185 participants with hip OA, randomized to an exercise intervention were pooled and analysed. Independent variables were changes in sleep quality using the Pittsburgh Sleep Quality Index (PSQI; 0-21, higher scores indicating poorer sleep) and sleep duration (hours) at 3 and 9 months. Outcomes were changes in hip pain severity (11-point numerical rating scale; 0-10) and physical function (Western Ontario and McMaster Universities Osteoarthritis Index; 0-68). Associations were examined using linear regression models, adjusted for baseline values and covariates, and according to baseline sleep quality (PSQI >5 = poor sleep; ≤5 = good sleep).\n\nRESULTS: At 3 months, each 1-point improvement in sleep quality was associated with reduced pain (-0.21 units; 95% CI: -0.32 to -0.09) and improved physical function (-1.45 units; 95% CI: -2.01 to -0.89). Each 1-h increase in sleep duration was associated with reduced pain (-0.34 units; 95% CI: -0.69 to 0.02) and improved physical function (-3.23 units, 95% CI -4.97 to -1.49). Similar associations were observed at 9 months. There were no statistically significant interactions between baseline sleep quality status (p = 0.055 to 0.994) and pain/physical function.\n\nCONCLUSION: Improvements in sleep quality and duration are associated with small improvements in pain and physical function following exercise. These relationships were consistent over time but of uncertain clinical relevance.",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/42220332/",
+    "pmc_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13218232/",
+    "html_available": true,
+    "html_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13218232/",
+    "title_ru": "Связь улучшения сна с болью и физической функцией при коксартрозе: продольный анализ результатов рандомизированного исследования физических упражнений",
+    "patient_plain": "",
+    "patient_use": "Если при коксартрозе сон нарушен из-за боли или других причин, стоит обсудить с врачом качество сна и его продолжительность наряду с повседневной активностью и переносимостью упражнений. Особенно полезно отслеживать, меняются ли одновременно сон, боль и способность ходить, вставать со стула и выполнять обычные дела. Результаты поддерживают внимание к сну как к возможной части общего контроля симптомов, но не гарантируют, что более долгий сон сам по себе уменьшит боль.",
+    "practical_use": "На приёме можно включить краткую оценку сна в обсуждение результатов программы упражнений, особенно если пациент сообщает о сохраняющейся боли или ограничениях активности. Для динамического наблюдения полезно сопоставлять субъективное качество сна, его продолжительность, интенсивность боли и функциональные показатели, не трактуя их параллельное улучшение как доказательство причинной связи. При консультировании следует подчеркнуть, что выявленные изменения были небольшими, а их клиническая значимость пока не определена.",
+    "summary": "В исследовании изучали, связаны ли изменения качества и продолжительности сна с уменьшением боли в тазобедренном суставе и улучшением физической функции у людей с остеоартрозом тазобедренного сустава (коксартрозом), выполнявших физические упражнения. В анализ включили 185 участников исходного рандомизированного контролируемого исследования, у которых были полные данные. Средний возраст составлял около 62 лет, 66,5% участников были женщинами. Качество сна оценивали по Питтсбургскому индексу качества сна (PSQI, от 0 до 21 балла; более высокий балл означает худший сон), боль — по числовой рейтинговой шкале от 0 до 10, физическую функцию — по индексу WOMAC (от 0 до 68 баллов; более высокий балл означает более выраженные функциональные нарушения). Изменения оценивали через 3 и 9 месяцев, учитывая исходные показатели и другие факторы.\n\nЧерез 3 месяца улучшение качества сна на 1 балл было связано со снижением выраженности боли на 0,21 балла и улучшением физической функции на 1,45 балла по WOMAC. Увеличение продолжительности сна на 1 час было связано со снижением боли на 0,34 балла, однако доверительный интервал включал отсутствие эффекта, поэтому эта связь не была статистически убедительной; улучшение функции составило 3,23 балла по WOMAC. Аналогичные связи наблюдались через 9 месяцев. У участников с исходно плохим сном качество сна и его продолжительность в среднем улучшились через 3 месяца: показатель PSQI снизился на 1,49 балла, а сон увеличился на 0,41 часа. При исходно хорошем сне сопоставимого улучшения не наблюдалось. Статистически значимых взаимодействий между исходным качеством сна и изменениями боли или функции не выявили.\n\nАвторы заключили, что улучшение сна на фоне физических упражнений связано с небольшим улучшением боли и физической функции, но клиническая значимость этих изменений остаётся неопределённой. Исследование показывает связь между изменениями сна и симптомами, а не доказывает, что увеличение продолжительности сна само по себе лечит коксартроз или гарантированно уменьшает боль.",
+    "_reason": "Статья полезна для комплексного ведения коксартроза: она показывает, что улучшение качества сна во время программы физических упражнений связано с небольшим уменьшением боли и улучшением функции. Однако результаты не доказывают самостоятельного лечебного эффекта увеличения продолжительности сна, а практическая значимость выявленных изменений остаётся неопределённой, поэтому сон следует рассматривать как дополнительный показатель состояния пациента, а не как замену основным методам лечения.",
+    "why_read": "Статью стоит прочитать врачам, физиотерапевтам и специалистам по реабилитации, которые сопровождают пациентов с коксартрозом и оценивают результаты физических упражнений. Она поможет обоснованно включать вопросы о сне в наблюдение и объяснять пациентам возможную связь сна с болью и физической функцией, не преувеличивая доказанный эффект.",
+    "limitations": [
+      "of uncertain clinical relevance",
+      "There were no statistically significant interactions between baseline sleep quality status"
+    ],
+    "advice_items": [
+      {
+        "quote": "Improvements in sleep quality and duration are associated with small improvements in pain and physical function following exercise.",
+        "advice": "При оценке результатов программы упражнений у пациента с коксартрозом учитывайте не только боль и физическую функцию, но и изменения качества и продолжительности сна. Объясняйте, что эти показатели могут улучшаться одновременно, однако исследование не доказывает, что изменение сна непосредственно вызывает улучшение симптомов.",
+        "audience": "врач"
+      },
+      {
+        "quote": "These relationships were consistent over time but of uncertain clinical relevance.",
+        "advice": "Не следует считать небольшие статистические изменения сна и симптомов автоматически значимыми для повседневной жизни пациента. Сопоставляйте показатели с тем, насколько легче человеку ходить, выполнять обычные дела и переносить физические упражнения.",
+        "audience": "врач"
+      }
+    ],
+    "importance_stars": 5,
+    "importance_mark": "★★★★★",
+    "take": "keep"
+  },
+  {
+    "id": 226,
+    "pmid": "42255387",
+    "source": "PubMed",
+    "article": "Combined ultrasound-guided hyaluronic acid injections, high-power laser therapy and physiotherapy improve hip function in osteoarthritis: A randomized controlled trial.",
+    "authors": [
+      "de Sire Alessandro",
+      "Marotta Nicola",
+      "Bartalotta Isabella",
+      "Prestifilippo Emanuele",
+      "Zito Roberta",
+      "Ammendolia Valerio",
+      "Pisani Federica",
+      "Agostini Francesco",
+      "Longo Umile Giuseppe",
+      "Ammendolia Antonio"
+    ],
+    "date": "2026-05-25",
+    "journal": "Journal of experimental orthopaedics",
+    "doi": "10.1002/jeo2.70685",
+    "topic": "Коксартроз",
+    "topic_key": "cox",
+    "topic_keys": [
+      "cox"
+    ],
+    "topics": [
+      "Коксартроз"
+    ],
+    "abstract_en": "PURPOSE: High-power laser therapy (HPLT) is effective in treating musculoskeletal conditions, reducing pain and improving joint functionality. This randomized controlled trial (RCT) aimed to explore the effectiveness of a combination of HPLT, hyaluronic acid injections and rehabilitation for patients with hip osteoarthritis (OA).\n\nMETHODS: This RCT enroled adults over 18 with a diagnosis of hip OA (Stages 1-3) who experience hip pain of 4 or higher on a scale. Participants must have a body mass index (BMI) under 30. Patients were randomly assigned to either a study or control group, with both patients and assessors blinded to the treatment. The study group received hyaluronic acid injections, physiotherapy and active HPLT, while the control group received the same management, except for sham HPLT. We used the Harris Hip Score (HHS) as primary outcome to assess hip functioning, and as secondary outcomes the following ones: Numeric Rating Scale (NRS) for pain, EuroQol-5 Dimension (EQ-5D) for quality of life and the 6-Minute Walking Test for physical performance. Evaluations were conducted at multiple time points: baseline (T0), post-treatment (T1) and follow-ups at 3 months (T2), 6 months (T3) and 12 months (T4) after the first visit. Moreover, 57 patients were randomly assigned to either a study group (n = 28) or a control group (n = 29).\n\nRESULTS: Both groups showed significant initial improvements in HHS from T0 to T1 (p < 0.001). However, statistically significant intergroup differences favouring the study group were found for the 6-Minute Walk Test (p = 0.029) and the EuroQoL at T3 (p = 0.030).\n\nCONCLUSION: This RCT demonstrated that hyaluronic acid injections and physiotherapy, combined with laser therapy, improve hip function and pain perception in hip OA patients. While laser therapy showed promise, more evidence is needed.\n\nLEVEL OF EVIDENCE: Level I.",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/42255387/",
+    "pmc_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13240480/",
+    "html_available": true,
+    "html_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13240480/",
+    "title_ru": "Инъекции гиалуроновой кислоты под контролем УЗИ, высокоинтенсивная лазерная терапия и физиотерапия при коксартрозе: результаты рандомизированного исследования",
+    "patient_plain": "",
+    "patient_use": "При обсуждении лечения стоит уточнить, какую пользу можно ожидать от каждого компонента программы и насколько убедительны данные именно для лазерной терапии: улучшение наблюдалось и у пациентов, не получавших активного лазерного воздействия. Результаты позволяют рассматривать сочетание процедур как перспективный вариант реабилитации, но не гарантируют дополнительного эффекта для каждого пациента. Важно также обсудить, как будут оценивать изменения ходьбы, повседневной активности и качества жизни, а не только интенсивность боли.",
+    "practical_use": "Врачам следует учитывать критерии отбора участников: ранние и умеренные стадии коксартроза, боль от 4 баллов и индекс массы тела ниже 30, поскольку переносимость результатов на другие группы пациентов не подтверждена этим исследованием. При обсуждении HPLT целесообразно разграничивать улучшения на фоне всей комплексной программы и дополнительные преимущества, связанные с активным лазером. Для оценки ответа на лечение можно ориентироваться на функцию сустава, шестиминутный тест ходьбы, боль и качество жизни в динамике; исследование не позволяет утверждать, что программа снижает потребность в эндопротезировании.",
+    "summary": "В рандомизированном контролируемом исследовании сравнили два подхода к лечению остеоартроза тазобедренного сустава (коксартроза). В исследование включили 57 взрослых пациентов со стадиями заболевания 1–3, болью не менее 4 баллов по числовой шкале и индексом массы тела ниже 30. Из них 28 человек получали внутрисуставные инъекции гидрогеля на основе гиалуроновой кислоты под контролем ультразвука, физиотерапию и активную высокоинтенсивную лазерную терапию (HPLT). Ещё 29 человек проходили ту же программу инъекций и физиотерапии, но вместо активного лазера получали имитацию лазерного воздействия. Пациенты и специалисты, оценивавшие результаты, не знали, какое лазерное воздействие применялось.\n\nФункцию тазобедренного сустава оценивали по шкале Харриса (HHS), боль — по числовой рейтинговой шкале (NRS), качество жизни — по опроснику EuroQol-5D, а физическую выносливость и мобильность — с помощью шестиминутного теста ходьбы. Измерения проводили до лечения, после него, а затем через 3, 6 и 12 месяцев после первого визита. В обеих группах функция сустава существенно улучшилась сразу после лечения. В группе с активной лазерной терапией наблюдались более благоприятные результаты шестиминутного теста ходьбы и качества жизни через 6 месяцев; межгрупповые различия по этим показателям были статистически значимыми. В дальнейшем показатели функции оставались относительно стабильными в основной группе, тогда как в контрольной отмечалось небольшое снижение при поздних наблюдениях.\n\nВсе 57 участников завершили назначенную программу упражнений. Авторы считают сочетание инъекций гиалуроновой кислоты, физиотерапии и активной HPLT перспективным для улучшения функции сустава и уменьшения боли в краткосрочной и среднесрочной перспективе. Однако исследование включало небольшое число пациентов, а доказательная база применения HPLT именно при коксартрозе пока ограничена. Не установлено, помогает ли такая комбинация надолго отсрочить эндопротезирование тазобедренного сустава.",
+    "_reason": "Исследование показывает, что добавление высокоинтенсивной лазерной терапии к инъекциям гиалуроновой кислоты и физиотерапии может улучшать мобильность и качество жизни при коксартрозе по сравнению с той же программой без активного лазера. Практическая значимость пока умеренно ограничена небольшой выборкой и недостатком данных о долгосрочном эффекте, поэтому результаты поддерживают обсуждение метода, но не доказывают его необходимость для всех пациентов.",
+    "why_read": "Статья полезна ортопедам, врачам физической и реабилитационной медицины и физиотерапевтам, которые выбирают комплексные методы лечения коксартроза и хотят оценить дополнительную роль лазерной терапии. Пациентам с остеоартрозом тазобедренного сустава она поможет понять, какие функциональные преимущества наблюдались при сочетании инъекций, упражнений и лазера и почему эти результаты пока нельзя считать окончательным доказательством долгосрочной эффективности.",
+    "limitations": [
+      "the current scientific literature regarding HPLT in hip OA remains limited",
+      "continuing RCTs with extended follow-up periods is essential to fully confirm the long-term effectiveness of this combined therapy",
+      "to investigate whether this approach can prolong the time until a potential total hip replacement is required"
+    ],
+    "advice_items": [
+      {
+        "quote": "Both groups experienced an initial increase after treatment. However, while the study group maintained stable scores over time, the control group showed a slight decline at later follow‐ups.",
+        "advice": "При оценке эффективности комплексного лечения учитывайте не только изменение показателей сразу после курса, но и сохранение результата при последующих визитах. Сопоставляйте динамику функции сустава с ходьбой, болью и качеством жизни, чтобы не приписывать все улучшения одному компоненту терапии.",
+        "audience": "врач"
+      },
+      {
+        "quote": "Although this RCT confirmed the short‐term and mid‐term clinical benefits, the current scientific literature regarding HPLT in hip OA remains limited.",
+        "advice": "Объясняйте пациенту, что высокоинтенсивная лазерная терапия показала перспективные результаты в составе комплексной программы, однако доказательств для уверенного вывода о её долгосрочной эффективности пока недостаточно. Не представляйте лазер как обязательный компонент лечения или как доказанный способ отсрочить эндопротезирование.",
+        "audience": "врач"
+      },
+      {
+        "quote": "The study group received hyaluronic acid injections, physiotherapy and active HPLT, while the control group received the same management, except for sham HPLT.",
+        "advice": "При обсуждении результатов уточните, что исследование сравнивало комплексное лечение с активной лазерной терапией и такую же программу с имитацией лазерного воздействия. Это помогает понять, что дополнительные преимущества лазера оценивались на фоне уже проводившихся инъекций и физиотерапии, а не вместо них.",
+        "audience": "пациент"
+      }
+    ],
+    "importance_stars": 5,
+    "importance_mark": "★★★★★",
+    "take": "keep"
+  },
+  {
+    "id": 227,
+    "pmid": "42389754",
+    "source": "PubMed",
+    "article": "Effects of aquatic exercise on pain and physical function in overweight/obese patients with lower limb osteoarthritis: a systematic review and meta-analysis.",
+    "authors": [
+      "Zhou Wei",
+      "Yan Yu",
+      "Zhou Houjie",
+      "Zhang Zhijian",
+      "Yan Juntao"
+    ],
+    "date": "2026-06-16",
+    "journal": "Frontiers in physiology",
+    "doi": "10.3389/fphys.2026.1864401",
+    "topic": "Коксартроз",
+    "topic_key": "cox",
+    "topic_keys": [
+      "cox"
+    ],
+    "topics": [
+      "Коксартроз"
+    ],
+    "abstract_en": "BACKGROUND: Previous research has established that aquatic exercise is an effective intervention for alleviating pain and enhancing physical function in patients with lower limb osteoarthritis (OA). However, its specific efficacy for overweight and obese populations, as well as the intervention parameters associated with clinical outcomes in these groups, remain poorly defined. This study aims to assess the effects of aquatic exercise on pain and physical function in this specific demographic and to explore potential intervention-related moderators through subgroup analysis.\n\nMETHODS: Following the PRISMA guidelines, a systematic search was conducted across the PubMed, Web of Science, Embase, Cochrane Library, and Scopus databases. The search cutoff date was set for February 1, 2026. Emphasis was placed on randomized controlled trials (RCTs) evaluating aquatic interventions for overweight or obese adults with primary knee and/or hip OA.\n\nRESULTS: A total of 12 RCTs involving 1,057 participants were included. The random-effects meta-analysis suggested that aquatic exercise was associated with lower pain scores (SMD = -0.36; 95% CI, -0.50 to -0.22; p < 0.001; I² = 18%) and better physical function (SMD = -0.33; 95% CI, -0.46 to -0.20; p < 0.001; I² = 0%). Exploratory subgroup analyses suggested that both overweight and obese patients showed favorable changes in pain and physical function, with numerically larger effects observed in obese patients. Lower volume protocols, including shorter session durations, lower weekly frequency, and shorter intervention periods, tended to show favorable outcomes; however, these subgroup findings should be interpreted as hypothesis-generating rather than confirmatory evidence of an optimal dose-response relationship.\n\nCONCLUSION: Aquatic exercise may be associated with modest improvements in pain and physical function among overweight or obese patients with lower limb OA. Exploratory subgroup findings suggested numerically larger effects in obese individuals and favorable outcomes with some lower volume protocols. However, the certainty of evidence was low, and these findings should be interpreted cautiously. Current evidence does not support firm conclusions regarding an optimal aquatic exercise prescription or a definitive dose-response relationship. Aquatic exercise may represent a useful low-impact adjunct to conservative management, but further well-designed trials are needed to confirm clinically meaningful effects and clarify optimal intervention parameters.\n\nSYSTEMATIC REVIEW REGISTRATION: https://www.crd.york.ac.uk/PROSPERO/view/CRD420261354574, identifier CRD420261354574.",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/42389754/",
+    "pmc_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13321089/",
+    "html_available": true,
+    "html_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13321089/",
+    "title_ru": "Водные упражнения при остеоартрозе колена и тазобедренного сустава у людей с избыточным весом и ожирением: систематический обзор и метаанализ",
+    "patient_plain": "",
+    "patient_use": "Если у вас остеоартроз колена или тазобедренного сустава и избыточный вес, упражнения в воде можно обсудить с врачом или специалистом по лечебной физкультуре как вариант физической активности с низкой ударной нагрузкой. При выборе программы стоит учитывать переносимость занятий, изменение боли и то, становится ли легче ходить и выполнять повседневные действия. Не обязательно начинать с длительных и частых тренировок: обзор допускает пользу менее объёмных программ, но не устанавливает универсальную оптимальную схему.",
+    "practical_use": "Врачу и специалисту по реабилитации обзор помогает обосновать обсуждение водных упражнений как дополнения к консервативному ведению пациентов с остеоартрозом колена или тазобедренного сустава и избыточной массой тела. При согласовании программы целесообразно фиксировать исходную боль и физическую функцию, а затем оценивать динамику этих показателей, не предполагая заранее, что эффект будет клинически значимым. Подгрупповые результаты о большей выраженности эффекта при ожирении и преимуществах меньшего объёма занятий следует представлять как предварительные гипотезы, а не как доказанные критерии назначения.",
+    "summary": "Авторы систематического обзора и метаанализа оценили влияние упражнений в воде на боль и физическую функцию у взрослых с избыточным весом или ожирением и первичным остеоартрозом коленного и/или тазобедренного сустава. В анализ вошли 12 рандомизированных контролируемых исследований (РКИ), охвативших 1057 участников. Поиск исследований проводился в пяти научных базах данных, последний раз — 1 февраля 2026 года.\n\nУпражнения в воде были связаны с уменьшением боли: стандартизированная разница средних составила −0,36 (95% доверительный интервал от −0,50 до −0,22; p < 0,001). Физическая функция также улучшилась: стандартизированная разница средних составила −0,33 (95% доверительный интервал от −0,46 до −0,20; p < 0,001). Разброс результатов между исследованиями был небольшим. В подгруппах положительные изменения наблюдались как у людей с избыточным весом, так и у людей с ожирением, причём численно более выраженные эффекты отмечались при ожирении.\n\nВ подгрупповом анализе благоприятные результаты чаще наблюдались при менее объёмных программах: с более короткими занятиями, меньшей еженедельной частотой и меньшей общей продолжительностью курса. Однако эти результаты являются предварительными и не доказывают, что короткие или редкие занятия оптимальны. Достоверность совокупных доказательств оценена как низкая, поэтому величину клинической пользы и оптимальные параметры тренировок необходимо уточнять. Авторы рассматривают упражнения в воде как возможное дополнение к консервативному лечению остеоартроза, а не как замену другим методам помощи.",
+    "_reason": "Обзор объединяет 12 РКИ с участием 1057 человек и показывает, что упражнения в воде могут умеренно уменьшать боль и улучшать физическую функцию при остеоартрозе колена и тазобедренного сустава у людей с избыточным весом или ожирением. Практическая ценность заключается в поддержке низкоударной физической активности, но низкая достоверность доказательств не позволяет установить оптимальную частоту, продолжительность занятий или гарантировать заметное улучшение каждому пациенту.",
+    "why_read": "Статья полезна врачам, реабилитологам и специалистам по лечебной физкультуре, которые подбирают физическую активность пациентам с остеоартрозом и избыточной массой тела. Пациентам она поможет понять, почему водные упражнения могут быть одним из вариантов консервативного ведения заболевания и почему индивидуальную программу следует оценивать по переносимости и изменению симптомов, а не по предположению о единой оптимальной дозировке.",
+    "limitations": [
+      "the certainty of evidence was low",
+      "findings should be interpreted cautiously",
+      "Current evidence does not support firm conclusions regarding an optimal aquatic exercise prescription or a definitive dose-response relationship.",
+      "further well-designed trials are needed to confirm clinically meaningful effects and clarify optimal intervention parameters."
+    ],
+    "advice_items": [
+      {
+        "quote": "Aquatic exercise may represent a useful low-impact adjunct to conservative management, but further well-designed trials are needed to confirm clinically meaningful effects and clarify optimal intervention parameters.",
+        "advice": "Рассматривайте упражнения в воде как возможное дополнение к консервативному ведению пациентов с остеоартрозом коленного или тазобедренного сустава, особенно при избыточной массе тела. Обсудите индивидуальную переносимость и отслеживайте изменения боли и физической функции. Не представляйте метод как гарантированно эффективный или заменяющий остальные компоненты лечения.",
+        "audience": "врач"
+      },
+      {
+        "quote": "Lower volume protocols, including shorter session durations, lower weekly frequency, and shorter intervention periods, tended to show favorable outcomes; however, these subgroup findings should be interpreted as hypothesis-generating rather than confirmatory evidence of an optimal dose-response relationship.",
+        "advice": "При обсуждении программы объясните пациенту, что менее объёмные варианты занятий также показали благоприятные результаты в подгрупповом анализе. Не трактуйте это наблюдение как доказательство превосходства коротких занятий или основание для универсального режима тренировок. Подбирайте нагрузку с учётом переносимости и оценивайте изменения симптомов в процессе занятий.",
+        "audience": "врач"
+      },
+      {
+        "quote": "Exploratory subgroup analyses suggested that both overweight and obese patients showed favorable changes in pain and physical function, with numerically larger effects observed in obese patients.",
+        "advice": "Обсудите с пациентом возможность включения водных упражнений в программу физической активности независимо от того, есть ли у него избыточный вес или ожирение. Уточните, что численно более выраженные результаты при ожирении получены в предварительном подгрупповом анализе и не позволяют обещать конкретный эффект отдельному человеку.",
+        "audience": "пациент"
+      }
+    ],
+    "importance_stars": 5,
+    "importance_mark": "★★★★★",
+    "take": "keep"
+  },
+  {
+    "id": 228,
+    "pmid": "42373005",
+    "source": "PubMed",
+    "article": "Effectiveness of a blended care intervention in physiotherapy with exercise and education for patients with hip or knee osteoarthritis (SmArt-E): A multicentre pragmatic randomized controlled trial.",
+    "authors": [
+      "Weber Franziska",
+      "Kloek Corelien J J",
+      "Neumann Sara",
+      "Bahns Carolin",
+      "Böbinger Hannes",
+      "Diederich Freya",
+      "Dieter Valerie",
+      "Gellert Paul",
+      "Kopkow Christian",
+      "Krauss Inga",
+      "Lech Sonia",
+      "Luschei Remi",
+      "Pleus Johanna",
+      "Repschläger Ute",
+      "Rothgang Heinz",
+      "Scharpenberg Martin",
+      "Thiel Christian",
+      "Valk-Draad Maria",
+      "Veenhof Cindy",
+      "Vollmar Horst Christian",
+      "Peschke Dirk",
+      "Grüneberg Christian",
+      "SmArt-E study group"
+    ],
+    "date": "2026-06-29",
+    "journal": "Osteoarthritis and cartilage",
+    "doi": "10.1016/j.joca.2026.06.010",
+    "topic": "Коксартроз",
+    "topic_key": "cox",
+    "topic_keys": [
+      "cox"
+    ],
+    "topics": [
+      "Коксартроз"
+    ],
+    "abstract_en": "OBJECTIVE: To evaluate the effectiveness of a twelve-month smartphone-assisted physiotherapy (SmArt-E) intervention versus usual care in hip and/or knee osteoarthritis (OA), and to assess usability and patient satisfaction with the digital support.\n\nMETHOD: We conducted a multicentre, pragmatic, parallel-group randomized controlled trial in 27 physiotherapy practices in Germany. Patients with physician-diagnosed hip and/or knee OA aged ≥50 (hip) or ≥38 years (knee) were randomly allocated to SmArt-E (IG; n=166) or usual care (CG; n=164). The twelve-month intervention combined supervised and smartphone-assisted training and education (blended care). Primary outcomes were pain (NRS, 0-10) and physical function (HOOS/KOOS-ADL, 0-100) at twelve months. Secondary outcomes followed OARSI domains; usability and patient satisfaction were also assessed.\n\nRESULTS: Among 330 participants (mean age 64±8 years), baseline NRS was 3.2±2.3 in the CG and 3.5±2.4 in the IG; HOOS/KOOS-ADL was 71.6±17.7 and 69.4±17.5, respectively. No significant between-group differences were found for pain (-0.36; 95% CI: -0.84 to 0.12; p=0.14) or physical function (2.66; 95% CI: -0.46 to 5.77; p=0.09). Among 13 secondary outcomes, significant differences favouring the IG emerged at three and twelve months for several domains; however, effect sizes were small and unlikely to be clinically meaningful.\n\nCONCLUSION: SmArt-E did not demonstrate superior effectiveness over usual care in mild hip and/or knee OA. Both groups improved over time, with slightly more favourable but clinically inconclusive outcomes in the IG. Findings highlight the need to refine the intervention, better identify eligible patients, and optimize digital and in-person components.",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/42373005/",
+    "pmc_link": "",
+    "html_available": false,
+    "html_link": "",
+    "title_ru": "Смарт-поддержка физиотерапии при остеоартрозе тазобедренного и коленного суставов: результаты годичного рандомизированного исследования",
+    "patient_plain": "",
+    "patient_use": "Если вам предлагают физиотерапию с приложением для смартфона, стоит уточнить, какие упражнения и образовательные материалы входят в программу, как организовано наблюдение специалиста и насколько цифровой формат удобен именно для вас. Исследование не показало, что добавление смартфонной поддержки само по себе обеспечивает заметно лучшее уменьшение боли или улучшение повседневной функции по сравнению с обычной помощью. Поэтому при выборе программы имеет смысл ориентироваться на её соответствие вашим ограничениям, возможность регулярно выполнять упражнения и удобство взаимодействия с физиотерапевтом, а не только на наличие приложения.",
+    "practical_use": "При обсуждении SmArt-E с пациентами важно разделять статистические различия по вторичным показателям и клинически значимое улучшение боли и функции: по двум основным исходам убедительного преимущества не выявлено. Результаты поддерживают осторожный подход к внедрению цифрового сопровождения как дополнения к физиотерапии, без обещаний превосходства над обычной помощью. При использовании подобных программ целесообразно отслеживать боль и повседневную функцию в динамике, оценивать приверженность и удобство цифрового компонента, а также проверять, действительно ли сочетание дистанционной и очной работы отвечает потребностям конкретного пациента.",
+    "summary": "В многоцентровом прагматическом рандомизированном контролируемом исследовании SmArt-E сравнили обычную помощь с комбинированной физиотерапией, которая объединяла занятия под наблюдением специалиста, тренировки с помощью смартфона и образовательные материалы. В исследовании участвовали 330 пациентов с диагностированным остеоартрозом тазобедренного и/или коленного суставов: 166 человек получили программу SmArt-E, а 164 — обычную помощь. Исследование проводилось в 27 физиотерапевтических практиках Германии, а вмешательство продолжалось 12 месяцев. Средний возраст участников составлял 64 ± 8 лет.\n\nОсновными показателями были интенсивность боли по числовой рейтинговой шкале (NRS, от 0 до 10) и физическая функция по шкалам HOOS/KOOS-ADL (от 0 до 100). Через 12 месяцев статистически значимого преимущества SmArt-E перед обычной помощью по боли не обнаружили: межгрупповая разница составила −0,36 балла (95% доверительный интервал от −0,84 до 0,12; p = 0,14). По физической функции разница составила 2,66 балла (95% доверительный интервал от −0,46 до 5,77; p = 0,09), что также не достигло статистической значимости. В обеих группах показатели улучшились по сравнению с исходным уровнем.\n\nПо некоторым из 13 вторичных показателей комбинированная программа имела статистически значимые преимущества через 3 и 12 месяцев, однако размеры эффектов были небольшими и, по оценке авторов, вряд ли имели клинически существенное значение. Таким образом, при лёгком остеоартрозе тазобедренного и/или коленного суставов SmArt-E не продемонстрировала превосходства над обычной помощью по основным исходам. Авторы указывают на необходимость совершенствовать программу, точнее определять пациентов, которым она подходит, и оптимизировать сочетание цифровых и очных занятий.",
+    "_reason": "Статья непосредственно относится к реабилитации при остеоартрозе тазобедренного и коленного суставов и проверяет практическую ценность годичной программы с упражнениями, обучением и поддержкой через смартфон. Главный результат важен для принятия решений: цифровое сопровождение не обеспечило статистически значимого преимущества по боли и физической функции, а небольшие улучшения по отдельным вторичным показателям не подтверждают существенной дополнительной пользы.",
+    "why_read": "Статью стоит прочитать физиотерапевтам, врачам, занимающимся остеоартрозом, и специалистам, внедряющим цифровую реабилитацию. Она помогает обосновать реалистичные ожидания от сочетания очных занятий и смартфонной поддержки и показывает, почему при оценке программы недостаточно учитывать только статистически значимые вторичные результаты.",
+    "limitations": [
+      "SmArt-E did not demonstrate superior effectiveness over usual care in mild hip and/or knee OA.",
+      "effect sizes were small and unlikely to be clinically meaningful.",
+      "Findings highlight the need to refine the intervention, better identify eligible patients, and optimize digital and in-person components."
+    ],
+    "advice_items": [
+      {
+        "quote": "No significant between-group differences were found for pain (-0.36; 95% CI: -0.84 to 0.12; p=0.14) or physical function (2.66; 95% CI: -0.46 to 5.77; p=0.09).",
+        "advice": "При обсуждении цифровой физиотерапии не следует утверждать, что она лучше обычной помощи уменьшает боль или улучшает функцию при лёгком остеоартрозе. Объясните пациенту, что в этом исследовании преимущество по двум основным показателям не было статистически подтверждено, и согласуйте критерии оценки результата с учётом его повседневных ограничений.",
+        "audience": "врач"
+      },
+      {
+        "quote": "The twelve-month intervention combined supervised and smartphone-assisted training and education (blended care).",
+        "advice": "При оценке комбинированной реабилитации отдельно уточняйте, какие компоненты выполняются под наблюдением специалиста, а какие — с помощью смартфона. Обсудите с пациентом удобство цифрового формата и возможность регулярно выполнять программу, не представляя приложение как самостоятельную гарантию лучшего результата.",
+        "audience": "врач"
+      },
+      {
+        "quote": "Both groups improved over time, with slightly more favourable but clinically inconclusive outcomes in the IG.",
+        "advice": "Не оценивайте эффективность программы только по наличию улучшения после начала занятий: в исследовании улучшение наблюдалось в обеих группах. Обсудите, какие изменения в боли и повседневной активности важны лично для пациента, и отслеживайте их в ходе реабилитации независимо от используемого формата поддержки.",
+        "audience": "пациент"
+      },
+      {
+        "quote": "Findings highlight the need to refine the intervention, better identify eligible patients, and optimize digital and in-person components.",
+        "advice": "Перед внедрением подобной программы определите, каким пациентам подходит сочетание самостоятельных занятий со смартфонной поддержкой и очных визитов. При пересмотре программы оценивайте не только результаты лечения, но и удобство цифровых инструментов, организацию очного сопровождения и соответствие компонентов реальным потребностям пациентов.",
+        "audience": "врач"
+      }
+    ],
+    "importance_stars": 5,
+    "importance_mark": "★★★★★",
+    "take": "keep"
+  },
+  {
+    "id": 229,
+    "pmid": "42540495",
+    "source": "PubMed",
+    "article": "Comparison of the efficacy and safety of acetaminophen versus NSAIDs for the treatment of chronic pain in older adults with osteoarthritis of the hip and knee: Findings from the randomized, double-blind, parallel-group, non-inferiority RETHINK study.",
+    "authors": [
+      "Endo Makoto",
+      "Kawano Tsutomu",
+      "Tokunaga Masami",
+      "Kawahara Shinya",
+      "Mawatari Taro",
+      "Hara Toshihiko",
+      "Tashiro Yasutaka",
+      "Matsuda Masahiro",
+      "Sato Taishi",
+      "Baba Shoji",
+      "Hamasaki Akihiko",
+      "Takano Toshio",
+      "Miyake Masumi",
+      "Aono Hiroyuki",
+      "Sakamoto Sanae",
+      "Miyaji Tempei",
+      "Shimokawa Mototsugu",
+      "Zenda Sadamoto",
+      "Nakashima Yasuharu",
+      "RETHINK study group"
+    ],
+    "date": "2026-07-06",
+    "journal": "Osteoarthritis and cartilage open",
+    "doi": "10.1016/j.ocarto.2026.100850",
+    "topic": "Коксартроз",
+    "topic_key": "cox",
+    "topic_keys": [
+      "cox"
+    ],
+    "topics": [
+      "Коксартроз"
+    ],
+    "abstract_en": "OBJECTIVE: This study aimed to evaluate the non-inferiority of acetaminophen compared with non-steroidal anti-inflammatory drugs (NSAIDs) for the treatment of chronic osteoarthritis-related pain in older adults.\n\nDESIGN: This multicenter, randomized, double-blind, parallel-group study enrolled patients aged 65 years or older with osteoarthritis-related pain. Participants were randomly assigned to receive acetaminophen (1800 mg/day) or NSAIDs (loxoprofen 180 mg/day or celecoxib 200 mg/day). The primary endpoint was the change in Brief Pain Inventory (BPI) item 3 (worst pain) score from baseline to week 8. The secondary endpoints included the change in BPI item 3 score from baseline to week 4, quality of life, gastrointestinal disorders, and renal and liver function parameters.\n\nRESULTS: Of the 400 patients enrolled, 191 and 197 were in the acetaminophen (mean age 73.6 years; 83.2% female) and NSAID groups (mean age 73.3 years; 74.6% female), respectively. The least-squares mean change in BPI item 3 scores at 8 weeks was -1.79 in the acetaminophen group and -1.94 in the NSAIDs group. The between-group difference in BPI item 3 scores change was 0.14 (95% CI, -0.33 to 0.61). No major safety concerns were identified; however, gastrointestinal disorders occurred more frequently with NSAIDs and were the most common cause of treatment discontinuation.\n\nCONCLUSIONS: In this RETHINK study, acetaminophen achieved a similar reduction in osteoarthritis-related pain to NSAIDs in older adults after eight weeks; however, non-inferiority was not demonstrated. In terms of adverse events, acetaminophen was associated with fewer gastrointestinal disorders. These findings suggest that treatment choice may depend on the balance between analgesic efficacy and safety considerations.\n\nTRIAL REGISTRATION NUMBER: The study is registered in the Japan Registry of Clinical Trials (jRCTs071200112).",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/42540495/",
+    "pmc_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13425900/",
+    "html_available": true,
+    "html_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13425900/",
+    "title_ru": "Парацетамол против НПВП при хронической боли из-за остеоартроза тазобедренного и коленного суставов у пожилых: результаты исследования RETHINK",
+    "patient_plain": "",
+    "patient_use": "Если у вас остеоартроз тазобедренного или коленного сустава и вам 65 лет или больше, обсудите с врачом не только уменьшение боли, но и переносимость выбранного препарата, особенно если ранее возникали желудочно-кишечные побочные эффекты. Парацетамол может быть одним из вариантов для обсуждения, однако исследование не подтвердило, что по эффективности он гарантированно не уступает НПВП. При выборе важно учитывать состояние почек, сопутствующие заболевания и другие принимаемые лекарства, а не ориентироваться только на обезболивающий эффект.",
+    "practical_use": "При обсуждении терапии пожилого пациента следует сопоставлять динамику боли с переносимостью препарата и индивидуальными факторами риска со стороны желудочно-кишечного тракта и почек. Результаты исследования позволяют объяснить, почему меньшая частота желудочно-кишечных нежелательных явлений при приёме парацетамола может иметь значение, но не служит основанием считать его равноэффективной заменой НПВП для каждого пациента. При мониторинге целесообразно оценивать функцию почек и причины возможного прекращения лечения; конкретный выбор следует включать в комплексное ведение остеоартроза.",
+    "summary": "В многоцентровом рандомизированном двойном слепом исследовании RETHINK сравнили эффективность и безопасность парацетамола и нестероидных противовоспалительных препаратов (НПВП) у пациентов в возрасте 65 лет и старше с хронической болью, связанной с остеоартрозом тазобедренного или коленного сустава. В исследование включили 400 человек: 191 пациент получал парацетамол в дозе 1800 мг в сутки, а 197 пациентов вошли в группу НПВП, где применяли локсопрофен 180 мг в сутки или целекоксиб 200 мг в сутки. Средний возраст участников составлял около 73 лет; в обеих группах преобладали женщины.\n\nЧерез восемь недель выраженность наиболее сильной боли за предшествующий период уменьшилась в обеих группах: среднее изменение оценки по соответствующему пункту краткого опросника боли (Brief Pain Inventory, BPI) составило −1,79 балла при приёме парацетамола и −1,94 балла при применении НПВП. Межгрупповая разница составила 0,14 балла, 95%-й доверительный интервал от −0,33 до 0,61. Хотя уменьшение боли в обеих группах превышало минимально клинически значимое изменение (MCID), парацетамол не достиг заранее установленного критерия не меньшей эффективности по сравнению с НПВП.\n\nНежелательные явления со стороны желудочно-кишечного тракта встречались реже при приёме парацетамола; при использовании НПВП они были наиболее частой причиной прекращения лечения. Также в группе парацетамола отмечались меньшие краткосрочные изменения расчётной скорости клубочковой фильтрации (eGFR), показателя функции почек. Выраженных общих проблем безопасности исследователи не выявили. Результаты поддерживают индивидуальный выбор обезболивающего с учётом эффективности и переносимости, но не доказывают, что парацетамол не уступает НПВП по обезболивающему действию. Исследование финансировалось компанией AYUMI Pharmaceutical Corporation; авторы раскрыли финансовые связи с фармацевтическими компаниями.",
+    "_reason": "Статья непосредственно сравнивает два распространённых подхода к обезболиванию у пожилых людей с остеоартрозом тазобедренного и коленного суставов. Её практическая ценность заключается в сопоставлении уменьшения боли с желудочно-кишечной переносимостью и краткосрочными изменениями показателей функции почек, при этом отсутствие доказанной не меньшей эффективности парацетамола не позволяет автоматически заменять им НПВП.",
+    "why_read": "Статью стоит прочитать врачам, которые подбирают обезболивание пациентам старшего возраста с коксартрозом или гонартрозом, особенно при опасениях по поводу желудочно-кишечных и почечных нежелательных эффектов. Она также полезна для обсуждения с пациентами того, почему выбор препарата зависит одновременно от облегчения боли и безопасности, а не только от принадлежности лекарства к определённой группе.",
+    "limitations": [
+      "acetaminophen did not meet the prespecified non-inferiority criterion relative to NSAIDs",
+      "over an eight-week treatment period",
+      "Patients and the public were not involved in the design, conduct, reporting, or dissemination plans of this study.",
+      "The RETHINK study was funded by AYUMI Pharmaceutical Corporation (Tokyo, Japan)"
+    ],
+    "advice_items": [
+      {
+        "quote": "These findings suggest that analgesic selection in older adults with osteoarthritis should be individualized, with careful consideration of both analgesic efficacy and safety as part of a comprehensive management strategy.",
+        "advice": "При выборе обезболивающего для пожилого пациента сопоставляйте выраженность и динамику боли с риском нежелательных явлений, учитывая сопутствующие заболевания и переносимость ранее применявшихся препаратов. Объясните пациенту, что результаты сравнения не подтверждают полную взаимозаменяемость парацетамола и НПВП по эффективности.",
+        "audience": "врач"
+      },
+      {
+        "quote": "Acetaminophen was associated with a lower incidence of gastrointestinal adverse events and smaller short-term changes in eGFR than NSAIDs.",
+        "advice": "При обсуждении вариантов обезболивания учитывайте желудочно-кишечные нежелательные явления и изменения показателей функции почек, особенно у пожилых пациентов с соответствующими факторами риска. Не интерпретируйте это преимущество по переносимости как доказательство превосходства парацетамола по обезболивающему эффекту.",
+        "audience": "врач"
+      },
+      {
+        "quote": "The least-squares mean change in BPI item 3 scores at 8 weeks was -1.79 in the acetaminophen group and -1.94 in the NSAIDs group.",
+        "advice": "При разборе результатов исследования обращайте внимание на фактическое изменение выраженности наиболее сильной боли в обеих группах, а не только на небольшую разницу между ними. Используйте эти данные для обсуждения ожидаемого эффекта, сохраняя оговорку о том, что критерий не меньшей эффективности парацетамола не был выполнен.",
+        "audience": "врач"
+      },
+      {
+        "quote": "gastrointestinal disorders occurred more frequently with NSAIDs and were the most common cause of treatment discontinuation.",
+        "advice": "Если на фоне НПВП пациент прекращает лечение или жалуется на симптомы со стороны желудочно-кишечного тракта, уточните связь симптомов с препаратом и повторно оцените соотношение пользы и риска. При обсуждении альтернативы поясните, что парацетамол сопровождался меньшей частотой таких нежелательных явлений, но не был доказан как не уступающий НПВП по эффективности.",
+        "audience": "врач"
+      }
+    ],
+    "importance_stars": 5,
+    "importance_mark": "★★★★★",
+    "take": "keep"
+  },
+  {
+    "id": 230,
+    "pmid": "42436006",
+    "source": "PubMed",
+    "article": "Signals for mineralization and inflammation are observed following treatment with fasinumab, a specific nerve growth factor inhibitor.",
+    "authors": [
+      "Banerjee Poulabi",
+      "DiMartino Stephen J",
+      "Gao Haitao",
+      "Ho Tina",
+      "Eng Simon",
+      "Manvelian Garen",
+      "Patel Yamini",
+      "Geba Gregory P"
+    ],
+    "date": "2026-07-11",
+    "journal": "Osteoarthritis and cartilage",
+    "doi": "10.1016/j.joca.2026.07.005",
+    "topic": "Коксартроз",
+    "topic_key": "cox",
+    "topic_keys": [
+      "cox"
+    ],
+    "topics": [
+      "Коксартроз"
+    ],
+    "abstract_en": "OBJECTIVE: Fasinumab is an investigational, fully-human, monoclonal antibody against nerve growth factor. Studies have shown that patients treated with fasinumab have statistically and clinically significant improvements in pain and physical function, but more frequently experience joint‑related adverse events compared with placebo-treated patients. This post hoc analysis explored biological changes associated with fasinumab therapy.\n\nDESIGN: Changes in bone and mineralization markers (total alkaline phosphatase, bone-specific alkaline phosphatase [BSAP], procollagen type 1 N-terminal propeptide [P1NP], osteocalcin, and type I collagen cross-linked C-telopeptide) and inflammation (C-reactive protein [CRP]) were analyzed alongside magnetic resonance imaging in patients from Phase 2 and 3 clinical studies evaluating fasinumab in patients with osteoarthritis of the knee or hip.\n\nRESULTS: In total, 5772 patients were included in this analysis. Dose-related increases in markers of bone formation/mineralization (alkaline phosphatase, BSAP, osteocalcin, and P1NP) were observed following treatment with fasinumab. Patients with arthropathies showed larger increases in alkaline phosphatase when compared with patients without (6 mg every 8 weeks difference 10.36 U/L, 95% CI: 0.06-20.66 U/L at Week 16). Increases in CRP were also noted following fasinumab treatment, and again, larger increases were seen in patients with arthropathies versus those without (6 mg every 8 weeks difference 3.09 mg/L, 95% CI: 0.07-6.12 mg/L at Week 16). Increases in CRP returned to near baseline levels following the last fasinumab treatment.\n\nCONCLUSIONS: In this post hoc analysis, signals for bone turnover/mineralization, and inflammation increased following treatment with fasinumab. Increases were generally dose-dependent, reversible, and more pronounced in patients with arthropathy than those without.",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/42436006/",
+    "pmc_link": "",
+    "html_available": false,
+    "html_link": "",
+    "title_ru": "Фасинумаб при остеоартрозе тазобедренного и коленного суставов: изменения маркеров костного обмена и воспаления",
+    "patient_plain": "",
+    "patient_use": "Если фасинумаб рассматривается как вариант лечения остеоартроза, стоит обсудить с врачом не только ожидаемое облегчение боли и улучшение подвижности, но и риск нежелательных явлений со стороны суставов. Особенно важно сообщить врачу о других заболеваниях суставов, поскольку у пациентов с артропатиями изменения лабораторных показателей были выраженнее. Полученные результаты помогают понять, почему при использовании препарата необходимо учитывать не только самочувствие, но и возможные изменения костного обмена и воспаления.",
+    "practical_use": "При обсуждении фасинумаба следует сопоставлять ожидаемое улучшение боли и физической функции с более высокой частотой связанных с суставами нежелательных явлений, отмеченной в предыдущих исследованиях. Наличие артропатий заслуживает отдельного внимания при оценке безопасности, поскольку в этой группе сильнее повышались щелочная фосфатаза и С-реактивный белок. Лабораторные изменения следует интерпретировать вместе с клиническими симптомами и данными визуализации, не считая изолированное повышение маркеров доказательством структурного повреждения сустава. Обратимость изменений С-реактивного белка после прекращения введения препарата не исключает необходимости оценивать суставные осложнения.",
+    "summary": "Фасинумаб — экспериментальное полностью человеческое моноклональное антитело, блокирующее фактор роста нервов (NGF), которое изучают для уменьшения боли и улучшения физической функции при остеоартрозе тазобедренного и коленного суставов. В предыдущих исследованиях препарат обеспечивал статистически и клинически значимое улучшение боли и физической функции, однако связанные с суставами нежелательные явления возникали чаще, чем при применении плацебо. В этом дополнительном анализе данных клинических исследований II и III фаз оценили изменения показателей костного обмена и воспаления у 5772 пациентов, сопоставляя их с результатами магнитно-резонансной томографии.\n\nПосле лечения фасинумабом дозозависимо повышались показатели образования и минерализации костной ткани: общая щелочная фосфатаза, костно-специфическая щелочная фосфатаза (BSAP), остеокальцин и N-концевой пропептид проколлагена I типа (P1NP). Также повышался уровень С-реактивного белка (CRP), отражающего воспаление. У пациентов с артропатиями изменения были выраженнее, чем у пациентов без них. При применении 6 мг препарата каждые 8 недель на 16-й неделе межгрупповая разница в изменении общей щелочной фосфатазы составляла 10,36 Ед/л (95% доверительный интервал 0,06–20,66), а С-реактивного белка — 3,09 мг/л (95% доверительный интервал 0,07–6,12).\n\nПовышение показателей костного обмена и воспаления указывает на биологические изменения, которые важно учитывать при оценке безопасности препарата. Повышение С-реактивного белка после последнего введения фасинумаба возвращалось почти к исходному уровню, а наблюдавшиеся изменения в целом были дозозависимыми и обратимыми. Это дополнительный анализ уже проведённых исследований, поэтому выявленные лабораторные изменения сами по себе не доказывают причинную связь с конкретными повреждениями суставов и не позволяют определить индивидуальный риск осложнений.",
+    "_reason": "Статья важна для оценки безопасности фасинумаба при остеоартрозе: препарат может уменьшать боль и улучшать физическую функцию, но одновременно сопровождается дозозависимыми изменениями показателей костного обмена и воспаления. Особое практическое значение имеет более выраженная реакция у пациентов с артропатиями, хотя анализ не устанавливает, насколько конкретные лабораторные изменения связаны с повреждением суставов у отдельного пациента.",
+    "why_read": "Статья полезна ревматологам, ортопедам и специалистам, оценивающим новые методы лечения боли при остеоартрозе тазобедренного и коленного суставов. Её стоит прочитать тем, кому необходимо понимать биологические изменения на фоне ингибирования NGF, роль маркеров костного обмена и С-реактивного белка, а также ограничения дополнительного анализа данных клинических исследований.",
+    "limitations": [
+      "This post hoc analysis explored biological changes associated with fasinumab therapy.",
+      "In this post hoc analysis, signals for bone turnover/mineralization, and inflammation increased following treatment with fasinumab."
+    ],
+    "advice_items": [
+      {
+        "quote": "Studies have shown that patients treated with fasinumab have statistically and clinically significant improvements in pain and physical function, but more frequently experience joint‑related adverse events compared with placebo-treated patients.",
+        "advice": "При обсуждении фасинумаба объясняйте пациенту, что ожидаемое уменьшение боли и улучшение физической функции необходимо сопоставлять с повышенной частотой нежелательных явлений со стороны суставов по сравнению с плацебо. Не представляйте симптоматический эффект как достаточное доказательство общей безопасности лечения.",
+        "audience": "врач"
+      },
+      {
+        "quote": "Increases in CRP returned to near baseline levels following the last fasinumab treatment.",
+        "advice": "При интерпретации динамики С-реактивного белка учитывайте, что после последнего введения фасинумаба его повышение возвращалось почти к исходному уровню. Не переносите этот результат автоматически на все показатели костного обмена и все виды суставных осложнений, поскольку обратимость каждого из них в приведённом выводе отдельно не установлена.",
+        "audience": "врач"
+      },
+      {
+        "quote": "Patients with arthropathies showed larger increases in alkaline phosphatase when compared with patients without (6 mg every 8 weeks difference 10.36 U/L, 95% CI: 0.06-20.66 U/L at Week 16).",
+        "advice": "При оценке безопасности фасинумаба отдельно учитывайте наличие сопутствующих артропатий: у таких пациентов увеличение щелочной фосфатазы было более выраженным. Интерпретируйте лабораторные результаты с учётом клинической картины и других данных обследования, не приравнивая повышение маркера к доказанному повреждению сустава.",
+        "audience": "врач"
+      }
+    ],
+    "importance_stars": 5,
+    "importance_mark": "★★★★★",
+    "take": "keep"
+  },
+  {
+    "id": 231,
+    "pmid": "42462884",
+    "source": "PubMed",
+    "article": "Efficacy of Intra-Articular Corticosteroid Injection for Hip Osteoarthritis: A Systematic Review With Meta-Analysis.",
+    "authors": [
+      "Kelliher Allison",
+      "Beilharz Sophia Ann",
+      "Sutton Ryan"
+    ],
+    "date": "2026-07-16",
+    "journal": "The Journal of arthroplasty",
+    "doi": "10.1016/j.arth.2026.07.024",
+    "topic": "Коксартроз",
+    "topic_key": "cox",
+    "topic_keys": [
+      "cox"
+    ],
+    "topics": [
+      "Коксартроз"
+    ],
+    "abstract_en": "BACKGROUND: Intra-articular corticosteroid injection (CSI) is widely used for hip osteoarthritis (OA), yet its efficacy and safety remain incompletely characterized. The 2023 American Academy of Orthopaedic Surgeons guidelines assigned CSI a high-evidence, moderate-strength recommendation, underscoring the need for updated synthesis.\n\nMETHODS: A systematic review and meta-analysis was conducted per Preferred Reporting Items for Systematic reviews and Meta-Analyses 2020 guidelines (PROSPERO: 1332326), with no date restriction on the search. Eligible studies included randomized controlled trials and cohort studies enrolling adults with hip OA receiving intra-articular CSI versus any comparator. Risk of bias was assessed using Risk of Bias 2 (randomized studies) and Risk Of Bias In Nonrandomized Studies-of Interventions tool (non-randomized studies). Narrative synthesis was the primary approach, with secondary random-effects meta-analyses for short-term pain less than three to six months), medium- to long-term pain (over six months), and short-term physical function where data permitted. Fourteen studies (n = 3,235; nine RCTs, five observational) were included; no study achieved low overall risk of bias.\n\nRESULTS: CSI showed consistent short-term analgesic benefit, with pooled effects within three months large for both pain (Hedges' g = 0.92, 95% CI 0.40 to 1.44, I2 = 44.8%) and function (g = 0.86, 95% CI 0.54 to 1.17, I2 = 0%). Pain effects at 6 to 12 months were non-significant (g = 0.10, 95% CI -0.20 to 0.40). Ultrasound-confirmed synovitis strongly predicted treatment response. Rapidly progressive OA occurred in approximately 7.0% of patients in the largest cohort (n = 1,471), associated with advanced baseline radiographic severity.\n\nCONCLUSIONS: Intra-articular corticosteroid injections produce large, clinically meaningful short-term pain relief and functional improvement in hip OA, but benefits are not reliably sustained beyond three months. A clinically relevant risk of rapidly progressive OA warrants careful patient selection. CSI should be used as a time-limited adjunct within a multimodal management strategy.",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/42462884/",
+    "pmc_link": "",
+    "html_available": false,
+    "html_link": "",
+    "title_ru": "Внутрисуставные инъекции кортикостероидов при коксартрозе: эффективность, длительность обезболивания и риск быстрого прогрессирования артроза",
+    "patient_plain": "",
+    "patient_use": "Перед инъекцией стоит обсудить с врачом, какую конкретную цель она должна решить: уменьшить боль на ближайшие месяцы, облегчить ходьбу или помочь выполнять упражнения и другие элементы реабилитации. Уточните, насколько выражены изменения тазобедренного сустава на рентгенограмме и есть ли признаки синовита, поскольку эти особенности могут влиять на соотношение ожидаемой пользы и риска. Важно заранее понимать, что эффект может оказаться временным, а при выраженных исходных изменениях необходимо отдельно обсудить вероятность быстрого прогрессирования артроза и альтернативные способы контроля симптомов.",
+    "practical_use": "При обсуждении CSI следует сопоставлять краткосрочную симптоматическую пользу с исходной рентгенологической тяжестью коксартроза и объяснять пациенту неопределённость индивидуального ответа. Ультразвуково подтверждённый синовит может служить дополнительным признаком вероятного ответа, но не гарантирует успеха. Целесообразно согласовать функциональные цели инъекции, сроки оценки результата и дальнейшую тактику комплексного лечения, не представляя процедуру как способ устойчиво остановить структурное прогрессирование заболевания. При информированном согласии отдельно проговорить сигнал риска быстро прогрессирующего артроза и ограничения доказательной базы: ни одно из включённых исследований не имело низкого общего риска систематической ошибки.",
+    "summary": "Систематический обзор с метаанализом оценил эффективность и безопасность внутрисуставных инъекций кортикостероидов (CSI, corticosteroid injection) у взрослых с остеоартрозом тазобедренного сустава (коксартрозом). В анализ вошли 14 исследований с участием 3235 человек: девять рандомизированных контролируемых исследований и пять наблюдательных исследований. Ни одно исследование не имело низкого общего риска систематической ошибки.\n\nВ течение первых трёх месяцев после инъекции отмечалось выраженное уменьшение боли (Hedges' g = 0,92; 95% доверительный интервал 0,40–1,44) и улучшение физической функции (g = 0,86; 95% доверительный интервал 0,54–1,17). Через 6–12 месяцев значимого обезболивающего эффекта уже не выявлялось (g = 0,10; 95% доверительный интервал от −0,20 до 0,40). Синовит, подтверждённый ультразвуковым исследованием, был тесно связан с более выраженным ответом на лечение.\n\nВ крупнейшей когорте из 1471 пациента быстро прогрессирующий остеоартроз наблюдался приблизительно у 7,0% участников; риск был связан с более выраженными исходными рентгенологическими изменениями. Авторы заключают, что инъекции могут обеспечить клинически значимое краткосрочное облегчение боли и улучшение функции, но не гарантируют длительного эффекта. Из-за риска быстрого прогрессирования заболевания необходим тщательный отбор пациентов, а инъекции следует рассматривать как ограниченное по времени дополнение к комплексному лечению.",
+    "_reason": "Обзор даёт практически значимую оценку ожидаемой пользы инъекций кортикостероидов при коксартрозе и одновременно подчёркивает риск быстрого прогрессирования заболевания. Материал полезен для совместного принятия решения о временном облегчении симптомов, но качество включённых исследований не позволяет считать индивидуальный результат гарантированным.",
+    "why_read": "Статья особенно полезна ортопедам, врачам физической и реабилитационной медицины и специалистам, которые обсуждают с пациентами внутрисуставные инъекции при коксартрозе. Её стоит прочитать перед выбором пациентов для процедуры, при объяснении ожидаемой продолжительности обезболивания и обсуждении риска быстрого прогрессирования артроза.",
+    "limitations": [
+      "no study achieved low overall risk of bias",
+      "Pain effects at 6 to 12 months were non-significant",
+      "associated with advanced baseline radiographic severity"
+    ],
+    "advice_items": [
+      {
+        "quote": "Ultrasound-confirmed synovitis strongly predicted treatment response.",
+        "advice": "При оценке целесообразности инъекции учитывайте наличие синовита, подтверждённого ультразвуковым исследованием, поскольку он был связан с более выраженным ответом на лечение. Объясните пациенту, что этот признак помогает оценивать вероятность эффекта, но сам по себе не гарантирует результат.",
+        "audience": "врач"
+      },
+      {
+        "quote": "Rapidly progressive OA occurred in approximately 7.0% of patients in the largest cohort (n = 1,471), associated with advanced baseline radiographic severity.",
+        "advice": "До процедуры оцените выраженность исходных рентгенологических изменений и включите риск быстрого прогрессирования остеоартроза в обсуждение информированного согласия. Представляйте приведённую частоту как результат крупнейшей когорты обзора, а не как точный индивидуальный прогноз для каждого пациента.",
+        "audience": "врач"
+      },
+      {
+        "quote": "CSI should be used as a time-limited adjunct within a multimodal management strategy.",
+        "advice": "Рассматривайте инъекцию как временное дополнение к комплексному ведению коксартроза, а не как самостоятельное долгосрочное решение. До процедуры согласуйте, какое улучшение боли или функции ожидается и как будет организовано дальнейшее лечение после окончания краткосрочного эффекта.",
+        "audience": "врач"
+      },
+      {
+        "quote": "Pain effects at 6 to 12 months were non-significant (g = 0.10, 95% CI -0.20 to 0.40).",
+        "advice": "При консультировании пациента объясните, что выраженное раннее облегчение боли не означает сохранения эффекта через полгода или год. Не обещайте длительного обезболивания и обсудите дальнейшую тактику на случай возвращения симптомов.",
+        "audience": "пациент"
+      }
+    ],
+    "importance_stars": 5,
+    "importance_mark": "★★★★★",
+    "take": "keep"
+  },
+  {
+    "id": 232,
+    "pmid": "42486497",
+    "source": "PubMed",
+    "article": "Exercise for osteoarthritis of the hip.",
+    "authors": [
+      "Hall Michelle",
+      "Lawford Belinda J",
+      "Hinman Rana S",
+      "Dobson Fiona",
+      "Spiers Libby",
+      "Kimp Alex",
+      "French Helen P",
+      "Reichenbach Stephan",
+      "Hernandez-Molina Gabriela",
+      "Bennell Kim L"
+    ],
+    "date": "2026-07-23",
+    "journal": "The Cochrane database of systematic reviews",
+    "doi": "10.1002/14651858.CD007912.pub3",
+    "topic": "Коксартроз",
+    "topic_key": "cox",
+    "topic_keys": [
+      "cox"
+    ],
+    "topics": [
+      "Коксартроз"
+    ],
+    "abstract_en": "RATIONALE: Hip osteoarthritis is a major public health issue. International treatment guidelines recommend exercise to manage symptoms. This is an update of a review first published in 2009 and last updated in 2014.\n\nOBJECTIVES: To determine the effects of land-based exercise on pain, physical function, quality of life, participant-reported treatment success, study withdrawals, and adverse events in people with hip osteoarthritis.\n\nSEARCH METHODS: We searched CENTRAL, MEDLINE, Embase, and two trial registries from February 2013 (search date for last update) to 5 February 2025. We also checked reference lists for additional studies.\n\nELIGIBILITY CRITERIA: We included randomised controlled trials (RCTs) of adults with hip osteoarthritis. Eligible comparisons were as follows. • Exercise versus attention control/placebo. • Exercise versus no treatment/usual care/limited education. • Exercise plus a co-intervention (A) versus the co-intervention (A) alone. We excluded perioperative exercise programmes; interventions involving vibration therapy, gait aids, or retraining; and studies that added unequal co-interventions in both groups or that compared only one form of exercise to another.\n\nOUTCOMES: Our critical outcomes were pain, physical function, and quality of life. Our important outcomes were participant-reported treatment success, study withdrawals, and adverse events.\n\nRISK OF BIAS: As this was a review update, we used the original Cochrane risk of bias tool (RoB 1).\n\nSYNTHESIS METHODS: We used standard methodological procedures expected by Cochrane. We synthesised results for each outcome using random-effects meta-analysis where appropriate. We used the GRADE approach to assess certainty of evidence.\n\nINCLUDED STUDIES: Eighteen studies (1368 participants) met our inclusion criteria. Two studies (123 participants) evaluated exercise versus attention control or placebo, 10 studies (494 participants) evaluated exercise versus no treatment/usual care/limited education, and seven studies (751 participants) evaluated exercise plus a co-intervention (A) versus the co-intervention (A) alone. One trial (210 participants) included two comparator categories. Most studies were small and unblinded.\n\nSYNTHESIS OF RESULTS: We converted all continuous effect estimates from standardised mean differences to mean differences (MDs) on a scale of 0 to 100. For pain and physical function, a negative MD indicates an improvement, while for quality of life, a positive MD indicates an improvement. Pain, physical function, quality of life, and participant-reported treatment success were measured immediately after treatment, while study withdrawals and adverse events were recorded at the end of follow-up. Exercise versus attention control/placebo Exercise, compared to attention control/placebo, may have little to no effect on pain (MD -6.31 points, 95% confidence interval (CI) -12.98 to 0.35; 2 studies, 123 participants; low certainty). Exercise may improve physical function slightly (MD -7.44 points, 95% CI -13.86 to -1.01; 2 studies, 123 participants; low certainty). No studies reported quality of life or participant-reported treatment success. Exercise may have little to no effect on study withdrawals (relative risk (RR) 0.83, 95% CI 0.23 to 3.03; 1 study, 106 participants; low certainty). Exercise may increase the risk of adverse events, but the evidence is very uncertain (RR 8.00, 95% CI 1.13 to 56.79; 1 study, 18 participants; very low certainty). Exercise versus no treatment/usual care/limited education Exercise, compared to no treatment/usual care/limited education, probably reduces pain slightly (MD -7.19 points, 95% CI -10.70 to -3.68; 9 studies, 449 participants; moderate certainty) and probably improves physical function slightly (MD -8.79 points, 95% CI -12.00 to -5.41; 9 studies, 447 participants; moderate certainty); however, these improvements are unlikely to be clinically meaningful. Exercise probably has little to no effect on quality of life (MD 2.31 points, 95% CI -1.15 to 5.91; 6 studies, 279 participants; moderate certainty). Exercise may have little to no effect on participant-reported treatment success (RR 1.57, 95% CI 0.62 to 3.99; 2 studies, 69 participants; low certainty) or study withdrawals (RR 1.51, 95% CI 0.80 to 2.86; 7 studies, 404 participants; low certainty). Exercise may have little to no effect on adverse events, but the evidence is very uncertain (RR 2.95, 95% CI 0.62 to 13.96; 6 studies, 257 participants; very low certainty). Exercise plus a co-intervention (A) versus the co-intervention (A) alone Exercise plus a co-intervention (A), compared to the co-intervention (A) alone, probably has little to no effect on pain (MD -3.86 points, 95% CI -8.07 to 0.35; 7 studies, 751 participants; moderate certainty), physical function (MD -2.37 points, 95% CI -6.59 to 1.86; 7 studies, 751 participants; moderate certainty), or quality of life (MD 3.60 points, 95% CI -1.30 to 8.36; 4 studies, 456 participants; moderate certainty). Exercise may have little to no effect on participant-reported treatment success (RR 1.25, 95% CI 0.62 to 2.54; 2 studies, 399 participants; low certainty), and probably has little to no effect on study withdrawals (RR 0.85, 95% CI 0.55 to 1.32; 6 studies, 683 participants; moderate certainty). Exercise probably reduces the risk of adverse events slightly (RR 0.75, 95% CI 0.58 to 0.97; 6 studies, 731 participants; moderate certainty).\n\nAUTHORS' CONCLUSIONS: Compared with attention control or placebo, exercise may have little to no effect on pain and may improve physical function slightly. There was no evidence for quality of life or participant-reported treatment success. Exercise may have little to no effect on withdrawals. Evidence regarding adverse events is very uncertain. Compared with no treatment, usual care or limited education, exercise probably improves pain and physical function slightly, although these effects are unlikely to be clinically meaningful. Exercise probably has little to no effect on quality of life and may have little to no effect on participant-reported treatment success or withdrawals. Evidence regarding adverse events is very uncertain. Exercise plus a co-intervention (A), compared to the co-intervention (A) alone, probably has little to no effect on pain, physical function, quality of life, and study withdrawals, and may have little to no effect on participant-reported treatment success. Exercise probably reduces the risk of adverse events slightly.\n\nFUNDING: No funding.\n\nREGISTRATION: The original protocol was for a review on exercise for osteoarthritis of the hip or knee (https://doi.org/10.1002/14651858.CD004376). The review on hip osteoarthritis alone was first published in 2009 (https://doi.org/10.1002/14651858.CD007912), and last updated in 2014 (https://doi.org/10.1002/14651858.CD007912.pub2).",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/42486497/",
+    "pmc_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13391226/",
+    "html_available": true,
+    "html_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13391226/",
+    "title_ru": "Физические упражнения при остеоартрозе тазобедренного сустава: систематический обзор Cochrane",
+    "patient_plain": "",
+    "patient_use": "При обсуждении лечебной физкультуры стоит уточнить, какого результата реально ожидать: уменьшение боли и облегчение движений возможны, но выраженное улучшение не гарантировано. Полезно заранее определить вместе со специалистом конкретные цели занятий, например переносимость ходьбы или повседневных нагрузок, и оценивать изменения по этим показателям, а не только по субъективному впечатлению. Если во время занятий появляются новые или заметно усиливающиеся нежелательные симптомы, сообщите об этом врачу или специалисту по реабилитации, чтобы оценить переносимость программы.",
+    "practical_use": "Врачам и специалистам по реабилитации следует представлять упражнения как один из вариантов консервативного ведения коксартроза с вероятным небольшим эффектом на боль и функцию, не обещая клинически значимого улучшения каждому пациенту. При обсуждении доказательств важно разделять сравнение упражнений с обычной помощью и добавление упражнений к уже проводимому вмешательству: во втором случае дополнительная польза по основным исходам была небольшой или отсутствовала. Переносимость и нежелательные явления следует оценивать в ходе наблюдения, учитывая, что данные о безопасности неоднородны и в отдельных сравнениях крайне неопределённы.",
+    "summary": "Обновлённый систематический обзор Cochrane оценил влияние упражнений на суше на боль, физическую функцию, качество жизни, субъективную оценку успеха лечения, прекращение участия в исследованиях и нежелательные явления у взрослых с остеоартрозом тазобедренного сустава. В обзор вошли 18 исследований с 1368 участниками. Авторы сравнивали упражнения с плацебо или контролем внимания, с отсутствием лечения, обычной помощью или ограниченным обучением, а также добавление упражнений к другому вмешательству в сравнении с одним этим вмешательством. Поиск исследований охватывал период до 5 февраля 2025 года. Большинство исследований были небольшими, а ослепление участников и исследователей обычно отсутствовало.\n\nПо сравнению с отсутствием лечения, обычной помощью или ограниченным обучением упражнения, вероятно, немного уменьшали боль и улучшали физическую функцию, однако эти изменения вряд ли были клинически значимыми. Влияние на качество жизни было минимальным или отсутствовало. При сравнении с контролем внимания или плацебо возможное небольшое улучшение физической функции сочеталось с неопределённым влиянием на боль. Добавление упражнений к другому вмешательству, по сравнению с использованием только этого вмешательства, вероятно, практически не влияло на боль, физическую функцию и качество жизни, но немного снижало риск нежелательных явлений.\n\nДостоверность выводов различалась от очень низкой до умеренной. При сравнении с обычной помощью данные о нежелательных явлениях были очень неопределёнными, а при сравнении с плацебо или контролем внимания также отмечался возможный повышенный риск, основанный на одном небольшом исследовании с 18 участниками. В целом упражнения могут давать небольшое симптоматическое улучшение по сравнению с отсутствием целенаправленного лечения, но обзор не подтверждает, что эти изменения обычно достигают клинически значимого уровня.",
+    "_reason": "Обзор обобщает рандомизированные исследования упражнений при остеоартрозе тазобедренного сустава и показывает, что их средняя дополнительная польза для боли и функции невелика и может не достигать клинически значимого уровня. Для практики особенно важно различать эффект упражнений по сравнению с отсутствием целенаправленного лечения и их дополнительный эффект при сочетании с другими вмешательствами, а также не преувеличивать уверенность в выводах о безопасности.",
+    "why_read": "Статью стоит прочитать врачам, физиотерапевтам и специалистам по лечебной физкультуре, которые обсуждают с пациентами консервативное лечение коксартроза и хотят реалистично объяснять ожидаемый эффект упражнений. Она также полезна для подготовки совместного решения о целях реабилитации и для понимания того, насколько надёжны данные о боли, функции, качестве жизни и нежелательных явлениях.",
+    "limitations": [
+      "Most studies were small and unblinded.",
+      "low certainty",
+      "very low certainty",
+      "however, these improvements are unlikely to be clinically meaningful.",
+      "There was no evidence for quality of life or participant-reported treatment success."
+    ],
+    "advice_items": [
+      {
+        "quote": "however, these improvements are unlikely to be clinically meaningful.",
+        "advice": "Объясняйте пациенту, что небольшое среднее улучшение боли или физической функции не обязательно означает заметное изменение повседневной жизни. При постановке целей реабилитации заранее определяйте функциональные показатели, по которым можно оценить индивидуальную пользу занятий.",
+        "audience": "врач"
+      },
+      {
+        "quote": "Exercise plus a co-intervention (A), compared to the co-intervention (A) alone, probably has little to no effect on pain (MD -3.86 points, 95% CI -8.07 to 0.35; 7 studies, 751 participants; moderate certainty), physical function (MD -2.37 points, 95% CI -6.59 to 1.86; 7 studies, 751 participants; moderate certainty), or quality of life (MD 3.60 points, 95% CI -1.30 to 8.36; 4 studies, 456 participants; moderate certainty).",
+        "advice": "При обсуждении добавления упражнений к уже применяемому вмешательству отдельно объясняйте, что обзор не выявил убедительной дополнительной пользы по боли, физической функции и качеству жизни. Решение о включении занятий следует связывать с индивидуальными функциональными целями и переносимостью, а не с обещанием дополнительного эффекта, подтверждённого этим сравнением.",
+        "audience": "врач"
+      },
+      {
+        "quote": "Exercise probably reduces the risk of adverse events slightly (RR 0.75, 95% CI 0.58 to 0.97; 6 studies, 731 participants; moderate certainty).",
+        "advice": "При рассмотрении упражнений в дополнение к другому вмешательству учитывайте, что в этом сравнении риск нежелательных явлений немного снижался. Не переносите этот результат автоматически на любые программы и группы пациентов; во время реабилитации продолжайте отслеживать переносимость и регистрировать нежелательные явления.",
+        "audience": "врач"
+      },
+      {
+        "quote": "Most studies were small and unblinded.",
+        "advice": "Учитывайте ограничения доказательной базы при объяснении ожидаемой пользы и рисков. Не представляйте небольшие изменения в средних показателях как гарантированный результат для конкретного пациента и сопоставляйте их с наблюдаемыми изменениями боли и повседневной функции.",
+        "audience": "врач"
+      }
+    ],
+    "importance_stars": 5,
+    "importance_mark": "★★★★★",
+    "take": "keep"
+  },
+  {
+    "id": 233,
     "pmid": "42803956",
     "source": "PubMed",
     "article": "Systematic evidence analysis of symptom modification in hip osteoarthritis following MSC-based interventions.",
