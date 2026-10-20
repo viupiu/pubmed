@@ -200,7 +200,6 @@ a:hover{text-decoration:underline}
         <h2>Что можно применить пациенту</h2>
         <p>Каталог клинических статей. Сейчас в нём тема АГА, дальше появятся другие. Пять звёзд — доза, эффект или риск, на которые можно опереться на приёме. Это пересказ исследований, не схема лечения.</p>
         <div class="stats">
-          <div class="stat"><div class="num" id="statShown">—</div><div class="lbl">сейчас на экране (фильтр)</div></div>
           <div class="stat"><div class="num" id="statCatalog">—</div><div class="lbl">во всём каталоге</div></div>
           <div class="stat"><div class="num" id="statYears">—</div><div class="lbl">лет покрыто в каталоге</div></div>
         </div>
@@ -518,9 +517,6 @@ function activeFilterLabels(){
 }
 function updateHero(list){
   const catalogYears=new Set(articles.map(articleYear).filter(Boolean));
-  const filtered=!!(searchQuery || activeTopic.length || activeYear.length || activeStars.length);
-  document.getElementById("statShown").textContent=list.length;
-  document.getElementById("statShown").closest(".stat").querySelector(".lbl").textContent=filtered?"сейчас на экране (фильтр)":"сейчас на экране";
   document.getElementById("statCatalog").textContent=articles.length;
   document.getElementById("statYears").textContent=catalogYears.size;
 }
@@ -539,7 +535,7 @@ function render(){
     </div>`:"";
   document.getElementById("appBody").innerHTML=`
     <div class="toolbar">
-      <div><h3>${esc(viewTitle())}</h3><div class="meta">${list.length} статей${filters.length?" · "+esc(filters.join(" · ")):""}${list.length>PAGE_SIZE?` · на странице ${slice.length}`:""}</div></div>
+      <div><h3>${esc(viewTitle())}</h3><div class="meta">${list.length} статей${filters.length?" · "+esc(filters.join(" · ")):""}</div></div>
     </div>
     <div class="pills">
       <button class="pill active" id="clearFilters">Стартовый вид: 2026, все звёзды</button>
