@@ -290,11 +290,13 @@ a:hover{text-decoration:underline}
 const DATA_FILE = "articles.json";
 const PAGE_SIZE = 72;
 const TOPIC_SHORT = {
-  aga:"АГА"
+  aga:"АГА",
+  crs:"Хронический риносинусит"
 };
 const TOPIC_MERGE = {
   aga_drugs:"aga",
-  aga_diagnosis:"aga"
+  aga_diagnosis:"aga",
+  crs_care:"crs"
 };
 function mapTopicKey(k){
   return TOPIC_MERGE[k]||k;
