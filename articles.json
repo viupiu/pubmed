@@ -51,8 +51,7 @@
     ],
     "importance_stars": 5,
     "importance_mark": "★★★★★",
-    "take": "keep",
-    "audience_sex": "women"
+    "take": "keep"
   },
   {
     "id": 2,
@@ -107,11 +106,121 @@
     ],
     "importance_stars": 5,
     "importance_mark": "★★★★★",
-    "take": "keep",
-    "audience_sex": "any"
+    "take": "keep"
   },
   {
     "id": 3,
+    "pmid": "42669143",
+    "source": "PubMed",
+    "article": "[Modern treatment of androgenetic alopecia].",
+    "authors": [
+      "Rózsa Petra",
+      "Kemény Lajos",
+      "Gyulai Rolland"
+    ],
+    "date": "2026-08-30",
+    "journal": "Orvosi hetilap",
+    "doi": "10.1556/650.2026.33637",
+    "topic": "АГА",
+    "topic_key": "aga",
+    "topic_keys": [
+      "aga"
+    ],
+    "topics": [
+      "АГА"
+    ],
+    "abstract_en": "INTRODUCTION: Androgenetic alopecia is the most common hair loss, characterized by a chronic and progressive course and a significant psychosocial burden.\n\nOBJECTIVE: The aim of this study was to provide a comparative analysis of current international guidelines and expert consensus statements on the treatment of androgenetic alopecia and to summarize their applicability in clinical practice.\n\nMETHOD: A literature search was performed in the PubMed database to identify English-language guidelines and expert recommendations published between 2015 and 2025. The included documents were analyzed narratively and compared based on therapeutic approaches.\n\nRESULTS: Conventional treatments, including topical minoxidil and 5-alpha-reductase inhibitors, remain the cornerstone of therapy. More recent recommendations increasingly support the use of low-dose oral minoxidil and dutasteride; however, their position varies across guidelines. The role of procedural therapies also differs, mainly due to limited evidence. Differences between recommendations are primarily driven by variability in levels of evidence and the evolving new therapies. In clinical practice, an individualized, multimodal treatment strategy combined with regular follow-up is essential.\n\nCONCLUSION: The management of androgenetic alopecia is a rapidly evolving field requiring personalized therapeutic decisions. In clinical practice, a personalized combined treatment strategy and regular follow-up are of paramount importance. Orv Hetil. 2026; 167(35): 1385-1393.",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/42669143/",
+    "pmc_link": "",
+    "html_available": false,
+    "html_link": "",
+    "title_ru": "Современные подходы к лечению андрогенетической алопеции: сравнение международных рекомендаций",
+    "summary": "В обзоре сравнили международные клинические рекомендации и экспертные консенсусы по лечению андрогенетической алопеции, опубликованные в 2015–2025 годах и найденные через PubMed. Наружный миноксидил и ингибиторы 5-альфа-редуктазы остаются основой лечения, а рекомендации по низким дозам перорального миноксидила, дутастериду и процедурным методам различаются. Авторы подчёркивают необходимость индивидуальной комбинированной терапии и регулярного наблюдения. Ограничение обзора состоит в неодинаковом уровне доказательств для разных методов и различиях между рекомендациями.",
+    "practical_use": "На приёме можно использовать обзор как ориентир для обсуждения стандартных и новых вариантов терапии, учитывая различия между международными рекомендациями и качество доказательств. Выбор комбинированного подхода и последующее наблюдение следует адаптировать к конкретному пациенту; абстракт не содержит достаточных данных для выбора определённой схемы или сравнения эффективности отдельных препаратов.",
+    "patient_plain": "Андрогенетическая алопеция обычно развивается постепенно и может существенно влиять на самочувствие и качество жизни. Основными методами лечения остаются наружный миноксидил и препараты, подавляющие 5-альфа-редуктазу; в новых рекомендациях также всё чаще рассматривают миноксидил в таблетках и дутастерид. Рекомендации по некоторым препаратам и процедурам различаются, поэтому лечение подбирают индивидуально и регулярно оценивают его результаты.",
+    "_reason": "Обзор полезен тем, что сопоставляет международные рекомендации и показывает, какие методы остаются основными, а какие пока занимают неодинаковое место в клинической практике. Однако доступен только абстракт, поэтому нельзя подробно оценить критерии сравнения, безопасность отдельных вариантов или основания для выбора конкретной схемы лечения.",
+    "why_read": "Обзор стоит прочитать дерматологам и трихологам, которым необходимо сопоставлять стандартную терапию с новыми подходами к лечению андрогенетической алопеции. Он также полезен для подготовки к обсуждению с пациентом перорального миноксидила, дутастерида и процедурных методов с учётом неоднородности доказательств. Для самостоятельного выбора лечения пациентом абстракта недостаточно.",
+    "limitations": [
+      "English-language guidelines and expert recommendations published between 2015 and 2025",
+      "analyzed narratively and compared based on therapeutic approaches",
+      "their position varies across guidelines",
+      "mainly due to limited evidence",
+      "variability in levels of evidence and the evolving new therapies"
+    ],
+    "advice_items": [
+      {
+        "quote": "In clinical practice, an individualized, multimodal treatment strategy combined with regular follow-up is essential.",
+        "advice": "Подбирайте лечение индивидуально, рассматривая комбинированный подход с учётом клинической ситуации и применимых рекомендаций. Предусматривайте регулярные повторные визиты для оценки динамики и пересмотра тактики при необходимости. В абстракте не указаны конкретные интервалы наблюдения или критерии смены терапии.",
+        "audience": "врач"
+      },
+      {
+        "quote": "Differences between recommendations are primarily driven by variability in levels of evidence and the evolving new therapies.",
+        "advice": "При обсуждении вариантов лечения обращайте внимание на качество доказательств, лежащих в основе рекомендаций. Не представляйте новые методы как равноценные стандартной терапии только потому, что они упоминаются в современных рекомендациях. Для выбора конкретного препарата или процедуры необходима оценка более подробных данных об эффективности и безопасности.",
+        "audience": "врач"
+      }
+    ],
+    "importance_stars": 4,
+    "importance_mark": "★★★★☆",
+    "take": "keep"
+  },
+  {
+    "id": 4,
+    "pmid": "42799286",
+    "source": "PubMed",
+    "article": "Efficacy and Safety of Platelet-Rich Plasma Versus Topical Minoxidil in Androgenetic Alopecia: A Systematic Review.",
+    "authors": [
+      "Garcia Prado Angel I",
+      "Ramos Cristiansen Domenica P",
+      "Robles Rangel Dinorah A",
+      "Moreno Hidalgo Reiner S"
+    ],
+    "date": "2026-08-26",
+    "journal": "Cureus",
+    "doi": "10.7759/cureus.115244",
+    "topic": "АГА",
+    "topic_key": "aga",
+    "topic_keys": [
+      "aga"
+    ],
+    "topics": [
+      "АГА"
+    ],
+    "abstract_en": "Choosing between single-agent and combined therapies for androgenetic alopecia (AGA) remains a frequent clinical challenge, particularly when comparing topical options against autologous treatments. This study compares how 5% topical minoxidil and autologous platelet-rich plasma (PRP) perform against each other alone and in combination, focusing on efficacy, side effects, and patient satisfaction. The search covered the Cochrane Central Register of Controlled Trials (CENTRAL), Medical Literature Analysis and Retrieval System Online (MEDLINE), PubMed, Scopus, Latin American and Caribbean Health Sciences Literature (LILACS), and Scientific Electronic Library Online (SciELO) up to May 2026. We targeted prospective randomized controlled trials (RCTs) comparing or combining minoxidil 5% with PRP in adult cohorts (≥18 years). Quality assessment relied on Cochrane Risk of Bias 2 (RoB 2). Four trials enrolling 226 patients qualified for analysis. Monotherapies displayed distinct clinical patterns. Topical 5% minoxidil generated steady hair shaft thickness over extended follow-up. In contrast, monthly PRP injections induced rapid initial hair pull test conversion by week 12. Combined administration showed more favorable clinical outcomes compared to individual monotherapy arms across evaluated endpoints, with individual trials reporting up to 66.7% hair diameter gains, higher trichoscopic hair counts, and patient satisfaction rates reaching up to 90%. Complications remained local and minor, presenting as mild scalp itching with minoxidil and transient post-injection soreness with PRP. Marked variation in PRP preparation methods, spin protocols, and injected volumes prevented quantitative pooling. Studies evaluated predominantly male cohorts during short six-month tracking windows. Single-agent regimens provide partial responses without clear overall dominance. Adding monthly PRP injections to daily 5% minoxidil demonstrates promising comparative efficacy for vertex density restoration, though further standardized trials are warranted.",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/42799286/",
+    "pmc_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13614693/",
+    "html_available": true,
+    "html_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13614693/",
+    "title_ru": "Эффективность и безопасность обогащённой тромбоцитами плазмы и наружного миноксидила при андрогенетической алопеции: систематический обзор",
+    "summary": "Систематический обзор объединил четыре рандомизированных исследования с участием 226 взрослых пациентов с андрогенетической алопецией, преимущественно мужчин, и сравнил инъекции обогащённой тромбоцитами плазмы (PRP), наружный миноксидил 5% и их сочетание. Миноксидил обеспечивал постепенное улучшение толщины волос, тогда как PRP в некоторых исследованиях давала более быстрый ранний ответ; сочетание методов показывало более благоприятные результаты по отдельным клиническим показателям и удовлетворённости пациентов. Побочные эффекты были преимущественно местными и лёгкими: зуд кожи головы при применении миноксидила и временная болезненность после инъекций. Достоверность выводов ограничена небольшим количеством исследований, неоднородностью протоколов PRP, коротким наблюдением и высоким риском систематической ошибки в двух из четырёх испытаний.",
+    "practical_use": "При обсуждении лечения АГА можно рассматривать PRP как потенциальное дополнение к наружному миноксидилу 5%, объясняя пациенту, что имеющиеся данные указывают на возможное преимущество комбинации по отдельным показателям, но не доказывают её безусловного превосходства. Выбор между монотерапией и комбинацией следует обсуждать с учётом ожиданий пациента, переносимости и готовности к инъекционным процедурам; обзор не устанавливает стандартизированного протокола PRP. Необходимо учитывать ограниченную доказательную базу и не представлять результаты как подтверждение гарантированного восстановления густоты волос.",
+    "patient_plain": "Миноксидил 5% и инъекции собственной плазмы, обогащённой тромбоцитами, могут помогать при андрогенетическом выпадении волос, но действуют несколько по-разному: миноксидил постепенно улучшает толщину волос, а плазмотерапия в некоторых исследованиях давала более быстрый ранний результат. Их сочетание выглядело перспективнее отдельных методов по некоторым показателям, однако исследований пока мало, а способы приготовления и введения плазмы различались. Миноксидил мог вызывать лёгкий зуд, а после инъекций отмечалась временная болезненность. Эти данные не гарантируют, что комбинация окажется лучше для каждого человека.",
+    "_reason": "Обзор непосредственно сравнивает два метода лечения АГА и их сочетание, поэтому его выводы полезны при обсуждении вариантов терапии на приёме. Однако всего четыре исследования с 226 участниками не позволяют уверенно установить универсальное преимущество одного метода или определить оптимальный протокол плазмотерапии. Практическая ценность статьи умеренно высокая, но результаты требуют осторожной интерпретации.",
+    "why_read": "Статья полезна дерматологам и трихологам, которым нужно объяснять пациентам различия между наружным миноксидилом, PRP и их сочетанием. Её также стоит прочитать пациентам, рассматривающим плазмотерапию как дополнение к миноксидилу, чтобы понимать ограничения доказательств и возможные местные побочные эффекты.",
+    "limitations": [
+      "Four prospective randomized trials met every selection requirement",
+      "Studies evaluated predominantly male cohorts during short six-month tracking windows.",
+      "Marked variation in PRP preparation methods, spin protocols, and injected volumes prevented quantitative pooling.",
+      "Because two of the four included RCTs exhibit a high overall risk of bias",
+      "the certainty of evidence for hair density and shaft diameter improvements was rated as moderate due to minor imprecision and methodological heterogeneity across PRP centrifugation protocols."
+    ],
+    "advice_items": [
+      {
+        "quote": "standardizing these biological preparation parameters and refining procedural pain control stand as primary practical priorities to maximize patient adherence and therapeutic success in clinical practice.",
+        "advice": "При обсуждении PRP уточняйте, насколько стандартизированы подготовка плазмы и протокол процедуры в выбранной клинике. Заранее объясняйте возможность временной болезненности после инъекций и обсуждайте меры контроля дискомфорта. Обзор не определяет единственный оптимальный протокол, поэтому не следует выдавать конкретную методику за доказанно лучшую.",
+        "audience": "врач"
+      },
+      {
+        "quote": "Combining topical minoxidil with PRP represents a promising therapeutic option that may enhance overall clinical responses in selected patients.",
+        "advice": "При выборе лечения можно обсудить сочетание наружного миноксидила и PRP как один из возможных вариантов, а не как обязательную или гарантированно более эффективную терапию. Объясните, что преимущество комбинации обнаруживалось по отдельным показателям, а доказательств пока недостаточно для окончательного вывода о её превосходстве у всех пациентов.",
+        "audience": "врач"
+      }
+    ],
+    "importance_stars": 4,
+    "importance_mark": "★★★★☆",
+    "take": "keep"
+  },
+  {
+    "id": 5,
     "pmid": "42647672",
     "source": "PubMed",
     "article": "Hair loss: A systematic approach to evaluation, diagnosis, and management.",
@@ -169,11 +278,197 @@
     ],
     "importance_stars": 5,
     "importance_mark": "★★★★★",
-    "take": "keep",
-    "audience_sex": "any"
+    "take": "keep"
   },
   {
-    "id": 4,
+    "id": 6,
+    "pmid": "42565959",
+    "source": "PubMed",
+    "article": "Spironolactone versus Bicalutamide for Female Pattern Hair Loss: A 24-Month Unicenter Retrospective Comparative Study of Effectiveness and Safety.",
+    "authors": [
+      "Gil-Redondo Rocío",
+      "Jimenez-Cauhe Juan",
+      "Imbernon-Moya Adrián",
+      "Buendía-Castaño Diego",
+      "Burgos Blasco Patricia",
+      "Díaz-Guimaraens Borja",
+      "Domínguez-Santas Miguel",
+      "Hermosa-Gelbard Ángela",
+      "Saceda-Corralo David",
+      "Vañó-Galván Sergio"
+    ],
+    "date": "2026-08-07",
+    "journal": "Dermatology and therapy",
+    "doi": "10.1007/s13555-026-01879-8",
+    "topic": "АГА",
+    "topic_key": "aga",
+    "topic_keys": [
+      "aga"
+    ],
+    "topics": [
+      "АГА"
+    ],
+    "abstract_en": "INTRODUCTION: Female pattern hair loss (FPHL) is a chronic, progressive condition that affects quality of life. Off-label systemic antiandrogens are increasingly used, but comparative data remain limited.\n\nMETHODS: To compare the effectiveness, safety, and healthcare resource utilization of spironolactone versus bicalutamide in FPHL over 24 months, we conducted a unicenter retrospective cohort study of women with FPHL treated between 2018 and 2022. The primary outcome was mean change in Sinclair grade from baseline to month 24. Secondary outcomes included ≥ 1 grade improvement, adverse events, and healthcare utilization. Linear and ordinal logistic regression models were adjusted for baseline severity.\n\nRESULTS: A total of 187 women (median age 35 years, range 15-69 years) completed 24 months of follow-up. Both drugs produced significant Sinclair grade improvement (mean change -0.5, p < 0.001). Spironolactone (n = 128) was superior, with 54.4% achieving ≥ 1 grade improvement versus 37.3% with bicalutamide (n = 59) (p = 0.030). High-dose spironolactone (> 100 mg/day, median 130 mg/day) showed greater benefit than the maximum bicalutamide dose (50 mg/day). Adverse event rate was similar, but bicalutamide caused more laboratory abnormalities and required closer monitoring.\n\nCONCLUSIONS: Both drugs are effective systemic options. Spironolactone, particularly > 100 mg/day, demonstrated greater efficacy, comparable safety, and less monitoring, supporting its potential role as first-line systemic option.",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/42565959/",
+    "pmc_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13558485/",
+    "html_available": true,
+    "html_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13558485/",
+    "title_ru": "Спиронолактон против бикалутамида при женском типе выпадения волос: сравнительное исследование эффективности и безопасности за 24 месяца",
+    "summary": "В одноцентровом ретроспективном исследовании сравнили спиронолактон и бикалутамид у женщин с женским типом выпадения волос. Из 387 начавших лечение пациенток в основной анализ вошли 187, завершивших 24-месячное наблюдение; обе группы показали улучшение по шкале Синклера в среднем на 0,5 балла, но улучшение минимум на одну степень наблюдалось чаще при приёме спиронолактона, чем бикалутамида (54,4% против 37,3%). При высоких дозах преимущество спиронолактона было статистически значимым, а бикалутамид чаще сопровождался лабораторными отклонениями и требовал более тщательного мониторинга. Результаты ограничены ретроспективным дизайном, потерей значительной части начавших лечение пациенток и частым одновременным применением перорального миноксидила.",
+    "practical_use": "При обсуждении системной антиандрогенной терапии женской андрогенетической алопеции исследование поддерживает рассмотрение спиронолактона как предпочтительного варианта по сравнению с бикалутамидом, поскольку в этой когорте он обеспечивал более частое улучшение и требовал менее интенсивного лабораторного контроля. При интерпретации результата важно учитывать сопутствующую терапию, особенно пероральный миноксидил, и то, что до 24 месяцев наблюдения дошли менее половины начавших лечение пациенток. Авторы считают бикалутамид возможной альтернативой при непереносимости или недостаточном ответе на спиронолактон, подчёркивая необходимость более частого лабораторного мониторинга; сравнительные выводы требуют подтверждения рандомизированными исследованиями.",
+    "patient_plain": "В исследовании у женщин с женским типом выпадения волос оба препарата были связаны с улучшением за два года, но спиронолактон помог большему числу участниц добиться улучшения хотя бы на одну степень по шкале Синклера. При сравнении высоких доз преимущество также было на стороне спиронолактона, а при использовании бикалутамида чаще выявляли отклонения в лабораторных анализах. Это не прямое доказательство того, что спиронолактон подойдёт каждой женщине: исследование было ретроспективным, многие участницы одновременно принимали миноксидил, а лечение самостоятельно не сравнивали в рандомизированном испытании.",
+    "_reason": "Работа даёт практические сравнительные данные о двух системных антиандрогенах при женском типе выпадения волос и указывает на преимущество спиронолактона по частоте клинического улучшения и объёму необходимого мониторинга. Однако ретроспективный дизайн, исключение 200 из 387 начавших лечение пациенток из основного анализа и частое сочетание терапии с пероральным миноксидилом не позволяют уверенно приписать весь эффект одному препарату. Это полезное основание для обсуждения вариантов лечения, но не окончательное доказательство превосходства.",
+    "why_read": "Статья полезна дерматологам и трихологам, которые выбирают системную антиандрогенную терапию для женщин с андрогенетической алопецией и хотят сопоставить результаты лечения и требования к лабораторному контролю. Пациенткам она поможет понять, почему спиронолактон может рассматриваться раньше бикалутамида, но не заменяет индивидуальную оценку противопоказаний, рисков и сопутствующего лечения.",
+    "limitations": [
+      "unicenter retrospective cohort study",
+      "A total of 187 completed the follow-up period and were included in the primary analysis",
+      "Among the 200 patients who discontinued treatment before 24 months",
+      "A total of 176 patients (94%) were concomitantly receiving oral minoxidil",
+      "Future randomized trials are needed to validate these findings"
+    ],
+    "advice_items": [
+      {
+        "quote": "Bicalutamide remains a viable alternative for patients who are unable to tolerate or do not respond to spironolactone and may provide additional benefits in patients with seborrhea, although it requires closer clinical follow-up and more frequent laboratory monitoring.",
+        "advice": "При недостаточном ответе на спиронолактон или его непереносимости можно обсудить бикалутамид как альтернативу, учитывая ретроспективный характер доказательств. Если выбран бикалутамид, следует предусмотреть более частый лабораторный контроль и клиническое наблюдение. Возможная дополнительная польза при себорее отмечена авторами, но представленный фрагмент не позволяет оценить её количественно.",
+        "audience": "врач"
+      },
+      {
+        "quote": "Future randomized trials are needed to validate these findings and to evaluate the cost-effectiveness and broader dermatologic effects of antiandrogens in FPHL.",
+        "advice": "При обсуждении результатов с пациенткой важно пояснить, что преимущество спиронолактона выявлено в ретроспективном сравнении и пока нуждается в подтверждении рандомизированными исследованиями. Не следует представлять результаты как окончательное доказательство превосходства препарата для всех пациенток или как гарантию индивидуального ответа.",
+        "audience": "врач"
+      }
+    ],
+    "importance_stars": 4,
+    "importance_mark": "★★★★☆",
+    "take": "keep"
+  },
+  {
+    "id": 7,
+    "pmid": "42701670",
+    "source": "PubMed",
+    "article": "Pain in the heart, hair on the head: Pericarditis as an unanticipated risk of low-dose oral minoxidil.",
+    "authors": [
+      "Zappi Isabella",
+      "Spindler Archie",
+      "Maas Derek",
+      "Yaghoobzadeh Hooman",
+      "Lo Sicco Kristen I",
+      "Shapiro Jerry"
+    ],
+    "date": "2026-08-04",
+    "journal": "JAAD case reports",
+    "doi": "10.1016/j.jdcr.2026.07.056",
+    "topic": "АГА",
+    "topic_key": "aga",
+    "topic_keys": [
+      "aga"
+    ],
+    "topics": [
+      "АГА"
+    ],
+    "abstract_en": "",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/42701670/",
+    "pmc_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13545680/",
+    "html_available": true,
+    "html_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13545680/",
+    "title_ru": "Перикардит как редкое потенциальное осложнение приёма низких доз перорального миноксидила для лечения выпадения волос",
+    "summary": "В статье описан случай перикардита, который авторы сочли наиболее вероятно связанным с повторным началом приёма низких доз перорального миноксидила (LDOM). В обзоре литературы также приведены два ранее опубликованных случая перикардита у мужчин, принимавших миноксидил, в том числе с развитием перикардиального или плеврального выпота; в обоих случаях симптомы разрешились после отмены препарата. Авторы подчёркивают, что осложнение может возникнуть даже у людей без известных заболеваний сердца или почек и после ранее хорошо переносимого лечения. Доказательства основаны на отдельных клинических случаях и не позволяют определить частоту осложнения или доказать причинно-следственную связь.",
+    "practical_use": "При назначении или возобновлении перорального миноксидила следует обсудить редкие, но потенциально серьёзные сердечно-сосудистые осложнения и обеспечить врачебное наблюдение. При подозрении на перикардит необходима кардиологическая оценка; ранее хорошая переносимость препарата не исключает осложнения при повторном назначении. Статья не позволяет количественно оценить риск или определить оптимальную схему возобновления лечения.",
+    "patient_plain": "Пероральный миноксидил, который используют для лечения выпадения волос, в редких описанных случаях связывали с воспалением оболочки сердца — перикардитом. Такие случаи отмечали и у людей без известных заболеваний сердца или почек, а также после повторного начала приёма препарата. В опубликованных случаях симптомы проходили после отмены миноксидила, но это не доказывает, что препарат был единственной причиной. Возобновлять его приём следует под наблюдением врача, а при подозрении на сердечное осложнение необходимо обратиться за медицинской помощью.",
+    "_reason": "Статья важна для практики, поскольку обращает внимание на потенциально серьёзное осложнение препарата, который применяют при андрогенетической алопеции и который обычно характеризуют как хорошо переносимый в низких дозах. Однако это описание клинического случая с обзором ещё двух случаев, поэтому оно служит сигналом для настороженности, а не доказательством частого риска или основанием для отказа от препарата у всех пациентов.",
+    "why_read": "Материал стоит прочитать дерматологам, назначающим пероральный миноксидил, особенно при повторном начале лечения после перерыва. Он также полезен для обсуждения сердечно-сосудистой безопасности и необходимости наблюдения, но не заменяет более масштабные исследования безопасности и клинические рекомендации.",
+    "limitations": [
+      "current studies may be underpowered to detect rare complications such as pericarditis",
+      "Although exceedingly rare, these reports highlight a potential association between LDOM and pericarditis.",
+      "raising questions about whether higher starting doses contribute towards risk"
+    ],
+    "advice_items": [
+      {
+        "quote": "This case reinforces the importance of dermatologist supervision when resuming LDOM, as pericarditis may develop rapidly and should warrant cardiac evaluation.",
+        "advice": "При возобновлении перорального миноксидила организуйте врачебное наблюдение и обсудите с пациентом возможные сердечные осложнения. При подозрении на перикардит необходима оценка состояния сердца. Авторы отмечают, что осложнение может развиться быстро.",
+        "audience": "врач"
+      },
+      {
+        "quote": "Prior tolerance to LDOM may not preclude side effects upon re-exposure.",
+        "advice": "Не считайте прежнюю хорошую переносимость перорального миноксидила гарантией безопасности при повторном назначении. При возобновлении лечения заново оцените клиническую ситуацию и необходимость наблюдения.",
+        "audience": "врач"
+      },
+      {
+        "quote": "Clinicians should remain vigilant for pericarditis symptoms and counsel patients regarding the possible rare but serious cardiac complications.",
+        "advice": "Перед началом или возобновлением лечения обсудите с пациентом возможность редких, но серьёзных сердечных осложнений. Объясните, что при появлении симптомов, вызывающих подозрение на перикардит, необходимо своевременно обратиться за медицинской помощью.",
+        "audience": "врач"
+      }
+    ],
+    "importance_stars": 4,
+    "importance_mark": "★★★★☆",
+    "take": "keep"
+  },
+  {
+    "id": 8,
+    "pmid": "42644026",
+    "source": "PubMed",
+    "article": "Diagnostic Yield and Clinical Impact of Trichoscopy in Alopecia: A Cross-Sectional Study From a Rural Tertiary Care Centre.",
+    "authors": [
+      "Jagalur Harshini",
+      "Devaraj Yogesh",
+      "Swaroop Mukunda R",
+      "Gurudev Shradha",
+      "Nagaraj Lakshmi G",
+      "Chauwan Ranjeeta S",
+      "S Apoorva",
+      "Thakur Avani"
+    ],
+    "date": "2026-07-26",
+    "journal": "Cureus",
+    "doi": "10.7759/cureus.113387",
+    "topic": "АГА",
+    "topic_key": "aga",
+    "topic_keys": [
+      "aga"
+    ],
+    "topics": [
+      "АГА"
+    ],
+    "abstract_en": "Background and objective Alopecia encompasses a heterogeneous group of scarring and non-scarring disorders that often have overlapping clinical features, complicating diagnosis when scalp biopsy is unavailable. The real-world diagnostic yield of trichoscopy in rural Indian populations remains incompletely characterised. The objective of this study is to evaluate the diagnostic yield of trichoscopy, quantify its capacity to alter or refine provisional clinical diagnoses, and assess its role in reducing invasive investigations. Methods A hospital-based cross-sectional study enrolled 200 consecutive alopecia patients at a rural tertiary care centre over 18 months (April 1, 2024, to October 1, 2025). Trichoscopy was performed with a handheld dermatoscope (Illuco IDS-1100; ILLUCO Co., Ltd., Gyeonggi-do, Republic of Korea). A provisional diagnosis was recorded prior to trichoscopy; outcome was classified as confirmed, refined, or inconclusive against the final composite diagnosis. Discriminatory features were analysed by chi-square and Fisher's exact tests. Results Trichoscopy was diagnostically contributory in 195/200 (97.5%): confirming the diagnosis in 190/200 (95.0%), refining it in 5/200 (2.5%), and being inconclusive in 5/200 (2.5%). Two cases (2/200, 1.0%) of presumed alopecia areata were re-diagnosed as tinea capitis on identification of comma hairs, averting inappropriate corticosteroid therapy; three cases (3/200, 1.5%) of presumed telogen effluvium were re-diagnosed as female pattern hair loss based on hair diameter diversity >20%. Comma hairs demonstrated 78.6% sensitivity (11/14) and 100% specificity (186/186) for tinea capitis (p < 0.001), directed targeted KOH testing (12/14, 85.7% positive yield), and limited the diagnosis-deciding scalp biopsy rate to 2/200 (1.0%). Conclusions Trichoscopy shows strong potential as a first-line, non-invasive triage tool in routine dermatology practice, particularly in resource-limited settings where it may help confirm diagnoses, avert mismanagement, and reduce the need for invasive investigations; multi-centre validation against an independent reference standard is needed before this can be firmly established.",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/42644026/",
+    "pmc_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13504656/",
+    "html_available": true,
+    "html_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13504656/",
+    "title_ru": "Диагностическая ценность трихоскопии при выпадении волос: исследование в сельском дерматологическом центре Индии",
+    "summary": "В поперечное исследование включили 200 пациентов с различными формами алопеции, среди которых были мужчины с андрогенетической алопецией и женщины с женским типом выпадения волос. Трихоскопия подтвердила предварительный клинический диагноз у 190 пациентов (95%), помогла уточнить или изменить его у пяти (2,5%) и оказалась неинформативной у пяти (2,5%). Разнообразие диаметра волос более 20% было характерно для выпадения волос по женскому и мужскому типу, а запятыеобразные волосы помогали выявлять стригущий лишай волосистой части головы. Исследование проведено в одном центре, а авторы указывают на необходимость многоцентровой проверки результатов с использованием независимого диагностического стандарта.",
+    "practical_use": "При диагностике выпадения волос трихоскопию можно использовать как неинвазивный метод уточнения клинического диагноза и выбора дальнейших исследований. При подозрении на женский тип выпадения волос следует оценивать разнообразие диаметра волос вместе с общей картиной, включая преобладание миниатюризированных волос во фронтальной области; изолированный порог более 20% не следует рассматривать как универсальный критерий. При обнаружении запятыеобразных или штопорообразных волос необходимо проверить подозрение на стригущий лишай с помощью микроскопического исследования с KOH, а при неясной картине рубцовой алопеции может потребоваться гистологическое исследование.",
+    "patient_plain": "Трихоскопия — это осмотр кожи головы и волос под увеличением, который помогает врачу различать причины выпадения волос без биопсии во многих случаях. В этом исследовании она помогла подтвердить диагноз у большинства пациентов и в пяти случаях изменила первоначальное заключение, в том числе позволила отличить женский тип выпадения волос от телогенового выпадения и выявить грибковую инфекцию. Однако иногда результатов осмотра недостаточно, и тогда нужны дополнительные исследования.",
+    "_reason": "Статья полезна для практики, поскольку показывает, как трихоскопия помогает уточнять диагноз при разных формах алопеции и предотвращать клинически значимые ошибки. Особенно важен пример выявления стригущего лишая вместо предполагаемой очаговой алопеции, поскольку ошибочный диагноз мог привести к ненужному применению кортикостероидов. При этом высокая диагностическая результативность получена в одном центре и не доказывает, что показатели будут такими же в других клинических условиях.",
+    "why_read": "Статья пригодится дерматологам и трихологам, которые дифференцируют андрогенетическую алопецию, женский тип выпадения волос и телогеновое выпадение. Она также полезна для понимания диагностических признаков трихоскопии и случаев, когда необходимы дополнительные исследования. Для выбора конкретного лечения статья менее полезна, поскольку посвящена диагностике, а не сравнению лечебных методов.",
+    "limitations": [
+      "A hospital-based cross-sectional study",
+      "at a rural tertiary care centre",
+      "Multi-centre validation against an independent reference standard is needed",
+      "formal assessment of inter-observer agreement"
+    ],
+    "advice_items": [
+      {
+        "quote": "Reclassification from telogen effluvium to female pattern hair loss was based on the overall trichoscopic pattern (increased hair diameter diversity alongside frontal predominance of miniaturised/vellus hairs), with hair diameter diversity ≥20% as the decisive discriminating feature within this composite picture rather than as an isolated criterion.",
+        "advice": "При дифференциальной диагностике телогенового выпадения и женского типа выпадения волос оценивайте совокупность трихоскопических признаков, включая разнообразие диаметра волос и преобладание миниатюризированных волос во фронтальной области. Порог разнообразия диаметра не следует интерпретировать отдельно от общей картины. В исследовании именно комплексная оценка позволила пересмотреть диагноз у трёх пациенток.",
+        "audience": "врач"
+      },
+      {
+        "quote": "Comma hairs demonstrated 78.6% sensitivity (11/14) and 100% specificity (186/186) for tinea capitis (p < 0.001), directed targeted KOH testing (12/14, 85.7% positive yield), and limited the diagnosis-deciding scalp biopsy rate to 2/200 (1.0%).",
+        "advice": "При обнаружении запятыеобразных волос учитывайте возможность стригущего лишая и используйте результат для обоснования целевого исследования с KOH. В данной выборке этот признак обладал высокой специфичностью, но чувствительность составляла 78,6%, поэтому его отсутствие не исключает инфекцию. Не переносите показатели исследования на другие популяции без дополнительной проверки.",
+        "audience": "врач"
+      },
+      {
+        "quote": "In two of these patients (2/200, 1.0%), a provisional clinical diagnosis of alopecia areata was revised to tinea capitis following trichoscopic identification of comma hairs and corkscrew hairs, subsequently confirmed on KOH mount; this reclassification averted inappropriate intralesional or topical corticosteroid therapy.",
+        "advice": "Если клиническая картина предполагаемой очаговой алопеции вызывает сомнения, проверьте, нет ли трихоскопических признаков грибковой инфекции. Подтверждение стригущего лишая позволяет избежать ошибочного назначения кортикостероидов для состояния, которое имеет другую причину. В исследовании такой пересмотр диагноза был подтверждён исследованием с KOH.",
+        "audience": "врач"
+      }
+    ],
+    "importance_stars": 4,
+    "importance_mark": "★★★★☆",
+    "take": "keep"
+  },
+  {
+    "id": 9,
     "pmid": "41742379",
     "source": "PubMed",
     "article": "Spironolactone vs. bicalutamide in female pattern hair loss: a randomized clinical trial.",
@@ -214,11 +509,10 @@
     "advice_items": [],
     "importance_stars": 5,
     "importance_mark": "★★★★★",
-    "take": "keep",
-    "audience_sex": "women"
+    "take": "keep"
   },
   {
-    "id": 5,
+    "id": 10,
     "pmid": "42631326",
     "source": "PubMed",
     "article": "Poor Therapeutic Response in Female Pattern Hair Loss: Mechanisms and a Practical Framework for Clinical Management.",
@@ -271,11 +565,193 @@
     ],
     "importance_stars": 5,
     "importance_mark": "★★★★★",
-    "take": "keep",
-    "audience_sex": "women"
+    "take": "keep"
   },
   {
-    "id": 6,
+    "id": 11,
+    "pmid": "42564029",
+    "source": "PubMed",
+    "article": "Unexpected Hair Regrowth Following Oral Bicalutamide Exposure in a Male Patient With Androgenetic Alopecia and a Suboptimal Response to Conventional Therapies: A Case Report.",
+    "authors": [
+      "Martínez Coronado Jared",
+      "Dominguez Romo Kenia",
+      "Vazquez Enriquez Luisa F",
+      "Hurtado Cordova Jose",
+      "Pico Carolina"
+    ],
+    "date": "2026-07-06",
+    "journal": "Cureus",
+    "doi": "10.7759/cureus.112176",
+    "topic": "АГА",
+    "topic_key": "aga",
+    "topic_keys": [
+      "aga"
+    ],
+    "topics": [
+      "АГА"
+    ],
+    "abstract_en": "Androgenetic alopecia (AGA) is the most common cause of non-scarring hair loss in men. Although topical minoxidil and oral finasteride are established treatments, some patients show limited clinical response despite prolonged therapy. Evidence on the use of oral bicalutamide in male AGA remains scarce because of concerns about systemic adverse effects. We report the case of a 45-year-old man with treatment-resistant AGA who experienced clinically apparent hair regrowth during oral bicalutamide exposure after an inadequate response to conventional therapies. Treatment was accompanied by gynecomastia, mastodynia, decreased libido, erectile dysfunction, and mild elevations in hepatic enzymes, leading to drug discontinuation. Clinical adverse effects resolved after withdrawal of bicalutamide; however, follow-up hormonal evaluation and liver function tests were unavailable. This case describes a temporal association between androgen receptor blockade, clinically apparent hair regrowth, and clinically significant adverse effects. Although the findings provide additional insight into the role of androgen receptor signaling in AGA, they should not be interpreted as evidence supporting the use of oral bicalutamide in male patients. Further controlled studies are needed to better define the safety profile and potential role of androgen receptor antagonism in androgenetic alopecia.",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/42564029/",
+    "pmc_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13441645/",
+    "html_available": true,
+    "html_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13441645/",
+    "title_ru": "Восстановление роста волос на фоне приёма бикалутамида у мужчины с андрогенетической алопецией и слабым ответом на стандартное лечение: описание клинического случая",
+    "summary": "В статье описан 45-летний мужчина с андрогенетической алопецией, у которого длительное применение наружного и перорального миноксидила и перорального финастерида давало ограниченный эффект. После отмены обоих вариантов миноксидила и начала приёма бикалутамида через четыре месяца наблюдалось клинически заметное увеличение густоты волос и покрытия кожи головы. Во время лечения возникли гинекомастия, болезненность молочных желёз, снижение либидо, эректильная дисфункция и небольшое повышение печёночных ферментов, поэтому препарат отменили. Это единичное наблюдение не доказывает, что рост волос был вызван бикалутамидом, и не подтверждает эффективность или приемлемую безопасность такого лечения.",
+    "practical_use": "На приёме следует рассматривать этот случай как основание для дальнейшего изучения андрогенных рецепторов, а не как аргумент в пользу назначения бикалутамида мужчине с недостаточным ответом на стандартную терапию. При обсуждении статьи важно объяснить системные эндокринные, сексуальные и потенциально печёночные риски препарата. Авторы подчёркивают необходимость контролируемых исследований; при этом упоминают исходный и периодический лабораторный контроль функции печени как важную меру безопасности при системной терапии бикалутамидом.",
+    "patient_plain": "У одного мужчины с недостаточным эффектом привычного лечения волосы стали заметно гуще после начала приёма бикалутамида. Однако одновременно появились увеличение и болезненность молочных желёз, снижение полового влечения, проблемы с эрекцией и повышение печёночных ферментов. После отмены препарата клинические побочные эффекты прошли, но повторных анализов для подтверждения восстановления функции печени и нормализации гормональных показателей не было. Один такой случай не доказывает эффективность препарата, а выраженные побочные эффекты не позволяют считать его безопасным способом лечения облысения.",
+    "_reason": "Статья интересна тем, что описывает заметное улучшение роста волос у мужчины после воздействия на андрогенные рецепторы, несмотря на слабый ответ на предшествующее лечение. Однако доказательная ценность ограничена одним случаем, отсутствием стандартизированных количественных измерений роста волос и невозможностью исключить влияние предыдущей терапии. Существенные системные побочные эффекты и отсутствие подтверждения биохимического восстановления после отмены не позволяют рекомендовать бикалутамид для лечения мужской андрогенетической алопеции.",
+    "why_read": "Статью стоит прочитать дерматологам и трихологам, которые ведут мужчин с недостаточным ответом на миноксидил и финастерид и хотят лучше понимать роль андрогенных рецепторов в миниатюризации волосяных фолликулов. Она также полезна врачам, оценивающим риски системной антиандрогенной терапии. Для выбора лечения конкретному пациенту этот клинический случай не предоставляет достаточных доказательств эффективности бикалутамида.",
+    "limitations": [
+      "As a single-patient observation, it cannot establish causality or estimate treatment efficacy.",
+      "Hormonal measurements before, during, and after treatment were unavailable",
+      "Follow-up liver function tests after treatment discontinuation were also unavailable",
+      "alcohol consumption during treatment was not documented",
+      "a viral hepatitis panel was not performed",
+      "treatment response was assessed using serial clinical photographs and routine dermatologic examination rather than standardized quantitative methods such as phototrichogram analysis."
+    ],
+    "advice_items": [
+      {
+        "quote": "Mild elevations in liver enzymes have been described during bicalutamide therapy, supporting the importance of baseline and periodic laboratory monitoring [5-7].",
+        "advice": "При обсуждении системной терапии бикалутамидом учитывайте риск повышения печёночных ферментов и необходимость исходного и периодического лабораторного контроля. В статье не приведены конкретные сроки или схема мониторинга, поэтому их нельзя выводить из этого клинического случая. Эти сведения не являются основанием назначать бикалутамид для лечения андрогенетической алопеции.",
+        "audience": "врач"
+      },
+      {
+        "quote": "Further controlled studies are needed to better characterize the biological effects of androgen receptor antagonism, establish its safety profile, and determine whether this therapeutic approach has any role in the management of male AGA.",
+        "advice": "Не рассматривайте описанное улучшение роста волос как доказательство эффективности бикалутамида при мужской андрогенетической алопеции. Авторы указывают на необходимость контролируемых исследований, которые позволят установить эффективность и безопасность такого подхода. При обсуждении результатов с пациентом отдельно объясните, что в описанном случае возникли значимые эндокринные и сексуальные побочные эффекты, а также повышение печёночных ферментов.",
+        "audience": "врач"
+      }
+    ],
+    "importance_stars": 4,
+    "importance_mark": "★★★★☆",
+    "take": "keep"
+  },
+  {
+    "id": 12,
+    "pmid": "42325479",
+    "source": "PubMed",
+    "article": "Assessing the Efficacy of Multimodal Therapy in Nonsurgical Hair Restoration for Noncicatricial Alopecia: A Retrospective Study.",
+    "authors": [
+      "Manakchand Kamal Kumar",
+      "Maheshwari Shobhit",
+      "Kumar Arun"
+    ],
+    "date": "2026-06-19",
+    "journal": "Plastic and reconstructive surgery. Global open",
+    "doi": "10.1097/GOX.0000000000007834",
+    "topic": "АГА",
+    "topic_key": "aga",
+    "topic_keys": [
+      "aga"
+    ],
+    "topics": [
+      "АГА"
+    ],
+    "abstract_en": "BACKGROUND: Multimodal therapy in hair restoration represents a sophisticated amalgamation of cutting-edge treatments, including autologous multispin platelet-rich plasma, topical minoxidil, oral finasteride, correction of nutritional deficiencies, hormonal treatments, and lifestyle modifications. This comprehensive approach aims to provide a nuanced understanding of efficacy, safety, and patient acceptance in the management of noncicatricial alopecia.\n\nMETHODS: This study, conducted at the esteemed Rajarajeswari Medical College and K2 Aesthetic & Hair Pvt Ltd, engaged 350 participants (294 men and 56 women). Subjects included both male patients (grades 1-7 on the Norwood-Hamilton scale) and female patients (grades 1-3 on the Ludwig scale), representing a spectrum of androgenetic alopecia and other noncicatricial hair loss conditions. Each participant underwent a minimum of 8 sessions of platelet-rich plasma therapy.\n\nRESULTS: For men classified under grades 1-5 and women under grades 1 and 2, significant improvements were observed with the multimodal therapy. Men in grades 6 and 7 and women in grade 3 also demonstrated encouraging progress, although the extent of improvement was less pronounced. Specifically, the mean hair diameter increased from 64.9 ± 5.45 µm to 71.02 ± 6.62 µm, and hair density showed a similar upward trend, rising from 95 ± 9.56 hairs per cm2 to 139 ± 18 hairs per cm2 after 8 sessions.\n\nCONCLUSIONS: These data underscore the substantial benefits of multimodal therapy in hair restoration, particularly for individuals with androgenetic alopecia and other noncicatricial forms of hair loss. This integrative approach demonstrates safety and efficacy for enhanced management of hair loss.",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/42325479/",
+    "pmc_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13282090/",
+    "html_available": true,
+    "html_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13282090/",
+    "title_ru": "Эффективность комплексной терапии нерубцового выпадения волос: ретроспективное исследование",
+    "summary": "В ретроспективное исследование включили 350 пациентов с нерубцовыми формами выпадения волос, в том числе 294 мужчин и 56 женщин. Комплексное лечение сочетало инъекции обогащённой тромбоцитами плазмы (PRP), миноксидил, финастерид, коррекцию дефицитов питательных веществ и образа жизни, а при необходимости — гормональную коррекцию. После восьми сеансов средний диаметр волос увеличился с 64,9 до 71,02 мкм, а плотность — с 95 до 139 волос на см²; наиболее выраженные улучшения отмечались на ранних стадиях выпадения. Поскольку исследование ретроспективное и оценивало комплексное вмешательство, по нему нельзя определить вклад каждого компонента или надёжно установить долгосрочную эффективность всей схемы.",
+    "practical_use": "На приёме результаты можно использовать для обсуждения комплексного подхода к нерубцовому выпадению волос и того, что при менее выраженной алопеции улучшения могут быть заметнее. Следует учитывать, что исследование не позволяет отделить эффект PRP от действия миноксидила, финастерида и сопутствующих изменений, а также не доказывает превосходство этой комбинации над отдельными методами лечения. При выраженной мужской алопеции авторы указывают на меньший эффект консервативного подхода и возможность рассмотрения хирургической коррекции.",
+    "patient_plain": "В исследовании у мужчин и женщин после комплексного лечения волосы в среднем стали толще, а их плотность увеличилась. Лучше результаты наблюдались при менее выраженном выпадении, тогда как при далеко зашедшей мужской алопеции улучшения были скромнее. Однако исследование не показывает, какой именно метод дал основной результат, и не позволяет судить о том, насколько долго он сохраняется. Сообщалось о трёх случаях отёка лба у женщин; другие перечисленные побочные эффекты не отмечались.",
+    "_reason": "Исследование включает достаточно большую смешанную по полу группу и приводит объективные показатели диаметра и плотности волос до и после лечения. Практическая ценность ограничена ретроспективным дизайном, сочетанием нескольких вмешательств и отсутствием представленных данных о долгосрочном сохранении результата. Работа полезна для понимания возможных результатов комплексной терапии, но не позволяет установить эффективность каждого компонента отдельно.",
+    "why_read": "Статья может быть полезна дерматологам и трихологам, которые обсуждают с пациентами PRP в сочетании с медикаментозной терапией. Особенно стоит обратить внимание на различия результатов в зависимости от степени выпадения волос и на ограничения комплексного лечения при выраженной мужской алопеции. Пациентам она поможет понять, почему результаты комбинированного подхода нельзя приписать одному препарату или процедуре.",
+    "limitations": [
+      "This study evaluates the efficacy of multimodal therapy in treating patients with noncicatricial alopecia.",
+      "We included 350 patients",
+      "the need for further research to optimize protocols for advanced hair loss and to evaluate long-term efficacy"
+    ],
+    "advice_items": [
+      {
+        "quote": "The most marked improvements were observed in grades 1–4 in men, with some improvements also noted in grade 5, whereas grades 6 and 7 showed less improvement, suggesting that surgical correction might be a more suitable option for these cases in men.",
+        "advice": "При оценке мужчины с андрогенетической алопецией учитывайте степень выпадения волос при обсуждении ожидаемого эффекта комплексной терапии. В исследовании наиболее выраженные улучшения отмечались на стадиях 1–4, а при стадиях 6–7 эффект был меньше. Для пациентов с выраженной алопецией можно обсудить, уместна ли консультация по поводу хирургического восстановления волос.",
+        "audience": "врач"
+      },
+      {
+        "quote": "However, the study underscores the need for further research to optimize protocols for advanced hair loss and to evaluate long-term efficacy, as indicated in long-term follow-up studies that assess the sustained effectiveness of multimodal therapy.",
+        "advice": "При обсуждении результатов объясняйте пациенту, что исследование подтверждает улучшение показателей волос после лечения, но не устанавливает, насколько долго сохраняется эффект. Не представляйте использованную комбинацию как доказанно оптимальную схему для всех пациентов, особенно при выраженном выпадении волос. Долгосрочную эффективность и оптимальные протоколы авторы считают вопросами для дальнейшего изучения.",
+        "audience": "врач"
+      }
+    ],
+    "importance_stars": 4,
+    "importance_mark": "★★★★☆",
+    "take": "keep"
+  },
+  {
+    "id": 13,
+    "pmid": "42535115",
+    "source": "PubMed",
+    "article": "Efficacy of Topical Tretinoin and Topical Minoxidil Cotherapy in Androgenetic Alopecia: A Review.",
+    "authors": [
+      "Maas Derek",
+      "Spindler Archie",
+      "Zappi Isabella",
+      "Maas Kyle",
+      "Brody Annalie",
+      "Tucci Carli",
+      "Garza-García Leslie",
+      "Patrocínio João",
+      "Shapiro Jerry",
+      "Lo Sicco Kristen I"
+    ],
+    "date": "2026-06-18",
+    "journal": "Skin appendage disorders",
+    "doi": "10.1159/000553018",
+    "topic": "АГА",
+    "topic_key": "aga",
+    "topic_keys": [
+      "aga"
+    ],
+    "topics": [
+      "АГА"
+    ],
+    "abstract_en": "BACKGROUND: Androgenetic alopecia (AGA) frequently occurs in both men and women and is associated with a significant quality-of-life impairment. Topical minoxidil has been demonstrated to have a variable clinical response, and the proposed efficacy of using concomitant topical tretinoin largely stems from increased minoxidil penetration and activation by the follicular sulfotransferase enzyme.\n\nSUMMARY: This review summarizes mechanisms, safety, outcomes, and social media perspectives on the subject. Pharmacokinetic evidence demonstrates a nearly threefold increase in systemic absorption when tretinoin cream is applied before minoxidil, with researchers hypothesizing increased permeability as the cause. However, clinical data regarding combination therapy are minimal. One randomized controlled trial reported similar outcomes between dual therapy and topical minoxidil monotherapy; results from smaller investigations, however, are consistent with the potential conversion of some minoxidil nonresponders to responders when tretinoin is used. A social media analysis of 71 online posts was notable for frequently positive claims regarding the interaction, but tolerability concerns were common.\n\nKEY MESSAGES: Though current evidence does not support the first-line use of dual therapy, topical tretinoin may be considered as an adjunct in AGA, especially in patients without response to topical minoxidil. Any potential benefit, however, should be weighed against the potential for increased irritation.",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/42535115/",
+    "pmc_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13423365/",
+    "html_available": true,
+    "html_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13423365/",
+    "title_ru": "Третиноин и миноксидил при андрогенетической алопеции: обзор эффективности и безопасности комбинированной терапии",
+    "summary": "Обзор рассматривает применение наружного третиноина вместе с наружным миноксидилом у мужчин и женщин с андрогенетической алопецией. Фармакокинетические данные указывают, что нанесение крема с третиноином перед миноксидилом повышает системное всасывание почти втрое, однако клинические исследования пока не подтверждают убедительного превосходства комбинации над монотерапией миноксидилом. Небольшие исследования допускают, что третиноин может помочь некоторым пациентам, слабо реагирующим на миноксидил. Основные ограничения подхода — недостаток качественных клинических данных и риск раздражения кожи головы, покраснения, зуда и жжения.",
+    "practical_use": "При обсуждении лечения АГА следует отдавать приоритет миноксидилу и подходящим пациенту антиандрогенным препаратам, а добавление третиноина рассматривать как возможный дополнительный вариант при частичном или отсутствующем ответе на наружный миноксидил либо невозможности использовать пероральный миноксидил. До начала комбинированной терапии важно объяснить пациенту ограниченность доказательств и вероятность местных нежелательных реакций, которые могут ухудшить приверженность лечению. Оптимальное время нанесения третиноина относительно миноксидила не установлено, поэтому выбор режима должен учитывать переносимость, удобство, стоимость и предпочтения пациента.",
+    "patient_plain": "Третиноин иногда рассматривают как дополнение к миноксидилу, если последний помогает недостаточно, но пока не доказано, что такая комбинация в целом эффективнее одного миноксидила. Третиноин может усиливать проникновение миноксидила через кожу, но также повышает риск раздражения, покраснения, зуда и жжения. Если вы обсуждаете этот вариант с врачом, важно учитывать, что исследований мало, а результат может различаться у разных людей. Подходящая схема нанесения пока не установлена.",
+    "_reason": "Обзор полезен для практики тем, что отделяет популярные в социальных сетях заявления об эффективности комбинации от ограниченных клинических доказательств. Он помогает определить ситуации, в которых третиноин можно обсуждать как дополнительный вариант, и подчёркивает необходимость учитывать местные побочные эффекты. Данных пока недостаточно, чтобы рекомендовать комбинацию в качестве лечения первой линии или утверждать её превосходство над одним миноксидилом.",
+    "why_read": "Обзор стоит прочитать дерматологам и трихологам, которые рассматривают дополнительные варианты лечения пациентов с недостаточным ответом на наружный миноксидил. Он также полезен врачам, которым приходится разбирать ожидания пациентов, сформированные публикациями в социальных сетях. Особое внимание следует уделить ограничениям доказательств, риску раздражения и неопределённости оптимального режима нанесения.",
+    "limitations": [
+      "clinical data regarding combination therapy are minimal",
+      "existing clinical data remain equivocal as to whether combination therapy truly leads to superior outcomes compared to topical minoxidil monotherapy",
+      "future studies should assess the long-term associated risk",
+      "Well-designed clinical trials are warranted",
+      "there is an absence of robust data demonstrating clinical benefit"
+    ],
+    "advice_items": [
+      {
+        "quote": "Although topical tretinoin is not typically considered a first-line therapy, it may be beneficial for patients who are partial responders or nonresponders to topical minoxidil or those who cannot take oral minoxidil",
+        "advice": "Рассматривайте третиноин как возможное дополнение у пациентов с частичным или отсутствующим ответом на наружный миноксидил, а также у тех, кто не может принимать миноксидил внутрь. Объясните, что клинические доказательства ограничены и результат индивидуален. Не представляйте комбинацию как доказанно более эффективную стандартную терапию.",
+        "audience": "врач"
+      },
+      {
+        "quote": "Any potential benefit, however, should be weighed against the potential for increased irritation.",
+        "advice": "Перед обсуждением комбинации предупредите пациента о вероятности раздражения кожи головы и связанных с ним трудностях продолжения лечения. При оценке целесообразности терапии учитывайте её переносимость наряду с возможной эффективностью.",
+        "audience": "врач"
+      },
+      {
+        "quote": "Therefore, regimen selection should prioritize adherence, which may favor simultaneous therapy, while also considering cost, availability, and patient preference.",
+        "advice": "При выборе способа применения учитывайте, насколько пациенту удобно соблюдать режим, а также стоимость и доступность препаратов. Не утверждайте, что одновременное или последовательное нанесение эффективнее: прямого сравнения этих вариантов в приведённом тексте нет.",
+        "audience": "врач"
+      },
+      {
+        "quote": "patients should be counseled that limited studies exist on this approach, and responses may vary based on individual factors and adherence.",
+        "advice": "Объясните пациенту, что исследований комбинации пока мало и эффект не гарантирован. Обсудите возможное раздражение и важность соблюдения согласованного режима, чтобы ожидания от лечения были реалистичными.",
+        "audience": "врач"
+      }
+    ],
+    "importance_stars": 4,
+    "importance_mark": "★★★★☆",
+    "take": "keep"
+  },
+  {
+    "id": 14,
     "pmid": "42396141",
     "source": "PubMed",
     "article": "Sexual dysfunction associated with 5α-reductase inhibitors in the treatment of androgenetic alopecia: a systematic review.",
@@ -336,11 +812,115 @@
     ],
     "importance_stars": 5,
     "importance_mark": "★★★★★",
-    "take": "keep",
-    "audience_sex": "any"
+    "take": "keep"
   },
   {
-    "id": 7,
+    "id": 15,
+    "pmid": "42234621",
+    "source": "PubMed",
+    "article": "Assessment and treatment of adolescent hair loss.",
+    "authors": [
+      "Conza Adrienne",
+      "Alzahrani Nujood",
+      "Damji Yasin"
+    ],
+    "date": "2026-06-05",
+    "journal": "Current opinion in pediatrics",
+    "doi": "10.1097/MOP.0000000000001582",
+    "topic": "АГА",
+    "topic_key": "aga",
+    "topic_keys": [
+      "aga"
+    ],
+    "topics": [
+      "АГА"
+    ],
+    "abstract_en": "PURPOSE OF REVIEW: Hair loss in adolescents carries significant psychosocial impact, and it is often underrecognized and managed without adolescent-specific approaches. This review describes recent advances in diagnostics, pathophysiology, and therapies to improve diagnosis and management of adolescent alopecia.\n\nRECENT FINDINGS: Trichoscopy and ultraviolet-enhanced follicular dermoscopy improve diagnostic accuracy and reduce invasive testing. Androgenetic alopecia is linked to obesity and genetic predisposition; topical minoxidil remains first-line with low-dose oral minoxidil use supported in some cases. Alopecia areata severity frameworks now include chronicity, relapse, nonscalp involvement, refractoriness, and psychosocial burden. Systemic JAK inhibitors have emerged as treatment options for adolescents with sustained regrowth and patient-reported improvements. Psychogenic hair loss is often comorbid with anxiety, obsessive-compulsive disorder, or attention-deficit/hyperactivity disorder.\n\nSUMMARY: Early, etiology-driven assessment and multidisciplinary care are critical for adolescent hair loss. Adolescent-specific data support more individualized systemic treatments for some types of hair loss, while gaps remain in preventive strategies and long-term outcomes, highlighting priorities for future research.",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/42234621/",
+    "pmc_link": "",
+    "html_available": false,
+    "html_link": "",
+    "title_ru": "Диагностика и лечение выпадения волос у подростков",
+    "summary": "Обзор рассматривает диагностику и лечение выпадения волос у подростков, включая андрогенетическую алопецию, очаговую алопецию и психогенное выпадение. Трихоскопия и дермоскопия волосяных фолликулов с ультрафиолетовым усилением повышают точность диагностики и помогают сократить число инвазивных исследований; при андрогенетической алопеции местный миноксидил остаётся терапией первой линии, а применение низких доз перорального миноксидила поддерживается в отдельных случаях. Данные также указывают на возможности системных ингибиторов JAK при очаговой алопеции у подростков. Обзор основан на доступном абстракте, а долгосрочные результаты и профилактические подходы остаются недостаточно изученными.",
+    "practical_use": "При обследовании подростка с выпадением волос важно установить его причину и учитывать особенности течения заболевания в этом возрасте; трихоскопия может повысить точность диагностики и уменьшить необходимость инвазивных исследований. При андрогенетической алопеции следует учитывать связь с ожирением и наследственной предрасположенностью, а местный миноксидил рассматривать как терапию первой линии в рамках клинической оценки. Обзор не предоставляет достаточных подробностей для выбора индивидуальной схемы лечения или оценки долгосрочной безопасности препаратов.",
+    "patient_plain": "Выпадение волос у подростков может иметь разные причины, поэтому сначала важно разобраться, почему оно возникло. Специальное исследование кожи головы с помощью трихоскопии помогает точнее определить причину и иногда избежать инвазивных процедур. При наследственном поредении волос обычно рассматривают местный миноксидил, а некоторые другие виды алопеции могут требовать иных методов лечения. Долгосрочные результаты лечения подростков изучены недостаточно.",
+    "_reason": "Обзор полезен тем, что рассматривает выпадение волос именно в подростковом возрасте и подчёркивает значение диагностики с учётом причины заболевания. Для практики андрогенетической алопеции особенно важны сведения о местном миноксидиле, возможной связи с ожирением и наследственностью. Однако доступный абстракт не содержит подробных сравнений эффективности, схем применения или долгосрочных данных.",
+    "why_read": "Материал стоит прочитать дерматологам и врачам, работающим с подростками, которым необходимо различать причины выпадения волос и выбирать обследование с учётом возраста. Он также полезен для общего понимания места миноксидила при подростковой андрогенетической алопеции. Для принятия конкретных терапевтических решений потребуется изучение более подробных клинических данных.",
+    "limitations": [
+      "Adolescent-specific data support more individualized systemic treatments for some types of hair loss",
+      "gaps remain in preventive strategies and long-term outcomes"
+    ],
+    "advice_items": [
+      {
+        "quote": "Trichoscopy and ultraviolet-enhanced follicular dermoscopy improve diagnostic accuracy and reduce invasive testing.",
+        "advice": "При обследовании подростка с выпадением волос рассмотрите трихоскопию как способ уточнить диагноз и уменьшить необходимость инвазивных исследований. Выбор диагностического метода должен учитывать предполагаемую причину алопеции.",
+        "audience": "врач"
+      },
+      {
+        "quote": "Androgenetic alopecia is linked to obesity and genetic predisposition; topical minoxidil remains first-line with low-dose oral minoxidil use supported in some cases.",
+        "advice": "При оценке подростка с предполагаемой андрогенетической алопецией учитывайте наследственную предрасположенность и возможную связь с ожирением. Местный миноксидил указан как терапия первой линии; пероральный миноксидил рассматривается лишь в отдельных случаях, а абстракт не содержит достаточных данных для определения схемы его применения.",
+        "audience": "врач"
+      },
+      {
+        "quote": "Early, etiology-driven assessment and multidisciplinary care are critical for adolescent hair loss.",
+        "advice": "Старайтесь как можно раньше установить причину выпадения волос у подростка и организовать помощь с учётом выявленного заболевания. При необходимости учитывайте психологическое состояние и привлекайте специалистов смежных направлений.",
+        "audience": "врач"
+      }
+    ],
+    "importance_stars": 4,
+    "importance_mark": "★★★★☆",
+    "take": "keep"
+  },
+  {
+    "id": 16,
+    "pmid": "42190753",
+    "source": "PubMed",
+    "article": "Microneedle frequency adjunct to 2% minoxidil in female androgenetic alopecia: A randomized controlled trial.",
+    "authors": [
+      "Liu Yinghui",
+      "Luo Huanyuan",
+      "Yang Sai",
+      "Wang Zhenyu",
+      "Chen Yangxia",
+      "Wu Fangfang",
+      "Xian Hua",
+      "Yang Chao",
+      "Xu Dong Roman",
+      "Luo Ying"
+    ],
+    "date": "2026-05-25",
+    "journal": "Journal of the American Academy of Dermatology",
+    "doi": "10.1016/j.jaad.2026.03.123",
+    "topic": "АГА",
+    "topic_key": "aga",
+    "topic_keys": [
+      "aga"
+    ],
+    "topics": [
+      "АГА"
+    ],
+    "abstract_en": "BACKGROUND: Microneedling has been proposed as an adjunctive strategy to enhance topical minoxidil delivery in androgenetic alopecia, but the optimal treatment frequency remains unclear.\n\nOBJECTIVE: To evaluate the efficacy and safety of 2% topical minoxidil alone versus minoxidil combined with microneedling in women with mild-to-moderate androgenetic alopecia.\n\nMETHODS: In this 24-week prospective, randomized, open-label, single-center trial, 245 women with mild-to-moderate androgenetic alopecia (Savin grades D3-D6) were randomized to receive minoxidil alone, minoxidil plus monthly microneedling, or minoxidil plus microneedling every 2 weeks. The primary endpoint was change in target area nonvellus hair count from baseline to week 24. Secondary outcomes included nonvellus hair shaft diameter, vellus hair count, hair density, and cumulative hair shaft diameter.\n\nRESULTS: A total of 234 participants completed the study. All groups demonstrated significant increases in target area nonvellus hair count at week 24 (all P < .001), with no significant differences between groups. Secondary outcomes were also comparable across treatments groups.\n\nLIMITATIONS: Single-center, open-label design and absence of patient-reported outcome data due to database configuration.\n\nCONCLUSION: Microneedling using a 36-needle cartridge at a depth of 500-550 μm every 2 or 4 weeks did not provide additional clinical benefit over 2% topical minoxidil alone after 24 weeks.",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/42190753/",
+    "pmc_link": "",
+    "html_available": false,
+    "html_link": "",
+    "title_ru": "Микронидлинг разной частоты в дополнение к 2% миноксидилу при женской андрогенетической алопеции: рандомизированное контролируемое исследование",
+    "summary": "В исследовании участвовали 245 женщин с андрогенетической алопецией лёгкой или умеренной степени. В течение 24 недель сравнивали применение 2% миноксидила отдельно и в сочетании с микронидлингом раз в месяц или каждые две недели; исследование завершили 234 участницы. Во всех трёх группах значимо увеличилось количество неминиатюризированных волос в целевой области, однако различий между группами не выявили, а дополнительные показатели роста волос были сопоставимы. Таким образом, добавление микронидлинга не обеспечило дополнительного клинического эффекта по сравнению с одним миноксидилом; исследование было одноцентровым и открытым, без данных о результатах, сообщённых самими пациентками.",
+    "practical_use": "При обсуждении лечения женской андрогенетической алопеции результаты не подтверждают дополнительную пользу микронидлинга с картриджем на 36 игл при глубине 500–550 мкм, проводимого раз в две или четыре недели на фоне 2% миноксидила в течение 24 недель. Не следует представлять добавление этой процедуры как доказанно более эффективный вариант по сравнению с одним миноксидилом. При этом результаты не позволяют исключить эффект других протоколов микронидлинга или сделать выводы об их сравнительной эффективности.",
+    "patient_plain": "В исследовании у женщин с андрогенетической алопецией волосы стали гуще как при использовании 2% миноксидила, так и при его сочетании с микронидлингом. Однако добавление процедуры раз в две недели или раз в месяц не улучшило результаты по сравнению с одним миноксидилом за 24 недели. Поэтому в рамках изученного протокола микронидлинг не показал дополнительной пользы, хотя это не означает, что все варианты процедуры заведомо бесполезны.",
+    "_reason": "Это рандомизированное контролируемое исследование с относительно большой для данной темы выборкой, непосредственно сравнивающее миноксидил с двумя вариантами дополнительного микронидлинга. Практическая ценность заключается в том, что оба режима процедуры не продемонстрировали преимущества по объективным показателям роста волос за 24 недели. Вывод ограничен конкретным протоколом, сроком наблюдения и отсутствием оценок результатов самими пациентками.",
+    "why_read": "Статья полезна дерматологам и трихологам, которые обсуждают с пациентками сочетание миноксидила с микронидлингом и хотят опираться на сравнительные данные, а не на предположение о повышении эффективности за счёт процедуры. Пациенткам с женской андрогенетической алопецией она поможет понять, что добавление микронидлинга не обязательно улучшает результат лечения. Для оценки долгосрочного эффекта и субъективной удовлетворённости лечением данных этого исследования недостаточно.",
+    "limitations": [
+      "Single-center, open-label design",
+      "absence of patient-reported outcome data due to database configuration"
+    ],
+    "advice_items": [],
+    "importance_stars": 4,
+    "importance_mark": "★★★★☆",
+    "take": "keep"
+  },
+  {
+    "id": 17,
     "pmid": "42168420",
     "source": "PubMed",
     "article": "Combination Therapy in Androgenetic Alopecia: A Network Meta-Analysis of Minoxidil and Other Pharmacological Agents.",
@@ -383,11 +963,10 @@
     "advice_items": [],
     "importance_stars": 5,
     "importance_mark": "★★★★★",
-    "take": "keep",
-    "audience_sex": "any"
+    "take": "keep"
   },
   {
-    "id": 8,
+    "id": 18,
     "pmid": "42144229",
     "source": "PubMed",
     "article": "Androgenetic Alopecia: Narrative Review of Current Therapies and Proposal of a Practical Algorithm for Pharmacological Treatment.",
@@ -424,11 +1003,508 @@
     "advice_items": [],
     "importance_stars": 5,
     "importance_mark": "★★★★★",
-    "take": "keep",
-    "audience_sex": "any"
+    "take": "keep"
   },
   {
-    "id": 9,
+    "id": 19,
+    "pmid": "42434041",
+    "source": "PubMed",
+    "article": "Additive Effects of Platelet-Rich Plasma and Systemic Therapies in Androgenetic Alopecia: A Retrospective Study.",
+    "authors": [
+      "Brinks Anna L",
+      "Lawrence Carli Needle",
+      "Maas Derek",
+      "Kearney Caitlin A",
+      "Anyanwu Nnaemeka",
+      "Desai Deesha D",
+      "Nohria Ambika",
+      "Sikora Michelle",
+      "Oh Christina S",
+      "Shapiro Jerry",
+      "Lo Sicco Kristen I"
+    ],
+    "date": "2026-05-08",
+    "journal": "Skin appendage disorders",
+    "doi": "10.1159/000552428",
+    "topic": "АГА",
+    "topic_key": "aga",
+    "topic_keys": [
+      "aga"
+    ],
+    "topics": [
+      "АГА"
+    ],
+    "abstract_en": "INTRODUCTION: Established treatments for androgenetic alopecia (AGA) include low-dose oral minoxidil (LDOM), spironolactone, finasteride, dutasteride, and platelet-rich plasma (PRP). While PRP is often combined with topical minoxidil, studies on its use with systemic agents are limited. This study compares trichometric outcomes and side effects between PRP monotherapy and PRP plus systemic therapy.\n\nMETHODS: An IRB-approved retrospective review was conducted of NYU AGA patients treated between 11/1/17 and 8/1/25. Changes in hair density (hairs/cm2) and width (µm) were assessed from baseline to final follow-up among patients receiving PRP alone or PRP with LDOM, spironolactone, finasteride, or dutasteride. AGA severity was determined via Hamilton-Norwood or Ludwig scale. Mann-Whitney U tests, Fisher exact tests, and multivariate linear regression were performed.\n\nRESULTS: Fifty-five patients met inclusion criteria (65.5% female, mean age 49). Compared to monotherapy (n = 6), combination therapy (n = 49) showed greater, though not statistically significant, gains in density (+6.06 hairs/cm2, p = 0.703) and width (+3.59 µm, p = 0.460). Controlling for treatment type, moderate AGA predicted significantly greater density improvement (+25.11 hairs/cm2, p = 0.040).\n\nCONCLUSIONS: Combination therapy showed numerically higher but statistically nonsignificant improvements without increased adverse effects. These findings support further prospective studies to optimize combination regimens and patient selection by AGA severity.",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/42434041/",
+    "pmc_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13354296/",
+    "html_available": true,
+    "html_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13354296/",
+    "title_ru": "Дополнительный эффект сочетания плазмотерапии и системных препаратов при андрогенетической алопеции: ретроспективное исследование",
+    "summary": "В ретроспективном исследовании 55 пациентов с андрогенетической алопецией сравнили результаты плазмотерапии (PRP) без системных препаратов и её сочетания с низкими дозами перорального миноксидила, спиронолактоном, финастеридом или дутастеридом. В группе комбинированного лечения, включавшей 49 пациентов, прирост плотности волос и их толщины был численно больше, чем при одной PRP, но различия не достигли статистической значимости. У пациентов с умеренной алопецией улучшение плотности волос было статистически значимо больше, чем при лёгкой форме. Результаты ограничены ретроспективным дизайном и малым размером группы монотерапии, в которой было всего шесть человек.",
+    "practical_use": "При обсуждении PRP с пациентом можно учитывать, что сочетание процедуры с системной терапией показало численно более выраженное улучшение плотности и толщины волос, однако исследование не доказывает преимущество комбинированного подхода. При умеренной алопеции отмечена связь с более выраженным приростом плотности волос, что может учитываться при обсуждении ожидаемого ответа. Выбор препаратов следует определять индивидуально: это исследование не позволяет установить оптимальную комбинацию или подтвердить эффективность конкретного системного средства.",
+    "patient_plain": "В исследовании у людей, которым сочетали плазмотерапию с лекарствами от выпадения волос, показатели плотности и толщины волос улучшились несколько больше, чем у тех, кому проводили только плазмотерапию. Однако разница могла быть случайной, поэтому доказать дополнительную пользу такого сочетания исследователям не удалось. Наиболее заметное улучшение плотности волос наблюдалось у пациентов с умеренной степенью алопеции. Эти результаты пока не позволяют обещать лучший эффект от сочетания процедур и лекарств каждому пациенту.",
+    "_reason": "Статья отвечает на практический вопрос о возможной дополнительной пользе системных препаратов при проведении PRP. Численные результаты в пользу комбинации интересны, но статистически неубедительны, а сравниваемые группы сильно различались по размеру. Наиболее полезный для практики сигнал — связь умеренной тяжести алопеции с более выраженным приростом плотности волос, требующая подтверждения в проспективных исследованиях.",
+    "why_read": "Статья будет полезна дерматологам и трихологам, которые обсуждают с пациентами PRP в сочетании с лекарственной терапией и хотят понимать ограничения имеющихся данных. Её также стоит прочитать тем, кто оценивает влияние исходной тяжести алопеции на результат лечения. Исследование не даёт достаточных оснований считать комбинированную терапию доказанно эффективнее PRP в монорежиме.",
+    "limitations": [
+      "Limitations include small PRP-only sample size and retrospective design.",
+      "differences between monotherapy and combination therapy did not reach statistical significance",
+      "studies remain limited, particularly randomized controlled trials"
+    ],
+    "advice_items": [],
+    "importance_stars": 4,
+    "importance_mark": "★★★★☆",
+    "take": "keep"
+  },
+  {
+    "id": 20,
+    "pmid": "41779759",
+    "source": "PubMed",
+    "article": "Persistent Alopecic Patches Following Dutasteride Mesotherapy for Female Androgenetic Alopecia: A Case Series.",
+    "authors": [
+      "Nogueira Carlos M",
+      "Osório Filipa"
+    ],
+    "date": "2026-03-01",
+    "journal": "Journal of drugs in dermatology : JDD",
+    "doi": "10.36849/JDD.9712",
+    "topic": "АГА",
+    "topic_key": "aga",
+    "topic_keys": [
+      "aga"
+    ],
+    "topics": [
+      "АГА"
+    ],
+    "abstract_en": "BACKGROUND: Androgenetic alopecia (AGA) is the most common cause of hair loss. To minimize systemic adverse effects of 5-alpha-reductase inhibitors, dutasteride mesotherapy has gained popularity. Although generally considered safe, alopecia at injection sites has been increasingly reported. We describe three cases of persistent alopecia following dutasteride mesotherapy in women with AGA.\n\nCASE REPORTS: Three female patients with AGA underwent mesotherapy with dutasteride (0.025&ndash;0.05%). Case 1: A 44-year-old woman developed multiple alopecic patches 1 month after a single session, with trichoscopic and histologic features of scarring alopecia. Only partial improvement occurred, and surgical correction was later required. Case 2: A 30-year-old woman developed 4 alopecic patches after 2 sessions. Trichoscopy revealed mixed features of cicatricial alopecia and follicular miniaturization, with limited regrowth despite optimized medical therapy. Case 3: A 48-year-old woman developed numerous alopecic patches 3 months after a single session. Follicular openings were preserved, and miniaturized hairs predominated. Alopecia persisted long-term despite corticosteroids and adjunctive treatments.\n\nDISCUSSION: Reported cases of alopecia after mesotherapy include both scarring and non-scarring patterns, suggesting diverse mechanisms, such as mechanical injury, cytotoxicity from solvents, inflammation, or infection. In this series, none of the patients experienced full regrowth, highlighting the potential for lasting aesthetic sequelae. Published cases show similar variability but often lack detailed trichoscopic or procedural information, limiting interpretation. These findings underscore the importance of proper counseling, careful technique, and close follow-up when using dutasteride mesotherapy. This complication may be underrecognized, and clinicians should maintain vigilance for early detection and management. &nbsp.",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/41779759/",
+    "pmc_link": "",
+    "html_available": false,
+    "html_link": "",
+    "title_ru": "Стойкие очаги выпадения волос после мезотерапии дутастеридом у женщин с андрогенетической алопецией: серия клинических случаев",
+    "summary": "В статье описаны три женщины 30, 44 и 48 лет с андрогенетической алопецией, у которых после мезотерапии дутастеридом появились стойкие очаги выпадения волос. В двух случаях наблюдались признаки рубцовой алопеции, а в одном преобладали миниатюризированные волосы при сохранённых устьях фолликулов. Ни у одной пациентки не удалось добиться полного восстановления роста волос, несмотря на проводимое лечение; одной женщине потребовалась хирургическая коррекция. Это серия из трёх клинических случаев, поэтому она демонстрирует возможный риск, но не позволяет определить его частоту или доказать конкретный механизм повреждения.",
+    "practical_use": "При обсуждении мезотерапии дутастеридом важно заранее объяснять пациентке возможность стойкого очагового выпадения волос, которое может сопровождаться рубцовыми изменениями и не полностью восстанавливаться после лечения. При появлении новых очагов после инъекций необходимы ранняя оценка кожи головы и трихоскопия для выявления признаков рубцевания и миниатюризации фолликулов. Авторы подчёркивают значение правильной техники процедуры и последующего наблюдения, однако серия случаев не позволяет установить оптимальный протокол профилактики или лечения этого осложнения.",
+    "patient_plain": "В статье описаны три женщины, у которых после введения дутастерида в кожу головы для лечения выпадения волос появились отдельные участки облысения. У некоторых пациенток волосы восстановились лишь частично, а у одной потребовалась хирургическая коррекция; ни у одной не удалось добиться полного отрастания волос. Это не означает, что осложнение возникает у большинства пациенток, но показывает, что мезотерапия дутастеридом может привести к длительным или необратимым изменениям. Перед процедурой важно обсудить этот риск с врачом, а при появлении новых проплешин обратиться за обследованием.",
+    "_reason": "Статья имеет практическое значение для оценки безопасности мезотерапии дутастеридом у женщин с андрогенетической алопецией: она описывает потенциально стойкое осложнение, способное ухудшить косметический результат лечения. Однако три случая не позволяют оценить вероятность осложнения, сравнить безопасность с другими методами или установить причинный механизм с уверенностью.",
+    "why_read": "Статья полезна дерматологам и трихологам, которые обсуждают с пациентками инъекционные методы лечения андрогенетической алопеции или наблюдают выпадение волос после таких процедур. Её стоит прочитать для понимания возможных рубцовых и нерубцовых проявлений осложнения, важности раннего обследования и информирования пациенток о рисках.",
+    "limitations": [
+      "We describe three cases of persistent alopecia following dutasteride mesotherapy in women with AGA.",
+      "none of the patients experienced full regrowth",
+      "often lack detailed trichoscopic or procedural information, limiting interpretation."
+    ],
+    "advice_items": [
+      {
+        "quote": "These findings underscore the importance of proper counseling, careful technique, and close follow-up when using dutasteride mesotherapy.",
+        "advice": "До процедуры обсудите с пациенткой возможность стойкого очагового выпадения волос и ограниченного восстановления роста. При выполнении мезотерапии уделяйте внимание технике инъекций и организуйте последующее наблюдение, чтобы своевременно заметить новые очаги. Статья не устанавливает конкретную технику, которая гарантированно предотвращает осложнение.",
+        "audience": "врач"
+      },
+      {
+        "quote": "This complication may be underrecognized, and clinicians should maintain vigilance for early detection and management.",
+        "advice": "Если после мезотерапии появляются новые очаги выпадения волос, не следует автоматически считать их обычным течением андрогенетической алопеции. Проведите раннюю клиническую оценку и трихоскопию, обращая внимание на признаки рубцевания и миниатюризации фолликулов. В серии случаев полное восстановление роста волос не было достигнуто ни у одной пациентки.",
+        "audience": "врач"
+      }
+    ],
+    "importance_stars": 4,
+    "importance_mark": "★★★★☆",
+    "take": "keep"
+  },
+  {
+    "id": 21,
+    "pmid": "41741964",
+    "source": "PubMed",
+    "article": "Quality of life and patient-reported side effects of low-dose oral minoxidil in treating female pattern hair loss.",
+    "authors": [
+      "Sharma Divija",
+      "Mo Lillian",
+      "Patel Deep",
+      "Piontkowski Austin",
+      "Medina Candice",
+      "Hawkins Kelly",
+      "Shokrian Neda",
+      "Ungar Benjamin"
+    ],
+    "date": "2026-02-25",
+    "journal": "The Journal of dermatological treatment",
+    "doi": "10.1080/09546634.2026.2633066",
+    "topic": "АГА",
+    "topic_key": "aga",
+    "topic_keys": [
+      "aga"
+    ],
+    "topics": [
+      "АГА"
+    ],
+    "abstract_en": "Female pattern hair loss (FPHL) significantly affects women's well-being and quality of life (QoL), and low-dose oral minoxidil (LDOM) has increasingly gained attention as a convenient and effective treatment option. Although hypertrichosis is reported more often with LDOM than with topical formulations, patient perceptions and tolerance of this side effect remain poorly understood. We conducted a telephone survey at a single institution among women with FPHL currently taking or previously treated with LDOM for at least one month to evaluate treatment effectiveness, QoL, and side effect burden using the Women's Androgenetic Alopecia Quality of Life Questionnaire (WAA-QOL). Among 102 participants, the median duration of LDOM use was 12 months. Hair loss severity improved from a median score of 7 to 4 on a 10-point scale. Unwanted hair growth occurred in 71.6% of patients, most commonly on the face, arms, and legs; however, 93.2% did not consider it a reason to discontinue treatment, and most cases were mild or moderate. WAA-QOL scores improved significantly from baseline (67 to 39, p<0.001), with no predictors of unwanted hair growth identified. Overall, patients experienced clinical and QoL improvements, supporting a favorable patient-centered profile for LDOM.",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/41741964/",
+    "pmc_link": "",
+    "html_available": false,
+    "html_link": "",
+    "title_ru": "Качество жизни и сообщаемые пациентками побочные эффекты низкодозного перорального миноксидила при женском типе выпадения волос",
+    "summary": "В исследование включили 102 женщины с женским типом выпадения волос, которые принимали или ранее принимали низкие дозы перорального миноксидила не менее одного месяца; медианная продолжительность лечения составила 12 месяцев. По оценке пациенток, выраженность выпадения волос снизилась с 7 до 4 баллов по десятибалльной шкале, а показатель качества жизни по опроснику WAA-QOL улучшился с 67 до 39 баллов. Нежелательный рост волос отмечался у 71,6% участниц, однако 93,2% не считали его причиной для прекращения лечения. Исследование основано на телефонном опросе в одном учреждении, поэтому результаты отражают опыт пациенток и сами по себе не доказывают причинно-следственную связь.",
+    "practical_use": "При обсуждении перорального миноксидила с пациенткой с женским типом выпадения волос важно заранее обсудить вероятность нежелательного роста волос на лице, руках и ногах, который в этом исследовании отмечался часто, но преимущественно был лёгким или умеренным. Можно использовать результаты для разговора о качестве жизни и индивидуальной переносимости, не предполагая, что нежелательный рост волос обязательно приведёт к отмене препарата. Данные опроса не заменяют оценку противопоказаний, рисков и клиническую оценку безопасности перорального миноксидила.",
+    "patient_plain": "В опросе женщин, принимавших низкие дозы миноксидила внутрь, участницы отмечали уменьшение выраженности выпадения волос и улучшение качества жизни. При этом у 71,6% появился нежелательный рост волос, чаще на лице, руках и ногах, но большинство не считало это достаточной причиной для прекращения лечения. Результаты показывают, что многие женщины удовлетворительно переносили этот побочный эффект, однако не гарантируют такой же результат для каждой пациентки.",
+    "_reason": "Статья полезна тем, что рассматривает не только изменение выраженности выпадения волос, но и качество жизни и отношение пациенток к нежелательному росту волос при приёме перорального миноксидила. Высокая частота этого побочного эффекта важна для предварительного обсуждения лечения, а данные о переносимости помогают не приравнивать сам факт гипертрихоза к обязательной отмене препарата. Уровень доказательности ограничен наблюдательным характером телефонного опроса в одном учреждении.",
+    "why_read": "Статья будет полезна дерматологам и трихологам, которые обсуждают пероральный миноксидил с женщинами с женским типом выпадения волос. Её стоит прочитать для консультирования о вероятности нежелательного роста волос и для понимания того, как пациентки оценивают изменения качества жизни на фоне лечения. Она также пригодится при обсуждении ожиданий и переносимости терапии, но не позволяет самостоятельно определить оптимальную схему лечения.",
+    "limitations": [
+      "a single institution",
+      "currently taking or previously treated with LDOM for at least one month",
+      "telephone survey"
+    ],
+    "advice_items": [
+      {
+        "quote": "Unwanted hair growth occurred in 71.6% of patients, most commonly on the face, arms, and legs; however, 93.2% did not consider it a reason to discontinue treatment, and most cases were mild or moderate.",
+        "advice": "До начала лечения обсудите с пациенткой вероятность нежелательного роста волос, особенно на лице, руках и ногах. Объясните, что в данном исследовании этот эффект был частым, но преимущественно лёгким или умеренным и обычно не становился причиной прекращения лечения. При этом индивидуальная переносимость может отличаться, поэтому важно учитывать отношение самой пациентки к этому эффекту.",
+        "audience": "врач"
+      },
+      {
+        "quote": "WAA-QOL scores improved significantly from baseline (67 to 39, p<0.001), with no predictors of unwanted hair growth identified.",
+        "advice": "При наблюдении за пациенткой учитывайте не только выраженность выпадения волос, но и влияние проблемы на качество жизни. Результаты исследования можно использовать для обсуждения ожидаемых изменений и оценки субъективной пользы лечения. Поскольку исследователям не удалось выявить предикторы нежелательного роста волос, эти данные не позволяют надёжно определить заранее, у кого возникнет такой побочный эффект.",
+        "audience": "врач"
+      }
+    ],
+    "importance_stars": 4,
+    "importance_mark": "★★★★☆",
+    "take": "keep"
+  },
+  {
+    "id": 22,
+    "pmid": "41066610",
+    "source": "PubMed",
+    "article": "Clinicopathological features and treatment outcomes of fibrosing alopecia in a pattern distribution: a multicentre cohort study.",
+    "authors": [
+      "Tang Gia Toan",
+      "Triwongwaranat Daranporn",
+      "de Souza Teixeira Marcelo",
+      "Gavazzoni Dias Maria Fernanda Reis",
+      "Harries Matthew",
+      "Holmes Susan",
+      "Suchonwanit Poonkiat",
+      "Saceda-Corralo David",
+      "Boyle Aoife",
+      "Wall Dmitri",
+      "Sinclair Rodney",
+      "Gil-Redondo Rocio",
+      "Vañó-Galván Sergio",
+      "Asfour Leila",
+      "Khobzei Kuzma",
+      "Muttoni Elisabetta",
+      "Nirenberg Alexander",
+      "Bhoyrul Bevin"
+    ],
+    "date": "2026-02-24",
+    "journal": "Clinical and experimental dermatology",
+    "doi": "10.1093/ced/llaf444",
+    "topic": "АГА",
+    "topic_key": "aga",
+    "topic_keys": [
+      "aga"
+    ],
+    "topics": [
+      "АГА"
+    ],
+    "abstract_en": "BACKGROUND: Fibrosing alopecia in a pattern distribution (FAPD) is a lymphocytic primary cicatricial alopecia first described in 2000. However, to date, the FAPD literature remains sparse.\n\nOBJECTIVES: To identify clinicopathological features and treatment outcomes of FAPD in a large multicentre cohort.\n\nMETHODS: Patients who had biopsy-proven FAPD were selected from nine specialist hair clinics and were reviewed retrospectively to evaluate the clinical pattern of hair loss, trichoscopic and histopathological features, and response to treatment.\n\nRESULTS: Of 110 patients, with a mean age of onset of 52.5 (SD 14.8) years, 94 (85.5%) were women. The most common trichoscopic findings were loss of follicular ostia (97.2%, 103/106) and anisotrichia (97%, 84/87). Histopathological examination revealed perifollicular lymphocytic infiltration in 96.1% (99/103) and concentric lamellar fibrosis in 97% (92/95). After a median duration of treatment of 24 [interquartile range (IQR) 13-50] months, there was stabilization in hair density [median Sinclair grade 3.0 (IQR 3.0-4.0) pretreatment vs. 3.0 (IQR 2.0-4.0) post-treatment, P = 0.62]. Out of the 42 patients who received treatment for ≥ 12 months, 23 achieved stabilization and 16 demonstrated improvement in hair density.\n\nCONCLUSIONS: Limitations of the study include its retrospective design and disparate treatments. FAPD may be prone to misdiagnosis because of overlapping clinicopathological features with androgenetic alopecia. A combination of anti-inflammatory (for example, topical corticosteroids) and hair growth-promoting agents (for example, topical or low-dose oral minoxidil) can stabilize the condition or even promote hair regrowth.",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/41066610/",
+    "pmc_link": "",
+    "html_available": false,
+    "html_link": "",
+    "title_ru": "Клинические и гистологические особенности фиброзирующей алопеции по типу распределения волос при андрогенетической алопеции и результаты лечения: многоцентровое когортное исследование",
+    "summary": "В ретроспективном многоцентровом исследовании изучили 110 пациентов с подтверждённой биопсией фиброзирующей алопецией по типу распределения волос (FAPD), из которых 94 (85,5%) были женщинами. Наиболее частыми признаками были утрата устьев волосяных фолликулов и различия в толщине волос при трихоскопии, а при гистологическом исследовании — лимфоцитарная инфильтрация вокруг фолликулов и концентрический ламеллярный фиброз. После лечения с медианной продолжительностью 24 месяца плотность волос в целом стабилизировалась; среди 42 пациентов, получавших лечение не менее 12 месяцев, у 23 достигнута стабилизация, а у 16 отмечено увеличение плотности волос. Интерпретацию результатов ограничивают ретроспективный дизайн и неоднородность применявшегося лечения.",
+    "practical_use": "При подозрении на андрогенетическую алопецию с признаками рубцевания важно рассмотреть FAPD в дифференциальной диагностике и оценить устья фолликулов при трихоскопии. При необходимости диагноз следует подтверждать биопсией, поскольку клинические и гистологические признаки FAPD могут перекрываться с признаками андрогенетической алопеции. Результаты поддерживают рассмотрение сочетания противовоспалительной терапии и средств, стимулирующих рост волос, однако исследование не позволяет определить преимущество конкретной схемы лечения.",
+    "patient_plain": "Фиброзирующая алопеция по типу распределения волос может выглядеть как обычное наследственное поредение, но при этом сопровождается воспалением и рубцеванием вокруг волосяных фолликулов. В исследовании у большинства пациентов, получавших лечение не менее года, удалось стабилизировать выпадение или улучшить плотность волос. Врачи использовали разные методы лечения, поэтому исследование не показывает, какой из них лучше всего подходит конкретному человеку.",
+    "_reason": "Статья полезна для практики тем, что описывает заболевание, которое может быть ошибочно принято за андрогенетическую алопецию, хотя рубцевание фолликулов меняет подход к лечению. Результаты показывают возможность стабилизации состояния и улучшения плотности волос, но из-за неоднородности терапии нельзя надёжно сравнить эффективность отдельных препаратов.",
+    "why_read": "Статья особенно полезна дерматологам и трихологам, которые обследуют пациентов с прогрессирующим поредением волос и подозрением на рубцовую алопецию. Её стоит прочитать для уточнения диагностических признаков FAPD и понимания результатов длительного лечения, не рассматривая их как доказательство превосходства конкретного препарата.",
+    "limitations": [
+      "retrospective design",
+      "disparate treatments"
+    ],
+    "advice_items": [
+      {
+        "quote": "FAPD may be prone to misdiagnosis because of overlapping clinicopathological features with androgenetic alopecia.",
+        "advice": "При поредении волос не ограничивайтесь предположением об андрогенетической алопеции, если есть признаки рубцевания или воспаления вокруг фолликулов. Учитывайте FAPD в дифференциальной диагностике и при необходимости используйте трихоскопию и биопсию для уточнения диагноза.",
+        "audience": "врач"
+      },
+      {
+        "quote": "A combination of anti-inflammatory (for example, topical corticosteroids) and hair growth-promoting agents (for example, topical or low-dose oral minoxidil) can stabilize the condition or even promote hair regrowth.",
+        "advice": "При подтверждённой FAPD рассмотрите необходимость сочетания противовоспалительного лечения со средствами, стимулирующими рост волос. Учитывайте, что в исследовании применялись разные схемы, поэтому оно не устанавливает оптимальную комбинацию и не позволяет обещать восстановление волос каждому пациенту.",
+        "audience": "врач"
+      }
+    ],
+    "importance_stars": 4,
+    "importance_mark": "★★★★☆",
+    "take": "keep"
+  },
+  {
+    "id": 23,
+    "pmid": "41695992",
+    "source": "PubMed",
+    "article": "Expanding the therapeutic landscape of minoxidil for androgenetic alopecia: topical, oral and sublingual formulations.",
+    "authors": [
+      "Dias Flavia Rodrigues",
+      "Yong Shin Shen",
+      "FitzGerald Holly",
+      "Sinclair Rodney D",
+      "Bhoyrul Bevin"
+    ],
+    "date": "2026-01-21",
+    "journal": "Frontiers in pharmacology",
+    "doi": "10.3389/fphar.2025.1718208",
+    "topic": "АГА",
+    "topic_key": "aga",
+    "topic_keys": [
+      "aga"
+    ],
+    "topics": [
+      "АГА"
+    ],
+    "abstract_en": "Androgenetic alopecia (AGA) is the most common form of non-scarring alopecia, affecting up to 80% of men and 50% of women by the age of 70. Minoxidil, initially developed as an oral antihypertensive, has become one of the most widely used therapies for AGA due to its safety and efficacy. This review presents an overview of current evidence on topical, oral and sublingual minoxidil. Topical minoxidil, the only FDA-approved treatment for AGA in both men and women, promotes hair growth through several proposed mechanisms described in the article. Randomised controlled trials show that 5% formulations consistently increase hair counts, although results vary due to differences in follicular sulfotransferase activity. Low-dose oral minoxidil (0.25-5 mg) has emerged as a practical option for patients unresponsive to topical therapy. Hypertrichosis is the most frequent adverse effect, while cardiovascular events are uncommon at low doses. Sublingual administration, a novel delivery route that bypasses first-pass metabolism, may enhance follicular bioavailability while limiting systemic exposure. Early evidence indicates similar efficacy to oral therapy, with a potentially lower risk of cardiovascular effects. Overall, topical minoxidil remains first line, while oral and sublingual formulations expand therapeutic options and support individualised management. Further large-scale, long-term studies are needed to define optimal dosing, confirm safety and determine whether sublingual administration offers consistent advantages over oral use.",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/41695992/",
+    "pmc_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12898826/",
+    "html_available": true,
+    "html_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12898826/",
+    "title_ru": "Миноксидил при андрогенетической алопеции: наружное применение, приём внутрь и сублингвальная форма",
+    "summary": "Обзор рассматривает данные об эффективности и безопасности миноксидила для лечения андрогенетической алопеции у мужчин и женщин при наружном применении, приёме внутрь и сублингвальном введении. Наружный миноксидил остаётся терапией первой линии, а низкие дозы препарата внутрь могут быть альтернативой при недостаточном эффекте или плохой переносимости наружных средств; наиболее частый побочный эффект системного применения — нежелательный рост волос. Сублингвальная форма демонстрирует предварительно сопоставимую эффективность с пероральной и потенциально меньший риск системных побочных эффектов, однако доказательства пока ограничены. Для уточнения оптимальных доз, долгосрочной безопасности и преимуществ сублингвального введения необходимы более крупные и продолжительные исследования.",
+    "practical_use": "При обсуждении лечения следует учитывать эффективность наружного миноксидила, раздражение кожи головы и приверженность пациента; в частности, пена без пропиленгликоля может переноситься лучше спиртового раствора. При недостаточном ответе или непереносимости наружной терапии обзор предлагает рассматривать низкодозный пероральный миноксидил, учитывая возможность гипертрихоза и сердечно-сосудистых симптомов. Пероральная и сублингвальная формы применяются вне зарегистрированных показаний для андрогенетической алопеции в США, а сублингвальная форма остаётся экспериментальной; обзор не устанавливает окончательного преимущества этих способов применения.",
+    "patient_plain": "Наружный миноксидил остаётся основным вариантом лечения андрогенетической алопеции у мужчин и женщин, но он помогает не всем и иногда вызывает раздражение кожи головы. Если наружное средство не подходит или не даёт достаточного результата, врач может обсудить приём миноксидила внутрь, при котором возможны нежелательный рост волос и сердечно-сосудистые побочные эффекты. Сублингвальная форма, которую принимают через слизистую под языком, пока изучена недостаточно, чтобы считать её доказанно более безопасной. Выбор формы лечения требует обсуждения с врачом с учётом переносимости и индивидуальных обстоятельств.",
+    "_reason": "Обзор полезен для практики, поскольку сопоставляет три способа применения миноксидила и описывает ситуации, в которых пероральная форма может быть альтернативой наружной. При этом доказательная база неоднородна, сравнительные исследования ограничены, а сублингвальное применение остаётся экспериментальным, поэтому обзор не даёт оснований считать его предпочтительным методом лечения.",
+    "why_read": "Материал стоит прочитать дерматологам и трихологам, которые обсуждают с пациентами недостаточный эффект или раздражение от наружного миноксидила и рассматривают системную терапию. Пациентам он поможет понять различия между формами препарата и ограничения имеющихся данных, но не заменяет индивидуальную оценку рисков и назначение врача.",
+    "limitations": [
+      "Further large-scale, long-term studies are needed to define optimal dosing, confirm safety and determine whether sublingual administration offers consistent advantages over oral use.",
+      "Larger double-blind RCTs may help consolidate LDOM’s positioning in the armamentarium of treatments for AGA.",
+      "Preliminary data suggest that sublingual minoxidil, though still investigational, may be a promising alternative.",
+      "It is worth reiterating that, unlike topical minoxidil, the oral and sublingual formulations are not FDA-approved and only prescribed off-label.",
+      "The efficacy of oral minoxidil in the treatment of MPHL and FPHL has been evaluated in a small number of clinical trials."
+    ],
+    "advice_items": [
+      {
+        "quote": "The 5% foam, which lacks propylene glycol, has been associated with significantly reduced irritation and higher patient adherence (Blume-Peytavi et al., 2011).",
+        "advice": "Если пациент жалуется на раздражение кожи головы при использовании спиртового раствора миноксидила, можно обсудить пену без пропиленгликоля как возможную альтернативу. Обзор сообщает о меньшем раздражении и лучшей приверженности при использовании этой формы, но индивидуальную переносимость всё равно необходимо оценивать отдельно.",
+        "audience": "врач"
+      },
+      {
+        "quote": "LDOM, typically administered in doses ranging from 0.25 to 5 mg, is emerging as a viable alternative for patients who fail to respond to or experience side effects with topical therapy, or seek a more convenient systemic option.",
+        "advice": "При недостаточном ответе на наружный миноксидил или побочных эффектах от него врач может обсудить пероральную форму в низких дозах. При принятии решения следует учитывать системные риски и то, что применение внутрь при андрогенетической алопеции не одобрено FDA; приведённый диапазон описывает исследования, а не индивидуальную схему назначения.",
+        "audience": "врач"
+      },
+      {
+        "quote": "Preliminary data suggest that sublingual minoxidil, though still investigational, may be a promising alternative.",
+        "advice": "Сублингвальную форму следует рассматривать как исследуемый вариант, а не как доказанно более безопасную замену пероральному миноксидилу. При обсуждении с пациентом важно обозначить предварительный характер данных и отсутствие подтверждённых преимуществ в крупных долгосрочных исследованиях.",
+        "audience": "врач"
+      }
+    ],
+    "importance_stars": 4,
+    "importance_mark": "★★★★☆",
+    "take": "keep"
+  },
+  {
+    "id": 24,
+    "pmid": "41737285",
+    "source": "PubMed",
+    "article": "Diagnostic Performance of the Trichogram Compared to Histopathology of Scalp Biopsy in Horizontal Sections in Female Androgenetic Alopecia: A Retrospective Study.",
+    "authors": [
+      "Kakizaki Priscila",
+      "Rocha Vanessa Barreto",
+      "Machado Carla Jorge",
+      "Valente Neusa Yuriko Sakai"
+    ],
+    "date": "2026-01-20",
+    "journal": "Skin appendage disorders",
+    "doi": "10.1159/000550541",
+    "topic": "АГА",
+    "topic_key": "aga",
+    "topic_keys": [
+      "aga"
+    ],
+    "topics": [
+      "АГА"
+    ],
+    "abstract_en": "INTRODUCTION: Female androgenetic alopecia (FAGA) is a frequent cause of diffuse, non-scarring hair loss in women. The trichogram is a noninvasive method for assessing follicular miniaturization, but its diagnostic accuracy compared with scalp biopsy remains uncertain.\n\nMETHODS: In this retrospective, cross-sectional study, 49 women with suspected FAGA underwent trichogram and scalp biopsy on the same day. Hair shafts were classified using three approaches: (1) standard classification (terminal >0.03 mm; vellus ≤0.03 mm or thinner than the inner root sheath, per Headington's criteria); (2) T:(V+I) classification (terminal >0.06 mm, intermediate >0.03-0.06 mm, vellus ≤0.03 mm); and (3) relative diameter method, where hairs <50% of the thickest shaft were considered vellus. In all methods, a terminal-to-vellus ratio ≤3 indicated diagnosis.\n\nRESULTS: Standard classification yielded a sensitivity of 65.3%. When intermediate and miniaturized hairs were combined, sensitivity increased to 96%. The relative diameter method achieved 77.6%, with no significant difference from histopathology.\n\nCONCLUSION: Trichogram sensitivity in FAGA improves when intermediate hairs are included or when relative shaft diameter is applied. These adaptations enhance correlation with histology and support the trichogram as a practical, noninvasive, and cost-effective diagnostic tool in clinical practice.",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/41737285/",
+    "pmc_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12928728/",
+    "html_available": true,
+    "html_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12928728/",
+    "title_ru": "Диагностическая точность трихограммы по сравнению с гистологическим исследованием биопсии кожи головы при женской андрогенетической алопеции: ретроспективное исследование",
+    "summary": "В ретроспективном исследовании 49 женщин с подозрением на женскую андрогенетическую алопецию прошли трихограмму и биопсию кожи головы в один день. При стандартной классификации волос чувствительность трихограммы составила 65,3%, а при объединении промежуточных и миниатюризированных волос — 96%. Метод относительного диаметра волос показал чувствительность 77,6%; статистически значимого отличия от гистологического исследования не обнаружили. Исследование показывает, что способ классификации волос существенно влияет на диагностическую чувствительность, однако его ретроспективный дизайн и небольшая выборка ограничивают обобщение результатов.",
+    "practical_use": "При диагностике женской андрогенетической алопеции врач может учитывать, что стандартная классификация волос по толщине способна пропускать значительную часть случаев. Объединение промежуточных и миниатюризированных волос в оценке трихограммы повысило чувствительность до 96% в исследованной группе; этот подход заслуживает внимания при интерпретации результатов. Поскольку в абстракте не приведены специфичность и полные показатели диагностической точности для всех методов, эти результаты не позволяют считать трихограмму самостоятельной заменой биопсии во всех клинических ситуациях.",
+    "patient_plain": "Трихограмма позволяет оценить толщину волос без хирургического вмешательства и может помочь выявить женскую андрогенетическую алопецию. В исследовании у 49 женщин результат зависел от того, как классифицировали тонкие и промежуточные по толщине волосы: при одном из подходов чувствительность метода достигла 96%. Это означает, что правильная оценка тонких волос может повысить вероятность обнаружения заболевания, но исследование не гарантирует такую же точность у каждой пациентки.",
+    "_reason": "Статья имеет практическую ценность для диагностики женской андрогенетической алопеции, поскольку показывает, что стандартная классификация волос может недооценивать признаки миниатюризации. Результат с чувствительностью 96% указывает на перспективность альтернативного подхода, но небольшая выборка и отсутствие в абстракте данных о специфичности не позволяют делать окончательные выводы о замене биопсии трихограммой.",
+    "why_read": "Статья полезна дерматологам и трихологам, которые обследуют женщин с диффузным выпадением волос и выбирают способ подтверждения диагноза. Её стоит прочитать, чтобы понять, как включение промежуточных волос в классификацию меняет чувствительность трихограммы и какие ограничения следует учитывать при интерпретации результата.",
+    "limitations": [
+      "In this retrospective, cross-sectional study, 49 women with suspected FAGA underwent trichogram and scalp biopsy on the same day.",
+      "Standard classification yielded a sensitivity of 65.3%.",
+      "When intermediate and miniaturized hairs were combined, sensitivity increased to 96%.",
+      "The relative diameter method achieved 77.6%, with no significant difference from histopathology."
+    ],
+    "advice_items": [
+      {
+        "quote": "When intermediate and miniaturized hairs were combined, sensitivity increased to 96%.",
+        "advice": "При интерпретации трихограммы у женщин с подозрением на андрогенетическую алопецию учитывайте, что включение промежуточных и миниатюризированных волос в оценку повысило чувствительность метода до 96% в этой выборке. Не переносите этот показатель автоматически на другие популяции и условия обследования: в представленном абстракте нет полного набора показателей диагностической точности.",
+        "audience": "врач"
+      },
+      {
+        "quote": "Trichogram sensitivity in FAGA improves when intermediate hairs are included or when relative shaft diameter is applied.",
+        "advice": "При выборе и интерпретации метода оценки толщины волос рассмотрите классификацию, учитывающую промежуточные волосы, или подход с относительным диаметром стержня. Сопоставляйте результат с клинической картиной, поскольку исследование оценивало диагностическую чувствительность, а не доказывало, что трихограмма во всех случаях заменяет гистологическое исследование.",
+        "audience": "врач"
+      }
+    ],
+    "importance_stars": 4,
+    "importance_mark": "★★★★☆",
+    "take": "keep"
+  },
+  {
+    "id": 25,
+    "pmid": "41650295",
+    "source": "PubMed",
+    "article": "Androgenetic alopecia: an international expert view on the aetiopathogenesis, quality of life and current and emerging therapeutic approaches.",
+    "authors": [
+      "Piraccini Bianca Maria",
+      "Dias Maria Fernanda Gavazzoni",
+      "Abraham Leonardo Spagnol",
+      "Rudnicka Lidia"
+    ],
+    "date": "2026-01-01",
+    "journal": "European journal of dermatology : EJD",
+    "doi": "10.1684/ejd.2026.4999",
+    "topic": "АГА",
+    "topic_key": "aga",
+    "topic_keys": [
+      "aga"
+    ],
+    "topics": [
+      "АГА"
+    ],
+    "abstract_en": "Androgenetic alopecia (AGA) or pattern hair loss is a non-scarring hair condition defined by gradually reduced, miniaturized hair follicles. It is a multifactorial disorder primarily triggered by dysregulation of the hair cycle due to alterations between the crosstalk of numerous cell subpopulations. To provide a focus on existing and novel management options, preceded by a short overview of the current knowledge about AGA. A group of international experts in AGA analysed 85 literature sources about AGA (retrieved from PubMed and Google Scholar and published between 2000 and 2025) and discuss current and novel treatment options. Recent research evidenced that targeting the hair follicle and the surrounding tissue, rather than solely relying on solutions offered by minoxidil, finasteride, or other products, provides a safe and highly beneficial improvement of AGA. The authors underscore the significant scientific value and crucial role of advanced dermocosmetics with proven clinical efficacy in the long-term management of AGA, in addition to pharmacological active ingredients or other treatment options. These innovations offer compelling early intervention strategies, potentially delaying reliance on lifelong pharmaceutical regimens and optimizing the overall patient journey and quality of life. In addition to current treatment options of AGA, novel topical non-pharmacological therapeutic options are available, helping to safely and efficiently treat this multifactorial hair condition.",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/41650295/",
+    "pmc_link": "",
+    "html_available": false,
+    "html_link": "",
+    "title_ru": "Андрогенетическая алопеция: международный экспертный обзор причин развития, влияния на качество жизни и существующих и перспективных методов лечения",
+    "summary": "Международная группа экспертов проанализировала 85 публикаций за 2000–2025 годы, посвящённых механизмам развития андрогенетической алопеции (АГА), качеству жизни и существующим и новым подходам к лечению. Авторы рассматривают АГА как многофакторное заболевание, связанное с нарушением цикла роста волос и постепенной миниатюризацией фолликулов, и подчёркивают перспективность воздействия не только на сами фолликулы, но и на окружающие ткани, в том числе с помощью дермокосметики с доказанной клинической эффективностью. Обзор также описывает новые наружные немедикаментозные подходы, которые могут дополнять существующие методы лечения. Однако доступен только абстракт, поэтому конкретные данные об эффективности отдельных средств, качестве доказательств и безопасности оценить невозможно.",
+    "practical_use": "На приёме обзор может помочь обсудить с пациентом комплексный подход к лечению АГА, не ограничивающийся миноксидилом и финастеридом, и роль наружных средств с подтверждённой клинической эффективностью. При этом абстракт не позволяет рекомендовать конкретные дермокосметические продукты или заменять ими лекарственную терапию: для таких решений необходимы данные отдельных исследований и полные тексты публикаций.",
+    "patient_plain": "Андрогенетическая алопеция развивается постепенно: волосяные фолликулы уменьшаются, а волосы становятся тоньше. Авторы обзора считают, что помимо лекарств, таких как миноксидил и финастерид, в лечении могут быть полезны средства, воздействующие на фолликулы и окружающие их ткани, включая дермокосметику с доказанной эффективностью. Однако этот обзор сам по себе не доказывает, что косметические средства способны заменить лекарства или избавить от необходимости длительного лечения.",
+    "_reason": "Обзор полезен для общего понимания современных направлений лечения АГА и расширения обсуждения вариантов ухода за волосами. Практическая ценность ограничена отсутствием в доступном тексте сравнительных результатов, подробностей об отдельных методах и данных, позволяющих определить, какие средства действительно превосходят стандартную терапию.",
+    "why_read": "Врачу-дерматологу стоит ознакомиться с обзором, чтобы получить общее представление о новых направлениях лечения и роли дермокосметики в длительном ведении пациентов с АГА. Пациенту материал может помочь понять, почему лечение не обязательно сводится к одному препарату, но выбирать альтернативы на основании одного абстракта не следует.",
+    "limitations": [
+      "A group of international experts in AGA analysed 85 literature sources about AGA (retrieved from PubMed and Google Scholar and published between 2000 and 2025)",
+      "Recent research evidenced that targeting the hair follicle and the surrounding tissue, rather than solely relying on solutions offered by minoxidil, finasteride, or other products, provides a safe and highly beneficial improvement of AGA.",
+      "These innovations offer compelling early intervention strategies, potentially delaying reliance on lifelong pharmaceutical regimens and optimizing the overall patient journey and quality of life."
+    ],
+    "advice_items": [],
+    "importance_stars": 4,
+    "importance_mark": "★★★★☆",
+    "take": "skim"
+  },
+  {
+    "id": 26,
+    "pmid": "42005482",
+    "source": "PubMed",
+    "article": "Early Trichoscopic Changes of Minoxidil Therapy in Male Pattern Hair Loss: A Prospective Cohort Study.",
+    "authors": [
+      "Shukla Neha",
+      "Jaiswal Chandra Shekhar",
+      "Nagwanshi Jyoti",
+      "Dandotiya Dileep",
+      "Sharma Ranjana"
+    ],
+    "date": "2025-12-29",
+    "journal": "Journal of pharmacy & bioallied sciences",
+    "doi": "10.4103/jpbs.jpbs_1711_24",
+    "topic": "АГА",
+    "topic_key": "aga",
+    "topic_keys": [
+      "aga"
+    ],
+    "topics": [
+      "АГА"
+    ],
+    "abstract_en": "BACKGROUND: Minoxidil 5% is a primary treatment for male pattern hair loss, but initial increased shedding can reduce compliance. While effective, early changes are not visible to the naked eye. Trichoscopy is a rapid, cost-effective tool for diagnosing hair disorders, yet no studies have examined its role in assessing early minoxidil effects. This study aims to evaluate trichoscopic changes in early minoxidil therapy to improve patient compliance.\n\nMETHODOLOGY: A prospective cohort study was conducted from February 2019 to August 2020 at MGM Medical College and MY Hospital, Indore. Male patients with hair loss were evaluated using trichoscopy by a single observer. Other causes of hair loss were excluded.\n\nRESULTS: Minor adverse effects were reported in 45.5% of subjects, with 20% experiencing scalp dryness, 11% increased shedding, and 14% both. Overall, 70% of patients were satisfied with minoxidil therapy. The mean hair loss duration was 13 months, and the most common presentation was N-H grade III. Family history was positive in 78 subjects.\n\nCONCLUSION: Trichoscopy enhances early assessment of minoxidil therapy in male pattern hair loss, improving satisfaction and compliance. Positive changes can be observed within one month, encouraging continued treatment adherence.",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/42005482/",
+    "pmc_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13086379/",
+    "html_available": true,
+    "html_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13086379/",
+    "title_ru": "Ранние изменения при трихоскопии на фоне миноксидила 5% у мужчин с андрогенетической алопецией",
+    "summary": "В проспективное когортное исследование включили 200 мужчин в возрасте 18–40 лет с подтверждённой трихоскопией андрогенетической алопецией. Исследователи сравнивали показатели трихоскопии до начала терапии миноксидилом 5% и во время наблюдения: через два месяца статистически значимо увеличились количество волос и число тонких, похожих на пушковые волос, а также уменьшились некоторые признаки, связанные с алопецией. Удовлетворённость лечением отметили 70% участников, у 45,5% наблюдались незначительные нежелательные явления. Исследование показывает, что трихоскопия помогает выявлять ранние изменения, которые могут быть незаметны визуально, но ограничено мужской когортой и не доказывает, что применение трихоскопии само по себе улучшает долгосрочную приверженность лечению.",
+    "practical_use": "При обсуждении лечения мужской андрогенетической алопеции врач может использовать трихоскопию для объективного сравнения состояния волос до начала терапии и в динамике, в том числе когда пациент пока не замечает видимого улучшения. Результаты позволяют обсуждать изменения уже на раннем этапе наблюдения, одновременно уточняя переносимость лечения и ожидания пациента. Исследование не устанавливает универсальный график обследований и не позволяет по одним трихоскопическим показателям гарантировать индивидуальный ответ на миноксидил.",
+    "patient_plain": "У мужчин с андрогенетической алопецией на фоне применения миноксидила 5% через два месяца при трихоскопии обнаружили увеличение количества волос и уменьшение некоторых признаков выпадения. Такие изменения могут быть незаметны при обычном осмотре, поэтому отсутствие видимого результата в зеркале не всегда означает, что изменений нет. При этом у части участников возникали сухость кожи головы и усиление выпадения волос, а исследование не гарантирует такой же результат каждому человеку.",
+    "_reason": "Практическая ценность статьи заключается в том, что она показывает возможность объективно отслеживать ранние изменения при лечении мужской андрогенетической алопеции, когда визуальный результат ещё трудно оценить. Однако данные одного когортного исследования не подтверждают, что трихоскопический контроль сам по себе повышает долгосрочную приверженность или улучшает конечный результат лечения.",
+    "why_read": "Статья полезна дерматологам и трихологам, которые наблюдают мужчин с ранней андрогенетической алопецией и хотят объяснять пациентам динамику лечения на основании объективных показателей. Её также стоит прочитать врачам, работающим с вопросами удовлетворённости терапией и переносимости миноксидила. Для оценки эффективности лечения у женщин эти результаты непосредственно неприменимы.",
+    "limitations": [
+      "This prospective cohort study (Feb 2019–Aug 2020) included male patients (18–40 years) with trichoscopic-confirmed MPHL at MGM Medical College.",
+      "We did not recruit female subjects in our study because telogen effluvium is difficult to differentiate from pattern hair loss by trichoscopy in females."
+    ],
+    "advice_items": [
+      {
+        "quote": "Dermatoscopy can be a useful tool to demonstrate hair diameter diversity due to progressive miniaturization before clinical baldness is visible and is characteristic of androgenetic alopecia.",
+        "advice": "При обследовании мужчины с подозрением на андрогенетическую алопецию используйте трихоскопию для оценки различий в диаметре волос, которые могут отражать миниатюризацию фолликулов до появления заметного облысения. Сопоставляйте эти признаки с клинической картиной, а не рассматривайте их изолированно.",
+        "audience": "врач"
+      },
+      {
+        "quote": "The number of vellus-like hair increased significantly with a mean value of 12.41 at baseline to 22.65 at second follow-up after 2 months of therapy (P = 0.000), which is due to the growth of new hairs.",
+        "advice": "При оценке динамики лечения учитывайте не только общее количество волос, но и число волос, похожих на пушковые, поскольку в исследовании этот показатель увеличился за два месяца терапии. Объясните пациенту, что это изменение было зарегистрировано при трихоскопии и само по себе не гарантирует заметного косметического улучшения.",
+        "audience": "врач"
+      },
+      {
+        "quote": "We also assessed patient satisfaction rate with effect of minoxidil therapy at the end of 2 months and found that 140 (70%) patients were satisfied with the therapy and 60 (30%) were not satisfied.",
+        "advice": "При контрольном визите выясняйте не только объективную динамику, но и удовлетворённость пациента лечением. Если ожидаемого визуального результата пока нет, обсудите результаты обследования и переносимость терапии, не обещая гарантированного улучшения.",
+        "audience": "врач"
+      }
+    ],
+    "importance_stars": 4,
+    "importance_mark": "★★★★☆",
+    "take": "keep"
+  },
+  {
+    "id": 27,
+    "pmid": "41219547",
+    "source": "PubMed",
+    "article": "Comparative Efficacy and Safety of Platelet Rich Plasma (PRP) versus Topical Minoxidil for Androgenetic Alopecia: A Systematic Review and Meta-analysis.",
+    "authors": [
+      "Umar Muhammad",
+      "Anwar Amna",
+      "Shamim Laiba",
+      "Ahmad Osama",
+      "Laique Fatima",
+      "Mohiuddin Mubashir",
+      "Hidayat Ayesha",
+      "Baig Mirza Mohammad Ali"
+    ],
+    "date": "2025-11-11",
+    "journal": "Aesthetic plastic surgery",
+    "doi": "10.1007/s00266-025-05394-7",
+    "topic": "АГА",
+    "topic_key": "aga",
+    "topic_keys": [
+      "aga"
+    ],
+    "topics": [
+      "АГА"
+    ],
+    "abstract_en": "BACKGROUND: Androgenetic alopecia (AGA), the most common cause of hair loss, leads to significant psychological and cosmetic concerns in males and females both. Minoxidil is a widely used standard therapy for treating AGA, while Platelet-rich plasma (PRP), a new emerging treatment, has also gained popularity. However, there are no data comparing the efficacy of both treatment options to guide clinical decision-making. This systematic review and meta-analysis aims to compare and evaluate the effectiveness and safety profiles of PRP versus topical minoxidil for the treatment of AGA.\n\nMETHODS: PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) guidelines were followed to conduct a systematic review. Databases including Scopus, Cochrane, Science Direct, Google Scholar, Embase, and PubMed were searched from inception to July 2024. We included randomized controlled trials (RCTs) that compared PRP and topical minoxidil, enrolling both men and women diagnosed with AGA with no age restriction. Non-RCTs, letters, retrospective studies, guidelines, review papers, editorials and commentaries were excluded. Cochrane risk-of-bias tool was used to assess the quality of the studies. Data were pooled using a random effect model.\n\nRESULTS: A total of 789 articles were screened, and nine RCTs with 451 participants were included in the meta-analysis. Upon comparing the treatment outcomes, PRP and minoxidil showed no significant difference in hair density (odds ratio [OR]: 9.09; confidence interval [CI]: 6.73, 24.91). Patient satisfaction was significantly higher for those receiving PRP therapy than 5% minoxidil (OR: 2.77; CI: 1.53,5.04). Negative hair pull test results significantly favored PRP over minoxidil (82.75% vs. 52.94%, respectively). However, outcomes for moderate to high regrowth and terminal hair count were similar between the two treatments.\n\nCONCLUSION: While PRP therapy shows promise and has produced better patient outcomes than minoxidil, this meta-analysis does not demonstrate a clear advantage of PRP over minoxidil in key clinical outcomes such as hair density, mean terminal hair count, or moderate-to-high regrowth. The high heterogeneity across studies emphasizes the need for larger, standardized trials to establish definitive conclusions.\n\nLEVEL OF EVIDENCE I: This journal requires that authors assign a level of evidence to each article. For a full description of these Evidence-Based Medicine ratings, please refer to the Table of Contents or the online Instructions to Authors www.springer.com/00266 . Prospero registration: (CRD42024570523).",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/41219547/",
+    "pmc_link": "",
+    "html_available": false,
+    "html_link": "",
+    "title_ru": "Плазма, обогащённая тромбоцитами (PRP), и наружный миноксидил при андрогенетической алопеции: систематический обзор и метаанализ",
+    "summary": "В систематический обзор и метаанализ вошли девять рандомизированных контролируемых исследований с участием 451 мужчины и женщины с андрогенетической алопецией. PRP и наружный миноксидил не показали статистически значимых различий по плотности волос, количеству терминальных волос и выраженности отрастания волос от умеренной до высокой. Удовлетворённость пациентов была выше при PRP, а отрицательный результат теста натяжения волос встречался чаще, чем при применении 5% миноксидила: 82,75% против 52,94%. Значительная неоднородность исследований ограничивает уверенность в выводах, а убедительного преимущества PRP по основным клиническим показателям метаанализ не установил.",
+    "practical_use": "При обсуждении лечения андрогенетической алопеции можно использовать эти результаты, чтобы объяснить пациенту, что PRP не доказала явного превосходства над наружным миноксидилом по основным показателям роста волос, хотя удовлетворённость пациентов и результаты теста натяжения волос были лучше. Не следует представлять PRP как заведомо более эффективную альтернативу миноксидилу: для уверенного сравнения необходимы более крупные исследования с едиными протоколами и критериями оценки.",
+    "patient_plain": "В исследовании сравнили инъекции плазмы, обогащённой тромбоцитами, и наружный миноксидил у людей с наследственным поредением волос. По основным показателям роста волос методы не отличались убедительно, хотя пациенты, получавшие PRP, чаще были удовлетворены результатом, а тест натяжения волос чаще становился отрицательным. Пока недостаточно данных, чтобы утверждать, что PRP в целом эффективнее миноксидила.",
+    "_reason": "Это прямое сравнение двух подходов к лечению андрогенетической алопеции, поэтому обзор полезен для обсуждения ожиданий пациентов и альтернатив наружному миноксидилу. Однако всего девять исследований с 451 участником и высокая неоднородность результатов не позволяют уверенно установить преимущество одного метода по ключевым показателям роста волос.",
+    "why_read": "Статья полезна дерматологам и врачам, выполняющим процедуры PRP, при обсуждении доказательств эффективности этих методов с пациентами. Пациентам она поможет понять, почему более высокая удовлетворённость процедурой не означает доказанного превосходства по плотности и количеству волос.",
+    "limitations": [
+      "The high heterogeneity across studies emphasizes the need for larger, standardized trials to establish definitive conclusions.",
+      "this meta-analysis does not demonstrate a clear advantage of PRP over minoxidil in key clinical outcomes such as hair density, mean terminal hair count, or moderate-to-high regrowth."
+    ],
+    "advice_items": [
+      {
+        "quote": "The high heterogeneity across studies emphasizes the need for larger, standardized trials to establish definitive conclusions.",
+        "advice": "При обсуждении PRP с пациентом обозначайте неопределённость сравнительных данных и не обещайте превосходства над наружным миноксидилом. При интерпретации результатов учитывайте, что исследования существенно различались между собой, а выводы требуют подтверждения в более крупных исследованиях со стандартизированными протоколами.",
+        "audience": "врач"
+      }
+    ],
+    "importance_stars": 4,
+    "importance_mark": "★★★★☆",
+    "take": "keep"
+  },
+  {
+    "id": 28,
     "pmid": "41118052",
     "source": "PubMed",
     "article": "Oral Minoxidil for Alopecia Treatment: Risks, Benefits, and Recommendations.",
@@ -483,7 +1559,109 @@
     ],
     "importance_stars": 5,
     "importance_mark": "★★★★★",
-    "take": "keep",
-    "audience_sex": "any"
+    "take": "keep"
+  },
+  {
+    "id": 29,
+    "pmid": "41044024",
+    "source": "PubMed",
+    "article": "Comparative Efficacy of Topical Chitosan and Minoxidil in Hair Loss: A Controlled Study With Microneedling.",
+    "authors": [
+      "Wan Jovian",
+      "Sydorchuk Olena",
+      "Junawanto Irwan",
+      "Choi Wonseok",
+      "Namthongton Nil",
+      "Hendira Putri",
+      "Putri Ardhiah Iswanda",
+      "Chansataporn Pattra",
+      "Pamela Ruri",
+      "Yi Kyu-Ho"
+    ],
+    "date": "2025-10-03",
+    "journal": "The Journal of craniofacial surgery",
+    "doi": "10.1097/SCS.0000000000012051",
+    "topic": "АГА",
+    "topic_key": "aga",
+    "topic_keys": [
+      "aga"
+    ],
+    "topics": [
+      "АГА"
+    ],
+    "abstract_en": "BACKGROUND: Chitosan, a natural polysaccharide with immunomodulatory and regenerative properties, has shown promise in enhancing tissue repair. While 5% minoxidil remains the standard treatment for androgenetic alopecia, interest in non-hormonal or adjunctive therapies such as chitosan is growing.\n\nOBJECTIVE: To evaluate the clinical efficacy and safety of topical 2% chitosan applied after microneedling in comparison with 5% topical minoxidil and a no-treatment control group in patients with androgenetic alopecia or diffuse hair loss.\n\nMETHODS: A prospective, controlled study enrolled 30 patients (aged 22-58 y), randomized equally into 3 groups (n=10 each): (1) microneedling followed by 4 mL of 2% chitosan (Chitosan group), (2) twice-daily application of 5% topical minoxidil (Minoxidil group), and (3) untreated control (Control group). Treatments continued for 6 months. Primary outcomes included trichoscopic hair density and hair shaft diameter; secondary outcomes included patient satisfaction scores and adverse events. A representative scalp biopsy from the chitosan group was evaluated histologically.\n\nRESULTS: After 6 months, both the chitosan and minoxidil groups demonstrated significant increases in mean hair density compared with the control group (+30.5% and +22.3%, respectively; P =0.032 and P =0.048). Although the chitosan group showed a numerically greater improvement than the minoxidil group, this difference was not statistically significant ( P =0.62). Hair shaft diameter and patient satisfaction scores improved in both treatment groups. No meaningful changes were observed in the control group. Mild, transient erythema occurred in 3 patients (1 in the chitosan group and 2 in the minoxidil group). Histologic analysis in a chitosan-treated subject showed increased follicular density and improved dermal matrix organization.\n\nCONCLUSIONS: In this small controlled study, microneedling followed by topical 2% chitosan resulted in significant improvements in hair growth parameters compared with no treatment, and outcomes were generally comparable to those observed with 5% minoxidil. While these results are promising, the small sample size limits definitive conclusions regarding comparative efficacy. Larger, adequately powered trials are warranted to confirm these preliminary findings and to better delineate the role of chitosan as a standalone or adjunctive therapy.\n\nEVIDENCEBASED LEVEL: Level II.",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/41044024/",
+    "pmc_link": "",
+    "html_available": false,
+    "html_link": "",
+    "title_ru": "Сравнение наружного хитозана и миноксидила при выпадении волос: контролируемое исследование с микронидлингом",
+    "summary": "В проспективном контролируемом исследовании участвовали 30 пациентов в возрасте 22–58 лет с андрогенетической алопецией или диффузным выпадением волос, случайным образом распределённых на три группы по 10 человек. Через 6 месяцев плотность волос увеличилась на 30,5% в группе микронидлинга с нанесением 2% хитозана и на 22,3% в группе наружного миноксидила 5%; оба результата были статистически значимо лучше, чем в группе без лечения. Различие между двумя активными группами не было статистически значимым, поэтому превосходство хитозана над миноксидилом не доказано. Небольшая выборка не позволяет сделать окончательные выводы о сравнительной эффективности методов.",
+    "practical_use": "Врач может учитывать исследование как предварительное свидетельство потенциальной эффективности хитозана в сочетании с микронидлингом, но не как основание заменять им миноксидил. При обсуждении этого подхода с пациентом важно подчеркнуть, что сравнение основано всего на 10 участниках в каждой группе и не доказало эквивалентность методов. Для определения места хитозана в лечении необходимы более крупные исследования.",
+    "patient_plain": "В небольшом исследовании у людей с выпадением волос плотность волос увеличилась как при использовании миноксидила 5%, так и после микронидлинга с нанесением хитозана 2%. Хотя численно улучшение было больше в группе хитозана, исследование не доказало, что он эффективнее миноксидила. Результаты пока предварительные, поэтому считать хитозан полноценной заменой миноксидилу на их основании нельзя.",
+    "_reason": "Исследование представляет интерес, поскольку изучает потенциально негормональный подход к лечению выпадения волос и напрямую сравнивает его с миноксидилом и отсутствием лечения. Однако по 10 пациентов в каждой группе недостаточно для надёжного вывода о сопоставимости методов, а результаты относятся к хитозану в сочетании с микронидлингом, а не к самостоятельному применению хитозана.",
+    "why_read": "Статья полезна дерматологам и врачам, занимающимся лечением алопеции, которые хотят оценить предварительные данные о новых наружных средствах и процедурах. Пациентам она поможет понять, почему обнадёживающие результаты небольшого исследования ещё не означают, что новый подход доказанно заменяет стандартное лечение.",
+    "limitations": [
+      "The small sample size limits definitive conclusions regarding comparative efficacy.",
+      "Larger, adequately powered trials are warranted to confirm these preliminary findings and to better delineate the role of chitosan as a standalone or adjunctive therapy."
+    ],
+    "advice_items": [],
+    "importance_stars": 4,
+    "importance_mark": "★★★★☆",
+    "take": "keep"
+  },
+  {
+    "id": 30,
+    "pmid": "39948731",
+    "source": "PubMed",
+    "article": "Assessing the safety of topical minoxidil through disproportionality analysis of FAERS reports.",
+    "authors": [
+      "Li Yanbo",
+      "Liu Bo",
+      "Wu Wei",
+      "Li Jian"
+    ],
+    "date": "2025-02-17",
+    "journal": "Expert opinion on drug safety",
+    "doi": "10.1080/14740338.2025.2467816",
+    "topic": "АГА",
+    "topic_key": "aga",
+    "topic_keys": [
+      "aga"
+    ],
+    "topics": [
+      "АГА"
+    ],
+    "abstract_en": "BACKGROUND: Topical minoxidil, approved by the FDA in the 1980s, has been widely used to manage androgenetic alopecia. While effective, several adverse events (AEs) related to its use, especially those not well-documented on product labels, remain a concern.\n\nOBJECTIVE: This study aimed to evaluate the safety of topical minoxidil by analyzing AEs reported in the FDA Adverse Event Reporting System (FAERS) from 2004 to 2024, focusing on identifying potential risk signals not highlighted on current product labels.\n\nMETHODS: Adverse event reports (AERs) from FAERS, where topical minoxidil was identified as the primary suspect, were analyzed. Disproportionality analysis methods, Reporting Odds Ratio (ROR), Proportional Reporting Ratio (PRR), Bayesian Confidence Propagation Neural Network (BCPNN), and Multi-Item Gamma Poisson Shrinker (MGPS), were used to assess the relationship between minoxidil and reported AEs.\n\nRESULTS: Among 45,130 reports, most were from males (50.88%) and showed a significant increase in incidents since 2015. Newly identified AEs, such as application site acne and cysts, were observed. These AEs are not well represented on product labels.\n\nCONCLUSION: The study identified previously unreported AEs linked to topical minoxidil, underscoring the need for updated patient information and regulatory reassessment to enhance safety and inform clinical practices.",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/39948731/",
+    "pmc_link": "",
+    "html_available": false,
+    "html_link": "",
+    "title_ru": "Безопасность наружного миноксидила: анализ сообщений о нежелательных реакциях в базе FAERS",
+    "summary": "В исследовании проанализировали 45 130 сообщений о нежелательных явлениях, поступивших в американскую систему FAERS в период с 2004 по 2024 год, в которых наружный миноксидил был указан как основное подозреваемое средство. Мужчины составляли 50,88% авторов сообщений, а число зарегистрированных случаев значительно увеличилось с 2015 года. Среди потенциальных новых сигналов безопасности обнаружены акне и кисты в месте нанесения, которые недостаточно отражены в инструкциях к препарату. Анализ спонтанных сообщений позволяет выявлять возможные сигналы риска, но не доказывает причинно-следственную связь и не определяет частоту нежелательных реакций среди всех пользователей.",
+    "practical_use": "При обсуждении наружного миноксидила стоит учитывать возможность появления акне и кист в месте нанесения и уточнять у пациента характер изменений кожи головы или других обрабатываемых участков. Эти результаты могут служить основанием для дальнейшего изучения сигналов безопасности и пересмотра информации для пациентов, но сами по себе не позволяют оценить абсолютный риск, доказать связь конкретной реакции с миноксидилом или обосновать изменение схемы лечения.",
+    "patient_plain": "Наружный миноксидил может сопровождаться нежелательными реакциями кожи, в том числе акне и кистами в месте нанесения. Исследователи обнаружили такие сигналы в базе сообщений о побочных эффектах, однако это не означает, что препарат обязательно вызвал каждую из зарегистрированных реакций или что они часто встречаются. Исследование помогает обратить внимание на возможные проблемы безопасности, но не позволяет определить вероятность их возникновения у конкретного человека.",
+    "_reason": "Статья полезна для практики, поскольку обращает внимание на потенциальные кожные нежелательные реакции наружного миноксидила, которые недостаточно отражены в инструкциях. Однако выводы основаны на анализе спонтанных сообщений, а не на сравнительном клиническом исследовании, поэтому они помогают выявлять сигналы безопасности, но не устанавливают причинность и частоту реакций. Практическая ценность умеренная: результаты полезны при консультировании и оценке жалоб, но не дают оснований самостоятельно менять лечение.",
+    "why_read": "Статью стоит прочитать дерматологам и трихологам, которые назначают наружный миноксидил и консультируют пациентов по вопросам его переносимости. Она также полезна специалистам, изучающим фармаконадзор и безопасность препаратов, поскольку показывает, какие дополнительные кожные реакции могут требовать внимания. Для принятия решений о частоте побочных эффектов и сравнительной безопасности необходимы дополнительные исследования.",
+    "limitations": [
+      "Adverse event reports (AERs) from FAERS, where topical minoxidil was identified as the primary suspect, were analyzed.",
+      "Among 45,130 reports, most were from males (50.88%) and showed a significant increase in incidents since 2015.",
+      "Newly identified AEs, such as application site acne and cysts, were observed.",
+      "These AEs are not well represented on product labels."
+    ],
+    "advice_items": [
+      {
+        "quote": "Newly identified AEs, such as application site acne and cysts, were observed.",
+        "advice": "При оценке переносимости наружного миноксидила уточняйте, не появились ли у пациента акне или кистозные образования в месте нанесения. При обнаружении таких изменений оценивайте их клинический характер и возможные альтернативные причины, не считая связь с препаратом доказанной только на основании этого исследования.",
+        "audience": "врач"
+      },
+      {
+        "quote": "These AEs are not well represented on product labels.",
+        "advice": "При консультировании пациента учитывайте, что информация о некоторых потенциальных кожных реакциях может быть неполной. Объясняйте, что выявленный сигнал не равнозначен доказанной причинной связи или известной частоте осложнения, и оценивайте конкретные жалобы индивидуально.",
+        "audience": "врач"
+      }
+    ],
+    "importance_stars": 4,
+    "importance_mark": "★★★★☆",
+    "take": "keep"
   }
 ]
