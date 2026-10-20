@@ -1354,18 +1354,16 @@
     "id": 23
   },
   {
+    "id": 24,
+    "pmid": "41652806",
+    "source": "PubMed",
     "article": "The Safety and Efficacy of a Novel Saw Palmetto (Serenoa repens) Extract for Promoting Hair Growth in Adults With Self-Perceived Thinning Hair: 180-Day Results.",
     "authors": [
       "Ablon Glynis"
     ],
+    "date": "2026-02-01",
     "journal": "Journal of cosmetic dermatology",
     "doi": "10.1111/jocd.70717",
-    "abstract_en": "BACKGROUND: Hair loss remains a global concern for both men and women.\n\nAIMS: This study assessed the efficacy and safety of a proprietary extract of bioactive fatty acids from saw palmetto (Serenoa repens) for treating self-perceived thinning hair in healthy adult men and women (SEREVELLE, Valensa International; Eustis, FL).\n\nMETHODS: This 6-month, randomized, double-blind, placebo-controlled study assessed the beneficial effects of daily active treatment (n = 40) vs. placebo (n = 20) on several hair growth parameters.\n\nRESULTS: Active treatment of SEREVELLE significantly outperformed placebo on all primary endpoints at Day 180. Mean (SD) change in baseline total terminal hair count was +18.6 (29.6) with active vs. -10.1 (30.5) with placebo (p < 0.001; 283% greater improvement). Total vellus hair count increased +6.6 (15.6) vs. -2.1 (15.7) (p < 0.05; 414% greater improvement). Total hair density rose +25.1 (27.7) vs. -12.2 (38.8) (p < 0.001; 306% greater improvement). Subgroup analyses at Day 180 corroborated these advantages: across populations, between-group differences in mean change favored active for subgroup of men, with total terminal hair count (p = 0.003), total vellus hair count (p < 0.001), and total hair density (p < 0.001). In menopausal women, active produced significant placebo-adjusted gains in total terminal hair count (p < 0.05) and total hair density (p < 0.01), with a nonsignificant numerical advantage for total vellus hair count. There were no treatment-related adverse events.\n\nCONCLUSION: The daily use of a proprietary saw palmetto (Serenoa repens) extract safely and effectively promotes hair growth in men and women with self-perceived thinning hair.",
-    "article_link": "https://pubmed.ncbi.nlm.nih.gov/41652806/",
-    "pmc_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12881706/",
-    "pmid": "41652806",
-    "source": "PubMed",
-    "date": "2026-02-01",
     "topic": "АГА",
     "topic_key": "aga",
     "topic_keys": [
@@ -1374,25 +1372,26 @@
     "topics": [
       "АГА"
     ],
+    "abstract_en": "BACKGROUND: Hair loss remains a global concern for both men and women.\n\nAIMS: This study assessed the efficacy and safety of a proprietary extract of bioactive fatty acids from saw palmetto (Serenoa repens) for treating self-perceived thinning hair in healthy adult men and women (SEREVELLE, Valensa International; Eustis, FL).\n\nMETHODS: This 6-month, randomized, double-blind, placebo-controlled study assessed the beneficial effects of daily active treatment (n = 40) vs. placebo (n = 20) on several hair growth parameters.\n\nRESULTS: Active treatment of SEREVELLE significantly outperformed placebo on all primary endpoints at Day 180. Mean (SD) change in baseline total terminal hair count was +18.6 (29.6) with active vs. -10.1 (30.5) with placebo (p < 0.001; 283% greater improvement). Total vellus hair count increased +6.6 (15.6) vs. -2.1 (15.7) (p < 0.05; 414% greater improvement). Total hair density rose +25.1 (27.7) vs. -12.2 (38.8) (p < 0.001; 306% greater improvement). Subgroup analyses at Day 180 corroborated these advantages: across populations, between-group differences in mean change favored active for subgroup of men, with total terminal hair count (p = 0.003), total vellus hair count (p < 0.001), and total hair density (p < 0.001). In menopausal women, active produced significant placebo-adjusted gains in total terminal hair count (p < 0.05) and total hair density (p < 0.01), with a nonsignificant numerical advantage for total vellus hair count. There were no treatment-related adverse events.\n\nCONCLUSION: The daily use of a proprietary saw palmetto (Serenoa repens) extract safely and effectively promotes hair growth in men and women with self-perceived thinning hair.",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/41652806/",
+    "pmc_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12881706/",
     "html_available": true,
     "html_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12881706/",
-    "title_ru": "SEREVELLE (сереноа 160 мг / ActiLipid4Hair 105 мг) при поредении волос: РКИ 6 месяцев",
+    "title_ru": "SEREVELLE (Valensa): экстракт сереноа — +18,6 терминальных волос vs плацебо за 180 дней",
     "patient_plain": "",
-    "patient_use": "Ориентир: SEREVELLE — 1 софтгель в день, 160 мг экстракта сереноа (105 мг ActiLipid4Hair), оценка эффекта около 6 месяцев. Не ждите такого же результата от аптечной «пальмы сереноа» с другим составом и дозой. Перед стартом спросите врача, не пересекается ли это с уже назначенным финастеридом/миноксидилом и как будете считать густоту.",
-    "practical_use": "Режим: SEREVELLE 160 mg Serenoa extract (105 mg ActiLipid4Hair) daily × 180 days. Исходы — terminal/vellus/total counts по зонам; передний terminal +5,5 vs placebo −2,5 (часть сравнений NS). Отделять бренд/формулу от class effect сереноа; не подменять дозу 160 мг «аналогом» без той же фракции ЖК.",
-    "summary": "РКИ 180 дней, двойное слепое: взрослые с субъективным поредением волос — актив (n=40) или плацебо (n=20). Продукт SEREVELLE (Valensa): софтгель с 160 мг концентрированного экстракта Serenoa repens, из них 105 мг биоактивных жирных кислот ActiLipid4Hair; приём ежедневно с водой.\n\nК дню 180 передний terminal hair count в активной группе +5,5 (SD 23,8), на плацебо −2,5 (22,8); разница не везде достигала статистической значимости, наибольший прирост отмечали в задней зоне. Авторы заключают, что ежедневный приём этой формулы сереноа поддерживает рост и качество волос.\n\nЭто не «сереноа вообще», а конкретная формула 160 мг / 105 мг ActiLipid4Hair; спонсорство/бренд учитывать при переносе на другие softgel.",
-    "_reason": "Доза и бренд сереноа.",
-    "why_read": "Конкретный softgel сереноа.",
+    "summary": "РКИ 6 месяцев, двойное слепое: здоровые взрослые с субъективным поредением волос — SEREVELLE (Valensa International) ежедневно (n=40) или плацебо (n=20). В абстракте продукт назван прямо: proprietary extract of bioactive fatty acids from saw palmetto (Serenoa repens), бренд SEREVELLE.\n\nК дню 180 актив значимо лучше плацебо по всем первичным точкам: total terminal hair count +18,6 (29,6) vs −10,1 (30,5), p<0,001; vellus +6,6 vs −2,1, p<0,05; total density +25,1 vs −12,2, p<0,001. Преимущество держалось в подгруппе мужчин и у менопаузальных женщин (terminal и density).\n\nДоза из полного текста (в абстракте мг нет): 1 софтгель/день = 160 мг концентрированного экстракта, из них 105 мг ActiLipid4Hair. Это не «любая сереноа из аптеки».",
+    "patient_use": "Тестировали конкретный БАД SEREVELLE (Valensa), не безымянную «пальму сереноа». Ожидание из РКИ — заметный прирост густоты к ~6 месяцам на фоне ежедневной капсулы; плацебо за то же время густоту теряло. Если на полке другой бренд без той же формулы — это уже другое исследование.",
+    "practical_use": "Называть продукт: SEREVELLE / Serenoa bioactive FA extract (Valensa); режим 1 caps daily × 180 days; primary Δ terminal +18.6 vs −10.1 (p<0.001), density +25.1 vs −12.2. Доза softgel 160 mg (105 mg ActiLipid4Hair) — из полного текста. Не переносить на unstandardized saw palmetto; industry brand trial.",
+    "_reason": "SEREVELLE из абстракта + доза из full text",
+    "why_read": "Имя БАДа и первичные исходы",
     "limitations": [
-      "some primary comparisons NS",
-      "brand-specific",
-      "industry"
+      "brand/industry product",
+      "dose mg only in full text"
     ],
     "advice_items": [],
     "importance_stars": 5,
     "importance_mark": "★★★★★",
-    "take": "keep",
-    "id": 24
+    "take": "keep"
   },
   {
     "id": 25,
