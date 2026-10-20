@@ -12324,5 +12324,517 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep"
+  },
+  {
+    "id": 216,
+    "pmid": "41736839",
+    "source": "PubMed",
+    "article": "Intra-articular hyaluronic acid (viscosupplementation) for osteoarthritis: is it effective?",
+    "authors": [
+      "Pisaniello Huai Leng",
+      "Goh Shyan",
+      "Buchbinder Rachelle"
+    ],
+    "date": "2026-02-01",
+    "journal": "Australian prescriber",
+    "doi": "10.18773/austprescr.2026.005",
+    "topic": "Коксартроз",
+    "topic_key": "cox",
+    "topic_keys": [
+      "cox"
+    ],
+    "topics": [
+      "Коксартроз"
+    ],
+    "abstract_en": "Viscosupplementation with intra-articular hyaluronic acid derivatives and cross-linked polymers of hyaluronic acid is increasingly used to treat symptomatic osteoarthritis in the knee, hip and other joints. Most guidelines conditionally recommend against its use to treat knee osteoarthritis, and strongly or conditionally recommend against its use for other joints, indicating a large evidence-to-practice gap. Conclusive evidence from randomised placebo-controlled trials indicates that intra-articular hyaluronic acid provides no important benefits for people with knee (and other joints) osteoarthritis, and may have potentially serious harms including septic arthritis and severe inflammatory joint and cutaneous reactions. Use of computed tomography scans to guide hyaluronic acid injection exposes the patient to unnecessary radiation and has an unwarranted financial and environmental cost. When the topic arises in clinical practice, prescribers should use a shared decision-making approach that includes an explanation as to why hyaluronic acid injection is not recommended care for osteoarthritis and offer alternatives, taking into consideration the patient's values and preferences.",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/41736839/",
+    "pmc_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12928838/",
+    "html_available": true,
+    "html_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12928838/",
+    "title_ru": "Внутрисуставные инъекции гиалуроновой кислоты при остеоартрозе: помогают ли они на самом деле?",
+    "patient_plain": "",
+    "patient_use": "Если вам предлагают инъекции гиалуроновой кислоты при коксартрозе или артрозе колена, обсудите с врачом, какую конкретную пользу ожидают именно в вашем случае и насколько она подтверждена исследованиями. Важно сопоставить неопределённую перспективу облегчения симптомов с риском инфекции сустава и выраженных воспалительных или кожных реакций. Попросите обсудить альтернативы: лечебную физическую активность, обучение самоконтролю заболевания, коррекцию массы тела при необходимости и подходящие средства обезболивания. Если предлагается инъекция под контролем КТ, уточните, почему нельзя использовать другой способ наведения, особенно если речь идёт о коленном суставе.",
+    "practical_use": "При обсуждении вискосуплементации следует объяснять пациенту, что теоретическое обоснование восстановления вязкоэластических свойств синовиальной жидкости не подтверждается клинически значимой пользой в плацебо-контролируемых исследованиях. Необходимо учитывать риск септического артрита и тяжёлых воспалительных реакций, а также не создавать впечатление, что процедура является стандартным рекомендованным лечением остеоартроза. Совместное принятие решений должно включать обсуждение доказательных альтернатив, предпочтений пациента и причин, по которым инъекция не рекомендуется. При рассмотрении внутрисуставных вмешательств важно также оценивать необходимость визуального контроля и избегать необоснованного применения КТ.",
+    "summary": "Обзор оценивает эффективность и безопасность внутрисуставного введения гиалуроновой кислоты (ГК), её производных и сшитых полимеров, включая гиланы, при остеоартрозе коленного, тазобедренного и других суставов. Метод вискосуплементации теоретически должен восстанавливать вязкоэластические и смазывающие свойства синовиальной жидкости, уменьшать боль и улучшать подвижность. Однако убедительных клинических преимуществ, значимых для пациентов, рандомизированные плацебо-контролируемые исследования не подтверждают.\n\nБольшинство клинических рекомендаций условно не рекомендуют ГК при остеоартрозе коленного сустава и настоятельно или условно выступают против её применения в других суставах. Среди потенциальных осложнений указаны септический артрит, тяжёлые воспалительные реакции в суставе и выраженные кожные реакции. Несмотря на отсутствие доказанной существенной пользы и рекомендации против применения, инъекции продолжают широко использоваться. В США число получателей Medicare, которым вводили ГК при остеоартрозе колена, выросло с 1,09 млн в 2012 году до 1,29 млн в 2018 году, а ежегодные расходы превысили 300 млн долларов США.\n\nВ качестве базового подхода к лечению симптоматического остеоартроза обзор выделяет обучение пациента, поддержку самостоятельного управления заболеванием, физическую активность и упражнения, а при необходимости — снижение массы тела. Для уменьшения боли и облегчения повседневной активности могут дополнительно применяться местные или пероральные анальгетики и внутрисуставные инъекции кортикостероидов. При введении ГК в тазобедренный сустав требуется визуальный контроль, тогда как для коленного сустава он не считается необходимым. Компьютерная томография (КТ) для наведения иглы увеличивает расходы, подвергает пациента ненужному ионизирующему излучению и создаёт дополнительную экологическую нагрузку. Авторы рекомендуют совместное принятие решений с пациентом, объяснение причин отказа от инъекций ГК и обсуждение альтернатив с учётом предпочтений человека.",
+    "_reason": "Обзор напрямую касается выбора лечения при коксартрозе и других формах остеоартроза и показывает, что широко применяемые инъекции гиалуроновой кислоты не обеспечивают убедительной клинически значимой пользы, но могут приводить к серьёзным осложнениям. Материал помогает обосновать отказ от ненужной процедуры и перейти к обсуждению альтернатив, соответствующих клиническим рекомендациям.",
+    "why_read": "Статью стоит прочитать врачам, травматологам-ортопедам, специалистам по реабилитации и тренерам, участвующим в сопровождении пациентов с коксартрозом или гонартрозом. Она особенно полезна при обсуждении платных инъекций гиалуроновой кислоты, объяснении пациенту ограничений метода и выборе более обоснованной тактики ведения. Пациентам материал поможет подготовиться к разговору о пользе, рисках и альтернативах вискосуплементации.",
+    "limitations": [
+      "This article is a review.",
+      "Australian usage data are unavailable",
+      "We also briefly explore the evidence of benefits and harms behind other intra-articular interventions for osteoarthritis."
+    ],
+    "advice_items": [
+      {
+        "quote": "When the topic arises in clinical practice, prescribers should use a shared decision-making approach that includes an explanation as to why hyaluronic acid injection is not recommended care for osteoarthritis and offer alternatives, taking into consideration the patient's values and preferences.",
+        "advice": "Обсудите с пациентом, почему внутрисуставная гиалуроновая кислота не рекомендуется для лечения остеоартроза, и предложите альтернативы с учётом его целей и предпочтений. Объясните, что теоретический механизм действия не означает доказанной клинически значимой пользы, и отдельно проговорите потенциальные осложнения.",
+        "audience": "врач"
+      },
+      {
+        "quote": "First-line management for symptomatic osteoarthritis includes provision of education about the condition; support for self-management; advice about physical activity and exercise; and weight management if appropriate.",
+        "advice": "В основу ведения пациента положите обучение особенностям остеоартроза, поддержку самостоятельного управления заболеванием и рекомендации по физической активности и упражнениям. Если у пациента есть показания, включите обсуждение контроля массы тела, а дополнительные методы обезболивания рассматривайте с учётом клинической ситуации.",
+        "audience": "врач"
+      },
+      {
+        "quote": "Image guidance is not necessary for intra-articular HA injections into the knee, the most injected site, but is needed for the hip.",
+        "advice": "Если пациенту предлагают инъекцию гиалуроновой кислоты в коленный сустав, уточните, зачем требуется визуальный контроль, поскольку для этой процедуры он обычно не нужен. При введении препарата в тазобедренный сустав наведение под контролем изображения необходимо, но это не означает, что сама инъекция обеспечивает доказанную пользу.",
+        "audience": "врач"
+      },
+      {
+        "quote": "Compared with no image guidance or ultrasound guidance, CT-guided injections are more costly, they expose the patient to unnecessary radiation, and they have a much larger carbon footprint",
+        "advice": "При обсуждении инъекции под контролем компьютерной томографии оцените, оправдано ли использование этого метода по сравнению с альтернативами. Учитывайте дополнительные расходы, лучевую нагрузку и экологические последствия; для коленного сустава отдельно проверьте, есть ли вообще необходимость в визуальном наведении.",
+        "audience": "врач"
+      },
+      {
+        "quote": "There is conclusive evidence that HA provides no benefit for people with osteoarthritis of the knee (and other joints), and there are potential harms.",
+        "advice": "Перед согласием на инъекции гиалуроновой кислоты попросите врача объяснить, какие доказательства подтверждают ожидаемый эффект и какие существуют альтернативы. Обсудите потенциальные осложнения, включая инфекцию сустава и выраженные воспалительные реакции, и принимайте решение на основе реалистичных ожиданий от процедуры.",
+        "audience": "пациент"
+      }
+    ],
+    "importance_stars": 5,
+    "importance_mark": "★★★★★",
+    "take": "keep"
+  },
+  {
+    "id": 217,
+    "pmid": "41730219",
+    "source": "PubMed",
+    "article": "Stable Supportive Footwear for Self-managing Hip Osteoarthritis Pain : A Randomized Clinical Trial.",
+    "authors": [
+      "Paterson Kade L",
+      "Bennell Kim L",
+      "Metcalf Ben R",
+      "McManus Fiona",
+      "Lamb Karen E",
+      "Pardo Jesse",
+      "Jones Sarah",
+      "Hinman Rana S"
+    ],
+    "date": "2026-02-24",
+    "journal": "Annals of internal medicine",
+    "doi": "10.7326/ANNALS-25-03660",
+    "topic": "Коксартроз",
+    "topic_key": "cox",
+    "topic_keys": [
+      "cox"
+    ],
+    "topics": [
+      "Коксартроз"
+    ],
+    "abstract_en": "BACKGROUND: Few effective nonsurgical treatments exist for hip osteoarthritis. Footwear influences hip forces and may be a promising novel approach.\n\nOBJECTIVE: To evaluate whether stable supportive shoes are more effective than flat flexible shoes for hip pain.\n\nDESIGN: 2-group, pragmatic, comparative effectiveness, superiority randomized trial. (Australian New Zealand Clinical Trials Registry: ACTRN12621001532897).\n\nSETTING: Community.\n\nPARTICIPANTS: 120 people with hip osteoarthritis pain.\n\nINTERVENTION: Off-the-shelf stable supportive (n = 60) or flat flexible (n = 60) shoes that met prespecified criteria. Participants chose from options in their randomly assigned shoe group and were instructed to wear selected shoes at least 6 hours per day for 6 months.\n\nMEASUREMENTS: The primary outcome was 6-month change in average hip pain on walking in the previous week (11-point scale; range, 0 to 10, with higher scores indicating worse pain). Secondary outcomes included other measures of pain, symptoms, function in daily living, function in sport and recreation, quality of life, physical activity, global improvement, and adverse events.\n\nRESULTS: A total of 120 participants were randomly assigned, and 116 (97%) completed 6-month primary outcomes. Stable supportive shoes did not differ from flat flexible shoes in improving hip pain (mean difference [MD], -0.5 point [95% CI, -1.3 to 0.2 point]; P = 0.163). Few secondary outcomes differed by shoe type, but flat flexible shoes showed greater improvement in the Hip Disability and Osteoarthritis Outcome Score symptom subscale (MD, 6.6 points [CI, 1.4 to 11.7 points]) and quality-of-life subscale (MD, 7.8 points [CI, 1.1 to 14.4 points]), whereas stable supportive shoes showed more improvement in contralateral foot or ankle pain (MD, 0.8 point [CI, 0.0 to 1.5 points]). There were fewer adverse events in the stable supportive shoe group (n = 7 [12%]) than the flat flexible shoe group (n = 18 [31%]; relative risk, 0.39 [CI, 0.18 to 0.86]).\n\nLIMITATION: Unblinded participants.\n\nCONCLUSION: Stable supportive shoes were not superior to flat flexible shoes for improving hip osteoarthritis pain while walking.\n\nPRIMARY FUNDING SOURCE: National Health and Medical Research Council.",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/41730219/",
+    "pmc_link": "",
+    "html_available": false,
+    "html_link": "",
+    "title_ru": "Стабильная поддерживающая обувь не уменьшает боль при коксартрозе лучше, чем плоская гибкая обувь: рандомизированное клиническое исследование",
+    "patient_plain": "",
+    "patient_use": "При выборе обуви для повседневной ходьбы не стоит считать, что более жёсткая и поддерживающая конструкция обязательно лучше уменьшает боль в тазобедренном суставе. Обсудите с врачом или специалистом по реабилитации, какая обувь удобнее именно вам и не усиливает ли она боль в стопах, голеностопах или других суставах. Если вы выбираете между двумя типами обуви, обращайте внимание не только на ощущения в тазобедренном суставе, но и на повседневную активность, качество жизни и появление новых неприятных симптомов. Исследование не доказывает, что плоская гибкая обувь подходит каждому пациенту, поэтому индивидуальная переносимость остаётся важным критерием.",
+    "practical_use": "На приёме результаты позволяют скорректировать ожидания пациента: стабильную поддерживающую обувь не следует представлять как доказанно более эффективный способ уменьшения боли при коксартрозе по сравнению с плоской гибкой обувью. При обсуждении обуви полезно учитывать не только интенсивность боли при ходьбе, но и симптомы, качество жизни, переносимость нагрузки и жалобы со стороны стоп и голеностопных суставов. В исследовании частота зарегистрированных нежелательных явлений была ниже при использовании поддерживающей обуви, однако это не сопровождалось доказанным преимуществом по основному показателю боли. Поскольку участники не были ослеплены относительно назначенной обуви, субъективные различия по вторичным исходам следует интерпретировать осторожно.",
+    "summary": "В рандомизированном клиническом исследовании участвовали 120 человек с болью при коксартрозе. Сравнивали две группы обуви: стабильную поддерживающую обувь и плоскую гибкую обувь, по 60 участников в каждой. Участники самостоятельно выбирали подходящую пару из предложенных вариантов своей группы и должны были носить её не менее 6 часов в день в течение 6 месяцев. Основным результатом было изменение средней интенсивности боли в тазобедренном суставе при ходьбе по шкале от 0 до 10, где более высокий балл означал более сильную боль.\n\nЧерез 6 месяцев стабильная поддерживающая обувь не показала статистически значимого преимущества перед плоской гибкой обувью в уменьшении боли при ходьбе: разница между группами составила −0,5 балла (95% доверительный интервал от −1,3 до 0,2; P = 0,163). При этом плоская гибкая обувь обеспечивала большее улучшение симптомов и качества жизни по соответствующим подшкалам опросника Hip Disability and Osteoarthritis Outcome Score (HOOS — шкала оценки инвалидизации и исходов при остеоартрозе тазобедренного сустава): межгрупповые различия составили 6,6 и 7,8 балла соответственно. В группе стабильной поддерживающей обуви сильнее уменьшалась боль в противоположной стопе или голеностопном суставе. Нежелательные явления зарегистрировали у 7 участников (12%) в группе поддерживающей обуви и у 18 (31%) в группе плоской гибкой обуви.\n\nОсновные результаты через 6 месяцев предоставили 116 участников (97%). Исследование не подтвердило, что стабильная поддерживающая обувь лучше плоской гибкой обуви для уменьшения боли при ходьбе у людей с коксартрозом. При интерпретации результатов следует учитывать, что участники знали, какую обувь носили, поэтому полностью исключить влияние ожиданий на субъективные оценки нельзя.",
+    "_reason": "Исследование непосредственно проверяет доступный и практически значимый способ самопомощи при коксартрозе — выбор повседневной обуви. Оно показывает, что более стабильная и поддерживающая обувь не обеспечивает убедительного преимущества по уменьшению боли при ходьбе, хотя между группами различались некоторые вторичные показатели и частота нежелательных явлений. Результаты помогают избежать неоправданных ожиданий от конкретного типа обуви.",
+    "why_read": "Статья полезна врачам, реабилитологам и специалистам по физической активности, которые консультируют людей с коксартрозом по вопросам повседневной нагрузки и обуви. Её также стоит прочитать пациентам, рассматривающим покупку специальной поддерживающей обуви ради уменьшения боли. Исследование позволяет обсуждать выбор обуви с опорой на сравнительные данные, а не только на предположение о пользе дополнительной поддержки стопы.",
+    "limitations": [
+      "Unblinded participants."
+    ],
+    "advice_items": [
+      {
+        "quote": "Participants chose from options in their randomly assigned shoe group and were instructed to wear selected shoes at least 6 hours per day for 6 months.",
+        "advice": "При обсуждении результатов с пациентом уточните, что исследовались готовые модели обуви, соответствовавшие заранее установленным критериям, а не индивидуально изготовленные ортопедические изделия. Учитывайте, что участники носили выбранную обувь не менее 6 часов в день на протяжении 6 месяцев, поэтому результаты относятся к длительному повседневному использованию. Не переносите выводы автоматически на другие виды обуви или ортопедические приспособления.",
+        "audience": "врач"
+      },
+      {
+        "quote": "Stable supportive shoes were not superior to flat flexible shoes for improving hip osteoarthritis pain while walking.",
+        "advice": "Объясните пациенту, что более стабильная поддерживающая обувь не показала превосходства над плоской гибкой обувью в уменьшении боли при ходьбе. Не обещайте дополнительного обезболивания только за счёт более жёсткой или поддерживающей конструкции. При выборе пары учитывайте удобство, переносимость и изменения симптомов в повседневной жизни.",
+        "audience": "пациент"
+      },
+      {
+        "quote": "There were fewer adverse events in the stable supportive shoe group (n = 7 [12%]) than the flat flexible shoe group (n = 18 [31%]; relative risk, 0.39 [CI, 0.18 to 0.86]).",
+        "advice": "При консультировании учитывайте, что в исследовании нежелательные явления реже регистрировались в группе стабильной поддерживающей обуви. Обсуждая переносимость обуви, уточняйте появление новых жалоб и не ограничивайтесь оценкой боли в тазобедренном суставе. Разъясняйте пациенту, что различие по нежелательным явлениям само по себе не доказывает превосходства поддерживающей обуви по обезболивающему эффекту.",
+        "audience": "врач"
+      }
+    ],
+    "importance_stars": 5,
+    "importance_mark": "★★★★★",
+    "take": "keep"
+  },
+  {
+    "id": 218,
+    "pmid": "41736456",
+    "source": "PubMed",
+    "article": "Minimal Important Change and Minimal Clinically Important Difference in Pain and Function With Exercise in Hip Osteoarthritis.",
+    "authors": [
+      "Guerrero Yareni",
+      "Dobson Fiona",
+      "Venkatesha Venkatesha",
+      "Allison Kim",
+      "Knox Gabrielle",
+      "Spiers Libby",
+      "Haber Travis",
+      "Hunter David J",
+      "Hall Michelle"
+    ],
+    "date": "2026-04-04",
+    "journal": "Arthritis care & research",
+    "doi": "10.1002/acr.80029",
+    "topic": "Коксартроз",
+    "topic_key": "cox",
+    "topic_keys": [
+      "cox"
+    ],
+    "topics": [
+      "Коксартроз"
+    ],
+    "abstract_en": "OBJECTIVE: The objective of this study was to estimate the minimal important change (MIC) and minimal clinically important difference (MCID) for pain and physical function in individuals with hip osteoarthritis (OA) following a physiotherapist-guided exercise intervention.\n\nMETHODS: Secondary analysis from a randomized controlled trial of 196 adults with hip OA allocated one of two nine-month exercise programs. Patient-reported outcomes measures for hip pain severity (Numeric Rating Scale [NRS], Western Ontario and McMaster Universities Osteoarthritis Index [WOMAC] pain subscale) and physical function (WOMAC physical function subscale, Patient-Specific Functional Scale [PSFS]) were collected at baseline and three and nine months. Global ratings of change in pain and physical function at three and nine months served as anchors.\n\nRESULTS: MIC estimates were 2.1 and 2.4 points for NRS pain at three and nine months, respectively; 2.8 and 3.0 points for WOMAC pain at three and nine months, respectively; 8.7 and 8.3 points for WOMAC physical function at three and nine months, respectively; and -2.1 and -2.0 points for PSFS at three and nine months, respectively. The MCID estimates were 2.0 and 2.4 points for NRS pain at three and nine months, respectively; 2.8 and 3.0 points for WOMAC pain at three and nine months, respectively; 9.2 and 8.3 points for WOMAC physical function at three and nine months, respectively; and -3.5 and -0.7 points for PSFS at three and nine months, respectively.\n\nCONCLUSION: This study provides robust, context-specific MIC and MCID estimates for outcomes in hip OA following exercise. These values can inform the interpretation and design of exercise-based clinical trials for hip OA.",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/41736456/",
+    "pmc_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13613260/",
+    "html_available": true,
+    "html_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13613260/",
+    "title_ru": "Какие изменения боли и физической функции при коксартрозе можно считать клинически значимыми после лечебных упражнений",
+    "patient_plain": "",
+    "patient_use": "При обсуждении результатов лечебной физкультуры полезно заранее договориться, как будет измеряться прогресс: по интенсивности боли, повседневной функции или способности выполнять лично значимые действия. Спросите врача или физиотерапевта, какую шкалу вы будете использовать и какое изменение в ней можно считать ощутимым улучшением именно в вашем случае. Не стоит оценивать успех программы только по тому, стало ли число в анкете немного меньше: важно сопоставлять результаты с тем, насколько легче ходить, вставать и выполнять привычные задачи.",
+    "practical_use": "Врачам и физиотерапевтам следует интерпретировать динамику NRS, WOMAC и PSFS с учётом различий между MIC и MCID, а также периода оценки: пороги через три и девять месяцев не всегда совпадают. Эти значения можно использовать при обсуждении индивидуального ответа на домашнюю программу упражнений и при выборе критериев эффективности в клинических исследованиях. Пороговые значения не являются универсальными целями лечения и не заменяют оценку симптомов, повседневных ограничений и предпочтений конкретного пациента.",
+    "summary": "В исследовании оценили, какое уменьшение боли и улучшение физической функции при коксартрозе тазобедренного сустава можно считать действительно важным для пациента после занятий лечебными упражнениями. Это вторичный анализ рандомизированного контролируемого исследования с участием 196 взрослых, распределённых в две группы: аэробные упражнения вместе с силовыми и только силовые упражнения. Обе программы продолжались девять месяцев; в первые три месяца занятия выполнялись дома под руководством физиотерапевта. Результаты оценивали исходно, через три и девять месяцев с помощью числовой рейтинговой шкалы боли (NRS), болевой подшкалы и подшкалы физической функции индекса WOMAC (Western Ontario and McMaster Universities Osteoarthritis Index), а также шкалы индивидуально выбранных функциональных задач (PSFS, Patient-Specific Functional Scale). За улучшение принимали изменения, соответствовавшие субъективной оценке состояния самими участниками.\n\nМинимальное важное изменение (MIC) и минимальная клинически значимая разница (MCID) позволили определить ориентиры для интерпретации результатов. Для боли по NRS значения MIC через три и девять месяцев составили 2,1 и 2,4 балла, а MCID — 2,0 и 2,4 балла. Для боли по WOMAC соответствующие значения MIC и MCID составили 2,8 и 3,0 балла в оба периода. Для физической функции по WOMAC MIC составил 8,7 и 8,3 балла, а MCID — 9,2 и 8,3 балла. Для PSFS значения MIC составили −2,1 и −2,0 балла, а MCID — −3,5 и −0,7 балла; отрицательные изменения в этой шкале отражают улучшение при используемом в анализе направлении расчёта разницы.\n\nЧерез три месяца улучшение боли по собственной общей оценке отмечали 65% участников, а улучшение физической функции — 62%; через девять месяцев соответствующие показатели составляли 64% и 64%. Данные помогают отличать статистическое изменение показателей от изменения, которое имеет практическое значение для пациента. Пороговые значения относятся именно к людям с коксартрозом, выполнявшим домашнюю программу упражнений под руководством физиотерапевта, поэтому их нельзя автоматически переносить на другие виды лечения или другие группы пациентов.",
+    "_reason": "Статья даёт конкретные числовые ориентиры, позволяющие оценивать, насколько уменьшение боли или улучшение функции при коксартрозе имеет значение для пациента после лечебных упражнений. Практическая ценность состоит в более осмысленном контроле динамики и интерпретации анкет, хотя полученные пороги привязаны к определённой программе упражнений и не гарантируют одинакового результата у каждого человека.",
+    "why_read": "Статья полезна физиотерапевтам, врачам, ведущим пациентов с коксартрозом, и специалистам, оценивающим результаты лечебной физкультуры. Её стоит прочитать тем, кто использует NRS, WOMAC или PSFS и хочет отличать небольшие колебания оценок от клинически значимого изменения. Исследователям она также даёт ориентиры для выбора критериев эффективности программ упражнений.",
+    "limitations": [
+      "Secondary analysis from a randomized controlled trial of 196 adults with hip OA",
+      "one nine-month home-based exercise program guided by a physiotherapist during the first three months",
+      "Complete outcome data were available for 186 (95%) participants at three months and 174 (89%) participants at nine months.",
+      "These values can inform the interpretation and design of exercise-based clinical trials for hip OA."
+    ],
+    "advice_items": [
+      {
+        "quote": "Our findings provide context‐specific thresholds for interpreting clinically meaningful within‐ and between‐group change in hip OA following home‐based exercise guided by physiotherapists.",
+        "advice": "При оценке эффективности упражнений используйте пороги клинически значимых изменений, соответствующие коксартрозу и изученной программе занятий. Разделяйте улучшение конкретного пациента и различия между группами при анализе результатов исследований. Не переносите эти пороги без оговорок на другие методы лечения.",
+        "audience": "врач"
+      },
+      {
+        "quote": "Exercise is the core recommended treatment to manage hip OA, 2 , 22 yet interpretation of outcomes remains largely statistically driven.",
+        "advice": "При обсуждении лечебной физкультуры оценивайте не только статистическую динамику показателей, но и то, насколько изменение важно для самого пациента. Сопоставляйте анкеты боли и функции с изменениями в повседневной активности, чтобы объяснить практический смысл результата.",
+        "audience": "врач"
+      },
+      {
+        "quote": "These negligible proportions indicate that insufficient measurement range was unlikely to constrain improvement or bias MIC estimates.",
+        "advice": "При интерпретации шкал учитывайте исходные значения и возможность зарегистрировать улучшение. В этом исследовании почти никто не начинал с минимального значения по WOMAC или PSFS, поэтому ограниченный диапазон шкалы вряд ли мешал зафиксировать улучшение. При работе с другими пациентами проверяйте, не находится ли их исходная оценка уже у границы шкалы.",
+        "audience": "врач"
+      }
+    ],
+    "importance_stars": 5,
+    "importance_mark": "★★★★★",
+    "take": "keep"
+  },
+  {
+    "id": 219,
+    "pmid": "41706544",
+    "source": "PubMed",
+    "article": "Moderators of the Effects of Exercise and Manual Therapy for People With Knee and Hip Osteoarthritis: A Secondary Analysis of a Randomized Clinical Trial.",
+    "authors": [
+      "Ribeiro Daniel Cury",
+      "Lamb Sarah E",
+      "Abbott J Haxby"
+    ],
+    "date": "2026-04-17",
+    "journal": "Arthritis care & research",
+    "doi": "10.1002/acr.80021",
+    "topic": "Коксартроз",
+    "topic_key": "cox",
+    "topic_keys": [
+      "cox"
+    ],
+    "topics": [
+      "Коксартроз"
+    ],
+    "abstract_en": "OBJECTIVE: This study aimed to investigate potential moderators influencing the effects of manual therapy and exercise therapy on pain and functional outcomes in individuals with knee and/or hip osteoarthritis, using data from the MOA trial. This is a secondary analysis of data from the MOA trial that compares the clinical effectiveness of manual therapy and/or exercise therapy in addition to usual care for patients with hip and/or knee osteoarthritis.\n\nMETHODS: A total of 206 participants were analyzed. The primary outcome measure was the Western Ontario and McMaster Universities Osteoarthritis Index (WOMAC) composite score after one year. The secondary outcome measures were WOMAC pain and function scores. We used linear regression models for assessing whether the effect of randomized interventions on pain and function was moderated by body mass index (BMI), pain self-efficacy, quadriceps strength, mental health, and education.\n\nRESULTS: BMI moderated the treatment effects of manual therapy interventions on WOMAC composite (β -4.1, 95% confidence interval [CI] -6.6 to -1.7), function (β -3.3, 95% CI -5.1 to -1.6), and pain scores (β -0.6, 95% CI -1.3 to 0.0) when compared to usual care. A negative β reflects an improvement in outcome associated with each one-unit increase in BMI. Mental health moderated (β 16.8, 95% CI 2.2-31.4) treatment effects of manual therapy interventions when compared to usual care. No other moderation effect was identified.\n\nCONCLUSION: Our findings suggest manual therapy may prove to be a more suitable treatment for people with higher BMI and should undergo further trials. Future trials should continue to explore which variables moderate treatment effects when testing effectiveness of nonsurgical interventions in patients with hip or knee osteoarthritis.",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/41706544/",
+    "pmc_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13511360/",
+    "html_available": true,
+    "html_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13511360/",
+    "title_ru": "Кому лучше помогает мануальная терапия при артрозе коленного и тазобедренного суставов: анализ влияния ИМТ и психического здоровья",
+    "patient_plain": "",
+    "patient_use": "Если у вас артроз коленного или тазобедренного сустава, обсудите с врачом или физиотерапевтом, может ли мануальная терапия дополнить обычное лечение с учётом вашего ИМТ, боли и ограничений движений. Более высокий ИМТ в этом исследовании не означал, что пациенту обязательно нужна мануальная терапия, но был связан с более выраженным улучшением при её применении. Расскажите специалисту также о своём эмоциональном состоянии и симптомах депрессии, поскольку они могут быть связаны с восстановлением функции. Не отказывайтесь от лечебных упражнений только потому, что исследование не обнаружило для силы мышц и уверенности в преодолении боли значимого влияния на различия между методами.",
+    "practical_use": "При обсуждении физиотерапии учитывайте ИМТ как возможный модификатор ответа на мануальную терапию, но не используйте его как самостоятельный критерий назначения: выявленную закономерность ещё предстоит подтвердить. Исходное психическое состояние стоит учитывать при оценке функциональных ограничений и планировании наблюдения, не трактуя связь с риском депрессии как доказательство причинного эффекта. Для контроля динамики можно ориентироваться на те же домены, что использовались в исследовании: боль, функцию и суммарный показатель WOMAC. При интерпретации результатов учитывайте, что анализ был вторичным, а исходные показатели WOMAC несколько различались между группами.",
+    "summary": "В исследовании повторно проанализировали данные рандомизированного клинического исследования MOA, чтобы выяснить, какие особенности пациентов влияют на результаты мануальной терапии и лечебных упражнений при остеоартрозе коленного и/или тазобедренного суставов. В анализ вошли 206 участников, средний возраст которых составлял 66,5 года. Через год наблюдение завершили 193 человека (93,2%). Сравнивали обычное лечение с физиотерапевтическими вмешательствами, включая мануальную терапию, упражнения и их сочетание. Боль, функцию суставов и общий результат оценивали по индексу WOMAC (индекс остеоартроза университетов Западного Онтарио и Макмастера), причём более низкие значения соответствуют меньшей боли, скованности и ограничению повседневной активности.\n\nИндекс массы тела (ИМТ) влиял на результаты мануальной терапии по сравнению с обычным лечением: при более высоком ИМТ наблюдалось более выраженное улучшение общего показателя WOMAC, функции и боли. Для общего показателя WOMAC коэффициент взаимодействия составлял β = −4,1 (95% доверительный интервал от −6,6 до −1,7), для функции — β = −3,3 (от −5,1 до −1,6), для боли — β = −0,6 (от −1,3 до 0,0). Эти результаты указывают на возможную большую пользу мануальной терапии у пациентов с более высоким ИМТ, но не доказывают, что она подходит им лучше во всех клинических ситуациях.\n\nПсихическое здоровье также было связано с результатами мануальной терапии: участники с низким риском депрессии имели лучшие показатели функции по WOMAC. При этом исходная уверенность пациента в способности справляться с болью, сила четырёхглавой мышцы бедра и уровень образования не выявили значимого влияния на эффект вмешательств. Авторы подчёркивают, что результаты требуют дальнейшей проверки в новых исследованиях. Это вторичный анализ одного исследования, поэтому обнаруженные связи не следует считать окончательным основанием для выбора лечения конкретному пациенту.",
+    "_reason": "Статья помогает уточнить, почему пациенты с артрозом могут по-разному отвечать на мануальную терапию, и выделяет высокий ИМТ как возможный признак более выраженного улучшения по сравнению с обычным лечением. Для практики важна и связь психического здоровья с функциональными результатами, однако данные получены при вторичном анализе одного исследования и пока не позволяют сформировать надёжный алгоритм индивидуального выбора терапии.",
+    "why_read": "Статья полезна врачам и физиотерапевтам, которые выбирают немедикаментозное лечение остеоартроза коленного или тазобедренного сустава и хотят учитывать особенности пациента, а не только диагноз. Её стоит прочитать специалистам, оценивающим роль ИМТ и психического здоровья в результатах реабилитации. Пациентам материал поможет подготовить вопросы о возможной роли мануальной терапии, но не заменяет индивидуальную консультацию.",
+    "limitations": [
+      "This is a secondary analysis of data from the MOA trial.",
+      "Future trials should continue to explore which variables moderate treatment effects when testing effectiveness of nonsurgical interventions in patients with hip or knee osteoarthritis.",
+      "Participants allocated to the usual care plus manual therapy group presented a slightly higher WOMAC composite score at baseline.",
+      "There was a small imbalance between groups for WOMAC composite scores."
+    ],
+    "advice_items": [
+      {
+        "quote": "Our findings suggest manual therapy may prove to be a more suitable treatment for people with higher BMI and should undergo further trials.",
+        "advice": "Рассматривайте высокий ИМТ как возможный фактор, связанный с более выраженным ответом на мануальную терапию при остеоартрозе коленного или тазобедренного сустава. Не делайте его единственным критерием выбора вмешательства: авторы указывают на необходимость дальнейших исследований.",
+        "audience": "врач"
+      },
+      {
+        "quote": "Mental health moderated the effects of manual therapy on WOMAC function scores (β 16.8, 95% CI 2.2–31.4), where participants with low risk of depression presented better WOMAC function scores (Table 3).",
+        "advice": "При первичной оценке пациента учитывайте психическое состояние наряду с болью и ограничением функции. Результаты исследования позволяют рассматривать риск депрессии как возможный фактор, связанный с функциональным восстановлением, но не доказывают, что изменение психического состояния само по себе улучшит эффект мануальной терапии.",
+        "audience": "врач"
+      },
+      {
+        "quote": "Our findings indicate that baseline levels of pain self-efficacy, quadriceps muscle strength, and education did not moderate treatment effects of interventions evaluated in the trial.",
+        "advice": "Не используйте исходную уверенность пациента в способности справляться с болью, силу четырёхглавой мышцы бедра или уровень образования как доказанные по этому исследованию критерии выбора между изученными вмешательствами. Эти характеристики по-прежнему могут быть важны для индивидуальной реабилитации, но данный анализ не выявил их значимого влияния на различия в результатах лечения.",
+        "audience": "врач"
+      },
+      {
+        "quote": "The primary outcome measure was the Western Ontario and McMaster Universities Osteoarthritis Index (WOMAC) composite score after one year.",
+        "advice": "При обсуждении результатов реабилитации полезно оценивать не только интенсивность боли, но и функцию сустава, скованность и повседневные ограничения. Индекс WOMAC позволяет отслеживать эти аспекты комплексно; изменения показателей следует интерпретировать с учётом исходного состояния пациента и применяемого лечения.",
+        "audience": "пациент"
+      }
+    ],
+    "importance_stars": 5,
+    "importance_mark": "★★★★★",
+    "take": "keep"
+  },
+  {
+    "id": 220,
+    "pmid": "42012877",
+    "source": "PubMed",
+    "article": "Motor imagery and action observation for knee and hip osteoarthritis: systematic review and meta-analysis.",
+    "authors": [
+      "Alba-Quesada Patricio",
+      "Suso-Martí Luis",
+      "Mingo-Palomares Ignacio",
+      "Núñez-Cortés Rodrigo",
+      "Cruz-Montecinos Carlos",
+      "Calatayud Joaquín"
+    ],
+    "date": "2026-04-21",
+    "journal": "Disability and rehabilitation",
+    "doi": "10.1080/09638288.2026.2659997",
+    "topic": "Коксартроз",
+    "topic_key": "cox",
+    "topic_keys": [
+      "cox"
+    ],
+    "topics": [
+      "Коксартроз"
+    ],
+    "abstract_en": "PURPOSE: Knee and hip osteoarthritis (OA) is a leading cause of disability in older adults. Movement representation strategies, including motor imagery (MI) and action observation (AO), engage motor simulation processes with potential clinical effects in OA. This systematic review and meta-analysis evaluated combined MI and AO on pain, mobility, and disability in knee or hip OA.\n\nMATERIALS AND METHODS: We systematically searched Medline (PubMed), PEDro, Embase, Cochrane and EBSCO through March 2026, including randomized controlled trials. Risk of bias was assessed with the Cochrane Risk of Bias 2.0 tool, and certainty of evidence with GRADE. Two independent reviewers performed the assessments, disagreements were resolved by consensus or a third reviewer.\n\nRESULTS: Nineteen trials (n = 706) were included. Combined MI and AO reduced pain (SMD -0.86, 95% CI: -1.42 to -0.30), improved functional performance (Timed Up and Go: SMD -0.53, 95% CI: -0.86 to -0.21), and decreased disability (WOMAC: SMD -1.07, 95% CI: -1.83 to -0.32), with moderate heterogeneity in some outcomes. Range of motion also improved (SMD 0.40, 95% CI: 0.34 to 0.46). GRADE certainty ranged from very low to moderate.\n\nCONCLUSIONS: Combined AO and MI may reduce pain and disability and improve function in knee and hip OA; higher-quality trials are needed to confirm effects.",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/42012877/",
+    "pmc_link": "",
+    "html_available": false,
+    "html_link": "",
+    "title_ru": "Мысленное представление движений и наблюдение за действиями при остеоартрозе коленного и тазобедренного суставов: систематический обзор и метаанализ",
+    "patient_plain": "",
+    "patient_use": "Если при остеоартрозе боль мешает ходить и выполнять повседневные действия, стоит обсудить с реабилитологом, можно ли дополнить обычную программу восстановления упражнениями на мысленное представление движений и наблюдение за их выполнением. При оценке результата полезно отслеживать не только боль, но и способность вставать, ходить и выполнять бытовые задачи. Эти методы рассматриваются как перспективный дополнительный подход, а не как доказанная замена другим компонентам лечения.",
+    "practical_use": "Врач или специалист по реабилитации может рассматривать сочетание MI и AO как дополнительное вмешательство при составлении программы для пациентов с остеоартрозом коленного или тазобедренного сустава, особенно если целевые проблемы включают боль, функциональную подвижность и ограничения повседневной активности. Для исходной и повторной оценки уместно сопоставлять жалобы пациента с функциональными показателями, включая Timed Up and Go и WOMAC. При обсуждении ожидаемой пользы следует обозначать неопределённость доказательств и не переносить усреднённые эффекты метаанализа на каждого пациента как гарантированный результат.",
+    "summary": "Систематический обзор и метаанализ оценили, помогают ли мысленное представление движения (motor imagery, MI) и наблюдение за выполнением действий (action observation, AO) в сочетании уменьшить боль и ограничения подвижности у людей с остеоартрозом коленного или тазобедренного сустава. В обзор вошли 19 рандомизированных контролируемых исследований с участием 706 человек. Авторы оценивали боль, функциональную подвижность, инвалидизацию и объём движений, а достоверность результатов проверяли по системе GRADE.\n\nСочетание MI и AO было связано с уменьшением боли (стандартизированная разница средних, SMD, −0,86; 95% доверительный интервал от −1,42 до −0,30) и инвалидизации по шкале WOMAC (Western Ontario and McMaster Universities Osteoarthritis Index — индекс остеоартроза университетов Западного Онтарио и Макмастера; SMD −1,07; 95% доверительный интервал от −1,83 до −0,32). Также улучшились результаты теста Timed Up and Go, оценивающего функциональную подвижность (SMD −0,53; 95% доверительный интервал от −0,86 до −0,21), и объём движений (SMD 0,40; 95% доверительный интервал от 0,34 до 0,46). Отрицательные значения SMD для боли, функциональных ограничений и инвалидизации отражают улучшение соответствующих показателей при использованном авторами направлении шкал.\n\nПри интерпретации важно учитывать неоднородность результатов некоторых показателей и низкую или умеренную достоверность доказательств по GRADE, которая в целом варьировала от очень низкой до умеренной. Авторы считают сочетание мысленного представления движений и наблюдения за действиями перспективным дополнением к реабилитации при остеоартрозе коленного и тазобедренного суставов, однако для подтверждения эффекта необходимы более качественные исследования.",
+    "_reason": "Статья важна для реабилитации при коксартрозе, поскольку объединяет результаты 19 рандомизированных исследований и показывает потенциальное улучшение боли, функции и ограничений активности при сочетании мысленного представления движений с наблюдением за действиями. Практическую ценность снижает то, что достоверность доказательств варьировала от очень низкой до умеренной, поэтому метод пока следует рассматривать как перспективное дополнение, а не как окончательно подтверждённый самостоятельный способ лечения.",
+    "why_read": "Статья полезна врачам физической и реабилитационной медицины, физиотерапевтам и специалистам, работающим с пациентами с коксартрозом или гонартрозом, которым требуется расширить набор немедикаментозных подходов. Её стоит прочитать тем, кто оценивает роль мысленной репетиции движений и наблюдения за действиями в уменьшении боли и восстановлении функции, с учётом ограниченной достоверности имеющихся данных.",
+    "limitations": [
+      "with moderate heterogeneity in some outcomes",
+      "GRADE certainty ranged from very low to moderate",
+      "higher-quality trials are needed to confirm effects"
+    ],
+    "advice_items": [
+      {
+        "quote": "Combined AO and MI may reduce pain and disability and improve function in knee and hip OA; higher-quality trials are needed to confirm effects.",
+        "advice": "Рассматривайте сочетание наблюдения за действиями и мысленного представления движений как возможное дополнение к реабилитации при остеоартрозе коленного или тазобедренного сустава. При обсуждении с пациентом отделяйте перспективность подхода от окончательно подтверждённой эффективности и согласуйте оценку результата по боли и функциональным возможностям.",
+        "audience": "врач"
+      },
+      {
+        "quote": "Combined MI and AO reduced pain (SMD -0.86, 95% CI: -1.42 to -0.30), improved functional performance (Timed Up and Go: SMD -0.53, 95% CI: -0.86 to -0.21), and decreased disability (WOMAC: SMD -1.07, 95% CI: -1.83 to -0.32), with moderate heterogeneity in some outcomes.",
+        "advice": "При оценке результатов реабилитации учитывайте несколько аспектов: выраженность боли, функциональную подвижность и ограничения повседневной активности. Timed Up and Go и WOMAC могут помочь структурировать наблюдение за изменениями, однако результаты метаанализа не гарантируют аналогичного эффекта у конкретного пациента.",
+        "audience": "врач"
+      }
+    ],
+    "importance_stars": 5,
+    "importance_mark": "★★★★★",
+    "take": "keep"
+  },
+  {
+    "id": 221,
+    "pmid": "42038512",
+    "source": "PubMed",
+    "article": "Viscosupplementation with High Molecular Weight Hyaluronic Acid for Hip Osteoarthritis: An Updated Systematic Review and Meta-Analysis of Randomized Controlled Trials.",
+    "authors": [
+      "Pasqualotto Tales",
+      "Pasqualotto Eric",
+      "Migliardi Leonardo Salvatore",
+      "Lunelli Laura",
+      "Lunelli Letícia Oliveira",
+      "Martinelli Renan Vinicius Romano"
+    ],
+    "date": "2026-04-22",
+    "journal": "Revista brasileira de ortopedia",
+    "doi": "10.1055/s-0046-1819579",
+    "topic": "Коксартроз",
+    "topic_key": "cox",
+    "topic_keys": [
+      "cox"
+    ],
+    "topics": [
+      "Коксартроз"
+    ],
+    "abstract_en": "OBJECTIVE: To evaluate the efficacy and safety of high molecular weight hyaluronic acid (HMWHA) versus other therapies for hip osteoarthritis (OA) management.\n\nMETHODS: The present systematic review and meta-analysis followed the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines. Randomized controlled trials (RCTs) comparing HMWHA versus other therapies (corticosteroids, platelet-rich plasma, saline, or low molecular weight hyaluronic acid) for hip OA treatment were included. Mean differences (MDs) or standardized mean differences (SMDs) were calculated for continuous outcomes with 95% confidence intervals (CIs).\n\nRESULTS: Four RCTs were included, involving 823 patients with hip OA, of whom 408 (49.5%) were treated with HMWHA. The mean age of the patients was 60.1 (±10.21) years. No significant differences were observed between groups for pain (SMD -0.30 points; 95% CI -1.60 to 0.99), Lequesne index (MD 1.30 points; 95% CI -8.83 to 11.44), WOMAC total (MD -9.26 points; 95% CI -51.33 to 32.56), WOMAC stiffness (MD -0.93 points; 95% CI -12.30 to 10.45), WOMAC physical function (MD -0.15 points; 95% CI -7.24 to 7.60), and patient global self-assessment (MD -1.95 points; 95% CI -27.49 to 23.59).\n\nCONCLUSION: No significant differences were observed between HMWHA and other treatments regarding pain relief and functional recovery in patients with hip OA. However, further high-quality RCTs are needed to evaluate the HMWHA in the treatment of hip OA.",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/42038512/",
+    "pmc_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13102539/",
+    "html_available": true,
+    "html_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13102539/",
+    "title_ru": "Гиалуроновая кислота высокой молекулярной массы при коксартрозе: систематический обзор и метаанализ рандомизированных исследований",
+    "patient_plain": "",
+    "patient_use": "Перед обсуждением инъекций гиалуроновой кислоты высокой молекулярной массы стоит уточнить, какую конкретную цель предполагается достичь: уменьшить боль, улучшить ходьбу или снизить скованность. Имеющиеся результаты не позволяют считать этот метод более эффективным, чем кортикостероиды, PRP, физиологический раствор или гиалуроновая кислота низкой молекулярной массы. Полезно попросить врача сопоставить ожидаемое облегчение симптомов с альтернативами и объяснить, на каких данных основана рекомендация именно в вашем случае.",
+    "practical_use": "На консультации результаты обзора помогают обсудить внутрисуставную HMWHA без обещаний превосходства над другими инъекционными методами. При оценке доказательств важно учитывать выраженную неоднородность исследований для боли и показателей WOMAC: значения I² составляли 95–99% для ряда исходов, поэтому усреднённые оценки не гарантируют одинакового результата у разных пациентов. Следует отдельно проговаривать, что обзор не установил значимых различий по эффективности, а представленных данных недостаточно для окончательного вывода о месте HMWHA в лечении коксартроза.",
+    "summary": "В систематическом обзоре и метаанализе оценили эффективность и безопасность внутрисуставных инъекций гиалуроновой кислоты высокой молекулярной массы (HMWHA) у пациентов с остеоартрозом тазобедренного сустава, или коксартрозом. В анализ вошли четыре рандомизированных контролируемых исследования (РКИ) с участием 823 пациентов, из которых 408 (49,5%) получали HMWHA. Средний возраст участников составлял 60,1 года, 57,5% были женщинами. Сроки наблюдения варьировали от 6 месяцев до 26 недель. Гиалуроновую кислоту сравнивали с кортикостероидами, плазмой, обогащённой тромбоцитами (PRP), физиологическим раствором и гиалуроновой кислотой низкой молекулярной массы.\n\nОбъединённые результаты не показали статистически значимых преимуществ HMWHA перед другими методами по уменьшению боли, индексу Лекена, общей оценке WOMAC (индекс оценки остеоартроза университетов Западного Онтарио и Макмастера), скованности, физической функции и общей самооценке состояния пациентами. Например, стандартизированная разница по боли составила −0,30 при 95%-м доверительном интервале от −1,60 до 0,99. Анализ чувствительности подтвердил устойчивость результата по боли, а общий риск систематической ошибки включённых исследований оценили как низкий.\n\nАвторы отмечают, что HMWHA предназначена для восстановления свойств синовиальной жидкости, уменьшения трения и облегчения симптомов; предполагаемые преимущества включают более длительное удержание в суставе и противовоспалительное действие. Однако период полувыведения из сустава составляет около 8,8 дня, а результаты имеющихся исследований не подтверждают клинического превосходства над альтернативами. Вывод ограничен небольшим числом РКИ и необходимостью более качественных исследований именно при коксартрозе.",
+    "_reason": "Статья напрямую отвечает на практический вопрос, оправдано ли ожидать от инъекций гиалуроновой кислоты высокой молекулярной массы большего облегчения коксартроза, чем от других инъекционных методов. Объединённые данные не выявили такого преимущества по боли и функции, поэтому обзор полезен для реалистичного обсуждения ожидаемого эффекта и выбора между альтернативами.",
+    "why_read": "Статью стоит прочитать ортопедам, врачам физической и реабилитационной медицины и специалистам, обсуждающим инъекционное лечение коксартроза. Она пригодится при консультировании пациентов, которые рассматривают HMWHA как предпочтительный вариант, и при объяснении ограничений сравнительных доказательств.",
+    "limitations": [
+      "Four RCTs were selected for inclusion, encompassing a total of 823 patients with hip OA",
+      "No significant differences were observed between HMWHA and other therapies",
+      "further high-quality RCTs are needed to evaluate the HMWHA in the treatment of hip OA",
+      "I2 = 96%",
+      "I2 = 99%"
+    ],
+    "advice_items": [
+      {
+        "quote": "No significant differences were observed between HMWHA and other therapies regarding pain relief and functional recovery in patients with hip OA.",
+        "advice": "При обсуждении инъекций сообщите пациенту, что обзор не выявил превосходства гиалуроновой кислоты высокой молекулярной массы над сравнивавшимися альтернативами по боли и восстановлению функции. Не представляйте её как заведомо более эффективный вариант; выбор следует обсуждать с учётом целей пациента и доступных альтернатив.",
+        "audience": "врач"
+      },
+      {
+        "quote": "However, further high-quality RCTs are needed to evaluate the HMWHA in the treatment of hip OA.",
+        "advice": "Объясните пациенту, что доказательная база для HMWHA при коксартрозе пока ограничена и окончательное место метода в лечении не установлено. При совместном выборе лечения отделяйте предполагаемый механизм действия препарата от доказанного сравнительного клинического преимущества.",
+        "audience": "врач"
+      },
+      {
+        "quote": "In the leave-one-out sensitivity analysis, the results for the pain outcome remained stable.",
+        "advice": "При интерпретации результатов учитывайте, что вывод по боли сохранялся при последовательном исключении отдельных исследований. Это поддерживает устойчивость данного результата, но не доказывает эквивалентность всех методов и не устраняет ограничения небольшого числа включённых РКИ.",
+        "audience": "врач"
+      }
+    ],
+    "importance_stars": 5,
+    "importance_mark": "★★★★★",
+    "take": "keep"
+  },
+  {
+    "id": 222,
+    "pmid": "42033031",
+    "source": "PubMed",
+    "article": "Editorial Commentary: When Efficacy is Similar, Risk Should Decide: Why Ketorolac Deserves Priority Over Corticosteroids For Hip Injections.",
+    "authors": [
+      "Ashberg Lyall J"
+    ],
+    "date": "2026-04-24",
+    "journal": "Arthroscopy : the journal of arthroscopic & related surgery : official publication of the Arthroscopy Association of North America and the International Arthroscopy Association",
+    "doi": "10.1002/arj.70182",
+    "topic": "Коксартроз",
+    "topic_key": "cox",
+    "topic_keys": [
+      "cox"
+    ],
+    "topics": [
+      "Коксартроз"
+    ],
+    "abstract_en": "Image-guided hip injections are widely used for osteoarthritis, femoroacetabular impingement syndrome, and extra-articular hip pathology. Corticosteroids have traditionally dominated this space, despite increasing concern regarding joint safety. I argue that injectable nonsteroidal anti-inflammatory drugs, particularly ketorolac, represent a clinically effective and potentially safer alternative to corticosteroids for selected hip conditions. This commentary integrates comparative effectiveness data with recent randomized and observational safety literature, including randomized controlled trial evidence supporting corticosteroid efficacy, to frame a risk-balanced clinical decision model. When symptom relief is comparable, the injectate with fewer catastrophic downside risks should be preferred. Current evidence supports ketorolac as a reasonable and often preferable, first-line option for ultrasound-guided hip injections in appropriately selected patients.",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/42033031/",
+    "pmc_link": "",
+    "html_available": false,
+    "html_link": "",
+    "title_ru": "Инъекции кеторолака или кортикостероидов в тазобедренный сустав при коксартрозе: почему при сопоставимом эффекте важнее безопасность",
+    "patient_plain": "",
+    "patient_use": "Если врач предлагает инъекцию в тазобедренную область, стоит уточнить, какую именно проблему предполагается лечить и почему выбран кортикостероид или кеторолак. При обсуждении вариантов важно учитывать не только ожидаемое облегчение боли, но и возможные неблагоприятные последствия для сустава. Кеторолак можно обсудить как альтернативу кортикостероиду, если врач считает его подходящим с учётом диагноза и индивидуальных рисков. Комментарий не содержит данных, позволяющих самостоятельно выбрать препарат или оценить вероятность осложнений для конкретного пациента.",
+    "practical_use": "Врачам следует обсуждать инъекционный кеторолак как возможную альтернативу кортикостероидам у тщательно отобранных пациентов с патологией тазобедренной области, особенно когда ожидаемая эффективность сопоставима. При совместном принятии решения необходимо отдельно проговорить предполагаемую пользу, риски для сустава и неопределённость сравнительных данных, не представляя потенциальное преимущество безопасности как окончательно доказанное для всех клинических ситуаций. Выбор следует соотносить с конкретным показанием и индивидуальными особенностями пациента; сам комментарий не устанавливает дозировку или протокол наблюдения.",
+    "summary": "В редакционном комментарии рассматривается выбор препаратов для инъекций в область тазобедренного сустава под контролем визуализации при остеоартрозе, синдроме фемороацетабулярного импинджмента и патологии внесуставных структур бедра. Традиционно для таких инъекций широко применяют кортикостероиды, однако автор обращает внимание на растущие опасения по поводу их безопасности для сустава. В качестве альтернативы обсуждаются инъекционные нестероидные противовоспалительные препараты (НПВП), прежде всего кеторолак.\n\nАвтор сопоставляет данные об эффективности препаратов и результаты рандомизированных контролируемых исследований и наблюдательных работ по безопасности. Основной вывод состоит в том, что при сопоставимом облегчении симптомов предпочтение следует отдавать препарату с меньшим риском тяжёлых неблагоприятных последствий. Кеторолак представлен как клинически обоснованная и потенциально более безопасная, а для подходящих пациентов нередко предпочтительная первая линия выбора при инъекциях в тазобедренную область под ультразвуковым контролем.\n\nЭто редакционный комментарий, предлагающий модель принятия решений с учётом соотношения пользы и риска, а не самостоятельное сравнительное клиническое испытание. Автор не приводит в представленном тексте конкретных дозировок, сроков действия, количественных оценок эффективности или частоты осложнений, поэтому вывод о преимуществе кеторолака следует понимать как аргумент в пользу индивидуального выбора, а не как доказательство его универсального превосходства при любых заболеваниях тазобедренной области.",
+    "_reason": "Материал важен для практики коксартроза, поскольку ставит вопрос о выборе между привычными внутрисуставными кортикостероидами и кеторолаком при инъекциях под визуальным контролем. Его ключевой вклад — акцент на безопасности сустава при сопоставимом облегчении симптомов, однако редакционный формат и отсутствие количественных сравнительных результатов в представленном тексте не позволяют считать преимущество кеторолака окончательно установленным.",
+    "why_read": "Статью стоит прочитать ортопедам, специалистам по спортивной медицине и врачам, выполняющим инъекции в тазобедренную область, чтобы учитывать кеторолак при обсуждении альтернатив кортикостероидам. Она также полезна для подготовки информированного согласия и разговора с пациентом о соотношении ожидаемого эффекта и потенциального риска. При этом для выбора конкретной схемы лечения потребуются более подробные сравнительные данные и оценка индивидуальных противопоказаний.",
+    "limitations": [
+      "This commentary integrates comparative effectiveness data with recent randomized and observational safety literature",
+      "including randomized controlled trial evidence supporting corticosteroid efficacy",
+      "for selected hip conditions",
+      "in appropriately selected patients"
+    ],
+    "advice_items": [
+      {
+        "quote": "When symptom relief is comparable, the injectate with fewer catastrophic downside risks should be preferred.",
+        "advice": "При выборе препарата для инъекции сопоставляйте ожидаемое облегчение симптомов с потенциальными тяжёлыми неблагоприятными последствиями. Если варианты обеспечивают сходный эффект, обсуждайте предпочтение средства с более благоприятным профилем безопасности, учитывая конкретное показание и особенности пациента.",
+        "audience": "врач"
+      },
+      {
+        "quote": "Current evidence supports ketorolac as a reasonable and often preferable, first-line option for ultrasound-guided hip injections in appropriately selected patients.",
+        "advice": "При планировании инъекции под ультразвуковым контролем рассмотрите кеторолак как возможную альтернативу кортикостероиду у подходящих пациентов. Объясните, что автор поддерживает такой выбор с учётом соотношения пользы и риска, но не утверждает, что кеторолак подходит всем пациентам или при любом заболевании тазобедренной области.",
+        "audience": "врач"
+      },
+      {
+        "quote": "Corticosteroids have traditionally dominated this space, despite increasing concern regarding joint safety.",
+        "advice": "Если вам предлагают инъекцию кортикостероида, спросите врача об ожидаемой пользе, возможных рисках для сустава и наличии альтернатив. Обсудите, подходит ли в вашей ситуации кеторолак, не считая его автоматически более безопасным или эффективным именно для вас.",
+        "audience": "пациент"
+      }
+    ],
+    "importance_stars": 5,
+    "importance_mark": "★★★★★",
+    "take": "keep"
+  },
+  {
+    "id": 223,
+    "pmid": "42803956",
+    "source": "PubMed",
+    "article": "Systematic evidence analysis of symptom modification in hip osteoarthritis following MSC-based interventions.",
+    "authors": [
+      "Steiner Paul",
+      "Seist Theodor",
+      "Moser Lukas",
+      "Neugebauer Johannes",
+      "Dammerer Dietmar",
+      "Nehrer Stefan",
+      "Neubauer Markus"
+    ],
+    "date": "2026-09-28",
+    "journal": "Wiener klinische Wochenschrift",
+    "doi": "10.1007/s00508-026-02820-x",
+    "topic": "Коксартроз",
+    "topic_key": "cox",
+    "topic_keys": [
+      "cox"
+    ],
+    "topics": [
+      "Коксартроз"
+    ],
+    "abstract_en": "BACKGROUND: Mesenchymal stromal/stem cell (MSC)-based interventions are increasingly used for hip osteoarthritis (HOA), although the products and supporting clinical evidence are heterogeneous. This systematic review evaluated symptom modification, safety, and methodological quality.\n\nMETHODS: PubMed/MEDLINE was searched on 1 August 2024 using MeSH and free-text terms. One author performed study screening, data extraction, and risk of bias assessment using the Downs and Black checklist and 9 studies comprising 307 patients were included. Because of clinical and methodological heterogeneity, results were synthesized descriptively; weighted outcome means were calculated only from studies reporting compatible baseline and follow-up values.\n\nRESULTS: The interventions included culture-expanded MSCs, bone marrow concentrate, stromal vascular fraction, and micro-fragmented adipose tissue, with or without platelet-rich plasma. In contributing cohorts, VAS pain scores decreased from 6.7 to 3.7 (n = 58), WOMAC scores decreased from 35.4 to 18.5 (n = 49), and Harris hip scores increased from 40.8 to 62.8 (n = 76). These findings represent within-group changes rather than comparative treatment effects. Serious adverse events were uncommon, but reporting was incomplete and follow-up was generally limited.\n\nCONCLUSION: The use of MSC-based interventions was associated with encouraging short-term within-group improvements in pain and function; however, small samples, product heterogeneity, predominantly uncontrolled designs and limited safety reporting preclude conclusions regarding efficacy or structural disease modification. Adequately powered randomized controlled trials with standardized products and outcomes are required.",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/42803956/",
+    "pmc_link": "",
+    "html_available": false,
+    "html_link": "",
+    "title_ru": "Мезенхимальные стромальные и стволовые клетки при коксартрозе: систематический анализ влияния на боль, функцию тазобедренного сустава и безопасность",
+    "patient_plain": "",
+    "patient_use": "Если при коксартрозе предлагается инъекция клеточного препарата, стоит уточнить, какой именно материал используют: культивированные мезенхимальные клетки, концентрат костного мозга, стромально-васкулярную фракцию или обработанную жировую ткань, а также добавляют ли PRP. Уменьшение боли и улучшение функции наблюдались в опубликованных исследованиях, но пока нельзя уверенно определить, насколько эти изменения обусловлены самой процедурой и превосходят ли они результаты других вариантов лечения. Перед принятием решения важно обсудить неопределённость долгосрочной безопасности и отсутствие убедительного подтверждения того, что процедура восстанавливает хрящ или останавливает прогрессирование коксартроза.",
+    "practical_use": "Врачам следует разграничивать зарегистрированное улучшение симптомов внутри группы и сравнительную эффективность вмешательства: приведённые изменения показателей не доказывают причинную связь с клеточной терапией. При обсуждении информированного согласия необходимо раскрывать различия между применяемыми клеточными продуктами, ограниченность данных о нежелательных явлениях и короткие сроки наблюдения. Для последующего мониторинга целесообразно опираться на исходные и повторные оценки боли и функции с использованием сопоставимых шкал, не интерпретируя симптоматическое улучшение как доказательство структурного восстановления сустава.",
+    "summary": "Систематический обзор оценил влияние вмешательств на основе мезенхимальных стромальных/стволовых клеток (MSC) на симптомы коксартроза, безопасность процедур и качество клинических исследований. В анализ включили 9 исследований с участием 307 пациентов. Рассматривались культивированные MSC, концентрат костного мозга, стромально-васкулярная фракция и микрофрагментированная жировая ткань, применявшиеся самостоятельно или в сочетании с плазмой, обогащённой тромбоцитами (PRP). Авторы провели поиск в PubMed/MEDLINE по состоянию на 1 августа 2024 года и оценили риск систематических ошибок с помощью контрольного списка Downs and Black.\n\nВ группах, для которых удалось сопоставить исходные и последующие измерения, средний показатель боли по визуальной аналоговой шкале (VAS) снизился с 6,7 до 3,7 балла (58 пациентов), показатель WOMAC (индекс боли, скованности и физической функции при остеоартрозе) — с 35,4 до 18,5 балла (49 пациентов), а оценка Harris Hip Score, характеризующая боль и функцию тазобедренного сустава, повысилась с 40,8 до 62,8 балла (76 пациентов). Эти изменения отражают динамику внутри групп, а не доказанное превосходство клеточной терапии над плацебо, стандартным лечением или другими методами.\n\nСерьёзные нежелательные явления регистрировались редко, однако сведения о безопасности публиковались неполно, а наблюдение обычно было непродолжительным. Малые выборки, различия между клеточными продуктами и методиками, преобладание исследований без контрольных групп и неоднородность показателей не позволяют достоверно установить эффективность вмешательств или подтвердить, что они замедляют структурное разрушение сустава. Для выводов о клинической эффективности необходимы достаточно крупные рандомизированные контролируемые исследования со стандартизированными препаратами и критериями оценки.",
+    "_reason": "Обзор посвящён экспериментально и клинически применяемым клеточным вмешательствам при коксартрозе и показывает, что после процедур в исследованиях улучшались показатели боли и функции. Практическая ценность статьи заключается в возможности предметно обсудить с пациентом потенциальные изменения симптомов, различия между клеточными продуктами и существенную неопределённость доказательств эффективности и безопасности.",
+    "why_read": "Статья полезна ортопедам, травматологам и врачам, которые консультируют пациентов с коксартрозом по поводу клеточной терапии и инъекций PRP. Её стоит прочитать перед обсуждением таких процедур, чтобы корректно объяснять результаты по шкалам VAS, WOMAC и Harris Hip Score, не выдавая изменения внутри групп за доказанное преимущество лечения. Обзор также помогает оценивать качество исследований и отличать краткосрочное уменьшение симптомов от подтверждённого влияния на прогрессирование заболевания.",
+    "limitations": [
+      "One author performed study screening, data extraction, and risk of bias assessment using the Downs and Black checklist",
+      "Because of clinical and methodological heterogeneity, results were synthesized descriptively",
+      "These findings represent within-group changes rather than comparative treatment effects",
+      "Serious adverse events were uncommon, but reporting was incomplete and follow-up was generally limited",
+      "small samples, product heterogeneity, predominantly uncontrolled designs and limited safety reporting preclude conclusions regarding efficacy or structural disease modification",
+      "Adequately powered randomized controlled trials with standardized products and outcomes are required"
+    ],
+    "advice_items": [
+      {
+        "quote": "These findings represent within-group changes rather than comparative treatment effects.",
+        "advice": "При объяснении результатов пациенту подчёркивайте, что снижение боли и улучшение функции в наблюдавшихся группах не доказывают превосходства клеточной терапии над стандартным лечением или плацебо. Не используйте эти изменения как самостоятельное основание для утверждения о доказанной эффективности процедуры.",
+        "audience": "врач"
+      },
+      {
+        "quote": "Serious adverse events were uncommon, but reporting was incomplete and follow-up was generally limited.",
+        "advice": "При информированном согласии объясняйте, что редкая регистрация серьёзных нежелательных явлений не равнозначна доказанной безопасности. Уточняйте у пациента, какой конкретно клеточный продукт ему предлагают, и обсуждайте неопределённость долгосрочных рисков с учётом ограниченного наблюдения в исследованиях.",
+        "audience": "врач"
+      },
+      {
+        "quote": "The interventions included culture-expanded MSCs, bone marrow concentrate, stromal vascular fraction, and micro-fragmented adipose tissue, with or without platelet-rich plasma.",
+        "advice": "Перед принятием решения попросите медицинскую организацию точно назвать используемый материал и сообщить, комбинируется ли он с PRP. Эти варианты различаются по происхождению и способу подготовки, поэтому результаты исследований одного вмешательства нельзя автоматически переносить на другое.",
+        "audience": "пациент"
+      },
+      {
+        "quote": "small samples, product heterogeneity, predominantly uncontrolled designs and limited safety reporting preclude conclusions regarding efficacy or structural disease modification.",
+        "advice": "Не следует считать клеточную процедуру доказанным способом восстановления хряща или остановки коксартроза на основании этого обзора. Обсудите с врачом, какие ожидаемые изменения касаются боли и подвижности, насколько они предсказуемы и какие неопределённости остаются в отношении долгосрочного результата.",
+        "audience": "пациент"
+      }
+    ],
+    "importance_stars": 5,
+    "importance_mark": "★★★★★",
+    "take": "keep"
   }
 ]
