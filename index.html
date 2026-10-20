@@ -98,14 +98,19 @@ a:hover{text-decoration:underline}
 .pager button:disabled{opacity:.4;cursor:default}
 .pager .pg-info{font-size:13px;color:var(--muted)}
 
-.overlay{position:fixed;inset:0;background:rgba(8,24,28,.5);z-index:40;display:none;align-items:flex-start;justify-content:center;padding:24px;overflow:auto}
+.overlay{position:fixed;inset:0;background:rgba(8,24,28,.5);z-index:40;display:none;align-items:flex-start;justify-content:center;padding:24px;overflow:auto;overscroll-behavior:contain;-webkit-overflow-scrolling:touch}
 .overlay.show{display:flex}
-.panel{background:var(--surface);width:min(900px,100%);border-radius:18px;margin:auto;box-shadow:0 24px 64px rgba(0,0,0,.2);overflow:hidden}
-.panel-head{padding:24px 28px 0;display:flex;justify-content:space-between;gap:12px}
+.panel{background:var(--surface);width:min(900px,100%);border-radius:18px;margin:auto;box-shadow:0 24px 64px rgba(0,0,0,.2);overflow:visible}
+.panel-head{padding:16px 28px 12px;display:flex;justify-content:space-between;gap:12px;position:sticky;top:0;z-index:5;background:var(--surface);border-bottom:1px solid var(--line)}
 .panel-head h2{margin:8px 0 4px;font-size:26px;line-height:1.2;letter-spacing:-.02em}
 .panel-original{font-size:13px;color:var(--muted);line-height:1.4}
-.close{border:1px solid var(--line);background:#fff;border-radius:10px;padding:8px 12px;color:var(--muted);align-self:flex-start}
+.close{border:1px solid var(--line);background:#fff;border-radius:10px;padding:8px 12px;color:var(--muted);align-self:flex-start;flex:0 0 auto}
 .panel-body{padding:20px 28px 28px}
+@media (max-width:720px){
+  .overlay{padding:12px;padding-top:max(12px,env(safe-area-inset-top))}
+  .panel-head{top:0;padding:12px 16px 10px}
+  .panel-body{padding:16px}
+}
 .section-title{font-size:11px;text-transform:uppercase;letter-spacing:.08em;color:var(--muted);font-weight:700;margin:18px 0 8px}
 .box{background:#f8fafb;border:1px solid var(--line);border-radius:12px;padding:14px 16px;font-size:14px;line-height:1.65;white-space:pre-line}
 .box.practical{background:var(--accent-soft);border-color:#b7e3e6}
@@ -625,11 +630,36 @@ function openPanel(id){
     a.doi?`<a class="btn-link btn-secondary" href="${esc('https://doi.org/'+a.doi)}" target="_blank" rel="noopener">DOI ↗</a>`:""
   ];
   document.getElementById("panelLinks").innerHTML=links.join("");
-  document.getElementById("overlay").classList.add("show");
+  const ov=document.getElementById("overlay");
+  ov.classList.add("show");
+  ov.scrollTop=0;
+  lockPageScroll();
+}
+let lockScrollY=0;
+function lockPageScroll(){
+  lockScrollY=window.scrollY||window.pageYOffset||0;
+  document.documentElement.style.overflow="hidden";
+  document.body.style.overflow="hidden";
+  document.body.style.position="fixed";
+  document.body.style.top=`-${lockScrollY}px`;
+  document.body.style.left="0";
+  document.body.style.right="0";
+  document.body.style.width="100%";
+}
+function unlockPageScroll(){
+  document.documentElement.style.overflow="";
+  document.body.style.overflow="";
+  document.body.style.position="";
+  document.body.style.top="";
+  document.body.style.left="";
+  document.body.style.right="";
+  document.body.style.width="";
+  window.scrollTo(0, lockScrollY);
 }
 function closePanel(){
   document.getElementById("overlay").classList.remove("show");
   currentId=null;
+  unlockPageScroll();
 }
 function closeSidebar(){
   document.getElementById("sidebar").classList.remove("open");
