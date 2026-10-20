@@ -10171,6 +10171,71 @@
   },
   {
     "id": 180,
+    "pmid": "38150696",
+    "source": "PubMed",
+    "article": "Ultrasound guided injection with Collagen-based Medical Device: real-life evaluation of efficacy and safety in hip osteoarthritis.",
+    "authors": [
+      "Damjanov Nemanja",
+      "Micu Mihaela C"
+    ],
+    "date": "2023-11-26",
+    "journal": "Medical ultrasonography",
+    "doi": "10.11152/mu-4242",
+    "topic": "Коксартроз",
+    "topic_key": "cox",
+    "topic_keys": [
+      "cox"
+    ],
+    "topics": [
+      "Коксартроз"
+    ],
+    "abstract_en": "AIMS: Data regarding the treatment of hip osteoarthritis (OA) with collagen-based extracellular bio-scaffolds are lacking. We evaluated the treatment of hip OA with ultrasound guided intraarticular injections of Collagen-based Medical Device (CMD).\n\nMATERIAL AND METHODS: Forty-four patients with Kellgren-Lawrence grade (KLG) I or II were selected, and 20/44 randomly selected patients (CMD group), were treated with 2 weekly consecutive ultrasound guided intraarticular injections of CMD (MD-HIP, Guna S.p.a. Milan, Italy). An additional 24/44 patients were treated with oral non-steroidal anti-inflammatory drugs (NSAIDs) daily (NSAIDs group). Clinical assessment, X-rays and ultrasound evaluation were performed at baseline, and after 1 month in both groups, and after 3 months in the CMD group. Outcome measures were general pain VAS (0-10), the whole WOMAC score, and the WOMAC specific subscores.\n\nRESULTS: CMD and NSAIDs group were homogenous for age, gender, VAS pain and WOMAC scores. The CMD group had significant improvement of the VAS pain (p<0.0001), global WOMAC score (p<0.0001) and WOMAC function (p<0.0001) from baseline to the 1st month, with further improvement from the 1st to the 3rd month (p<0,001; p<0.01; p<0.03, respectively). Significant improvement in WOMAC pain (p<0.0001) and WOMAC stiffness (p<0.0001) was detected at 1st month, with no significant change at 3rd month. In the NSAIDs group significant improvement in WOMAC function was detected after 1 month (p=0.021) only. No adverse events were recorded in the CMD and NSAIDs group.\n\nCONCLUSION: The ultrasound guided intraarticular hip injections of CMD resulted in significant improvement in VAS pain and WOMAC scores compared to treatment with oral NSAIDs.",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/38150696/",
+    "pmc_link": "",
+    "html_available": false,
+    "html_link": "",
+    "title_ru": "Ультразвуково-контролируемые инъекции коллагенового медицинского изделия при коксартрозе: оценка эффективности и безопасности в реальной практике",
+    "patient_plain": "",
+    "patient_use": "Если при раннем коксартрозе боль и ограничение движений сохраняются, можно обсудить с ортопедом, подходит ли вам внутрисуставное введение CMD под ультразвуковым контролем и насколько убедительны данные именно для вашей ситуации. Важно уточнить, какие ожидаются изменения боли и повседневной функции, как будет оцениваться результат и какие альтернативы доступны. Отсутствие осложнений у участников этого небольшого исследования не гарантирует, что процедура безопасна для каждого пациента.",
+    "practical_use": "Врач может рассматривать исследование как предварительное свидетельство возможного симптоматического эффекта CMD при коксартрозе I–II стадии, не распространяя результаты автоматически на пациентов с более тяжёлым поражением сустава. При обсуждении информированного согласия следует разграничивать статистически значимое улучшение показателей и доказанное клиническое превосходство: в представленном описании не приведены величины изменений и доверительные интервалы. При наблюдении целесообразно отдельно фиксировать боль, скованность и функциональные ограничения, поскольку динамика этих показателей к третьему месяцу различалась.",
+    "summary": "В исследовании оценивали эффективность и безопасность внутрисуставных инъекций коллагенового медицинского изделия CMD (Collagen-based Medical Device) MD-HIP при коксартрозе тазобедренного сустава I–II стадии по классификации Kellgren–Lawrence. В исследование включили 44 пациента: 20 случайно отобранных пациентов получили две последовательные еженедельные инъекции CMD под ультразвуковым контролем, а 24 пациента ежедневно принимали пероральные нестероидные противовоспалительные препараты (НПВП). Боль оценивали по визуальной аналоговой шкале VAS от 0 до 10, а боль, скованность и функцию сустава — по шкале WOMAC. Обследования проводили до лечения и через месяц в обеих группах, а в группе CMD — также через три месяца.\n\nЧерез месяц после инъекций в группе CMD статистически значимо улучшились общая оценка боли по VAS, суммарный показатель WOMAC и функциональные возможности сустава. Также уменьшились боль и скованность по соответствующим разделам WOMAC. Между первым и третьим месяцами дальнейшее улучшение отмечалось по VAS, суммарному WOMAC и функции сустава, тогда как показатели боли и скованности по WOMAC существенно не изменились. В группе НПВП через месяц было выявлено статистически значимое улучшение только функции сустава. Авторы сообщили об отсутствии зарегистрированных нежелательных явлений в обеих группах.\n\nРезультаты указывают на потенциальную пользу инъекций CMD при раннем коксартрозе по сравнению с ежедневным приёмом НПВП в рамках данного исследования. Однако выборка была небольшой, наблюдение в группе CMD продолжалось только три месяца, а отсутствие зарегистрированных осложнений не доказывает долгосрочную безопасность. Полученные данные не позволяют уверенно судить об эффективности метода при более выраженном артрозе или о его преимуществах в долгосрочной перспективе.",
+    "_reason": "Статья представляет практический интерес, поскольку сравнивает ультразвуково-контролируемые внутрисуставные инъекции коллагенового медицинского изделия MD-HIP с пероральными НПВП у пациентов с ранним коксартрозом и сообщает об улучшении боли и функции после инъекций. Однако небольшая выборка и короткий период наблюдения не позволяют считать метод окончательно доказанной альтернативой стандартному лечению или делать выводы о его долгосрочной безопасности.",
+    "why_read": "Статья будет полезна ортопедам, врачам физической и реабилитационной медицины и специалистам, обсуждающим с пациентами варианты симптоматического лечения раннего коксартроза. Её стоит прочитать тем, кто оценивает перспективы внутрисуставных инъекций CMD, чтобы понимать сообщённые изменения боли и функции, а также ограничения сравнения с НПВП.",
+    "limitations": [
+      "Forty-four patients with Kellgren-Lawrence grade (KLG) I or II were selected",
+      "20/44 randomly selected patients (CMD group)",
+      "An additional 24/44 patients were treated with oral non-steroidal anti-inflammatory drugs (NSAIDs) daily (NSAIDs group)",
+      "after 3 months in the CMD group",
+      "No adverse events were recorded in the CMD and NSAIDs group"
+    ],
+    "advice_items": [
+      {
+        "quote": "Forty-four patients with Kellgren-Lawrence grade (KLG) I or II were selected, and 20/44 randomly selected patients (CMD group), were treated with 2 weekly consecutive ultrasound guided intraarticular injections of CMD (MD-HIP, Guna S.p.a. Milan, Italy).",
+        "advice": "При обсуждении процедуры учитывайте, что исследование включало пациентов только с I–II степенью коксартроза и использовало две последовательные еженедельные инъекции MD-HIP под ультразвуковым контролем. Не переносите этот результат без дополнительных оснований на более тяжёлые стадии заболевания или другие схемы введения.",
+        "audience": "врач"
+      },
+      {
+        "quote": "The CMD group had significant improvement of the VAS pain (p<0.0001), global WOMAC score (p<0.0001) and WOMAC function (p<0.0001) from baseline to the 1st month, with further improvement from the 1st to the 3rd month (p<0,001; p<0.01; p<0.03, respectively).",
+        "advice": "При оценке результата лечения разделяйте интенсивность боли, суммарное состояние по WOMAC и функциональные возможности пациента. Для наблюдения используйте сопоставимые исходные и повторные оценки, не интерпретируя статистическую значимость как гарантию заметного улучшения у каждого пациента.",
+        "audience": "врач"
+      },
+      {
+        "quote": "Significant improvement in WOMAC pain (p<0.0001) and WOMAC stiffness (p<0.0001) was detected at 1st month, with no significant change at 3rd month.",
+        "advice": "При консультировании объясните, что динамика боли и скованности по WOMAC отличалась от динамики общей боли и функции: после первоначального улучшения дальнейших статистически значимых изменений по этим двум показателям не выявили. Это важно учитывать при согласовании ожиданий пациента и обсуждении критериев успешности лечения.",
+        "audience": "врач"
+      },
+      {
+        "quote": "No adverse events were recorded in the CMD and NSAIDs group.",
+        "advice": "Сообщите пациенту, что в данном исследовании нежелательные явления не зарегистрировали ни после инъекций CMD, ни в группе НПВП. Одновременно уточните, что небольшой размер выборки и короткое наблюдение не позволяют исключить редкие осложнения или подтвердить долгосрочную безопасность процедуры.",
+        "audience": "врач"
+      }
+    ],
+    "importance_stars": 4,
+    "importance_mark": "★★★★☆",
+    "take": "keep"
+  },
+  {
+    "id": 181,
     "pmid": "38030118",
     "source": "PubMed",
     "article": "How effective are exercises delivered digitally (requiring internet), amongst patients with hip or knee osteoarthritis? A systematic review and meta-analysis.",
@@ -10230,7 +10295,75 @@
     "take": "keep"
   },
   {
-    "id": 181,
+    "id": 182,
+    "pmid": "38053480",
+    "source": "PubMed",
+    "article": "Weight Loss Induced by Antiobesity Medications and All-Cause Mortality Among Patients With Knee or Hip Osteoarthritis.",
+    "authors": [
+      "Wei Jie",
+      "Hunter David",
+      "Lane Nancy E",
+      "Wu Jing",
+      "Zeng Chao",
+      "Lei Guanghua",
+      "Zhang Yuqing"
+    ],
+    "date": "2023-12-06",
+    "journal": "Arthritis & rheumatology (Hoboken, N.J.)",
+    "doi": "10.1002/art.42754",
+    "topic": "Коксартроз",
+    "topic_key": "cox",
+    "topic_keys": [
+      "cox"
+    ],
+    "topics": [
+      "Коксартроз"
+    ],
+    "abstract_en": "OBJECTIVE: The current guidelines recommend weight loss for patients with overweight or obesity and knee or hip osteoarthritis (OA); however, there is a paucity of data on the relation of weight loss to death among patients with OA. We aimed to examine the relation of the rate of weight loss induced by antiobesity medications over one year to all-cause mortality among patients with overweight or obesity and knee or hip OA.\n\nMETHODS: Using the IQVIA Medical Research Database, we identified people with overweight or obesity and knee or hip OA. We emulated analyses of a hypothetical target trial to assess the effect of slow-to-moderate (2%-10%) or fast (≥10%) weight loss induced by the initiation of antiobesity medications within one year on all-cause mortality and secondary outcomes over five years' follow-up.\n\nRESULTS: Among 6,524 participants, the five-year all-cause mortality rates were 5.3%, 4.0%, and 5.4% for weight gain or stable, slow-to-moderate weight loss, and fast weight loss arms, respectively. Compared with the weight gain or stable arm, hazard ratios of all-cause mortality were 0.72 (95% confidence interval [CI] 0.56-0.92) for the slow-to-moderate weight loss arm and 0.99 (95% CI 0.67-1.44) for the fast weight loss arm. We found dose-response protective effects of weight loss on incident hypertension, type 2 diabetes, and venous thromboembolism but a slightly higher risk of cardiovascular disease, albeit not statistically significant, in the fast rate of weight loss arm than in the weight gain or stable arm and no significant relations of weight loss to the risk of cancer.\n\nCONCLUSION: In this population-based study, a slow-to-moderate, but not fast, rate of weight loss induced by antiobesity medications is associated with a lower risk of all-cause mortality in people with overweight or obesity and knee or hip OA.",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/38053480/",
+    "pmc_link": "",
+    "html_available": false,
+    "html_link": "",
+    "title_ru": "Темп снижения веса на фоне препаратов против ожирения и риск смерти у пациентов с остеоартрозом коленного или тазобедренного сустава",
+    "patient_plain": "",
+    "patient_use": "Если у вас есть остеоартроз тазобедренного или коленного сустава и избыточный вес, обсудите с врачом реалистичную цель снижения массы тела и её достижение на фоне лечения ожирения. Исследование не подтверждает, что похудение на 10% и более за год обеспечивает дополнительную защиту от смерти по сравнению с умеренным снижением веса. При обсуждении препаратов важно учитывать не только изменение массы тела, но и артериальное давление, риск диабета и тромбозов, а также сердечно-сосудистые факторы риска.",
+    "practical_use": "При консультировании пациентов с остеоартрозом и ожирением следует объяснять, что в наблюдаемой популяции умеренное снижение веса на фоне препаратов против ожирения было связано с более низкой пятилетней смертностью, тогда как для быстрого снижения такого преимущества не выявили. Не следует интерпретировать эти результаты как доказательство вреда быстрого похудения или как основание самостоятельно отменять либо менять препарат: доверительный интервал для этой группы допускает как снижение, так и повышение риска. При наблюдении целесообразно оценивать динамику массы тела вместе с артериальным давлением, показателями риска сахарного диабета и сердечно-сосудистым состоянием пациента.",
+    "summary": "В исследовании изучали связь между темпом снижения веса на фоне начала приёма препаратов против ожирения и риском смерти у людей с избыточным весом или ожирением и остеоартрозом коленного или тазобедренного сустава. В анализ включили 6524 участника. В течение первого года выделяли три группы: набор веса или стабильный вес, умеренное снижение веса на 2–10% и быстрое снижение на 10% и более. Затем в течение пяти лет оценивали смертность и другие последствия для здоровья.\n\nПятилетняя смертность составила 5,3% в группе стабильного веса или его увеличения, 4,0% при умеренном снижении веса и 5,4% при быстром снижении. По сравнению со стабильным весом или его увеличением умеренное снижение веса было связано с уменьшением относительного риска смерти на 28% (отношение рисков 0,72; 95% доверительный интервал 0,56–0,92). При быстром снижении веса статистически значимого снижения риска не выявили: отношение рисков составило 0,99 (95% доверительный интервал 0,67–1,44).\n\nСнижение веса также было связано с дозозависимым уменьшением риска впервые возникшей артериальной гипертензии, сахарного диабета 2-го типа и венозной тромбоэмболии. В группе быстрого снижения веса отмечалась тенденция к повышению риска сердечно-сосудистых заболеваний, но различие не было статистически значимым. Значимой связи снижения веса с риском онкологических заболеваний не обнаружили. Результаты показывают связь умеренного снижения веса с меньшей смертностью, но не доказывают, что именно темп похудения стал причиной различий.",
+    "_reason": "Статья помогает уточнить практическую цель снижения веса у людей с ожирением и остеоартрозом: умеренное снижение массы тела на фоне препаратов было связано с меньшей смертностью в течение пяти лет, тогда как быстрое снижение не показало такого преимущества. Для практики это важно при обсуждении ожидаемой пользы и темпа похудения, однако результаты наблюдательного анализа не устанавливают причинно-следственную связь и не определяют оптимальную схему применения конкретного препарата.",
+    "why_read": "Статья будет полезна врачам, которые ведут пациентов с ожирением и остеоартрозом тазобедренного или коленного сустава и обсуждают медикаментозное снижение веса. Её также стоит прочитать тренерам и специалистам по сопровождению снижения массы тела, чтобы понимать различия между умеренным и быстрым похудением в контексте долгосрочных исходов и не обещать пациентам эффект, который исследование не доказало.",
+    "limitations": [
+      "there is a paucity of data on the relation of weight loss to death among patients with OA",
+      "a slightly higher risk of cardiovascular disease, albeit not statistically significant",
+      "no significant relations of weight loss to the risk of cancer"
+    ],
+    "advice_items": [
+      {
+        "quote": "a slow-to-moderate, but not fast, rate of weight loss induced by antiobesity medications is associated with a lower risk of all-cause mortality in people with overweight or obesity and knee or hip OA.",
+        "advice": "При обсуждении медикаментозного лечения ожирения объясните пациенту, что в исследовании умеренное снижение веса было связано с меньшим риском смерти, но быстрое снижение не продемонстрировало аналогичной связи. Подчеркните, что это результат наблюдательного анализа, а не доказательство причинного эффекта или универсальная рекомендация по темпу похудения.",
+        "audience": "врач"
+      },
+      {
+        "quote": "We found dose-response protective effects of weight loss on incident hypertension, type 2 diabetes, and venous thromboembolism",
+        "advice": "При наблюдении за пациентом с ожирением и остеоартрозом учитывайте, что снижение веса было связано также с уменьшением риска впервые возникшей артериальной гипертензии, сахарного диабета 2-го типа и венозной тромбоэмболии. Используйте эту информацию для обсуждения общей пользы контроля массы тела, не представляя связь как гарантию предотвращения этих заболеваний.",
+        "audience": "врач"
+      },
+      {
+        "quote": "a slightly higher risk of cardiovascular disease, albeit not statistically significant, in the fast rate of weight loss arm than in the weight gain or stable arm",
+        "advice": "При обсуждении быстрого снижения веса не утверждайте, что исследование доказало повышение сердечно-сосудистого риска: выявленная разница не была статистически значимой. Учитывайте индивидуальный сердечно-сосудистый профиль пациента при выборе и мониторинге лечения ожирения.",
+        "audience": "врач"
+      },
+      {
+        "quote": "The five-year all-cause mortality rates were 5.3%, 4.0%, and 5.4% for weight gain or stable, slow-to-moderate weight loss, and fast weight loss arms, respectively.",
+        "advice": "Обсуждая результаты с пациентом, объясните, что наиболее низкая смертность наблюдалась в группе умеренного снижения веса, а быстрое похудение не сопровождалось аналогичным результатом. Не воспринимайте эти групповые показатели как персональный прогноз: индивидуальный риск зависит от состояния здоровья и других факторов.",
+        "audience": "пациент"
+      }
+    ],
+    "importance_stars": 4,
+    "importance_mark": "★★★★☆",
+    "take": "keep"
+  },
+  {
+    "id": 183,
     "pmid": "38059584",
     "source": "PubMed",
     "article": "Effectiveness of strategies to improve adherence to physical therapy in patients with knee and hip osteoarthritis: a systematic review and meta-analysis.",
@@ -10291,7 +10424,60 @@
     "take": "keep"
   },
   {
-    "id": 182,
+    "id": 184,
+    "pmid": "38187099",
+    "source": "PubMed",
+    "article": "Investigation of the association of long-term NSAID use with radiographic hip osteoarthritis over four to five years: Data from the OAI and CHECK studies.",
+    "authors": [
+      "Salis Zubeyir"
+    ],
+    "date": "2023-12-09",
+    "journal": "Osteoarthritis and cartilage open",
+    "doi": "10.1016/j.ocarto.2023.100427",
+    "topic": "Коксартроз",
+    "topic_key": "cox",
+    "topic_keys": [
+      "cox"
+    ],
+    "topics": [
+      "Коксартроз"
+    ],
+    "abstract_en": "OBJECTIVE: To examine the relationship between long-term use of non-steroidal anti-inflammatory drugs (NSAIDs) and the incidence and progression of radiographic hip osteoarthritis (RHOA), as well as the degeneration of individual radiographic features.\n\nMETHODS: We analyzed data from the Osteoarthritis Initiative (OAI) and the Cohort Hip and Cohort Knee (CHECK) study. Our exposure was the number of years of NSAID use over a 4-to-5-year follow-up period. Our outcomes were the incidence and progression of RHOA over a 4-to-5-year follow-up as assessed using a modified Croft grade in OAI and the Kellgren-Lawrence (K/L) grade in CHECK. The incidence of RHOA was defined as having RHOA (grade ≥2) at follow-up and investigated in \"incidence cohorts\" of hips without RHOA at baseline (grade <2). The progression of RHOA was defined as an increase of ≥1 grade at follow-up from baseline and investigated in \"progression cohorts\" of hips with RHOA at baseline (grade ≥2). Additionally, we assessed the degeneration of nine specific radiographic features, such as joint space narrowing and osteophytes, defined by a grade increase of ≥1 ​at follow-up from baseline, in all cohorts.\n\nRESULTS: In the incidence cohorts, there were 5153 hips in OAI and 1011 in CHECK; in the progression cohorts, there were 285 and 106 hips, respectively. There was no association between NSAID use and the outcomes investigated.\n\nCONCLUSION: Over 4-to-5 years, long-term NSAID use showed no association with the incidence or progression of RHOA, or with the degeneration of individual radiographic features.",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/38187099/",
+    "pmc_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10770760/",
+    "html_available": true,
+    "html_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10770760/",
+    "title_ru": "Связь длительного применения нестероидных противовоспалительных препаратов с развитием и прогрессированием рентгенологических изменений при коксартрозе за 4–5 лет",
+    "patient_plain": "",
+    "patient_use": "Если вы принимаете НПВП от боли в тазобедренном суставе, обсудите с врачом, какую именно цель преследует лечение: уменьшение боли и улучшение повседневной активности или влияние на развитие самого заболевания. По результатам этого исследования нельзя рассчитывать, что длительный приём таких препаратов защитит сустав от рентгенологических изменений. При пересмотре лечения важно отдельно оценивать облегчение симптомов и возможные риски длительного применения, а не считать уменьшение боли доказательством замедления коксартроза.",
+    "practical_use": "При консультировании пациентов следует разграничивать симптоматический эффект НПВП и возможное влияние на структурное прогрессирование коксартроза: исследование не выявило связи длительности приёма с рентгенологическими исходами. Эти результаты можно использовать для обсуждения ожиданий от терапии, но не как доказательство отсутствия клинической пользы или безопасности длительного приёма. При интерпретации данных учитывайте, что в группах прогрессирования было значительно меньше суставов, чем в группах оценки возникновения заболевания, а выраженные степени рентгенологических изменений встречались редко.",
+    "summary": "В исследовании изучали, связано ли длительное применение нестероидных противовоспалительных препаратов (НПВП) с возникновением и прогрессированием коксартроза, а также с ухудшением отдельных рентгенологических признаков поражения тазобедренного сустава. Авторы проанализировали данные двух исследований: Osteoarthritis Initiative (OAI) и Cohort Hip and Cohort Knee (CHECK). Продолжительность наблюдения составляла 4–5 лет, а воздействие оценивали по количеству лет применения НПВП за этот период.\n\nДля оценки возникновения коксартроза анализировали тазобедренные суставы без рентгенологических признаков заболевания в начале наблюдения: 5153 сустава в OAI и 1011 в CHECK. Для оценки прогрессирования изучали суставы, в которых коксартроз уже присутствовал: соответственно 285 и 106 суставов. Возникновение и прогрессирование определяли по изменению рентгенологической степени заболевания, а отдельно оценивали ухудшение девяти признаков, включая сужение суставной щели и образование остеофитов. В OAI использовали классификацию Kellgren–Lawrence (Келлгрена–Лоуренса), а в CHECK — модифицированную шкалу Croft.\n\nЗа 4–5 лет исследователи не обнаружили связи между длительностью применения НПВП и возникновением коксартроза, его рентгенологическим прогрессированием или ухудшением отдельных признаков поражения сустава. Это означает, что в изученных когортах длительное применение препаратов не было связано с изменением рентгенологической картины заболевания. Однако исследование не доказывает, что НПВП не влияют на боль или другие симптомы, и не позволяет заключить, что препараты предотвращают либо ускоряют разрушение сустава.",
+    "_reason": "Статья полезна для практики, поскольку проверяет распространённое ожидание, что длительный приём НПВП может влиять не только на боль, но и на течение коксартроза. Отсутствие обнаруженной связи с рентгенологическим прогрессированием помогает не обещать пациентам структурную защиту сустава на основании одного лишь применения обезболивающих и противовоспалительных препаратов.",
+    "why_read": "Статью стоит прочитать врачам, которые ведут пациентов с коксартрозом и обсуждают длительное применение НПВП, особенно если пациенты рассчитывают замедлить разрушение сустава с помощью лекарств. Она также полезна тренерам и специалистам по реабилитации для корректного объяснения различий между контролем симптомов и изменением структурного состояния сустава.",
+    "limitations": [
+      "Over a 4-to-5-year follow-up",
+      "There was no association between NSAID use and the outcomes investigated.",
+      "There were no hips with an overall grade of 3 or 4 in the OAI progression cohort",
+      "only 7 hips with an overall grade of 3, and none with an overall grade of 4 in the CHECK progression cohort."
+    ],
+    "advice_items": [
+      {
+        "quote": "There was no association between NSAID use and the outcomes investigated.",
+        "advice": "При обсуждении лечения объясняйте пациенту, что в этом исследовании длительность применения НПВП не была связана с возникновением или рентгенологическим прогрессированием коксартроза. Не представляйте эти препараты как средство предотвращения структурного повреждения сустава на основании полученных результатов. Отдельно оценивайте симптоматическую пользу и риски лечения.",
+        "audience": "врач"
+      },
+      {
+        "quote": "Additionally, we assessed the degeneration of nine specific radiographic features, such as joint space narrowing and osteophytes, defined by a grade increase of ≥1 at follow-up from baseline, in all cohorts.",
+        "advice": "При интерпретации результатов учитывайте, что авторы оценивали не только общую степень коксартроза, но и динамику девяти отдельных рентгенологических признаков, включая сужение суставной щели и остеофиты. Это помогает отличать вывод об отсутствии связи с общей рентгенологической картиной от результатов оценки отдельных структурных изменений. Не переносите эти выводы автоматически на боль, функцию сустава или другие клинические исходы.",
+        "audience": "врач"
+      }
+    ],
+    "importance_stars": 4,
+    "importance_mark": "★★★★☆",
+    "take": "keep"
+  },
+  {
+    "id": 185,
     "pmid": "37781792",
     "source": "PubMed",
     "article": "Effects of device-performed and manual hip traction and vibration therapy in older adults with symptomatic hip osteoarthritis: A randomized single-blind controlled trial.",
@@ -10353,7 +10539,7 @@
     "take": "keep"
   },
   {
-    "id": 183,
+    "id": 186,
     "pmid": "37955078",
     "source": "PubMed",
     "article": "Efficacy of proprioceptive neuromuscular facilitation on functioning in patients with bilateral hip osteoarthritis: A pilot randomized controlled trial.",
@@ -10416,7 +10602,7 @@
     "take": "keep"
   },
   {
-    "id": 184,
+    "id": 187,
     "pmid": "38304412",
     "source": "PubMed",
     "article": "Mediators of the effects of exercise and manual therapy for people with knee and hip osteoarthritis: A secondary, exploratory analysis of the MOA trial.",
@@ -10480,7 +10666,64 @@
     "take": "keep"
   },
   {
-    "id": 185,
+    "id": 188,
+    "pmid": "37980627",
+    "source": "PubMed",
+    "article": "Effects of Analgesics on Self-Reported Physical Function and Walking Ability in People With Hip or Knee Osteoarthritis: A Systematic Review and Meta-Analysis.",
+    "authors": [
+      "Sveaas Silje H",
+      "Smedslund Geir",
+      "Walsh David A",
+      "Dagfinrud Hanne"
+    ],
+    "date": "2024-02-01",
+    "journal": "Physical therapy",
+    "doi": "10.1093/ptj/pzad160",
+    "topic": "Коксартроз",
+    "topic_key": "cox",
+    "topic_keys": [
+      "cox"
+    ],
+    "topics": [
+      "Коксартроз"
+    ],
+    "abstract_en": "OBJECTIVE: Hip and knee osteoarthritis are among the leading causes of global disability, and one of the main aims of the management is to improve physical function. The objective of this review was to investigate the effect of analgesics on physical function (self-reported physical function and walking ability).\n\nMETHODS: A systematic review and meta-analysis of the findings were performed. Randomized controlled trials investigating the effect of analgesics on self-reported physical function and walking ability were included. Analgesics were orally administered acetaminophen, nonsteroidal antiinflammatory drugs (NSAIDs), or opioids. Data were pooled in a random-effects model, and the standardized mean difference (SMD) with 95% CI was calculated (SMDs: 0.2-0.4 = small, 0.5-0.7 = medium, and ≥0.8 = large effect sizes). The quality of the evidence was evaluated according to the Grading of Recommendations Assessment, Development, and Evaluation approach.\n\nRESULTS: A total of 1454 studies were identified, of which 33 were included. On self-reported physical function, the results showed low- to moderate-quality evidence for a small beneficial effect of acetaminophen (SMD = -0.13 [95% CI = -0.26 to 0.00]), NSAIDs (SMD = -0.32 [95% CI = -0.37 to -0.27]), or opioids (SMD = -0.20 [95% CI = -0.32 to -0.09]). There was moderate-quality evidence for a small effect of NSAIDs on pain during walking (SMD = -0.34 [95% CI = -0.45 to -0.23]).\n\nCONCLUSION: In people with hip or knee osteoarthritis, there was low- to moderate-quality evidence for small beneficial effects of analgesics on physical function and walking ability.\n\nIMPACT: Analgesics may improve physical function by reducing pain during exercise and walking.",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/37980627/",
+    "pmc_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10902557/",
+    "html_available": true,
+    "html_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10902557/",
+    "title_ru": "Как обезболивающие влияют на физическую функцию и ходьбу при остеоартрозе тазобедренного и коленного суставов: систематический обзор и метаанализ",
+    "patient_plain": "",
+    "patient_use": "Если боль мешает ходить или выполнять упражнения, обсудите с врачом, может ли обезболивание помочь вам двигаться активнее и поддерживать повседневную самостоятельность. Важно понимать, что уменьшение боли не обязательно означает существенное восстановление функции сустава: эффект препаратов в среднем был небольшим. При обсуждении вариантов лечения уточните ожидаемую пользу именно для ходьбы и физической активности, а также индивидуальные риски выбранного препарата, особенно если рассматриваются опиоиды.",
+    "practical_use": "На приёме полезно разделять несколько целей лечения: уменьшение боли, улучшение субъективной физической функции и повышение способности ходить, поскольку доказательства по этим исходам различаются. При обсуждении НПВП можно сообщить о небольшом среднем улучшении функции и боли при ходьбе, одновременно учитывая умеренное качество доказательств для последнего исхода. Эффект обезболивания целесообразно оценивать не только по интенсивности боли, но и по конкретным функциональным задачам пациента; обзор сам по себе не определяет индивидуальный баланс пользы и риска и не обосновывает предпочтение опиоидов.",
+    "summary": "Авторы систематического обзора и метаанализа изучили, помогают ли обезболивающие улучшить повседневную физическую функцию и способность ходить у людей с остеоартрозом тазобедренного или коленного сустава. В анализ вошли 33 рандомизированных контролируемых исследования с участием 19 092 человек. Рассматривались принимаемые внутрь парацетамол, нестероидные противовоспалительные препараты (НПВП) и опиоиды. Исследования продолжались от одного дня до шести месяцев, чаще всего 12 недель.\n\nВсе три группы препаратов оказывали небольшое положительное влияние на самостоятельно оцениваемую физическую функцию. Для парацетамола стандартизированная разница средних (SMD) составила −0,13 (95% доверительный интервал от −0,26 до 0,00), для НПВП — −0,32 (от −0,37 до −0,27), для опиоидов — −0,20 (от −0,32 до −0,09). Качество доказательств для этих результатов было низким или умеренным. НПВП также обеспечивали небольшое уменьшение боли при ходьбе: SMD −0,34 (95% доверительный интервал от −0,45 до −0,23), при умеренном качестве доказательств.\n\nТаким образом, обезболивающие могут немного облегчать физическую активность за счёт уменьшения боли при движении и ходьбе, но выраженного улучшения функции обзор не показал. Данные о влиянии препаратов на скорость ходьбы были ограничены: её оценивали только в двух исследованиях. Большинство включённых работ имели низкий риск систематической ошибки при формировании групп, однако только одно исследование было оценено как имеющее низкий риск систематической ошибки по всем рассмотренным критериям.",
+    "_reason": "Обзор показывает, что парацетамол, НПВП и опиоиды могут немного улучшать физическую функцию при остеоартрозе тазобедренного и коленного суставов, а НПВП — также уменьшать боль при ходьбе. Практическая ценность состоит в реалистичной оценке ожидаемого эффекта обезболивания и в том, чтобы рассматривать его как возможную поддержку двигательной активности, а не как гарантию существенного восстановления функции.",
+    "why_read": "Статья полезна врачам, реабилитологам и специалистам по лечебной физкультуре, которые обсуждают обезболивание с пациентами с остеоартрозом и хотят понимать его влияние на повседневную функцию. Пациентам она помогает сформировать реалистичные ожидания от парацетамола, НПВП и опиоидов и подготовить вопросы о том, как оценивать пользу лечения для ходьбы и упражнений.",
+    "limitations": [
+      "low- to moderate-quality evidence for a small beneficial effect",
+      "moderate-quality evidence for a small effect of NSAIDs on pain during walking",
+      "The duration of the intervention period varied between 1 day and 6 months",
+      "Two studies reported the effect on walking speed",
+      "One study was rated as low risk of bias for all items"
+    ],
+    "advice_items": [
+      {
+        "quote": "Analgesics may improve physical function by reducing pain during exercise and walking.",
+        "advice": "При обсуждении обезболивания объясните пациенту, что потенциальная функциональная польза может проявляться через уменьшение боли во время ходьбы и упражнений. Заранее определите конкретную двигательную задачу, по которой можно будет оценить, помогает ли лечение в повседневной жизни. Не обещайте значительного восстановления функции только на основании уменьшения боли.",
+        "audience": "врач"
+      },
+      {
+        "quote": "Future studies investigating the effects of analgesics on physical activity and exercise participation are warranted.",
+        "advice": "Учитывайте, что имеющиеся результаты не дают уверенного ответа на вопрос, насколько обезболивание увеличивает общую физическую активность и участие в упражнениях. При интерпретации эффекта лечения отличайте улучшение субъективной функции от фактического увеличения активности пациента. Используйте функциональные цели как дополнение к оценке боли.",
+        "audience": "врач"
+      }
+    ],
+    "importance_stars": 4,
+    "importance_mark": "★★★★☆",
+    "take": "keep"
+  },
+  {
+    "id": 189,
     "pmid": "38398445",
     "source": "PubMed",
     "article": "Nonsteroidal Anti-Inflammatory Drug Injections versus Steroid Injections in the Management of Upper and Lower Extremity Orthopedic Conditions: A Systematic Review with Meta-Analysis.",
@@ -10553,7 +10796,7 @@
     "take": "keep"
   },
   {
-    "id": 186,
+    "id": 190,
     "pmid": "38516558",
     "source": "PubMed",
     "article": "Adjunctive electrophysical therapies used in addition to land-based exercise therapy for osteoarthritis of the hip or knee: A systematic review and meta-analysis.",
@@ -10618,7 +10861,72 @@
     "take": "keep"
   },
   {
-    "id": 187,
+    "id": 191,
+    "pmid": "38484833",
+    "source": "PubMed",
+    "article": "Dropout From Exercise Interventions in Adults With Knee or Hip Osteoarthritis: A Systematic Review and Meta-analysis.",
+    "authors": [
+      "Vancampfort Davy",
+      "Van Damme Tine",
+      "McGrath Ryan L",
+      "Hemmings Laura",
+      "Gillis Veerle",
+      "Bernar Koen",
+      "Bitencourt Eduarda",
+      "Schuch Felipe"
+    ],
+    "date": "2024-03-12",
+    "journal": "Archives of physical medicine and rehabilitation",
+    "doi": "10.1016/j.apmr.2024.02.735",
+    "topic": "Коксартроз",
+    "topic_key": "cox",
+    "topic_keys": [
+      "cox"
+    ],
+    "topics": [
+      "Коксартроз"
+    ],
+    "abstract_en": "OBJECTIVE: To investigate the prevalence and moderators of dropout rates among adults with knee or hip osteoarthritis participating in exercise randomized controlled trials (RCTs).\n\nDATA SOURCES: Two authors searched Embase, CINAHL, PsycARTICLES, and PubMed up to 01/09/2023.\n\nSTUDY SELECTION: We included RCTs of exercise interventions in people with knee or hip osteoarthritis that reported dropout rates.\n\nDATA EXTRACTION: Dropout rates from exercise and control conditions and exerciser/participant, provider, and design/implementation related moderators.\n\nDATA SYNTHESIS: In total, 209 RCTs involving 277 exercise arms in 13,102 participants were included (mean age at study level=64 years; median prevalence of men participants=26.8%). The trim-and-fill-adjusted prevalence of dropout across all RCTs was 17.5% (95% CI=16.7%-18.2%), which is comparable with dropout observed in control conditions (trim-and-fill-adjusted odds ratio=0.89; 95% CI=0.71-1.12, P=.37). Higher prevalence of antidepressant use at study-level predicted higher dropout (R2=0.75, P=.002, N RCTs=6, n exercisers=412). Supervision by an exercise professional was associated with lower dropout rates, with a trim-and-fill-adjusted rate of 13.2% (95% CI=11.7%-14.9%) compared with 20.8% without supervision (95% CI=18.3%-23.5%) (P<.001).\n\nCONCLUSIONS: Dropout rates for exercise in RCTs are comparable with control conditions, suggesting that exercise is a generally well-accepted intervention. However, interventions should be supervised by an exercise professional, such as a physiotherapist or exercise physiologist, to further minimize the risk of dropout. Health professionals should consider participants' use of antidepressants as a risk factor for dropout from exercise.",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/38484833/",
+    "pmc_link": "",
+    "html_available": false,
+    "html_link": "",
+    "title_ru": "Почему пациенты с артрозом коленного и тазобедренного суставов прекращают занятия физическими упражнениями: систематический обзор и метаанализ",
+    "patient_plain": "",
+    "patient_use": "При выборе программы упражнений спросите, предусмотрены ли занятия под наблюдением физиотерапевта или другого квалифицированного специалиста: сопровождение было связано с меньшей вероятностью прекратить занятия. Если вам трудно соблюдать регулярность, сообщите специалисту о причинах, включая эмоциональное состояние, принимаемые лекарства и сложности с выполнением программы, чтобы вместе найти подходящий формат поддержки. Не прекращайте прием антидепрессантов из-за результатов этого исследования: они указывают на связь между их применением и выбыванием на уровне исследований, но не доказывают причинно-следственную связь.",
+    "practical_use": "При планировании реабилитации стоит рассматривать профессиональное сопровождение как один из способов повысить удержание пациентов в программе и заранее уточнять, какие препятствия могут мешать регулярному посещению занятий. При приеме антидепрессантов полезно уделить дополнительное внимание обсуждению приверженности и индивидуальных трудностей, не трактуя сам факт приема препарата как противопоказание к упражнениям. При интерпретации результатов следует разделять выбывание из программы и клиническую эффективность упражнений: данный метаанализ оценивал прежде всего удержание участников, а не изменение симптомов артроза.",
+    "summary": "Авторы систематического обзора и метаанализа изучили, как часто взрослые с остеоартрозом коленного или тазобедренного сустава прекращают участие в программах физических упражнений и какие факторы связаны с этим решением. В анализ вошли 209 рандомизированных контролируемых исследований (РКИ), включавших 277 групп с физическими упражнениями и 13 102 участника. Средний возраст участников на уровне исследований составлял 64 года, а медианная доля мужчин — 26,8%. По результатам анализа с поправкой на возможную публикационную систематическую ошибку доля выбывших из программ упражнений составила 17,5% (95% доверительный интервал 16,7–18,2%). Этот показатель статистически значимо не отличался от выбывания в контрольных группах, поэтому физические упражнения в целом можно считать приемлемым для пациентов вмешательством.\n\nГлавным фактором, связанным с меньшим выбыванием, было наблюдение со стороны специалиста по физическим упражнениям, например физиотерапевта или специалиста по физиологии физических упражнений. При профессиональном сопровождении скорректированная доля выбывших составляла 13,2% (95% доверительный интервал 11,7–14,9%), тогда как без такого сопровождения — 20,8% (18,3–23,5%); различие было статистически значимым (P<0,001). Более высокая доля участников, принимавших антидепрессанты, на уровне исследования была связана с более высоким выбыванием. Однако эта связь оценивалась лишь по шести исследованиям, включавшим 412 участников, поэтому ее нельзя считать доказательством того, что сами препараты вызывают прекращение занятий.\n\nПрактический вывод состоит в том, что для поддержания регулярных занятий при артрозе важно предусматривать профессиональное сопровождение и заранее учитывать возможные трудности с приверженностью программе. При этом обзор изучал прекращение участия в исследованиях, а не непосредственно уменьшение боли, улучшение подвижности или замедление прогрессирования артроза. Полученные результаты также не позволяют заключить, что наблюдение специалиста одинаково эффективно для каждого пациента или что прием антидепрессантов сам по себе является причиной отказа от упражнений.",
+    "_reason": "Статья дает конкретный ориентир для организации физической активности при артрозе коленного и тазобедренного суставов: профессиональное сопровождение связано с меньшим выбыванием из программ упражнений. Дополнительное внимание к пациентам, принимающим антидепрессанты, может помочь выявлять трудности с регулярностью занятий, хотя имеющиеся данные не доказывают причинную роль препаратов.",
+    "why_read": "Статья особенно полезна физиотерапевтам, врачам физической и реабилитационной медицины и специалистам, которые подбирают упражнения взрослым с артрозом коленного или тазобедренного сустава. Ее стоит прочитать при разработке программ реабилитации, когда важно не только назначить физическую активность, но и помочь пациентам продолжать занятия. Она также помогает корректно обсуждать прием антидепрессантов, не делая из наблюдаемой статистической связи вывод о причинности.",
+    "limitations": [
+      "The trim-and-fill-adjusted prevalence of dropout across all RCTs was 17.5% (95% CI=16.7%-18.2%)",
+      "which is comparable with dropout observed in control conditions",
+      "Higher prevalence of antidepressant use at study-level predicted higher dropout",
+      "N RCTs=6, n exercisers=412"
+    ],
+    "advice_items": [
+      {
+        "quote": "However, interventions should be supervised by an exercise professional, such as a physiotherapist or exercise physiologist, to further minimize the risk of dropout.",
+        "advice": "При организации программы упражнений для пациентов с артрозом по возможности предусмотрите сопровождение физиотерапевта или другого специалиста по физическим упражнениям. Обсудите с пациентом формат наблюдения и возможные препятствия для регулярного участия. Результаты обзора поддерживают такой подход как способ уменьшить выбывание, но не доказывают, что он гарантирует улучшение клинических исходов у каждого пациента.",
+        "audience": "врач"
+      },
+      {
+        "quote": "Health professionals should consider participants' use of antidepressants as a risk factor for dropout from exercise.",
+        "advice": "При оценке вероятности прекращения занятий уточните, принимает ли пациент антидепрессанты, и обсудите, что может мешать регулярной физической активности. Рассматривайте эту информацию как повод уделить больше внимания поддержке приверженности, а не как основание отменять лекарства или ограничивать упражнения. Связь была выявлена на уровне исследований и основывалась на небольшом количестве исследований, поэтому причинность не установлена.",
+        "audience": "врач"
+      },
+      {
+        "quote": "The trim-and-fill-adjusted prevalence of dropout across all RCTs was 17.5% (95% CI=16.7%-18.2%), which is comparable with dropout observed in control conditions (trim-and-fill-adjusted odds ratio=0.89; 95% CI=0.71-1.12, P=.37).",
+        "advice": "Объясните пациенту, что прекращение участия в программах упражнений встречается у части людей, но в исследованиях физическая активность не сопровождалась статистически значимо большим выбыванием, чем контрольные условия. Это может помочь обсудить реалистичные ожидания и заранее спланировать поддержку регулярных занятий. Не представляйте эти данные как прямое доказательство уменьшения боли или улучшения функции суставов.",
+        "audience": "врач"
+      }
+    ],
+    "importance_stars": 4,
+    "importance_mark": "★★★★☆",
+    "take": "keep"
+  },
+  {
+    "id": 192,
     "pmid": "38588540",
     "source": "PubMed",
     "article": "Progressive Resistance Training or Neuromuscular Exercise for Hip Osteoarthritis : A Multicenter Cluster Randomized Controlled Trial.",
@@ -10689,7 +10997,7 @@
     "take": "keep"
   },
   {
-    "id": 188,
+    "id": 193,
     "pmid": "38613739",
     "source": "PubMed",
     "article": "Cost-Effectiveness of Treatments for Musculoskeletal Conditions Offered by Physiotherapists: A Systematic Review of Trial-Based Evaluations.",
@@ -10752,7 +11060,7 @@
     "take": "keep"
   },
   {
-    "id": 189,
+    "id": 194,
     "pmid": "38948640",
     "source": "PubMed",
     "article": "Effect of platelet-rich plasma injections versus placebo on pain and quality of life in patients with hip osteoarthritis: A double-blind, randomized clinical trial.",
@@ -10818,7 +11126,7 @@
     "take": "keep"
   },
   {
-    "id": 190,
+    "id": 195,
     "pmid": "38821500",
     "source": "PubMed",
     "article": "Clinical efficacy of multiple intra-articular injection for hip osteoarthritis.",
@@ -10877,7 +11185,7 @@
     "take": "keep"
   },
   {
-    "id": 191,
+    "id": 196,
     "pmid": "38781351",
     "source": "PubMed",
     "article": "American Academy of Orthopaedic Surgeons Clinical Practice Guideline Summary Management of Osteoarthritis of the Hip.",
@@ -10937,7 +11245,7 @@
     "take": "keep"
   },
   {
-    "id": 192,
+    "id": 197,
     "pmid": "39564400",
     "source": "PubMed",
     "article": "The Efficacy of Bone Marrow Stem Cell Therapy in Hip Osteoarthritis: A Scoping Review.",
@@ -10994,7 +11302,7 @@
     "take": "keep"
   },
   {
-    "id": 193,
+    "id": 198,
     "pmid": "38872226",
     "source": "PubMed",
     "article": "Facilitators, barriers and support needs to GLA:D exercise adherence - a mixed method study.",
@@ -11049,7 +11357,7 @@
     "take": "keep"
   },
   {
-    "id": 194,
+    "id": 199,
     "pmid": "38926896",
     "source": "PubMed",
     "article": "Efficacy of home-based exercise in the treatment of pain and disability at the hip and knee in patients with osteoarthritis: a systematic review and meta-analysis.",
@@ -11110,7 +11418,7 @@
     "take": "keep"
   },
   {
-    "id": 195,
+    "id": 200,
     "pmid": "38945508",
     "source": "PubMed",
     "article": "Effectiveness of mHealth Interventions to Improve Pain Intensity and Functional Disability in Individuals With Hip or Knee Osteoarthritis: A Systematic Review and Meta-analysis.",
@@ -11167,7 +11475,7 @@
     "take": "keep"
   },
   {
-    "id": 196,
+    "id": 201,
     "pmid": "39002073",
     "source": "PubMed",
     "article": "Platelet-Rich Plasma for Knee and Hip Osteoarthritis Pain: A Scoping Review.",
@@ -11238,7 +11546,69 @@
     "take": "keep"
   },
   {
-    "id": 197,
+    "id": 202,
+    "pmid": "39068982",
+    "source": "PubMed",
+    "article": "Frequent use of prescription NSAIDs among people with knee or hip osteoarthritis despite contraindications to or precautions with NSAIDs.",
+    "authors": [
+      "Neogi Tuhina",
+      "Dell'Isola Andrea",
+      "Englund Martin",
+      "Turkiewicz Aleksandra"
+    ],
+    "date": "2024-07-26",
+    "journal": "Osteoarthritis and cartilage",
+    "doi": "10.1016/j.joca.2024.07.010",
+    "topic": "Коксартроз",
+    "topic_key": "cox",
+    "topic_keys": [
+      "cox"
+    ],
+    "topics": [
+      "Коксартроз"
+    ],
+    "abstract_en": "OBJECTIVE: To describe the use of non-steroidal anti-inflammatory drugs (NSAID), opioids, and physiotherapy (PT) among persons with newly diagnosed knee or hip osteoarthritis (OA) with and without NSAID contraindications or precautions.\n\nDESIGN: We used population-based register data to identify adults aged ≥35 as of January 1, 2014, residing in Skåne region (Sweden) between 2004 and 2013, without a previous knee or hip OA diagnosis. Among this cohort, we identified people with incident knee or hip OA diagnosis between 2014 and 2018 and the presence of contraindications to or precautions for oral NSAIDs at the time of OA diagnosis. We estimated the risk of 1) regular oral NSAID use, 2) regular opioid use, and 3) PT during the first year after diagnosis among those with vs. without contraindications or precautions using confounder-adjusted logistic regression with standardization.\n\nRESULTS: We identified 35,173 persons with newly diagnosed OA, of whom 3257 and 8351 had ≥1 contraindication to oral NSAIDs and ≥1 precaution, respectively. Overall, 27% of individuals used oral NSAIDs (with or without opioids or PT), 10% used opioids, and 57% attended PT. Among patients with contraindications, 21% used oral NSAIDs compared to 31% without (absolute adjusted difference -0.06 (95% CIs: -0.08, -0.05)), 53% vs 59% used PT (adjusted difference -0.03 (-0.05, -0.01)), while 14% vs. 8% had prescribed dispensed opioids (adjusted difference 0.02 (0.01, 0.03)). Similar results were observed for those with precautions.\n\nCONCLUSIONS: We highlight the need for safer treatment options. People with OA and contraindications/precautions to NSAIDs have a higher risk of opioid use, slightly lower risk of PT use, and continue to be prescribed NSAIDs.",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/39068982/",
+    "pmc_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11563888/",
+    "html_available": true,
+    "html_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11563888/",
+    "title_ru": "Назначение НПВП при противопоказаниях у пациентов с артрозом коленного и тазобедренного суставов: применение опиоидов и физиотерапии",
+    "patient_plain": "",
+    "patient_use": "Если у вас артроз коленного или тазобедренного сустава, сообщите врачу о перенесённых желудочно-кишечных кровотечениях, ишемической болезни сердца и других известных противопоказаниях или ограничениях к НПВП. Уточните, соответствует ли выбранное обезболивание вашему состоянию и можно ли дополнить его физиотерапией, поскольку в исследовании пациенты с ограничениями к НПВП несколько реже получали такую помощь и чаще использовали опиоиды. Не начинайте и не отменяйте назначенные препараты самостоятельно: обсудите с врачом возможные риски и альтернативы, особенно если НПВП вам ранее противопоказали.",
+    "practical_use": "При первичном обращении по поводу ОА коленного или тазобедренного сустава врачу важно документировать противопоказания и предостережения к пероральным НПВП, уделяя особое внимание желудочно-кишечным кровотечениям и ишемической болезни сердца. При пересмотре обезболивания следует проверять фактическое использование НПВП и опиоидов, а также выяснять, началась ли физиотерапия, вместо того чтобы оценивать лечение только по выписанным рецептам. Данные подчёркивают необходимость индивидуальной оценки риска нежелательных реакций и обсуждения доступных немедикаментозных вариантов, не предполагая, что наблюдаемые различия доказывают причинную связь.",
+    "summary": "Исследование оценивало, как лечат боль у взрослых с впервые диагностированным остеоартрозом (ОА) коленного или тазобедренного сустава, если у них есть противопоказания или предостережения к применению нестероидных противовоспалительных препаратов (НПВП). Авторы использовали данные регистров шведского региона Сконе за 2004–2018 годы и проследили назначение рецептурных пероральных НПВП, опиоидов и посещение физиотерапии в течение первого года после постановки диагноза. В исследование вошли 35 173 человека: у 3 257 были как минимум одно противопоказание к НПВП, у 8 351 — как минимум одно предостережение. Около 30% всей группы относились к одной из этих категорий. Самым распространённым противопоказанием было желудочно-кишечное кровотечение, отмеченное у 79% пациентов с противопоказаниями, а самым частым предостережением — ишемическая болезнь сердца, выявленная у 48% пациентов с предостережениями.\n\nВ течение первого года после диагноза пероральные НПВП получали 27% участников, опиоиды — 10%, а физиотерапию посещали 57%. Среди пациентов с противопоказаниями к НПВП 21% продолжали регулярно их применять, по сравнению с 31% пациентов без противопоказаний и предостережений. При этом опиоиды назначались и отпускались по рецепту 14% пациентов с противопоказаниями против 8% пациентов без них, а физиотерапию посещали соответственно 53% и 59%. У пациентов с предостережениями наблюдалась аналогичная закономерность. Среди принимавших НПВП ингибиторы протонной помпы (ИПП), снижающие кислотность желудка, назначались 45% пациентов с противопоказаниями, 39% с предостережениями и 16% без этих факторов. Наружные НПВП использовались менее чем у 3% участников и отдельно не анализировались.\n\nАвторы заключают, что пациенты, которым НПВП противопоказаны или требуют осторожности, всё равно продолжают получать эти препараты, чаще используют опиоиды и несколько реже проходят физиотерапию. Это указывает на недостаток безопасных и эффективных вариантов контроля симптомов ОА. Исследование основано на наблюдательных данных о лечении в обычной практике и показывает связь между противопоказаниями и выбором терапии, но само по себе не доказывает, что именно противопоказания стали причиной назначения опиоидов или более редкого посещения физиотерапии.",
+    "_reason": "Статья имеет практическое значение для ведения ОА, поскольку показывает, что наличие противопоказаний к НПВП не исключает их дальнейшего применения и сопровождается более частым использованием опиоидов. Одновременно пациенты с такими ограничениями немного реже посещают физиотерапию, что подчёркивает необходимость пересматривать весь план контроля симптомов, а не только подбирать обезболивающее.",
+    "why_read": "Статью стоит прочитать врачам, которые лечат пациентов с коксартрозом или гонартрозом, особенно при желудочно-кишечных кровотечениях, ишемической болезни сердца и других ограничениях к НПВП. Она также полезна специалистам по реабилитации, поскольку показывает, что пациенты с повышенными рисками медикаментозного лечения несколько реже получают физиотерапию. Результаты помогают выявлять проблемы реальной практики, но не позволяют определить, какой альтернативный метод лечения наиболее эффективен.",
+    "limitations": [
+      "population-based register data",
+      "within the first year after diagnosis",
+      "confounder-adjusted logistic regression with standardization",
+      "Topical NSAIDs (on prescription) were seldomly used and thus we did not analyse them further (<3% with or without oral NSAIDs, opioids, PT).",
+      "These data highlight the negative impact of the paucity of treatment options for people with OA who are unable to safely use NSAIDs."
+    ],
+    "advice_items": [
+      {
+        "quote": "individuals with contraindications to NSAIDs were still commonly prescribed NSAIDs, despite those contraindications, placing them at risk for NSAID-related adverse events.",
+        "advice": "Перед назначением или продлением пероральных НПВП необходимо повторно проверить противопоказания и актуальные факторы риска нежелательных реакций. Если противопоказание уже известно, следует пересмотреть целесообразность продолжения препарата и обсудить подходящие альтернативы с учётом состояния пациента.",
+        "audience": "врач"
+      },
+      {
+        "quote": "People with OA and contraindications/precautions to NSAIDs have a higher risk of opioid use, slightly lower risk of PT use, and continue to be prescribed NSAIDs.",
+        "advice": "Если вам сообщили, что НПВП противопоказаны или требуют осторожности, обсудите с врачом весь план контроля боли, включая возможность физиотерапии и риски опиоидных препаратов. Сообщайте обо всех принимаемых обезболивающих, чтобы врач мог оценить безопасность их сочетания и необходимость пересмотра лечения.",
+        "audience": "пациент"
+      },
+      {
+        "quote": "More options for effective and safe management of OA symptoms are urgently needed, and greater work is required in narrowing and ultimately closing the evidence-knowledge-practice gap.",
+        "advice": "При планировании помощи пациентам с ОА и ограничениями к НПВП важно не ограничиваться поиском другого обезболивающего, а оценивать возможность комплексного ведения симптомов. Следует обсуждать доступность физиотерапии и регулярно пересматривать эффективность и безопасность выбранной тактики.",
+        "audience": "врач"
+      }
+    ],
+    "importance_stars": 4,
+    "importance_mark": "★★★★☆",
+    "take": "keep"
+  },
+  {
+    "id": 203,
     "pmid": "39254726",
     "source": "PubMed",
     "article": "Management of hip osteoarthritis: harnessing the potential of mesenchymal stem cells-a systematic review.",
@@ -11307,7 +11677,7 @@
     "take": "keep"
   },
   {
-    "id": 198,
+    "id": 204,
     "pmid": "39265924",
     "source": "PubMed",
     "article": "Effectiveness and safety of intra-articular interventions for knee and hip osteoarthritis based on large randomized trials: A systematic review and network meta-analysis.",
@@ -11382,7 +11752,7 @@
     "take": "keep"
   },
   {
-    "id": 199,
+    "id": 205,
     "pmid": "39318357",
     "source": "PubMed",
     "article": "Associations between changes in leg extensor muscle power and physical function after supervised exercise in patients with hip osteoarthritis. Secondary analysis from the hip booster trial.",
@@ -11445,7 +11815,7 @@
     "take": "keep"
   },
   {
-    "id": 200,
+    "id": 206,
     "pmid": "39312909",
     "source": "PubMed",
     "article": "2023 American Academy of Orthopaedic Surgeons Management of Osteoarthritis of the Hip Evidence-Based Clinical Practice Guideline: Case Studies.",
@@ -11484,7 +11854,7 @@
     "take": "skim"
   },
   {
-    "id": 201,
+    "id": 207,
     "pmid": "39331867",
     "source": "PubMed",
     "article": "Systematic narrative review of modalities in physiotherapy for managing pain in hip and knee osteoarthritis: A review.",
@@ -11546,7 +11916,7 @@
     "take": "keep"
   },
   {
-    "id": 202,
+    "id": 208,
     "pmid": "39228051",
     "source": "PubMed",
     "article": "Prognostic Factors and Changes in Pain, Physical Functioning, and Participation in Patients With Hip and/or Knee Osteoarthritis: A Systematic Review.",
@@ -11610,7 +11980,7 @@
     "take": "keep"
   },
   {
-    "id": 203,
+    "id": 209,
     "pmid": "39132922",
     "source": "PubMed",
     "article": "Prefabricated contoured foot orthoses to reduce pain and increase physical activity in people with hip osteoarthritis: A randomised feasibility trial.",
@@ -11678,7 +12048,7 @@
     "take": "keep"
   },
   {
-    "id": 204,
+    "id": 210,
     "pmid": "39507183",
     "source": "PubMed",
     "article": "Autologous Peripheral Blood-Derived Orthobiologics for the Management of Hip Osteoarthritis: A Systematic Review of Current Clinical Evidence.",
@@ -11737,7 +12107,78 @@
     "take": "keep"
   },
   {
-    "id": 205,
+    "id": 211,
+    "pmid": "39458144",
+    "source": "PubMed",
+    "article": "The Presentation, Clinical Diagnosis, Risk Factors, and Management of Rapidly Progressive Hip Osteoarthritis: A Narrative Literature Review.",
+    "authors": [
+      "Oprișan Andrei",
+      "Feier Andrei Marian",
+      "Zuh Sandor-Gyorgy",
+      "Russu Octav Marius",
+      "Pop Tudor Sorin"
+    ],
+    "date": "2024-10-17",
+    "journal": "Journal of clinical medicine",
+    "doi": "10.3390/jcm13206194",
+    "topic": "Коксартроз",
+    "topic_key": "cox",
+    "topic_keys": [
+      "cox"
+    ],
+    "topics": [
+      "Коксартроз"
+    ],
+    "abstract_en": "Rapidly progressive hip osteoarthritis (RPOH) is a rare and severe form of osteoarthritis (OA), marked by the rapid degeneration and destruction of the femoral head, often within months. Despite its unclear etiology, several factors such as subchondral fractures and immune responses have been proposed as possible contributors. This narrative review aims to synthesize current knowledge on the pathogenesis, risk factors, clinical presentation, imaging features, and grading systems of RPOH. Predominantly affecting elderly females, RPOH presents distinctive challenges in both diagnosis and management due to its abrupt onset and severity. Known risk factors include advanced age, female gender, obesity, intra-articular corticosteroids use, and long-term hemodialysis. Clinically, RPOH is characterized by severe pain during active weight-bearing movements, despite patients presenting a normal range of motion during passive examination in the early stages. While several classification systems exist, there is no universal standard, complicating differential diagnosis and clinical approaches. This review emphasizes the necessity for early diagnostic methods utilizing specific biomarkers, rapid differential diagnosis, and targeted, personalized interventions based on individual risk factors.",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/39458144/",
+    "pmc_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11509174/",
+    "html_available": true,
+    "html_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11509174/",
+    "title_ru": "Быстро прогрессирующий коксартроз: симптомы, факторы риска, диагностика и лечение",
+    "patient_plain": "",
+    "patient_use": "Если боль в тазобедренном суставе быстро усиливается и мешает опираться на ногу, не стоит ориентироваться только на сохранность пассивных движений: на ранней стадии она не исключает быстрое разрушение сустава. На приёме полезно сообщить врачу о применении внутрисуставных кортикостероидов, гемодиализе и других обстоятельствах, которые могут влиять на оценку риска. Стоит уточнить, требуется ли ускоренное обследование с визуализацией и исключение других причин разрушения сустава, поскольку при быстром прогрессировании промедление может привести к значительной потере костной ткани и необходимости эндопротезирования.",
+    "practical_use": "Врачам следует учитывать быстро прогрессирующий остеоартроз при несоответствии выраженной боли и функциональных ограничений относительно сохранному пассивному объёму движений, особенно у пожилых пациенток с факторами риска. Оценка должна включать динамику симптомов, анамнез внутрисуставного введения кортикостероидов, наличие ожирения и длительного гемодиализа, а также визуализацию для определения степени разрушения головки бедренной кости и вертлужной впадины. Поскольку единых диагностических критериев и классификационного стандарта нет, необходимо явно фиксировать основания дифференциального диагноза и своевременно обсуждать направление к ортопеду, включая возможность эндопротезирования при выраженном разрушении сустава.",
+    "summary": "Быстро прогрессирующий остеоартроз тазобедренного сустава (RPOH, rapidly progressive hip osteoarthritis) — редкая, тяжёлая форма коксартроза, при которой головка бедренной кости и костная ткань вертлужной впадины могут разрушаться за несколько недель или месяцев. В обзоре отмечается, что заболевание преимущественно встречается у пожилых женщин, часто поражает один сустав и способно привести к внезапной утрате самостоятельности. Введение к обзору указывает, что быстрое прогрессирование выявлялось у 5–20% пациентов в рассматриваемых исследованиях, однако эта оценка не является универсальной частотой заболевания для всех людей с коксартрозом.\n\nК возможным факторам риска относятся пожилой возраст, женский пол, ожирение, применение кортикостероидов внутрь сустава и длительный гемодиализ. Среди предполагаемых механизмов развития обсуждаются субхондральные переломы, остеонекроз, ишемия, лекарственная токсичность и иммунные реакции, опосредованные цитокинами; окончательно установленной причины заболевания нет. Характерный клинический признак — выраженная боль при активных движениях с нагрузкой на ногу, хотя на ранней стадии пассивный объём движений в тазобедренном суставе может оставаться нормальным.\n\nАвторы провели нарративный обзор публикаций из баз PubMed, Scopus и Cochrane, опубликованных до 30 марта 2024 года. Они обобщали сведения о механизмах заболевания, факторах риска, клинических проявлениях, визуализации и системах классификации. Единого общепринятого диагностического стандарта нет, что затрудняет дифференциальную диагностику и выбор тактики лечения. При выраженном разрушении сустава может потребоваться тотальное эндопротезирование тазобедренного сустава. Обзор подчёркивает важность раннего распознавания заболевания, дифференциальной диагностики и индивидуального подхода, но из-за разнообразия дизайнов исследований и критериев оценки не устанавливает универсальную схему лечения.",
+    "_reason": "Обзор важен для практики тем, что описывает редкую форму коксартроза, при которой сустав может разрушиться за недели или месяцы, а привычные признаки ограничения подвижности на ранней стадии могут быть выражены слабо. Конкретные факторы риска и характер сочетания боли с сохранным пассивным движением помогают распознать ситуацию, требующую ускоренной диагностики, хотя обзор не предлагает единого подтверждённого алгоритма лечения.",
+    "why_read": "Материал полезен врачам общей практики, ревматологам, ортопедам и специалистам по реабилитации, которым важно отличать быстро прогрессирующий коксартроз от более типичного течения остеоартроза. Пациентам с быстро нарастающей болью в тазобедренном суставе он помогает понять, почему нельзя откладывать обследование и какие сведения об анамнезе стоит сообщить врачу.",
+    "limitations": [
+      "The etiology of RPOH remains largely enigmatic",
+      "there is no universal standard",
+      "Data were synthesized narratively due to the heterogeneity in study designs and outcome measures."
+    ],
+    "advice_items": [
+      {
+        "quote": "Clinically, RPOH is characterized by severe pain during active weight-bearing movements, despite patients presenting a normal range of motion during passive examination in the early stages.",
+        "advice": "Не исключайте быстро прогрессирующий остеоартроз только потому, что пассивный объём движений пока сохранён. При выраженной боли во время опоры на ногу сопоставьте клиническую картину с динамикой симптомов и результатами визуализации. При подозрении на быстрое разрушение сустава организуйте ускоренную диагностическую оценку.",
+        "audience": "врач"
+      },
+      {
+        "quote": "Known risk factors include advanced age, female gender, obesity, intra-articular corticosteroids use, and long-term hemodialysis.",
+        "advice": "При сборе анамнеза уточняйте возрастные и сопутствующие факторы риска, включая ожирение, длительный гемодиализ и предшествующее внутрисуставное введение кортикостероидов. Эти обстоятельства следует учитывать при интерпретации быстро нарастающей боли и планировании обследования, но сами по себе они не подтверждают диагноз.",
+        "audience": "врач"
+      },
+      {
+        "quote": "This obscure pathogenesis underscores the need for a comprehensive review of the existing literature to better understand the condition's underlying mechanisms.",
+        "advice": "Объясняйте пациенту, что точная причина быстрого разрушения тазобедренного сустава пока не установлена. Не представляйте отдельный предполагаемый механизм, например ишемию, остеонекроз или иммунную реакцию, как доказанную причину конкретного случая. Клинические решения следует основывать на симптомах, результатах обследования и установленной степени повреждения сустава.",
+        "audience": "врач"
+      },
+      {
+        "quote": "This review emphasizes the necessity for early diagnostic methods utilizing specific biomarkers, rapid differential diagnosis, and targeted, personalized interventions based on individual risk factors.",
+        "advice": "При подозрении на быстро прогрессирующий коксартроз своевременно организуйте дифференциальную диагностику и индивидуальную оценку риска. Не трактуйте упоминание биомаркеров как подтверждение существования уже установленного универсального теста: обзор указывает на необходимость развития ранней диагностики, но не задаёт конкретного валидированного набора биомаркеров.",
+        "audience": "врач"
+      },
+      {
+        "quote": "With incidence rates of rapid progression in patients ranging from 5% to 20% [6], there is an urgent need to consolidate the existing knowledge.",
+        "advice": "При обсуждении риска с пациентом поясняйте, что приведённый диапазон относится к данным цитируемых исследований, а не к индивидуальной вероятности быстрого разрушения сустава. Не используйте его как универсальный прогноз без учёта характеристик изученной популяции и критериев, по которым определяли прогрессирование.",
+        "audience": "врач"
+      }
+    ],
+    "importance_stars": 4,
+    "importance_mark": "★★★★☆",
+    "take": "keep"
+  },
+  {
+    "id": 212,
     "pmid": "39569300",
     "source": "PubMed",
     "article": "Efficacy and Safety of Platelet-Rich Plasma (PRP) Intra-articular Injections in Hip Osteoarthritis: A Systematic Review of Randomized Clinical Trials.",
@@ -11795,7 +12236,7 @@
     "take": "keep"
   },
   {
-    "id": 206,
+    "id": 213,
     "pmid": "39482349",
     "source": "PubMed",
     "article": "Intraarticular gold microparticles using hyaluronic acid as the carrier for hip osteoarthritis. A 2-year follow-up pilot study.",
@@ -11859,7 +12300,7 @@
     "take": "keep"
   },
   {
-    "id": 207,
+    "id": 214,
     "pmid": "39545640",
     "source": "PubMed",
     "article": "Polmacoxib 2mg in patients with mild to moderate idiopathic osteoarthritis of hip/knee-a randomized, double-anonymous study.",
@@ -11925,7 +12366,7 @@
     "take": "keep"
   },
   {
-    "id": 208,
+    "id": 215,
     "pmid": "39726491",
     "source": "PubMed",
     "article": "The Impact of Exercise Interventions on Pain, Function, and Quality of Life in Patients With Osteoarthritis: A Systematic Review and Meta-Analysis.",
@@ -11994,7 +12435,7 @@
     "take": "keep"
   },
   {
-    "id": 209,
+    "id": 216,
     "pmid": "39505835",
     "source": "PubMed",
     "article": "In Patients With Painful Hip Osteoarthritis, Is It More Beneficial to Offer Them an Ultrasound-Guided or a Fluoroscopic-Guided Intra-Articular Corticosteroid Injection to Relieve Their Symptoms? A Systematic Review and Network Meta-Analysis.",
@@ -12047,7 +12488,7 @@
     "take": "keep"
   },
   {
-    "id": 210,
+    "id": 217,
     "pmid": "39688823",
     "source": "PubMed",
     "article": "Clinical Response to Joint Infiltration With Bone Marrow Aspirate in Hip Osteoarthritis: A Systematic Review and Single-arm Meta-analysis.",
@@ -12106,7 +12547,7 @@
     "take": "keep"
   },
   {
-    "id": 211,
+    "id": 218,
     "pmid": "39728246",
     "source": "PubMed",
     "article": "Hands-On Versus Hands-Off Treatment of Hip-Related Nonspecific Musculoskeletal Diseases: A Systematic Review.",
@@ -12168,7 +12609,7 @@
     "take": "keep"
   },
   {
-    "id": 212,
+    "id": 219,
     "pmid": "39741687",
     "source": "PubMed",
     "article": "Intra-Articular Platelet-Rich Plasma versus Hyaluronic Acid in the Treatment of Hip Osteoarthritis: A Cross-Sectional Analysis of the Overlapping Systematic Reviews.",
@@ -12240,7 +12681,7 @@
     "take": "keep"
   },
   {
-    "id": 213,
+    "id": 220,
     "pmid": "39635963",
     "source": "PubMed",
     "article": "Comparison of Maitland Passive Joint Mobilization and Self-Rehabilitation on Function, Activity, and Quality of Life in Beninese Patients With Hip Osteoarthritis: A Pragmatic Randomized Trial.",
@@ -12298,7 +12739,7 @@
     "take": "keep"
   },
   {
-    "id": 214,
+    "id": 221,
     "pmid": "39789623",
     "source": "PubMed",
     "article": "Effects of self-monitoring physical activity with wearable activity trackers on perceived joint function and health-related quality of life in people with hip and knee osteoarthritis: a secondary analysis of a cluster-randomised clinical trial.",
@@ -12349,7 +12790,7 @@
     "take": "keep"
   },
   {
-    "id": 215,
+    "id": 222,
     "pmid": "39970463",
     "source": "PubMed",
     "article": "Effectiveness of ultrasound-guided hip injections on pain and functioning in patients with hip osteoarthritis: A systematic review.",
@@ -12409,7 +12850,7 @@
     "take": "keep"
   },
   {
-    "id": 216,
+    "id": 223,
     "pmid": "39970818",
     "source": "PubMed",
     "article": "Minimal important change in the Hip Disability and Osteoarthritis Outcome Score and the European Quality of Life 5 Dimensions in adults with hip osteoarthritis after 12 weeks of exercise.",
@@ -12466,7 +12907,7 @@
     "take": "keep"
   },
   {
-    "id": 217,
+    "id": 224,
     "pmid": "39922217",
     "source": "PubMed",
     "article": "Addition of aerobic physical activity to resistance exercise for hip osteoarthritis (PHOENIX): a randomised comparative effectiveness trial.",
@@ -12531,7 +12972,7 @@
     "take": "keep"
   },
   {
-    "id": 218,
+    "id": 225,
     "pmid": "39931640",
     "source": "PubMed",
     "article": "Investigation of the effects of combined exercises and self-management education, with and without functional exercises, on pain and functional outcomes in patients with avascular necrosis of the femoral head: a protocol for a single-blind, randomised controlled trial with a parallel design and a 4 month follow-up.",
@@ -12575,7 +13016,7 @@
     "take": "skim"
   },
   {
-    "id": 219,
+    "id": 226,
     "pmid": "39966101",
     "source": "PubMed",
     "article": "Degenerative Hip Osteoarthritis in Unilateral Knee Osteoarthritis Patients: A Correlation Analysis.",
@@ -12633,7 +13074,7 @@
     "take": "keep"
   },
   {
-    "id": 220,
+    "id": 227,
     "pmid": "39976796",
     "source": "PubMed",
     "article": "Efficacy and safety of biological products in hip osteoarthritis: a systematic review and meta-analysis of randomized controlled trials.",
@@ -12688,7 +13129,7 @@
     "take": "keep"
   },
   {
-    "id": 221,
+    "id": 228,
     "pmid": "40001000",
     "source": "PubMed",
     "article": "Efficacy and safety of fasinumab in an NSAID-controlled study in patients with pain due to osteoarthritis of the knee or hip.",
@@ -12766,7 +13207,7 @@
     "take": "keep"
   },
   {
-    "id": 222,
+    "id": 229,
     "pmid": "41424957",
     "source": "PubMed",
     "article": "Effectiveness of platelet-rich plasma in pain management of osteoarthritis with developmental dysplasia of the hip: a double-blind, randomized controlled trial.",
@@ -12824,7 +13265,7 @@
     "take": "keep"
   },
   {
-    "id": 223,
+    "id": 230,
     "pmid": "40225053",
     "source": "PubMed",
     "article": "Intra-articular administration of autologous adipose-derived stem cells in hip osteoarthritis: Longitudinal treatment trajectories and prognostic factors.",
@@ -12897,7 +13338,7 @@
     "take": "keep"
   },
   {
-    "id": 224,
+    "id": 231,
     "pmid": "40566421",
     "source": "PubMed",
     "article": "Elderly Hip Osteoarthritis: A Review of Short-Term Pain Relief Through Non-Weight-Bearing Therapies.",
@@ -12956,7 +13397,7 @@
     "take": "keep"
   },
   {
-    "id": 225,
+    "id": 232,
     "pmid": "40486337",
     "source": "PubMed",
     "article": "Effects of Local Vibration and Foam Rolling on Hip Pain and Function in Mild to Moderate Hip Osteoarthritis: A Randomized Controlled Trial.",
@@ -13016,7 +13457,7 @@
     "take": "keep"
   },
   {
-    "id": 226,
+    "id": 233,
     "pmid": "40343507",
     "source": "PubMed",
     "article": "Intra-articular hyaluronic acid injections for hip osteoarthritis: a level I systematic review.",
@@ -13079,7 +13520,7 @@
     "take": "keep"
   },
   {
-    "id": 227,
+    "id": 234,
     "pmid": "40375257",
     "source": "PubMed",
     "article": "Pain management of hip osteoarthritis with corticosteroids vs injection therapies: a systematic review and meta-analysis.",
@@ -13122,7 +13563,7 @@
     "take": "keep"
   },
   {
-    "id": 228,
+    "id": 235,
     "pmid": "40480912",
     "source": "PubMed",
     "article": "Chemical ablation of pericapsular nerve group with 95% ethanol for pain relief and quality of life in patients with hip osteoarthritis: a prospective, double-blinded, randomised, controlled trial.",
@@ -13178,7 +13619,7 @@
     "take": "keep"
   },
   {
-    "id": 229,
+    "id": 236,
     "pmid": "40731752",
     "source": "PubMed",
     "article": "Effects of Non-Immersive Virtual Reality Exercise on Self-Reported Pain and Mechanical Hyperalgesia in Older Adults with Knee and Hip Osteoarthritis: A Secondary Analysis of a Randomized Controlled Trial.",
@@ -13242,7 +13683,7 @@
     "take": "keep"
   },
   {
-    "id": 230,
+    "id": 237,
     "pmid": "40731783",
     "source": "PubMed",
     "article": "Functional Burden and Quality of Life in Hip and Knee Osteoarthritis: A Cross-Sectional Study.",
@@ -13318,7 +13759,7 @@
     "take": "keep"
   },
   {
-    "id": 231,
+    "id": 238,
     "pmid": "40618157",
     "source": "PubMed",
     "article": "The impacts of transcranial direct current stimulation combined with aquatic neuromuscular training on pain, function, kinesiophobia, knee instability, and quality of life in knee osteoarthritis: a double-blind randomized trial.",
@@ -13381,7 +13822,7 @@
     "take": "keep"
   },
   {
-    "id": 232,
+    "id": 239,
     "pmid": "40712915",
     "source": "PubMed",
     "article": "Booster sessions for maintaining the effect of neuromuscular exercise and progressive resistance training in hip osteoarthritis: 12-month follow-up from a multicenter cluster-randomized controlled trial.",
@@ -13445,7 +13886,7 @@
     "take": "keep"
   },
   {
-    "id": 233,
+    "id": 240,
     "pmid": "40753994",
     "source": "PubMed",
     "article": "Clinical and cost-effectiveness of a cycling and education intervention versus usual physiotherapy care for the treatment of hip osteoarthritis in the UK (CLEAT): a pragmatic, randomised, controlled trial.",
@@ -13514,7 +13955,7 @@
     "take": "keep"
   },
   {
-    "id": 234,
+    "id": 241,
     "pmid": "40759020",
     "source": "PubMed",
     "article": "Efficacy of a Very-Low-Calorie Weight Loss Diet Plus Exercise Compared With Exercise Alone on Hip Osteoarthritis Pain : A Randomized Controlled Trial.",
@@ -13576,7 +14017,7 @@
     "take": "keep"
   },
   {
-    "id": 235,
+    "id": 242,
     "pmid": "40858208",
     "source": "PubMed",
     "article": "Comparative Efficacy of Various Exercise Modalities and Doses in Reducing Pain and Improving Function in Older Adults With Knee or Hip Osteoarthritis: A Bayesian Network and Dose-Response Meta-analysis.",
@@ -13636,7 +14077,7 @@
     "take": "keep"
   },
   {
-    "id": 236,
+    "id": 243,
     "pmid": "40963665",
     "source": "PubMed",
     "article": "Optimizing resistance training for pain management in knee and hip osteoarthritis: a pairwise and dose-response meta-analysis.",
@@ -13691,7 +14132,7 @@
     "take": "keep"
   },
   {
-    "id": 237,
+    "id": 244,
     "pmid": "40974584",
     "source": "PubMed",
     "article": "Diagnostic Performance of Ultrasound to Evaluate Mild Hip Osteoarthritis: Comparison With Radiography and MRI.",
@@ -13755,7 +14196,7 @@
     "take": "keep"
   },
   {
-    "id": 238,
+    "id": 245,
     "pmid": "41104353",
     "source": "PubMed",
     "article": "Patient-reported outcomes following radiofrequency ablation of the hip: a retrospective study.",
@@ -13820,7 +14261,7 @@
     "take": "keep"
   },
   {
-    "id": 239,
+    "id": 246,
     "pmid": "41141645",
     "source": "PubMed",
     "article": "Training load and pain response during progressive resistance training in patients with hip osteoarthritis in the PROHIP trial.",
@@ -13884,7 +14325,7 @@
     "take": "keep"
   },
   {
-    "id": 240,
+    "id": 247,
     "pmid": "42368614",
     "source": "PubMed",
     "article": "App-based exercise intervention versus supervised exercise therapy for patients with hip or knee osteoarthritis-the randomised noninferiority DigiOA trial.",
@@ -13945,7 +14386,7 @@
     "take": "keep"
   },
   {
-    "id": 241,
+    "id": 248,
     "pmid": "41124830",
     "source": "PubMed",
     "article": "Optimal modality and dose of exercise for relieving pain in patients with knee or hip osteoarthritis: Bayesian pairwise, network, and dose-response meta-analyses.",
@@ -14007,7 +14448,7 @@
     "take": "keep"
   },
   {
-    "id": 242,
+    "id": 249,
     "pmid": "41323020",
     "source": "PubMed",
     "article": "The Effects of Fasinumab on Peripheral Nerve Function and Ganglion Anatomy: Results From a Randomized, Double-Blind, Placebo-Controlled Study in Patients With Pain Due to Osteoarthritis of the Knee or Hip, and a Series of Nonclinical Studies.",
@@ -14081,7 +14522,7 @@
     "take": "keep"
   },
   {
-    "id": 243,
+    "id": 250,
     "pmid": "41165671",
     "source": "PubMed",
     "article": "Hip Pain and Mobility Deficits-Hip Osteoarthritis: Revision 2025.",
@@ -14128,7 +14569,7 @@
     "take": "keep"
   },
   {
-    "id": 244,
+    "id": 251,
     "pmid": "41337764",
     "source": "PubMed",
     "article": "Comparison of the Efficacy of Conventional Radiofrequency to Intraarticular Steroid Injections for Advanced Hip Osteoarthritis: A Randomized Trial.",
@@ -14183,7 +14624,7 @@
     "take": "keep"
   },
   {
-    "id": 245,
+    "id": 252,
     "pmid": "41376753",
     "source": "PubMed",
     "article": "Outcomes Following Stem Cell-Based Therapies for Hip Osteoarthritis: A Scoping Review.",
@@ -14241,7 +14682,7 @@
     "take": "keep"
   },
   {
-    "id": 246,
+    "id": 253,
     "pmid": "41346985",
     "source": "PubMed",
     "article": "Sleep disturbances and sleep quality among individuals diagnosed with osteoarthritis: a systematic review and meta-analysis.",
@@ -14298,7 +14739,7 @@
     "take": "keep"
   },
   {
-    "id": 247,
+    "id": 254,
     "pmid": "41450485",
     "source": "PubMed",
     "article": "Orthobiologic injections for hip osteoarthritis: A systematic review of clinical outcomes.",
@@ -14357,7 +14798,7 @@
     "take": "keep"
   },
   {
-    "id": 248,
+    "id": 255,
     "pmid": "41550413",
     "source": "PubMed",
     "article": "Prevalence and impact of sleep disorders in osteoarthritis: A systematic review and meta-analysis.",
@@ -14413,7 +14854,7 @@
     "take": "keep"
   },
   {
-    "id": 249,
+    "id": 256,
     "pmid": "41473851",
     "source": "PubMed",
     "article": "Micro-fragmented adipose tissue for the treatment of hip osteoarthritis: A prospective pilot study at 1-year follow-up.",
@@ -14488,7 +14929,7 @@
     "take": "keep"
   },
   {
-    "id": 250,
+    "id": 257,
     "pmid": "42287090",
     "source": "PubMed",
     "article": "Comparison of Clinical Efficiency and Safety Between Intra-Articular Injection of Platelet-Rich Plasma and Hyaluronic Acid for Hip Osteoarthritis: A Systematic Review and Meta-Analysis.",
@@ -14557,7 +14998,7 @@
     "take": "keep"
   },
   {
-    "id": 251,
+    "id": 258,
     "pmid": "41545313",
     "source": "PubMed",
     "article": "A phase III, randomised, double-blind, multi-dose, placebo- and naproxen-controlled study to evaluate the efficacy and safety of fasinumab in patients with pain due to osteoarthritis of the knee or hip.",
@@ -14629,7 +15070,7 @@
     "take": "keep"
   },
   {
-    "id": 252,
+    "id": 259,
     "pmid": "41598681",
     "source": "PubMed",
     "article": "Clinical Outcomes of Intra-Articular Ozone Injections in Hip Osteoarthritis: A Retrospective Study Comparing Different Injection Frequencies.",
@@ -14696,7 +15137,7 @@
     "take": "keep"
   },
   {
-    "id": 253,
+    "id": 260,
     "pmid": "41599942",
     "source": "PubMed",
     "article": "Using Dose-Response Correlation Re-Analyzing to Distinguish Placebo from Standardized Rose-Hip Powder (Lito) in a Clinical Trial on Osteoarthritis Where Data Initially Looked Identical.",
@@ -14750,7 +15191,7 @@
     "take": "keep"
   },
   {
-    "id": 254,
+    "id": 261,
     "pmid": "41618213",
     "source": "PubMed",
     "article": "Investigating the therapeutic impact of platelet-rich plasma on knee, hip, and traumatic osteoarthritis: a meta-analysis and systematic review.",
@@ -14810,7 +15251,7 @@
     "take": "keep"
   },
   {
-    "id": 255,
+    "id": 262,
     "pmid": "41736839",
     "source": "PubMed",
     "article": "Intra-articular hyaluronic acid (viscosupplementation) for osteoarthritis: is it effective?",
@@ -14879,7 +15320,7 @@
     "take": "keep"
   },
   {
-    "id": 256,
+    "id": 263,
     "pmid": "41730219",
     "source": "PubMed",
     "article": "Stable Supportive Footwear for Self-managing Hip Osteoarthritis Pain : A Randomized Clinical Trial.",
@@ -14941,7 +15382,7 @@
     "take": "keep"
   },
   {
-    "id": 257,
+    "id": 264,
     "pmid": "41755803",
     "source": "PubMed",
     "article": "Long-term efficacy of intra-articular viscosupplementation in delaying hip osteoarthritis radiographic progression: a retrospective, non-controlled study from the ANTIAGE registry.",
@@ -15010,7 +15451,7 @@
     "take": "keep"
   },
   {
-    "id": 258,
+    "id": 265,
     "pmid": "41736456",
     "source": "PubMed",
     "article": "Minimal Important Change and Minimal Clinically Important Difference in Pain and Function With Exercise in Hip Osteoarthritis.",
@@ -15076,7 +15517,7 @@
     "take": "keep"
   },
   {
-    "id": 259,
+    "id": 266,
     "pmid": "41706544",
     "source": "PubMed",
     "article": "Moderators of the Effects of Exercise and Manual Therapy for People With Knee and Hip Osteoarthritis: A Secondary Analysis of a Randomized Clinical Trial.",
@@ -15141,7 +15582,7 @@
     "take": "keep"
   },
   {
-    "id": 260,
+    "id": 267,
     "pmid": "42012877",
     "source": "PubMed",
     "article": "Motor imagery and action observation for knee and hip osteoarthritis: systematic review and meta-analysis.",
@@ -15198,7 +15639,7 @@
     "take": "keep"
   },
   {
-    "id": 261,
+    "id": 268,
     "pmid": "42038512",
     "source": "PubMed",
     "article": "Viscosupplementation with High Molecular Weight Hyaluronic Acid for Hip Osteoarthritis: An Updated Systematic Review and Meta-Analysis of Randomized Controlled Trials.",
@@ -15262,7 +15703,7 @@
     "take": "keep"
   },
   {
-    "id": 262,
+    "id": 269,
     "pmid": "42033031",
     "source": "PubMed",
     "article": "Editorial Commentary: When Efficacy is Similar, Risk Should Decide: Why Ketorolac Deserves Priority Over Corticosteroids For Hip Injections.",
@@ -15320,7 +15761,7 @@
     "take": "keep"
   },
   {
-    "id": 263,
+    "id": 270,
     "pmid": "42220332",
     "source": "PubMed",
     "article": "Changes in sleep and clinical outcomes in hip osteoarthritis: A longitudinal secondary analysis of a randomised controlled trial.",
@@ -15379,7 +15820,7 @@
     "take": "keep"
   },
   {
-    "id": 264,
+    "id": 271,
     "pmid": "42255387",
     "source": "PubMed",
     "article": "Combined ultrasound-guided hyaluronic acid injections, high-power laser therapy and physiotherapy improve hip function in osteoarthritis: A randomized controlled trial.",
@@ -15445,7 +15886,7 @@
     "take": "keep"
   },
   {
-    "id": 265,
+    "id": 272,
     "pmid": "42389754",
     "source": "PubMed",
     "article": "Effects of aquatic exercise on pain and physical function in overweight/obese patients with lower limb osteoarthritis: a systematic review and meta-analysis.",
@@ -15507,7 +15948,7 @@
     "take": "keep"
   },
   {
-    "id": 266,
+    "id": 273,
     "pmid": "42373005",
     "source": "PubMed",
     "article": "Effectiveness of a blended care intervention in physiotherapy with exercise and education for patients with hip or knee osteoarthritis (SmArt-E): A multicentre pragmatic randomized controlled trial.",
@@ -15591,7 +16032,7 @@
     "take": "keep"
   },
   {
-    "id": 267,
+    "id": 274,
     "pmid": "42445164",
     "source": "PubMed",
     "article": "Sensorimotor dysfunction and altered pain sensitivity in early hip osteoarthritis: associations with hip proprioception and balance impairment.",
@@ -15648,7 +16089,7 @@
     "take": "keep"
   },
   {
-    "id": 268,
+    "id": 275,
     "pmid": "42381613",
     "source": "PubMed",
     "article": "Early-Stage Symptomatic Hip Osteoarthritis: A Window of Opportunity.",
@@ -15718,7 +16159,7 @@
     "take": "keep"
   },
   {
-    "id": 269,
+    "id": 276,
     "pmid": "42540495",
     "source": "PubMed",
     "article": "Comparison of the efficacy and safety of acetaminophen versus NSAIDs for the treatment of chronic pain in older adults with osteoarthritis of the hip and knee: Findings from the randomized, double-blind, parallel-group, non-inferiority RETHINK study.",
@@ -15800,7 +16241,7 @@
     "take": "keep"
   },
   {
-    "id": 270,
+    "id": 277,
     "pmid": "42436006",
     "source": "PubMed",
     "article": "Signals for mineralization and inflammation are observed following treatment with fasinumab, a specific nerve growth factor inhibitor.",
@@ -15863,7 +16304,7 @@
     "take": "keep"
   },
   {
-    "id": 271,
+    "id": 278,
     "pmid": "42462884",
     "source": "PubMed",
     "article": "Efficacy of Intra-Articular Corticosteroid Injection for Hip Osteoarthritis: A Systematic Review With Meta-Analysis.",
@@ -15927,7 +16368,7 @@
     "take": "keep"
   },
   {
-    "id": 272,
+    "id": 279,
     "pmid": "42486497",
     "source": "PubMed",
     "article": "Exercise for osteoarthritis of the hip.",
@@ -16000,7 +16441,7 @@
     "take": "keep"
   },
   {
-    "id": 273,
+    "id": 280,
     "pmid": "42801267",
     "source": "PubMed",
     "article": "Pain management in osteoarthritis of the hip using percutaneous obturator nerve neuromodulation with pulsed radiofrequency ablation under CT guidance.",
@@ -16068,7 +16509,7 @@
     "take": "keep"
   },
   {
-    "id": 274,
+    "id": 281,
     "pmid": "42803956",
     "source": "PubMed",
     "article": "Systematic evidence analysis of symptom modification in hip osteoarthritis following MSC-based interventions.",
