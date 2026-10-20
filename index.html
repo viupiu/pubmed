@@ -177,8 +177,6 @@ a:hover{text-decoration:underline}
     <div class="chips" id="topicChips"></div>
     <div class="nav-label">Польза пациенту ★</div>
     <div class="chips" id="starChips"></div>
-    <div class="nav-label">Совет</div>
-    <div class="chips" id="audienceChips"></div>
   </aside>
 
   <main class="main">
@@ -320,14 +318,11 @@ function topicTagsHtml(a){
   return `<div class="topic-tags">${keys.map(k=>`<span class="topic-tag">${esc(TOPIC_SHORT[k]||k)}</span>`).join("")}</div>`;
 }
 
-const AUDIENCE_ORDER = ["врач", "пациент"];
-
 let articles = [];
 let activeView = "all";
 let activeTopic = [];
 let activeYear = ["2026"];
 let activeStars = [];
-let activeAudience = [];
 let searchQuery = "";
 let currentId = null;
 let pageIndex = 0;
@@ -350,15 +345,6 @@ function articleYear(a){
   return /^\d{4}$/.test(y)?y:"";
 }
 function hasAdvice(a){return Array.isArray(a.advice_items)&&a.advice_items.some(it=>it&&(it.quote||it.advice))}
-function adviceAudiences(a){
-  const set=new Set();
-  (a.advice_items||[]).forEach(it=>{
-    if(!it||!(it.quote||it.advice))return;
-    const aud=String(it.audience||"").trim();
-    if(aud)set.add(aud);
-  });
-  return set;
-}
 function nonemptyList(value){
   if(Array.isArray(value))return value.map(v=>String(v||"").trim()).filter(Boolean);
   const s=String(value||"").trim();
@@ -387,16 +373,12 @@ function matchesFilters(a, skip){
   }
   if(skip!=="year" && activeYear.length && !activeYear.includes(articleYear(a)))return false;
   if(skip!=="stars" && activeStars.length && !activeStars.includes(String(a.importance_stars??"")))return false;
-  if(skip!=="audience" && activeAudience.length){
-    const auds=adviceAudiences(a);
-    if(!activeAudience.some(r=>auds.has(r)))return false;
-  }
   if(searchQuery && !matchesSearch(a,searchQuery))return false;
   return true;
 }
 function baseFiltered(){return articles.filter(a=>matchesFilters(a,null))}
 function isDefaultFilters(){
-  return activeView==="all" && !searchQuery && !activeTopic.length && !activeAudience.length
+  return activeView==="all" && !searchQuery && !activeTopic.length
     && activeYear.length===1 && activeYear[0]==="2026"
     && !activeStars.length;
 }
@@ -405,7 +387,6 @@ function resetFilters(){
   activeTopic=[];
   activeYear=["2026"];
   activeStars=[];
-  activeAudience=[];
   searchQuery="";
   pageIndex=0;
   const search=document.getElementById("search");
@@ -418,7 +399,6 @@ function showFullCatalog(){
   activeTopic=[];
   activeYear=[];
   activeStars=[];
-  activeAudience=[];
   searchQuery="";
   pageIndex=0;
   const search=document.getElementById("search");
@@ -453,20 +433,6 @@ function countBy(field, skip){
   });
   return Object.entries(result);
 }
-function countByAudience(){
-  const result={};
-  AUDIENCE_ORDER.forEach(r=>{result[r]=0});
-  articles.forEach(a=>{
-    if(!matchesFilters(a,"audience"))return;
-    adviceAudiences(a).forEach(r=>{
-      if(r in result)result[r]+=1;
-      else result[r]=(result[r]||0)+1;
-    });
-  });
-  const ordered=AUDIENCE_ORDER.map(r=>[r,result[r]||0]);
-  const extra=Object.entries(result).filter(([r])=>!AUDIENCE_ORDER.includes(r));
-  return ordered.concat(extra);
-}
 function buildChips(containerId,entries,activeValues,attr,labeler=v=>v,keepZero=false){
   const el=document.getElementById(containerId);
   const selected=new Set((activeValues||[]).map(String));
@@ -489,7 +455,6 @@ function onChipClick(e){
   }
   else if(attr==="year")toggleFilter(activeYear,v);
   else if(attr==="stars")toggleFilter(activeStars,v);
-  else if(attr==="audience")toggleFilter(activeAudience,v);
   pageIndex=0;
   buildSidebar();render();
 }
@@ -501,7 +466,6 @@ function buildSidebar(){
   const topicEntries=[...topicSet].map(k=>[k,topicCounts.get(k)||0]).sort((a,b)=>b[1]-a[1]||(TOPIC_SHORT[a[0]]||a[0]).localeCompare(TOPIC_SHORT[b[0]]||b[0],"ru"));
   buildChips("topicChips",topicEntries,activeTopic,"topic",v=>TOPIC_SHORT[v]||v,true);
   buildChips("starChips",countBy("importance_stars","stars").sort((a,b)=>Number(b[0])-Number(a[0])),activeStars,"stars",v=>`${Number(v)}★`);
-  buildChips("audienceChips",countByAudience(),activeAudience,"audience",audienceLabel);
   document.querySelectorAll(".nav-btn[data-filter]").forEach(btn=>{
     btn.classList.toggle("active",btn.dataset.filter===activeView);
     btn.onclick=()=>{
@@ -543,13 +507,11 @@ function activeFilterLabels(){
   activeTopic.forEach(t=>values.push(TOPIC_SHORT[t]||t));
   activeYear.slice().sort((a,b)=>b.localeCompare(a)).forEach(y=>values.push(y));
   activeStars.slice().sort((a,b)=>Number(b)-Number(a)).forEach(s=>values.push(`${Number(s)}★`));
-  AUDIENCE_ORDER.filter(r=>activeAudience.includes(r)).forEach(r=>values.push(audienceLabel(r)));
-  activeAudience.filter(r=>!AUDIENCE_ORDER.includes(r)).forEach(r=>values.push(audienceLabel(r)));
   return values;
 }
 function updateHero(list){
   const catalogYears=new Set(articles.map(articleYear).filter(Boolean));
-  const filtered=!!(searchQuery || activeTopic.length || activeYear.length || activeStars.length || activeAudience.length);
+  const filtered=!!(searchQuery || activeTopic.length || activeYear.length || activeStars.length);
   document.getElementById("statShown").textContent=list.length;
   document.getElementById("statShown").closest(".stat").querySelector(".lbl").textContent=filtered?"сейчас на экране (фильтр)":"сейчас на экране";
   document.getElementById("statCatalog").textContent=articles.length;
@@ -589,36 +551,17 @@ function render(){
 function renderTags(values){
   return nonemptyList(values).map(v=>`<span class="tag">${esc(v)}</span>`).join("");
 }
-function audienceLabel(v){
-  if(v==="врач")return"Для врача";
-  if(v==="пациент")return"Для пациента";
-  return v||"Для читателя";
-}
 function renderAdvice(items){
   const list=Array.isArray(items)?items.filter(it=>it&&(it.quote||it.advice)):[];
   const sec=document.getElementById("panelAdviceSection");
   const box=document.getElementById("panelAdvice");
   if(!list.length){sec.hidden=true;box.innerHTML="";return}
   sec.hidden=false;
-  const groups=new Map();
-  list.forEach(it=>{
-    const key=String(it.audience||"").trim()||"__team__";
-    if(!groups.has(key))groups.set(key,[]);
-    groups.get(key).push(it);
-  });
-  const keys=[
-    ...AUDIENCE_ORDER.filter(r=>groups.has(r)),
-    ...[...groups.keys()].filter(k=>!AUDIENCE_ORDER.includes(k))
-  ];
-  box.innerHTML=keys.map(key=>{
-    const title=key==="__team__"?"Для команды":audienceLabel(key);
-    const cards=groups.get(key).map(it=>`<article class="advice-card">
+  box.innerHTML=list.map(it=>`<article class="advice-card">
       ${it.quote?`<div class="advice-kicker">Цитата — как в тексте статьи</div><blockquote>${esc(it.quote)}</blockquote>`:""}
       <div class="advice-kicker">Совет</div>
       <div class="advice-text">${esc(it.advice||"")}</div>
     </article>`).join("");
-    return `<div class="advice-group"><div class="advice-group-title">${esc(title)}</div>${cards}</div>`;
-  }).join("");
 }
 function renderAttack(items){
   const list=Array.isArray(items)?items.filter(it=>it&&(it.method||it.check)):[];
