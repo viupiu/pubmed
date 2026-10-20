@@ -380,63 +380,6 @@
     "id": 6
   },
   {
-    "pmid": "42701670",
-    "source": "PubMed",
-    "article": "Pain in the heart, hair on the head: Pericarditis as an unanticipated risk of low-dose oral minoxidil.",
-    "authors": [
-      "Zappi Isabella",
-      "Spindler Archie",
-      "Maas Derek",
-      "Yaghoobzadeh Hooman",
-      "Lo Sicco Kristen I",
-      "Shapiro Jerry"
-    ],
-    "date": "2026-08-04",
-    "journal": "JAAD case reports",
-    "doi": "10.1016/j.jdcr.2026.07.056",
-    "topic": "АГА",
-    "topic_key": "aga",
-    "topic_keys": [
-      "aga"
-    ],
-    "topics": [
-      "АГА"
-    ],
-    "abstract_en": "",
-    "article_link": "https://pubmed.ncbi.nlm.nih.gov/42701670/",
-    "pmc_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13545680/",
-    "html_available": true,
-    "html_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13545680/",
-    "title_ru": "Перикардит после возобновления приёма низких доз миноксидила при андрогенетической алопеции",
-    "patient_plain": "В статье описан случай воспаления оболочки сердца — перикардита — после возобновления приёма миноксидила внутрь для лечения выпадения волос. Авторы также рассмотрели два ранее опубликованных случая, в которых перикардит или скопление жидкости вокруг сердца развились на фоне приёма 2,5 или 5 мг миноксидила в день. Во всех трёх случаях симптомы исчезли после отмены препарата. Авторы подчёркивают, что такое осложнение встречается крайне редко, но может возникнуть даже у молодых людей без известных заболеваний сердца или почек.",
-    "patient_use": "При обсуждении перорального миноксидила важно сообщить врачу о прежнем перикардите, заболеваниях сердца и почек, а также о любых перерывах в приёме препарата. Переносимость миноксидила в прошлом не гарантирует отсутствия осложнений после возобновления лечения. При появлении боли в груди, одышки или других новых сердечно-сосудистых симптомов необходимо срочно обратиться за медицинской помощью и сообщить о приёме миноксидила. Самостоятельно возобновлять препарат после перерыва без согласования с врачом не следует.",
-    "practical_use": "При назначении или возобновлении низких доз перорального миноксидила следует учитывать возможность редких, но серьёзных сердечно-сосудистых осложнений, включая перикардит и перикардиальный выпот. В описанных случаях симптомы возникали через две недели после начала приёма и через 20 дней после его начала; в основном клиническом случае перикардит был связан по времени с повторным назначением препарата. При подозрении на такое осложнение необходима кардиологическая оценка и дифференциальная диагностика инфекционных и аутоиммунных причин. Авторы подчёркивают важность врачебного наблюдения при возобновлении лечения, особенно при назначении через телемедицинские сервисы с ограниченным последующим контролем.",
-    "summary": "Статья описывает случай вероятно связанного с низкими дозами перорального миноксидила перикардита после возобновления приёма и рассматривает два ранее опубликованных аналогичных случая у мужчин 52 и 53 лет. В предыдущих случаях применялись дозы 2,5 и 5 мг в сутки, а симптомы и выпоты разрешились после отмены препарата. Диагноз в основном случае поддерживался временной связью с повторным назначением и преимущественно отрицательным обследованием на аутоиммунные причины; системная красная волчанка, ревматоидный артрит и вирусная инфекция считались менее вероятными. Данные основаны на отдельных клинических наблюдениях и не позволяют определить частоту осложнения или доказать причинную связь, однако указывают на необходимость учитывать редкий сердечно-сосудистый риск.",
-    "_reason": "Статья полезна тем, что обращает внимание на потенциально серьёзное осложнение препарата, который применяется для лечения выпадения волос и обычно рассматривается как имеющий благоприятный профиль безопасности. Описанные случаи показывают, что перикардит возможен при дозах 2,5–5 мг в сутки и после повторного начала приёма, но не позволяют оценить вероятность этого события или установить факторы риска.",
-    "why_read": "Статья актуальна для дерматологов, назначающих пероральный миноксидил при андрогенетической алопеции, и для пациентов, которые принимают его или собираются возобновить после перерыва. Особенно полезно ознакомиться с ней при обсуждении сердечно-сосудистых симптомов, необходимости врачебного наблюдения и ограничений доказательств безопасности редких осложнений.",
-    "limitations": [
-      "Although exceedingly rare, these reports highlight a potential association between LDOM and pericarditis.",
-      "current studies may be underpowered to detect rare complications such as pericarditis.",
-      "While our patient restarted LDOM at 5 mg without gradual titration—raising questions about whether higher starting doses contribute towards risk—pericarditis has also occurred at a lower dose of 2.5 mg."
-    ],
-    "advice_items": [
-      {
-        "quote": "This case reinforces the importance of dermatologist supervision when resuming LDOM, as pericarditis may develop rapidly and should warrant cardiac evaluation.",
-        "advice": "При возобновлении низких доз перорального миноксидила необходимо обеспечить наблюдение дерматолога. При подозрении на перикардит следует организовать кардиологическое обследование. В статье подчёркивается, что осложнение может развиться быстро.",
-        "audience": "врач"
-      },
-      {
-        "quote": "Clinicians should remain vigilant for pericarditis symptoms and counsel patients regarding the possible rare but serious cardiac complications.",
-        "advice": "До начала или возобновления лечения обсудите с пациентом возможность редких, но серьёзных сердечных осложнений. Объясните, что при появлении боли в груди, одышки или других новых сердечно-сосудистых симптомов требуется срочная медицинская оценка. Не следует представлять отсутствие осложнений при прежнем приёме как гарантию безопасности в дальнейшем.",
-        "audience": "врач"
-      }
-    ],
-    "importance_stars": 4,
-    "importance_mark": "★★★★☆",
-    "take": "keep",
-    "id": 7
-  },
-  {
     "pmid": "42644026",
     "source": "PubMed",
     "article": "Diagnostic Yield and Clinical Impact of Trichoscopy in Alopecia: A Cross-Sectional Study From a Rural Tertiary Care Centre.",
@@ -498,7 +441,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 8
+    "id": 7
   },
   {
     "pmid": "41742379",
@@ -553,7 +496,7 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 9
+    "id": 8
   },
   {
     "pmid": "42631326",
@@ -610,7 +553,7 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 10
+    "id": 9
   },
   {
     "pmid": "42430069",
@@ -682,7 +625,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 11
+    "id": 10
   },
   {
     "pmid": "42325479",
@@ -742,7 +685,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 12
+    "id": 11
   },
   {
     "pmid": "42535115",
@@ -811,7 +754,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 13
+    "id": 12
   },
   {
     "pmid": "42396141",
@@ -877,7 +820,7 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 14
+    "id": 13
   },
   {
     "pmid": "42234621",
@@ -944,7 +887,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 15
+    "id": 14
   },
   {
     "pmid": "42190753",
@@ -1004,7 +947,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 16
+    "id": 15
   },
   {
     "pmid": "42168420",
@@ -1062,7 +1005,7 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 17
+    "id": 16
   },
   {
     "pmid": "42144229",
@@ -1120,7 +1063,7 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 18
+    "id": 17
   },
   {
     "pmid": "42434041",
@@ -1188,7 +1131,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 19
+    "id": 18
   },
   {
     "pmid": "42027180",
@@ -1243,7 +1186,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 20
+    "id": 19
   },
   {
     "pmid": "41954038",
@@ -1310,7 +1253,7 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 21
+    "id": 20
   },
   {
     "pmid": "41887578",
@@ -1368,7 +1311,7 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 22
+    "id": 21
   },
   {
     "pmid": "41823643",
@@ -1413,7 +1356,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 23
+    "id": 22
   },
   {
     "pmid": "41779759",
@@ -1466,7 +1409,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 24
+    "id": 23
   },
   {
     "pmid": "41741964",
@@ -1526,7 +1469,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 25
+    "id": 24
   },
   {
     "pmid": "41066610",
@@ -1599,7 +1542,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 26
+    "id": 25
   },
   {
     "pmid": "41652806",
@@ -1652,7 +1595,7 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 27
+    "id": 26
   },
   {
     "pmid": "41695992",
@@ -1725,7 +1668,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 28
+    "id": 27
   },
   {
     "pmid": "41737285",
@@ -1780,7 +1723,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 29
+    "id": 28
   },
   {
     "pmid": "41650295",
@@ -1840,7 +1783,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 30
+    "id": 29
   },
   {
     "pmid": "41367323",
@@ -1908,7 +1851,7 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 31
+    "id": 30
   },
   {
     "pmid": "41319217",
@@ -1965,7 +1908,7 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 32
+    "id": 31
   },
   {
     "pmid": "41358367",
@@ -2032,7 +1975,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 33
+    "id": 32
   },
   {
     "pmid": "41346555",
@@ -2094,7 +2037,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 34
+    "id": 33
   },
   {
     "pmid": "41409531",
@@ -2155,66 +2098,7 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 35
-  },
-  {
-    "pmid": "41243102",
-    "source": "PubMed",
-    "article": "Male polycystic ovarian syndrome phenotype: a meta-analysis of endocrine-metabolic dysregulation in fathers and brothers of PCOS-affected women.",
-    "authors": [
-      "Jafarabady Kyana",
-      "Mohammadi Ida",
-      "Firouzabadi Shahryar Rajai",
-      "Mohammadifard Fateme",
-      "Soltani Sana Mohammad",
-      "Paksaz Amirreza",
-      "Noroozzadeh Mahsa",
-      "Ramezani Tehrani Fahimeh"
-    ],
-    "date": "2025-11-16",
-    "journal": "Basic and clinical andrology",
-    "doi": "10.1186/s12610-025-00290-1",
-    "topic": "АГА",
-    "topic_key": "aga",
-    "topic_keys": [
-      "aga"
-    ],
-    "topics": [
-      "АГА"
-    ],
-    "abstract_en": "BACKGROUND: Polycystic ovary syndrome (PCOS) is a common endocrine disorder in women with potential familial and genetic components. Emerging evidence suggests that male first-degree relatives (fathers and brothers) may exhibit endocrine and metabolic abnormalities similar to a \"male equivalent\" of PCOS, although the condition remains without clear diagnostic criteria. We conducted a systematic review and meta-analysis to investigate whether male relatives of women with PCOS show consistent patterns of metabolic and hormonal dysregulation.\n\nRESULTS: A total of 21 studies met inclusion criteria, encompassing male first-degree relatives of women with PCOS with available data on metabolic, hormonal, and cardiovascular outcomes. Meta-analysis showed that male relatives had significantly higher fasting blood glucose (MD: 6.25; 95% CI: 1.36-11.14), body mass index (1.18; 0.35-2.02), triglycerides (17.82; 10.82-24.81), total cholesterol (18.63; 6.16-31.10), LDL-cholesterol (12.99; 1.27-24.71), and dehydroepiandrosterone sulfate (1.29; 0.66-1.92) compared with controls. They also exhibited higher prevalence of hypertension (OR: 1.88; 1.18-2.29), waist circumference > 90 cm (3.27; 1.18-9.08), and androgenetic alopecia (1.65; 1.04-2.60). Findings were consistent across studies, with low to moderate heterogeneity and minimal publication bias.\n\nCONCLUSION: Male first-degree relatives of women with PCOS demonstrate increased rates of metabolic abnormalities, hormonal imbalances, and androgenic features, supporting the concept of a male PCOS of equivalent. These findings underscore the familial nature of PCOS and highlight the need for improved diagnostic criteria and higher clinical awareness. Screening male relatives for metabolic and hormonal risk factors may help identify at-risk individuals and inform preventive interventions.\n\nTRIAL REGISTRATION: IR.SBMU.ENDOCRINE.REC.1403.146.",
-    "article_link": "https://pubmed.ncbi.nlm.nih.gov/41243102/",
-    "pmc_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12621411/",
-    "html_available": true,
-    "html_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12621411/",
-    "title_ru": "Андрогенетическая алопеция у отцов и братьев женщин с СПКЯ: связь с гормональными и метаболическими нарушениями",
-    "patient_plain": "Метаанализ 21 исследования показал, что у отцов и братьев женщин с синдромом поликистозных яичников (СПКЯ) чаще встречается андрогенетическая алопеция, а также повышенные показатели массы тела, артериального давления, холестерина и триглицеридов. Вероятность облысения у мужчин из этой группы была примерно в 1,65 раза выше, чем у мужчин контрольных групп. При этом различия в уровне общего тестостерона между группами не достигли статистической значимости.",
-    "patient_use": "Если у мужчины есть близкие родственницы с СПКЯ и наблюдается андрогенетическая алопеция, стоит обсудить с врачом не только состояние волос, но и факторы метаболического риска, включая артериальное давление, массу тела и липидный профиль. Исследование показывает, что выпадение волос в такой семейной ситуации может сочетаться с другими нарушениями здоровья, хотя само по себе облысение не подтверждает наличие метаболических или гормональных проблем. Нормальный уровень тестостерона также не исключает андрогенетическую алопецию.",
-    "practical_use": "При сборе анамнеза у мужчин с андрогенетической алопецией полезно уточнять семейный анамнез СПКЯ и учитывать возможное сочетание выпадения волос с метаболическими факторами риска. В метаанализе у родственников женщин с СПКЯ были выше показатели глюкозы натощак, ИМТ, триглицеридов, общего холестерина, ЛПНП и ДГЭА-С, а также чаще встречалась гипертензия. Эти результаты могут служить основанием для оценки индивидуальных факторов риска и выбора соответствующего обследования, но не позволяют диагностировать отдельный мужской аналог СПКЯ по одному признаку. Статистически значимого различия по распространённости диабета и уровням общего тестостерона между группами не выявлено.",
-    "summary": "Систематический обзор и метаанализ объединил данные 21 исследования отцов и братьев женщин с СПКЯ, сравнивая их метаболические, гормональные и сердечно-сосудистые показатели с показателями контрольных мужчин. Андрогенетическая алопеция встречалась чаще у родственников женщин с СПКЯ (OR 1,65; 95% ДИ 1,04–2,60); также выявлены различия по ИМТ, глюкозе натощак, липидам, ДГЭА-С и распространённости гипертензии. Общий тестостерон и распространённость диабета статистически значимо не различались. Авторы предполагают существование мужского фенотипа, связанного с СПКЯ, однако подчёркивают необходимость крупных качественных исследований для уточнения его признаков и диагностических критериев.",
-    "_reason": "Работа связывает андрогенетическую алопецию не только с особенностями роста волос, но и с семейным анамнезом СПКЯ и потенциальными метаболическими нарушениями. Для практики особенно полезен вывод о возможном сочетании облысения с гипертензией и дислипидемией, однако исследование не устанавливает причинную связь и не предлагает валидированных диагностических критериев мужского аналога СПКЯ.",
-    "why_read": "Статья полезна дерматологам, трихологам и врачам первичного звена, которые обследуют мужчин с андрогенетической алопецией и отягощённым семейным анамнезом по СПКЯ. Её также стоит прочитать пациентам, желающим понять, почему при оценке выпадения волос иногда важно учитывать общее метаболическое здоровье, а не только уровень андрогенов.",
-    "limitations": [
-      "the condition remains without clear diagnostic criteria",
-      "there is a need for large, well-designed studies with strong methods",
-      "no statistically significant differences were identified between first-degree male relatives of women with PCOS and control men"
-    ],
-    "advice_items": [
-      {
-        "quote": "Screening male relatives for metabolic and hormonal risk factors may help identify at-risk individuals and inform preventive interventions.",
-        "advice": "У мужчин, чьи матери или сёстры имеют СПКЯ, при наличии клинических показаний следует оценивать метаболические и гормональные факторы риска. При андрогенетической алопеции стоит учитывать этот семейный анамнез и сопутствующие признаки, но не считать облысение самостоятельным диагностическим критерием мужского аналога СПКЯ.",
-        "audience": "врач"
-      },
-      {
-        "quote": "These findings underscore the familial nature of PCOS and highlight the need for improved diagnostic criteria and higher clinical awareness.",
-        "advice": "При обсуждении результатов с пациентом объясните, что семейная связь СПКЯ с некоторыми гормональными и метаболическими особенностями у мужчин подтверждается совокупностью исследований, но отдельного общепринятого диагноза мужского аналога СПКЯ пока нет. Не следует делать вывод о наличии такого состояния только по выпадению волос или одному лабораторному показателю.",
-        "audience": "врач"
-      }
-    ],
-    "importance_stars": 4,
-    "importance_mark": "★★★★☆",
-    "take": "keep",
-    "id": 36
+    "id": 34
   },
   {
     "pmid": "41219547",
@@ -2272,7 +2156,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 37
+    "id": 35
   },
   {
     "pmid": "41306837",
@@ -2326,7 +2210,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 38
+    "id": 36
   },
   {
     "pmid": "41245990",
@@ -2388,7 +2272,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 39
+    "id": 37
   },
   {
     "pmid": "41118052",
@@ -2448,7 +2332,7 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 40
+    "id": 38
   },
   {
     "pmid": "41044024",
@@ -2508,61 +2392,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 41
-  },
-  {
-    "pmid": "41321551",
-    "source": "PubMed",
-    "article": "Short-Term Topical Minoxidil Use Associated with Acute Central Serous Chorioretinopathy: A Case Report.",
-    "authors": [
-      "Brucker Jacob",
-      "Mihok Brian",
-      "Bloom Jeffrey"
-    ],
-    "date": "2025-09-29",
-    "journal": "Case reports in ophthalmology",
-    "doi": "10.1159/000548230",
-    "topic": "АГА",
-    "topic_key": "aga",
-    "topic_keys": [
-      "aga"
-    ],
-    "topics": [
-      "АГА"
-    ],
-    "abstract_en": "INTRODUCTION: Minoxidil is a topical, over-the-counter, FDA-approved drug used to treat male and female pattern hair loss. Three case reports were published associating long-term use of topical minoxidil to central serous chorioretinopathy (CSCR) after 4, 6, and 8 months of use. In this report, we will present a case of CSCR after 1 week of topical minoxidil use that resolved with discontinuation of medication and observation 6 weeks later.\n\nCASE PRESENTATION: A 34-year-old Hispanic male presented with a 2-week history of central visual loss and flashes in the left eye. His only medication use was 5% topical minoxidil foam for hair loss, which he had started 1 week prior to symptom onset. Ophthalmic exam revealed a round elevation of parafoveal region of the left macula with optical coherence tomography evidence of subretinal fluid and an inferior pigmented epithelial detachment, consistent with CSCR. Given recent initiation of topical minoxidil, we suspected that minoxidil may have induced CSCR. Topical minoxidil was discontinued with recommended observation. There was complete resolution of CSCR at 6-week follow-up.\n\nCONCLUSION: Subacute, unilateral central visual loss in an otherwise healthy 34-year-old male was found to be caused by minoxidil-induced CSCR. The correlation of topical minoxidil use 1 week prior to symptom onset with resolution of findings 6 weeks after discontinuing the medication suggests CSCR as a side effect of topical minoxidil. This case report suggests that short-term use of topical minoxidil, as short as 1 week, can induce CSCR. Our case shows that minoxidil-induced CSCR can be managed with medication discontinuation and observation.",
-    "article_link": "https://pubmed.ncbi.nlm.nih.gov/41321551/",
-    "pmc_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12659399/",
-    "html_available": true,
-    "html_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12659399/",
-    "title_ru": "Острая центральная серозная хориоретинопатия после недели применения наружного миноксидила: клинический случай",
-    "patient_plain": "В статье описан случай 34-летнего мужчины, у которого после начала применения пены миноксидила 5% для роста волос возникло нарушение центрального зрения на левый глаз и появились вспышки света. Обследование выявило центральную серозную хориоретинопатию — состояние, при котором жидкость скапливается под сетчаткой. После отмены миноксидила и наблюдения изменения полностью исчезли через 6 недель.",
-    "patient_use": "При использовании миноксидила важно не игнорировать внезапное появление тёмного пятна в центре зрения, снижение зрения или вспышки света: такие симптомы требуют срочного осмотра офтальмолога. Врач должен знать о применении миноксидила, даже если препарат наносится только на кожу головы и используется недавно. Этот случай показывает, что редкое осложнение может возникнуть уже в течение первой недели, однако по одному наблюдению нельзя определить вероятность такого риска для других людей.",
-    "practical_use": "При внезапном монокулярном снижении центрального зрения у пациента, применяющего миноксидил, следует учитывать центральную серозную хориоретинопатию среди возможных причин и уточнять время начала использования препарата. В описанном случае миноксидил отменили, а состояние наблюдали до полного разрешения изменений через 6 недель. Важно учитывать ограниченность доказательств: диагноз не подтверждали дополнительными методами визуализации, а причинная связь основана на временной последовательности событий и улучшении после отмены препарата.",
-    "summary": "Авторы описали 34-летнего мужчину, применявшего пену миноксидила 5% в течение недели до появления центрального нарушения зрения на левый глаз. Оптическая когерентная томография выявила субретинальную жидкость и отслойку пигментного эпителия, соответствующие центральной серозной хориоретинопатии; после отмены препарата изменения полностью разрешились за 6 недель наблюдения. Случай расширяет сведения о возможных сроках возникновения этого редкого офтальмологического нежелательного явления, ранее описанного преимущественно после 4–8 месяцев применения. Ограничения включают единичный случай и отсутствие дополнительных методов визуализации для более уверенного подтверждения диагноза.",
-    "_reason": "Статья важна для безопасности лечения андрогенетической алопеции, поскольку описывает потенциально серьёзное офтальмологическое осложнение наружного миноксидила, возникшее уже через неделю применения. Она помогает распознавать тревожные симптомы, но не позволяет оценить частоту осложнения или доказать причинную связь на уровне клинического исследования.",
-    "why_read": "Материал стоит прочитать дерматологам и врачам, назначающим миноксидил, чтобы учитывать редкие зрительные осложнения и информировать пациентов о необходимости срочного обращения при внезапных изменениях зрения. Пациентам, использующим миноксидил, он полезен для понимания того, какие симптомы нельзя списывать на обычные реакции кожи головы.",
-    "limitations": [
-      "Three case reports were published associating long-term use of topical minoxidil to central serous chorioretinopathy (CSCR) after 4, 6, and 8 months of use.",
-      "Shortcomings of this case report were lack of multiple imaging modalities to confirm diagnosis of CSCR.",
-      "Further research is needed to identify the rate of minoxidil-induced CSCR"
-    ],
-    "advice_items": [
-      {
-        "quote": "Topical minoxidil was discontinued with recommended observation.",
-        "advice": "В описанном случае после выявления центральной серозной хориоретинопатии наружный миноксидил отменили и наблюдали пациента до разрешения изменений. При подозрении на подобное осложнение необходимо срочно оценить состояние сетчатки и совместно с лечащим врачом решить вопрос о прекращении применения препарата. Это описание конкретного клинического случая, а не универсальная схема лечения.",
-        "audience": "врач"
-      },
-      {
-        "quote": "Further research is needed to identify the rate of minoxidil-induced CSCR to properly educate the public and other healthcare providers on risks of taking this over-the-counter medication.",
-        "advice": "При консультировании пациентов следует объяснять, что редкие офтальмологические осложнения наружного миноксидила описаны, но их частота неизвестна. Не следует представлять единичный случай как доказательство того, что осложнение часто возникает или обязательно повторится у других пользователей. При внезапном ухудшении зрения пациенту следует без промедления обратиться за офтальмологической помощью.",
-        "audience": "врач"
-      }
-    ],
-    "importance_stars": 4,
-    "importance_mark": "★★★★☆",
-    "take": "keep",
-    "id": 42
+    "id": 39
   },
   {
     "pmid": "41164048",
@@ -2628,7 +2458,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 43
+    "id": 40
   },
   {
     "pmid": "41001165",
@@ -2681,7 +2511,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 44
+    "id": 41
   },
   {
     "pmid": "40986632",
@@ -2752,7 +2582,7 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 45
+    "id": 42
   },
   {
     "pmid": "40978669",
@@ -2811,7 +2641,7 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 46
+    "id": 43
   },
   {
     "pmid": "41041440",
@@ -2871,7 +2701,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 47
+    "id": 44
   },
   {
     "pmid": "40900274",
@@ -2937,7 +2767,7 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 48
+    "id": 45
   },
   {
     "pmid": "40960112",
@@ -2997,64 +2827,7 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 49
-  },
-  {
-    "pmid": "40887887",
-    "source": "PubMed",
-    "article": "Who Tells the Story of the Treatment of Androgenetic Alopecia?-A Bibliometric Analysis From 2003 to 2023.",
-    "authors": [
-      "Sun Yulin",
-      "Lu Mingyang",
-      "Gao Xuejun",
-      "Liu Yutong",
-      "Ren Jizhen",
-      "Wang Yanjin",
-      "Cai Xia"
-    ],
-    "date": "2025-09-01",
-    "journal": "Journal of cosmetic dermatology",
-    "doi": "10.1111/jocd.70370",
-    "topic": "АГА",
-    "topic_key": "aga",
-    "topic_keys": [
-      "aga"
-    ],
-    "topics": [
-      "АГА"
-    ],
-    "abstract_en": "BACKGROUND: Androgenetic alopecia (AGA) is a common form of nonscarring hair loss that affects both men and women, significantly influencing psychological well-being and quality of life. Although AGA accounts for over 90% of male hair loss, there has been limited bibliometric analysis to guide the direction of research and the development of treatments.\n\nMETHODS: A thorough literature search was performed using the Web of Science database, resulting in the identification of 2203 articles on AGA treatment published between 2003 and 2023. The search was restricted to English-language peer-reviewed publications. Bibliometric analysis was conducted to assess research trends, publication growth, and key contributors in AGA treatment research.\n\nRESULTS: The United States and China emerged as the leading contributors, with major institutions such as the Mayo Clinic and Harvard Medical School making significant contributions. The research focus has shifted from traditional drug therapies to innovative treatments, such as platelet-rich plasma (PRP), and anti-androgen therapy. Key research areas included anti-androgen treatments, PRP, and microneedling, whereas emerging trends pointed to stem cell therapy and gene therapy as future directions.\n\nCONCLUSION: The bibliometric analysis of AGA treatment research demonstrates an increasing interest in novel therapies and a transition towards more personalized and effective treatment approaches. These findings provide valuable insights into the development of AGA research and underscore areas in need of further exploration, offering a strategic guide for future research and clinical practice enhancements.",
-    "article_link": "https://pubmed.ncbi.nlm.nih.gov/40887887/",
-    "pmc_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12399918/",
-    "html_available": true,
-    "html_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12399918/",
-    "title_ru": "Как менялись исследования лечения андрогенетической алопеции в 2003–2023 годах: библиометрический анализ",
-    "patient_plain": "Авторы проанализировали 2203 научные публикации о лечении андрогенетической алопеции, вышедшие в 2003–2023 годах. Исследовательский интерес постепенно смещался от традиционной медикаментозной терапии к таким направлениям, как обогащённая тромбоцитами плазма (PRP), антиандрогенная терапия и микронидлинг. Терапия стволовыми клетками и генная терапия обозначены как перспективные направления дальнейших исследований, но этот обзор не доказывает их клиническую эффективность.",
-    "patient_use": "Статья помогает понять, какие подходы к лечению выпадения волос активно изучаются и какие направления пока остаются перспективными, а не доказанными решениями. При обсуждении лечения с врачом полезно уточнить, насколько выбранный метод подтверждён клиническими исследованиями и как его эффективность и безопасность сравниваются с традиционной терапией. Сам по себе рост числа публикаций не означает, что новый метод эффективнее или безопаснее существующих.",
-    "practical_use": "Врач может использовать обзор для ориентации в исследовательских тенденциях при андрогенетической алопеции и обсуждении с пациентами традиционных и новых методов лечения. PRP, антиандрогенную терапию и микронидлинг следует рассматривать как отдельные направления исследований, не приравнивая частоту их упоминания к доказанной эффективности. Стволовые клетки и генная терапия обозначены как перспективы будущих исследований, а не как подтверждённая данным анализом замена существующим методам.",
-    "summary": "Библиометрический анализ охватил 2203 англоязычные рецензируемые публикации о лечении андрогенетической алопеции из базы Web of Science за 2003–2023 годы. США лидировали по количеству публикаций, однако со временем исследовательская активность смещалась в сторону Китая; среди основных направлений были антиандрогенная терапия, PRP и микронидлинг. Авторы отмечают растущий интерес к персонализированному лечению, терапии стволовыми клетками и генной терапии. Анализ отражает структуру и динамику научной литературы, но не сравнивает клиническую эффективность отдельных методов лечения.",
-    "_reason": "Обзор полезен как карта исследовательских направлений в лечении андрогенетической алопеции и помогает отделять активно изучаемые методы от перспективных разработок. Его практическая ценность ограничена тем, что библиометрические показатели не позволяют определить, какой метод лучше подходит конкретному пациенту.",
-    "why_read": "Статья будет полезна дерматологам и трихологам, которым нужно ориентироваться в развитии исследований лечения андрогенетической алопеции, а также пациентам, интересующимся новыми методами. Особенно актуально прочитать её перед обсуждением PRP, микронидлинга или экспериментальных подходов с врачом, чтобы понимать разницу между научным интересом и доказанной клинической пользой.",
-    "limitations": [
-      "The search was restricted to English-language peer-reviewed publications.",
-      "the use of generic abbreviations in the search strategy may have led to a small number of cross-disciplinary records being included"
-    ],
-    "advice_items": [
-      {
-        "quote": "The research focus has shifted from traditional drug therapies to innovative treatments, such as platelet-rich plasma (PRP), and anti-androgen therapy.",
-        "advice": "При обсуждении вариантов лечения уточните, какие данные об эффективности и безопасности существуют для каждого рассматриваемого метода. Не следует выбирать терапию только потому, что она относится к новым или активно изучаемым направлениям: библиометрический анализ не устанавливает превосходство одного подхода над другим.",
-        "audience": "врач"
-      },
-      {
-        "quote": "These findings provide valuable insights into the development of AGA research and underscore areas in need of further exploration, offering a strategic guide for future research and clinical practice enhancements.",
-        "advice": "Используйте обзор для определения направлений, по которым стоит искать дополнительные клинические данные, а не как самостоятельное основание для назначения лечения. При выборе терапии необходимо отдельно оценивать результаты клинических исследований конкретного метода, его безопасность и применимость к ситуации пациента.",
-        "audience": "врач"
-      }
-    ],
-    "importance_stars": 4,
-    "importance_mark": "★★★★☆",
-    "take": "skim",
-    "id": 50
+    "id": 46
   },
   {
     "pmid": "41048335",
@@ -3114,7 +2887,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 51
+    "id": 47
   },
   {
     "pmid": "41048334",
@@ -3181,7 +2954,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 52
+    "id": 48
   },
   {
     "pmid": "40826200",
@@ -3243,7 +3016,7 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 53
+    "id": 49
   },
   {
     "pmid": "40951222",
@@ -3299,7 +3072,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 54
+    "id": 50
   },
   {
     "pmid": "40918047",
@@ -3359,142 +3132,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 55
-  },
-  {
-    "pmid": "40770824",
-    "source": "PubMed",
-    "article": "Effects of photobiomodulation on multiple health outcomes: an umbrella review of randomized clinical trials.",
-    "authors": [
-      "Son Yejun",
-      "Lee Hyeri",
-      "Yu Seungyeong",
-      "Kim Hyeon Jin",
-      "Park Jaeyu",
-      "Woo Selin",
-      "Lee Hayeon",
-      "Fond Guillaume",
-      "Boyer Laurent",
-      "Rahmati Masoud",
-      "Smith Lee",
-      "López Sánchez Guillermo F",
-      "Dragioti Elena",
-      "Kang Jiseung",
-      "Kim Tae",
-      "Yon Dong Keon"
-    ],
-    "date": "2025-08-06",
-    "journal": "Systematic reviews",
-    "doi": "10.1186/s13643-025-02902-3",
-    "topic": "АГА",
-    "topic_key": "aga",
-    "topic_keys": [
-      "aga"
-    ],
-    "topics": [
-      "АГА"
-    ],
-    "abstract_en": "BACKGROUND: Photobiomodulation (PBM) is a non-invasive therapy increasingly used for pain, inflammation, and tissue repair, yet a comprehensive synthesis of its effectiveness across multiple health outcomes remains lacking. Herein, we aimed to systematically assess the clinical effects and strength of evidence for PBM across a wide range of health outcomes using data from existing meta-analyses of randomized controlled trials (RCTs).\n\nMETHODS: We conducted an umbrella review of meta-analyses of RCTs, searching five databases up to December 8, 2023. Two reviewers independently assessed methodological quality using AMSTAR 2 and evaluated certainty of evidence using a modified GRADE framework. Pooled effect sizes were recalculated as equivalent standardized mean differences (eSMD) with 95% confidence intervals (CI). The study was registered with PROSPERO (CRD42023495502).\n\nRESULTS: A total of 15 meta-analyses encompassing 204 RCTs and over 9000 participants were included, covering 35 health endpoints across 15 disease conditions. PBM showed significant effects for 12 outcomes, with moderate certainty of evidence supporting improvements in burning mouth syndrome (pain reduction, eSMD - 0.92 [95% CI - 1.38 to - 0.46]), knee osteoarthritis (disability, 0.65 [0.14 to 1.15]), fibromyalgia (fatigue, 1.25 [0.63 to 1.87]), androgenetic alopecia (hair density, 1.32 [1.00 to 1.63]), and cognitive function (0.49 [0.14 to 0.84]). Most other outcomes exhibited low or very low certainty due to heterogeneity or small-study effects. P-curve and funnel plot analyses indicated evidential value for several outcomes, though potential publication bias was identified in some.\n\nCONCLUSIONS: PBM appeared beneficial for some health conditions, such as the strongest support for fibromyalgia, osteoarthritis-related disability, and cognitive impairment. However, given the overall low-to-moderate certainty of evidence for most endpoints, further high-quality trials and standardization of PBM protocols are warranted before widespread clinical adoption.",
-    "article_link": "https://pubmed.ncbi.nlm.nih.gov/40770824/",
-    "pmc_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12326686/",
-    "html_available": true,
-    "html_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12326686/",
-    "title_ru": "Фотобиомодуляция при разных заболеваниях: обзор метаанализов рандомизированных исследований, включая влияние на густоту волос при андрогенетической алопеции",
-    "patient_plain": "В этом обзоре объединили результаты 15 метаанализов, включавших 204 рандомизированных исследования и более 9000 участников, чтобы оценить эффективность фотобиомодуляции — воздействия светом на ткани с лечебной целью. При андрогенетической алопеции обнаружено увеличение плотности волос, причём достоверность доказательств оценена как умеренная. Однако ни для одного из изученных исходов не получено доказательств высокой достоверности.",
-    "patient_use": "Фотобиомодуляция может рассматриваться как дополнительный вариант воздействия при андрогенетической алопеции, но результаты обзора не гарантируют восстановления волос у конкретного человека. Перед выбором светового устройства или процедуры стоит обсудить с врачом качество доказательств, ожидаемую пользу и то, насколько изученный протокол соответствует предлагаемому лечению. Важно учитывать, что авторы подчёркивают необходимость дальнейших исследований и стандартизации процедур.",
-    "practical_use": "При обсуждении фотобиомодуляции как дополнительного метода лечения андрогенетической алопеции следует учитывать положительный результат по плотности волос при умеренной достоверности доказательств. Обзор объединяет метаанализы рандомизированных исследований, но не устанавливает единого оптимального протокола фотобиомодуляции и не подтверждает высокую достоверность эффекта. При консультировании пациента необходимо отделять наличие статистически значимого результата от уверенности в его воспроизводимости и применимости к конкретному устройству или режиму воздействия.",
-    "summary": "Авторы провели обзор метаанализов рандомизированных контролируемых исследований фотобиомодуляции, включив 15 метаанализов, 204 первичных исследования и более 9000 участников. Для андрогенетической алопеции выявлен положительный эффект в отношении плотности волос: стандартизированный размер эффекта составил 1,32 при 95% доверительном интервале от 1,00 до 1,63; достоверность доказательств оценена как умеренная. В целом для изученных исходов достоверность варьировала от очень низкой до умеренной, а ни один исход не имел доказательств высокой достоверности. Авторы считают необходимыми более качественные крупные исследования и стандартизацию протоколов фотобиомодуляции.",
-    "_reason": "Обзор поддерживает потенциальную пользу фотобиомодуляции для увеличения плотности волос при андрогенетической алопеции, но не позволяет считать метод окончательно подтверждённым. Для практики особенно важны умеренная достоверность доказательств и отсутствие единого стандартизированного протокола.",
-    "why_read": "Статья полезна дерматологам и трихологам, которые обсуждают с пациентами световые методы лечения андрогенетической алопеции. Пациентам она поможет понять, почему положительные результаты исследований ещё не означают гарантированного эффекта от любого устройства для фотобиомодуляции.",
-    "limitations": [
-      "the certainty of evidence, as assessed using a modified GRADE framework, ranged from very low to moderate",
-      "with no outcomes supported by high-certainty evidence",
-      "Most other outcomes exhibited low or very low certainty due to heterogeneity or small-study effects",
-      "potential publication bias was identified in some",
-      "further large-scale, high-quality trials with standardized protocols are warranted"
-    ],
-    "advice_items": [
-      {
-        "quote": "PBM yielded moderate-certainty evidence for selected outcomes such as pain reduction in burning mouth syndrome, disability improvement in knee osteoarthritis, fatigue reduction in fibromyalgia, hair density increase in androgenetic alopecia, and cognitive improvement in older adults.",
-        "advice": "При обсуждении фотобиомодуляции при андрогенетической алопеции указывайте, что обзор выявил положительный результат по плотности волос, но достоверность доказательств остаётся умеренной. Не представляйте этот результат как гарантию индивидуального ответа на лечение. Уточняйте, какой именно протокол и устройство предлагаются пациенту, поскольку авторы подчёркивают необходимость стандартизации.",
-        "audience": "врач"
-      },
-      {
-        "quote": "Nevertheless, further large-scale, high-quality trials with standardized protocols are warranted to validate its clinical efficacy, particularly for conditions where the current evidence remains limited or uncertain.",
-        "advice": "При выборе фотобиомодуляции пациенту стоит обсудить с врачом, насколько доказательства относятся к конкретному устройству и режиму воздействия. Не следует считать все световые процедуры взаимозаменяемыми только потому, что они относятся к фотобиомодуляции. Учитывайте, что авторы обзора считают необходимыми дальнейшие исследования и стандартизацию протоколов.",
-        "audience": "пациент"
-      }
-    ],
-    "importance_stars": 5,
-    "importance_mark": "★★★★★",
-    "take": "keep",
-    "id": 56
-  },
-  {
-    "pmid": "40820949",
-    "source": "PubMed",
-    "article": "A Novel Approach Against Male Pattern Hair Loss With Topical Dimethylglycine Sodium Salt (DMG-Na) and Caffeine: Efficacy of a 24-Week, Double-Blind, Randomized, Placebo-Controlled Trial.",
-    "authors": [
-      "Celleno Leonardo",
-      "Bussoletti Carolina",
-      "Tolaini Maria Vittoria",
-      "Rossi Alfredo",
-      "Ala Lorenzo",
-      "Becker Maike",
-      "Völker Jörn Michael",
-      "Wiesche Erik Schulze Zur"
-    ],
-    "date": "2025-08-01",
-    "journal": "Journal of cosmetic dermatology",
-    "doi": "10.1111/jocd.70390",
-    "topic": "АГА",
-    "topic_key": "aga",
-    "topic_keys": [
-      "aga"
-    ],
-    "topics": [
-      "АГА"
-    ],
-    "abstract_en": "BACKGROUND: Male pattern hair loss is the most common form of hair loss in men, occurring in specific patterns. Contributing factors include hormonal changes, stress, malnutrition, and insufficient blood microcirculation.\n\nOBJECTIVE: Topical applied dimethylglycine sodium salt (DMG-Na) has been identified to increase skin microcirculation by activating endothelial nitric oxide synthase and inducing nitric oxide production. Given the importance of sufficient microcirculation on hair growth, the goal of this study was to evaluate the effectiveness of topically applied DMG-Na in combination with caffeine against male pattern hair loss.\n\nMETHODS: A 24-week, double-blind, randomized, placebo-controlled trial was conducted on 154 men with male pattern hair loss, treated with a DMG-Na and caffeine-containing shampoo or the corresponding placebo. The primary efficacy parameter was the change in the number of hairs pulled via hair pull test from baseline to 6 months of daily product application. Clinical efficacy was further evaluated via phototrichogram analysis on a subgroup of 30 subjects.\n\nRESULTS: The decreased number of hairs pulled during the hair pull test after 6 months of active shampoo application was significantly higher compared to the placebo (-2.8 ± 1.6 vs. 0.6 ± 2.2; p < 0.001), with no reported adverse events. Phototrichogram results showed an increase in the number of hairs, hair density, and percentage of anagen hairs after 6 months of active shampoo usage (p < 0.001).\n\nCONCLUSION: The clinical efficacy of this novel DMG-Na and caffeine-containing shampoo demonstrates significant potential against male pattern hair loss, offering promising results without any undesirable side effects.",
-    "article_link": "https://pubmed.ncbi.nlm.nih.gov/40820949/",
-    "pmc_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12359291/",
-    "html_available": true,
-    "html_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12359291/",
-    "title_ru": "Шампунь с диметилглицинатом натрия и кофеином при мужском типе выпадения волос: рандомизированное исследование продолжительностью 24 недели",
-    "patient_plain": "В исследовании 154 мужчин с выпадением волос по мужскому типу сравнивали шампунь с диметилглицинатом натрия (DMG-Na) и кофеином с плацебо. Через три и шесть месяцев применения активного шампуня при тесте натяжения волос выпадало меньше волос, а инструментальное исследование показало увеличение плотности волос и доли волос в фазе активного роста. Нежелательных явлений в ходе исследования не зарегистрировали.",
-    "patient_use": "Результаты позволяют рассматривать шампунь с DMG-Na и кофеином как перспективное средство для уменьшения выпадения волос, однако исследование не доказывает, что он может заменить стандартное лечение андрогенетической алопеции. Различия с плацебо обнаруживались уже через три месяца, а более выраженные результаты оценивали через шесть месяцев. При выборе средства стоит уточнить у дерматолога, насколько эти данные применимы к вашей степени выпадения волос и как оценивать результат лечения.",
-    "practical_use": "При обсуждении местных средств для лечения мужской андрогенетической алопеции можно учитывать результаты плацебо-контролируемого исследования шампуня с DMG-Na и кофеином: улучшение теста натяжения волос выявлялось уже через три месяца, а через шесть месяцев подтверждалось также фототрихограммой. При этом инструментальная оценка проводилась только у подгруппы из 30 мужчин, поэтому объективные результаты требуют осторожной интерпретации. Следует учитывать и потенциальный конфликт интересов: сотрудники двух компаний-производителей участвовали в исследовании.",
-    "summary": "В двойном слепом рандомизированном плацебо-контролируемом исследовании участвовали 154 мужчины в возрасте 18–65 лет, которые ежедневно применяли активный шампунь с DMG-Na и кофеином или плацебо в течение 24 недель. Через шесть месяцев среднее изменение количества волос, извлекаемых при тесте натяжения, составило −2,8 ± 1,6 в активной группе против 0,6 ± 2,2 в группе плацебо (p < 0,001); статистически значимое различие отмечалось уже через три месяца. У 30 участников, прошедших фототрихограмму, активный шампунь также улучшил показатели количества и плотности волос, доли волос в фазе анагена и телогена. Ограничения интерпретации включают небольшую подгруппу для инструментальной оценки и наличие авторов, работающих в компаниях-производителях.",
-    "_reason": "Это рандомизированное плацебо-контролируемое исследование с клиническими и инструментальными показателями, которое демонстрирует потенциальную пользу конкретного шампуня при мужском типе выпадения волос. Результаты интересны для обсуждения дополнительных местных средств, но не устанавливают их превосходство над стандартной терапией и требуют независимого подтверждения.",
-    "why_read": "Статья полезна дерматологам и мужчинам с андрогенетической алопецией, которые хотят разобраться в доказательствах эффективности косметических средств против выпадения волос. Особенно стоит обратить внимание на различия с плацебо, сроки появления эффекта, результаты фототрихограммы и возможное влияние конфликта интересов.",
-    "limitations": [
-      "A 24-week, double-blind, randomized, placebo-controlled trial",
-      "154 men with male pattern hair loss",
-      "Phototrichogram analysis was conducted on a subgroup of 30 male participants",
-      "M.B. and J.M.V. are employees of Dr. Kurt Wolff GmbH & Co. KG, Bielefeld, Germany.",
-      "E.S.Z.W. is an employee of Dr. August Wolff GmbH & Co. KG Arzneimittel, Bielefeld, Germany."
-    ],
-    "advice_items": [
-      {
-        "quote": "A similar statistically significant difference was already evident after 3 months of product use (p < 0.001; exact Mann–Whitney Test).",
-        "advice": "При обсуждении ожидаемого результата местного средства учитывайте, что различие между активным шампунем и плацебо по тесту натяжения волос выявлялось уже через три месяца. Этот срок относится к изученному продукту и не гарантирует аналогичного результата от других шампуней или у каждого пациента.",
-        "audience": "врач"
-      },
-      {
-        "quote": "Phototrichogram analysis was conducted on a subgroup of 30 male participants (Table 4 and Figure 5).",
-        "advice": "При оценке доказательств улучшения плотности волос и соотношения фаз роста учитывайте, что фототрихограмму выполнили только у 30 участников. Результаты этой подгруппы поддерживают вывод об эффективности изученного средства, но требуют осторожности при переносе на всех пациентов с андрогенетической алопецией.",
-        "audience": "врач"
-      },
-      {
-        "quote": "After 6 months of use, the active shampoo was rated significantly higher than the placebo shampoo in terms of both cosmetic quality and efficacy in reducing hair loss (p < 0.05 for all comparisons, Mann–Whitney Test; see Figure 4).",
-        "advice": "При выборе средства учитывайте не только результаты инструментальных измерений, но и субъективное восприятие его косметических свойств и влияния на выпадение волос. В этом исследовании участники оценивали активный шампунь лучше плацебо через шесть месяцев, однако субъективная оценка не заменяет объективного наблюдения за динамикой выпадения волос.",
-        "audience": "пациент"
-      }
-    ],
-    "importance_stars": 5,
-    "importance_mark": "★★★★★",
-    "take": "keep",
-    "id": 57
+    "id": 51
   },
   {
     "pmid": "41035833",
@@ -3556,7 +3194,7 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 58
+    "id": 52
   },
   {
     "pmid": "40739969",
@@ -3617,7 +3255,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 59
+    "id": 53
   },
   {
     "pmid": "40660246",
@@ -3687,7 +3325,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 60
+    "id": 54
   },
   {
     "pmid": "40821339",
@@ -3756,7 +3394,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 61
+    "id": 55
   },
   {
     "pmid": "40627439",
@@ -3817,7 +3455,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 62
+    "id": 56
   },
   {
     "pmid": "40625221",
@@ -3872,7 +3510,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 63
+    "id": 57
   },
   {
     "pmid": "40627570",
@@ -3934,7 +3572,7 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 64
+    "id": 58
   },
   {
     "pmid": "40654550",
@@ -3990,69 +3628,7 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 65
-  },
-  {
-    "pmid": "40548416",
-    "source": "PubMed",
-    "article": "Alopecia areata incognita in men masquerading as androgenetic alopecia: a case series of 29 patients in a single centre experience.",
-    "authors": [
-      "Starace Michela",
-      "Hrvatin Stancic Bor",
-      "Cedirian Stephano",
-      "Quadrelli Federico",
-      "Pampaloni Francesca",
-      "Bruni Francesca",
-      "Alessandrini Aurora",
-      "Misciali Cosimo",
-      "Piraccini Bianca M"
-    ],
-    "date": "2025-06-23",
-    "journal": "Italian journal of dermatology and venereology",
-    "doi": "10.23736/S2784-8671.25.08170-8",
-    "topic": "АГА",
-    "topic_key": "aga",
-    "topic_keys": [
-      "aga"
-    ],
-    "topics": [
-      "АГА"
-    ],
-    "abstract_en": "BACKGROUND: Alopecia areata incognita (AAI) represents a variant of alopecia areata with an absence of well-defined alopecic patches but diffuse involvement of the scalp and even if usually affected females, it may also appear in male. Little is known about AAI in men. The aim of this study was to characterize the history, clinical, trichoscopic, and histopathologic features of AAI in male patients.\n\nMETHODS: All histopathologically proven male patients with AAI between April 2011 and December 2023, were included in the study. The history, clinical, trichoscopic and histopathologic features of the male patients were evaluated.\n\nRESULTS: Twenty-nine patients with AAI were included in the study, the mean age was 23.1. All patients had an underlying androgenetic alopecia (AGA) - Hamilton Scale: 17 (58.62%) grade IV, 9 (31.03%) grade V and 3 (10.34%) grade VI. The most common trichoscopic features included short regrowing hair (96.6%), yellow dots (89.7%) and pigtail hair (41.3%) especially seen in the occipital, parietal and frontal regions. A positive pull test with telogen roots was observed in 24.1% of the patients. Histopathological characteristics of AAI in male patients were indistinguishable from previously described features in female patients. All patients were treated with an ultra-potent topical corticosteroid under occlusion and topical 5% minoxidil twice/day or oral minoxidil, remission was established between 4-8 months after treatment initiation.\n\nCONCLUSIONS: A thorough trichoscopic examination in cases of diffuse hair loss in male patients with AGA refractory to conventional therapy is warranted and trichoscopy-guided biopsy is necessary to confirm the diagnosis.",
-    "article_link": "https://pubmed.ncbi.nlm.nih.gov/40548416/",
-    "pmc_link": "",
-    "html_available": false,
-    "html_link": "",
-    "title_ru": "Скрытая очаговая алопеция у мужчин с андрогенетической алопецией: признаки, диагностика и результаты лечения у 29 пациентов",
-    "patient_plain": "Скрытая очаговая алопеция (alopecia areata incognita) может вызывать диффузное выпадение волос без характерных круглых проплешин и маскироваться под андрогенетическую алопецию. В исследовании у всех 29 мужчин с этим диагнозом одновременно была андрогенетическая алопеция. После лечения у всех пациентов наступила ремиссия в течение 4–8 месяцев.",
-    "patient_use": "Если волосы продолжают заметно выпадать, несмотря на обычное лечение андрогенетической алопеции, стоит обсудить с дерматологом возможность другого или сопутствующего заболевания. При трихоскопии врач может искать короткие отрастающие волосы, жёлтые точки и волосы в форме запятой или петли. Для подтверждения скрытой очаговой алопеции может потребоваться биопсия кожи головы под контролем трихоскопии. Наблюдавшаяся ремиссия в течение 4–8 месяцев относится к этой небольшой группе пациентов и не гарантирует такого же результата у других людей.",
-    "practical_use": "У мужчин с андрогенетической алопецией и диффузным выпадением волос, устойчивым к стандартной терапии, необходимо рассматривать скрытую очаговую алопецию как возможный сопутствующий диагноз. При трихоскопии следует обращать внимание на короткие отрастающие волосы, жёлтые точки и волосы в форме петли, особенно в затылочной, теменной и лобной областях. Для подтверждения диагноза авторы рекомендуют биопсию, направляемую результатами трихоскопии. В серии применяли сверхсильный местный кортикостероид под окклюзией вместе с миноксидилом, местным 5% дважды в день или пероральным; результаты не позволяют сравнить эффективность этих вариантов или определить вклад каждого препарата.",
-    "summary": "В одноцентровую серию вошли 29 мужчин со средним возрастом 23,1 года и гистологически подтверждённой скрытой очаговой алопецией, наблюдавшихся с апреля 2011 года по декабрь 2023 года. У всех также была андрогенетическая алопеция; наиболее частыми трихоскопическими признаками были короткие отрастающие волосы (96,6%), жёлтые точки (89,7%) и волосы в форме петли (41,3%). Все пациенты получали сверхсильный местный кортикостероид под окклюзией и миноксидил местно или перорально, а ремиссия наступала через 4–8 месяцев после начала лечения. Ограничения — небольшая одноцентровая серия без контрольной группы и без возможности разделить вклад отдельных компонентов терапии.",
-    "_reason": "Статья помогает распознать причину диффузного выпадения волос, которую можно ошибочно принять за прогрессирование андрогенетической алопеции. Практическая ценность состоит прежде всего в трихоскопических ориентирах и необходимости биопсии при устойчивом к обычному лечению выпадении; результаты терапии следует трактовать осторожно из-за отсутствия контрольной группы.",
-    "why_read": "Материал полезен дерматологам и трихологам, если у мужчины с андрогенетической алопецией сохраняется диффузное выпадение волос вопреки стандартному лечению. Пациентам он поможет понять, почему врач может предложить трихоскопию и биопсию вместо простого усиления терапии андрогенетической алопеции.",
-    "limitations": [
-      "All histopathologically proven male patients with AAI between April 2011 and December 2023, were included in the study.",
-      "Twenty-nine patients with AAI were included in the study, the mean age was 23.1.",
-      "All patients had an underlying androgenetic alopecia (AGA)",
-      "All patients were treated with an ultra-potent topical corticosteroid under occlusion and topical 5% minoxidil twice/day or oral minoxidil, remission was established between 4-8 months after treatment initiation.",
-      "a trichoscopy-guided biopsy is necessary to confirm the diagnosis."
-    ],
-    "advice_items": [
-      {
-        "quote": "A thorough trichoscopic examination in cases of diffuse hair loss in male patients with AGA refractory to conventional therapy is warranted",
-        "advice": "При диффузном выпадении волос, которое сохраняется несмотря на стандартную терапию андрогенетической алопеции, проведите тщательную трихоскопию. Ищите короткие отрастающие волосы, жёлтые точки и волосы в форме петли, учитывая их распределение по областям кожи головы. Цель — выявить признаки сопутствующей скрытой очаговой алопеции, а не автоматически считать выпадение прогрессированием андрогенетической алопеции.",
-        "audience": "врач"
-      },
-      {
-        "quote": "trichoscopy-guided biopsy is necessary to confirm the diagnosis.",
-        "advice": "Если трихоскопия вызывает подозрение на скрытую очаговую алопецию, обсудите с дерматологом биопсию кожи головы для подтверждения диагноза. Это особенно актуально, когда выпадение остаётся диффузным и плохо отвечает на обычное лечение андрогенетической алопеции. Не меняйте лечение самостоятельно только на основании отдельных трихоскопических признаков.",
-        "audience": "пациент"
-      }
-    ],
-    "importance_stars": 4,
-    "importance_mark": "★★★★☆",
-    "take": "keep",
-    "id": 66
+    "id": 59
   },
   {
     "pmid": "40568688",
@@ -4115,7 +3691,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 67
+    "id": 60
   },
   {
     "pmid": "40446910",
@@ -4173,7 +3749,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 68
+    "id": 61
   },
   {
     "pmid": "40343723",
@@ -4228,7 +3804,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 69
+    "id": 62
   },
   {
     "pmid": "40345536",
@@ -4285,7 +3861,7 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 70
+    "id": 63
   },
   {
     "pmid": "40327110",
@@ -4342,7 +3918,7 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 71
+    "id": 64
   },
   {
     "pmid": "40386829",
@@ -4410,7 +3986,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 72
+    "id": 65
   },
   {
     "pmid": "40289757",
@@ -4480,7 +4056,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 73
+    "id": 66
   },
   {
     "pmid": "40365252",
@@ -4543,7 +4119,7 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 74
+    "id": 67
   },
   {
     "pmid": "40253006",
@@ -4617,7 +4193,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 75
+    "id": 68
   },
   {
     "pmid": "40216195",
@@ -4671,7 +4247,7 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 76
+    "id": 69
   },
   {
     "pmid": "40194956",
@@ -4737,63 +4313,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 77
-  },
-  {
-    "pmid": "40167621",
-    "source": "PubMed",
-    "article": "The efficacy of topical cetirizine using microneedling in androgenetic alopecia male patients.",
-    "authors": [
-      "Gohary Yasser Mostafa",
-      "Elkastawy Basma Mohamed Mohamed",
-      "Osama Hasnaa",
-      "Abdellatif Mona Elsayed Ahmed"
-    ],
-    "date": "2025-04-01",
-    "journal": "Archives of dermatological research",
-    "doi": "10.1007/s00403-025-04108-y",
-    "topic": "АГА",
-    "topic_key": "aga",
-    "topic_keys": [
-      "aga"
-    ],
-    "topics": [
-      "АГА"
-    ],
-    "abstract_en": "BACKGROUND: Androgenetic alopecia (AGA) affects both sexes equally and lasts long. AGA is the most common kind of hair loss in men. Gradual, pattern-based hair thinning on the scalp is a hallmark of the disease. The front, back, center, and sides of a man's head are the most common areas where hair thinning and loss occur.\n\nAIM: To evaluate the efficacy of microneedling-administered topical cetirizine in treating androgenetic alopecia in men.\n\nMETHODS: A total of 80 AGA male patients were randomly assigned to this single-blind, parallel placebo-controlled study conducted at Beni-Suef University Hospital's Dermatology Outpatient Clinic. Researchers allocated 40 patients to undergo topical cetirizine microneedling (MN) and 40 patients to saline MN for 8 weeks.\n\nRESULTS: In the 8th week, the cetirizine group demonstrated a greater prevalence of vellus hair (70.0%) than the saline group (30.0%), with a statistically significant difference (p-value = 0.001). The majority of patients administered cetirizine by MN exhibited enhanced hair density (80.0%) in contrast to 25.0% in the saline group, with a statistically significant difference between the two groups (p-value = 0.001). No notable adverse effects linked to the administration of cetirizine by MN were reported.\n\nCONCLUSION: The microneedling of 1% topical cetirizine proved efficient in promoting hair growth without problems in the treatment of male androgenetic alopecia.",
-    "article_link": "https://pubmed.ncbi.nlm.nih.gov/40167621/",
-    "pmc_link": "",
-    "html_available": false,
-    "html_link": "",
-    "title_ru": "Микронидлинг с 1% цетиризином при мужской андрогенетической алопеции: рандомизированное плацебо-контролируемое исследование",
-    "patient_plain": "В исследовании участвовали 80 мужчин с андрогенетической алопецией, которых разделили на две группы: одной проводили микронидлинг с нанесением 1% цетиризина, другой — микронидлинг с физиологическим раствором. Через 8 недель в группе цетиризина чаще отмечали появление пушковых волос и увеличение плотности волос. Значимых побочных эффектов, связанных с применением цетиризина этим способом, исследователи не выявили.",
-    "patient_use": "Результаты позволяют рассматривать цетиризин для наружного применения в сочетании с микронидлингом как перспективное направление изучения лечения мужского облысения, но пока не как доказанную замену стандартной терапии. Если вы обсуждаете эту процедуру с дерматологом, уточните, насколько убедительны данные об её эффективности и безопасности за пределами восьми недель. Отсутствие заметных побочных эффектов в небольшом краткосрочном исследовании не гарантирует безопасности при длительном использовании.",
-    "practical_use": "При обсуждении новых методов лечения мужской андрогенетической алопеции можно учитывать результаты рандомизированного исследования, в котором микронидлинг с 1% цетиризином сравнивали с микронидлингом с физиологическим раствором. Через восемь недель улучшение плотности волос отмечалось у 80% участников группы цетиризина против 25% в контрольной группе, а наличие пушковых волос — у 70% против 30%. При интерпретации результатов важно учитывать короткий срок наблюдения, размер выборки и отсутствие представленных данных о долгосрочной эффективности и безопасности.",
-    "summary": "В одноцентровом однослепом рандомизированном плацебо-контролируемом исследовании участвовали 80 мужчин с андрогенетической алопецией: 40 получали микронидлинг с наружным 1% цетиризином, ещё 40 — микронидлинг с физиологическим раствором. Через восемь недель пушковые волосы отмечались у 70% участников группы цетиризина и у 30% контрольной группы; увеличение плотности волос наблюдалось у 80% и 25% соответственно. Для обоих сравнений указано p = 0,001, значимых связанных с цетиризином нежелательных эффектов не зарегистрировано. Результаты обнадёживают, но исследование не позволяет установить долгосрочную эффективность и безопасность метода.",
-    "_reason": "Исследование показывает преимущество микронидлинга с 1% цетиризином перед микронидлингом с физиологическим раствором по двум показателям роста волос у мужчин с андрогенетической алопецией. Практическая значимость ограничена восьминедельным наблюдением и выборкой из 80 человек, поэтому результаты требуют подтверждения в более длительных исследованиях.",
-    "why_read": "Статья полезна дерматологам и мужчинам с андрогенетической алопецией, которые интересуются новыми местными методами стимуляции роста волос. Она помогает оценить предварительные результаты применения цетиризина с микронидлингом и понять, почему краткосрочные данные ещё не означают, что метод можно считать стандартом лечения.",
-    "limitations": [
-      "single-blind, parallel placebo-controlled study",
-      "A total of 80 AGA male patients",
-      "for 8 weeks",
-      "No notable adverse effects linked to the administration of cetirizine by MN were reported."
-    ],
-    "advice_items": [
-      {
-        "quote": "The majority of patients administered cetirizine by MN exhibited enhanced hair density (80.0%) in contrast to 25.0% in the saline group, with a statistically significant difference between the two groups (p-value = 0.001).",
-        "advice": "При обсуждении лечения мужской андрогенетической алопеции учитывайте, что в этом исследовании увеличение плотности волос через восемь недель отмечалось чаще при микронидлинге с 1% цетиризином, чем при микронидлинге с физиологическим раствором. Объясняйте пациентам, что результат относится к конкретному краткосрочному исследованию и сам по себе не устанавливает сравнительную эффективность метода со стандартными вариантами лечения. Для решения о применении необходима дополнительная оценка доказательств эффективности и безопасности.",
-        "audience": "врач"
-      },
-      {
-        "quote": "No notable adverse effects linked to the administration of cetirizine by MN were reported.",
-        "advice": "При информировании пациента укажите, что за восемь недель исследователи не зарегистрировали заметных нежелательных эффектов, связанных с применением цетиризина через микронидлинг. Не интерпретируйте это как доказательство отсутствия риска: небольшая выборка и короткое наблюдение не позволяют надёжно оценить редкие или отсроченные осложнения.",
-        "audience": "врач"
-      }
-    ],
-    "importance_stars": 5,
-    "importance_mark": "★★★★★",
-    "take": "keep",
-    "id": 78
+    "id": 70
   },
   {
     "pmid": "40278661",
@@ -4853,7 +4373,7 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 79
+    "id": 71
   },
   {
     "pmid": "40127098",
@@ -4914,7 +4434,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 80
+    "id": 72
   },
   {
     "pmid": "40122142",
@@ -4983,7 +4503,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 81
+    "id": 73
   },
   {
     "pmid": "40097761",
@@ -5035,7 +4555,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 82
+    "id": 74
   },
   {
     "pmid": "40083615",
@@ -5098,7 +4618,7 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 83
+    "id": 75
   },
   {
     "pmid": "40056230",
@@ -5164,7 +4684,7 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 84
+    "id": 76
   },
   {
     "pmid": "40168567",
@@ -5227,7 +4747,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 85
+    "id": 77
   },
   {
     "pmid": "40127493",
@@ -5286,7 +4806,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 86
+    "id": 78
   },
   {
     "pmid": "40043269",
@@ -5341,7 +4861,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 87
+    "id": 79
   },
   {
     "pmid": "40019613",
@@ -5396,7 +4916,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 88
+    "id": 80
   },
   {
     "pmid": "40014580",
@@ -5455,7 +4975,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 89
+    "id": 81
   },
   {
     "pmid": "39412172",
@@ -5511,7 +5031,7 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 90
+    "id": 82
   },
   {
     "pmid": "39991105",
@@ -5570,7 +5090,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "skim",
-    "id": 91
+    "id": 83
   },
   {
     "pmid": "39961870",
@@ -5622,7 +5142,7 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 92
+    "id": 84
   },
   {
     "pmid": "39948731",
@@ -5677,7 +5197,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 93
+    "id": 85
   },
   {
     "pmid": "39954138",
@@ -5745,7 +5265,7 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 94
+    "id": 86
   },
   {
     "pmid": "40006064",
@@ -5806,7 +5326,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 95
+    "id": 87
   },
   {
     "pmid": "39997270",
@@ -5860,7 +5380,7 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 96
+    "id": 88
   },
   {
     "pmid": "39921108",
@@ -5933,7 +5453,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 97
+    "id": 89
   },
   {
     "pmid": "40110814",
@@ -5974,7 +5494,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 98
+    "id": 90
   },
   {
     "pmid": "39963025",
@@ -6029,7 +5549,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 99
+    "id": 91
   },
   {
     "pmid": "40117614",
@@ -6090,7 +5610,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 100
+    "id": 92
   },
   {
     "pmid": "39840856",
@@ -6149,7 +5669,7 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 101
+    "id": 93
   },
   {
     "pmid": "39867973",
@@ -6202,7 +5722,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "skim",
-    "id": 102
+    "id": 94
   },
   {
     "pmid": "39944453",
@@ -6266,7 +5786,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 103
+    "id": 95
   },
   {
     "pmid": "40034971",
@@ -6325,127 +5845,7 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 104
-  },
-  {
-    "pmid": "39749369",
-    "source": "PubMed",
-    "article": "Evaluation of Hair Growth Promoting Activity of Standardized Soybean Extract on Testosterone-Induced Alopecia.",
-    "authors": [
-      "Youssef Alaa",
-      "Al-Mahdy Dalia A",
-      "Sayed Rabab H",
-      "Choucry Mouchira A",
-      "El-Askary Hesham"
-    ],
-    "date": "2025-01-03",
-    "journal": "Journal of medicinal food",
-    "doi": "10.1089/jmf.2023.0117",
-    "topic": "АГА",
-    "topic_key": "aga",
-    "topic_keys": [
-      "aga"
-    ],
-    "topics": [
-      "АГА"
-    ],
-    "abstract_en": "Millions of men and women suffer from alopecia, especially androgenic alopecia (AGA), which is considered the most common form of hair loss. The available treatments for hair loss include multiple approaches, with the most popular being synthetic drugs including minoxidil and finasteride, in addition to natural products. However, synthetic drugs have shown many undesirable side effects, on the contrary, the specifications of the commonly used natural drugs have not been reported in most of the previous studies, despite the high market preference for them. One of these natural drugs is soybean (Glycine max), an economically important bean that has been reported in several studies to effectively prevent hair loss in humans and is widely used in many products treating alopecia. However, no reports were traced on the specification and standardization of the used soybean extract, which may lead to unreproducible results. Thus, in this study, we investigated the effects of different concentrations; 1%, 3%, and 5% (v/v) of a specified soybean extract (SSE) in coconut oil, using a testosterone-induced model of alopecia in adult male Wistar rats in comparison with a 2% finasteride solution. Visual and microscopical evaluations of follicular diameter, length, and density were performed. The data showed that 5% of SSE exhibited the highest activity with results comparable to standard 2% finasteride for hair diameter, length, and density, which could be attributed to the extract's isoflavone content. Genistin and diadzin isoflavones were isolated from the ethyl acetate fraction of the SSE. The total extract was standardized using high-performance liquid chromatography using genistin as a marker and showed a content of 6.2 µg/mL. Accordingly, the formulated 3% and 5% SSEs (containing 0.186 and 0.31 µg/mL of genistin, respectively) could be considered as a promising natural treatment for AGA.",
-    "article_link": "https://pubmed.ncbi.nlm.nih.gov/39749369/",
-    "pmc_link": "",
-    "html_available": false,
-    "html_link": "",
-    "title_ru": "Стандартизированный экстракт сои при андрогенетической алопеции: сравнение с финастеридом на модели облысения у крыс",
-    "patient_plain": "Исследователи проверили, может ли стандартизированный экстракт сои стимулировать рост волос при облысении, вызванном тестостероном у взрослых самцов крыс. Экстракт в концентрации 5% показал результаты, сопоставимые с раствором финастерида 2%, по диаметру и длине волос, а также плотности волосяных фолликулов. Эти результаты получены на животных и пока не доказывают эффективность средства у людей.",
-    "patient_use": "Результаты дают основание интересоваться стандартизированными экстрактами сои как возможным направлением будущих исследований, но не подтверждают, что косметическое средство с соей поможет при выпадении волос у человека. Если вы рассматриваете растительные средства, важно уточнять не только концентрацию экстракта, но и его стандартизацию, поскольку состав может влиять на воспроизводимость результата. Не стоит самостоятельно заменять финастерид или другие назначенные препараты соевым экстрактом на основании этого исследования.",
-    "practical_use": "При обсуждении растительных средств для лечения андрогенетической алопеции следует учитывать, что в исследовании использовали стандартизированный экстракт сои в кокосовом масле, а не произвольный соевый продукт. Содержание генистина определяли методом высокоэффективной жидкостной хроматографии; для экстракта оно составило 6,2 мкг/мл. Сопоставимость результатов с финастеридом 2% относится только к исследованной модели у крыс и не позволяет делать выводы о клинической эффективности или безопасности у людей.",
-    "summary": "В эксперименте на взрослых самцах крыс Wistar с тестостерон-индуцированной алопецией сравнивали стандартизированный экстракт сои в кокосовом масле в концентрациях 1%, 3% и 5% с раствором финастерида 2%. Оценивали диаметр, длину и плотность волосяных фолликулов; наибольшую активность показал экстракт 5%, результаты которого были сопоставимы с финастеридом по всем трём показателям. В экстракте идентифицировали изофлавоны генистин и даидзин, а стандартизацию проводили по генистину, содержание которого составило 6,2 мкг/мл. Главным ограничением является использование животной модели: исследование не устанавливает эффективность и безопасность экстракта при андрогенетической алопеции у людей.",
-    "_reason": "Работа интересна как доклиническое исследование потенциального растительного средства и как пример стандартизации экстракта по конкретному химическому маркеру. Однако сопоставимость с финастеридом показана только у крыс, поэтому результаты пока не дают оснований рекомендовать соевый экстракт пациентам вместо методов лечения с подтверждённой клинической эффективностью.",
-    "why_read": "Статью стоит прочитать дерматологам и исследователям, которые оценивают перспективы растительных средств при андрогенетической алопеции. Она также полезна для понимания того, почему при изучении растительных препаратов важно указывать стандартизацию состава, а не только процент экстракта.",
-    "limitations": [
-      "using a testosterone-induced model of alopecia in adult male Wistar rats",
-      "in comparison with a 2% finasteride solution",
-      "Visual and microscopical evaluations of follicular diameter, length, and density were performed.",
-      "5% of SSE exhibited the highest activity with results comparable to standard 2% finasteride"
-    ],
-    "advice_items": [
-      {
-        "quote": "However, no reports were traced on the specification and standardization of the used soybean extract, which may lead to unreproducible results.",
-        "advice": "При оценке исследований растительных средств обращайте внимание на то, описаны ли состав экстракта и способ его стандартизации. Для экстракта сои авторы использовали генистин как маркерный компонент. Это помогает точнее характеризовать исследуемое средство и оценивать воспроизводимость результатов.",
-        "audience": "врач"
-      },
-      {
-        "quote": "The data showed that 5% of SSE exhibited the highest activity with results comparable to standard 2% finasteride for hair diameter, length, and density, which could be attributed to the extract's isoflavone content.",
-        "advice": "При обсуждении результатов подчёркивайте, что сравнение экстракта сои 5% с финастеридом 2% выполнено на модели алопеции у крыс. Сходство результатов по диаметру и длине волос и плотности фолликулов не означает равной эффективности у людей. Для клинических рекомендаций необходимы исследования с участием людей.",
-        "audience": "врач"
-      }
-    ],
-    "importance_stars": 4,
-    "importance_mark": "★★★★☆",
-    "take": "skim",
-    "id": 105
-  },
-  {
-    "pmid": "39757794",
-    "source": "PubMed",
-    "article": "A Randomized, Double-Blind, Placebo-Controlled Study to Evaluate the Safety and Efficacy of a Nutraceutical Supplement With Standardized Botanicals in Males With Thinning Hair.",
-    "authors": [
-      "Bhatia Neal",
-      "Ablon Glynis",
-      "Farris Patricia K",
-      "Hazan Adina",
-      "Raymond Isabelle"
-    ],
-    "date": "2025-01-01",
-    "journal": "Journal of cosmetic dermatology",
-    "doi": "10.1111/jocd.16778",
-    "topic": "АГА",
-    "topic_key": "aga",
-    "topic_keys": [
-      "aga"
-    ],
-    "topics": [
-      "АГА"
-    ],
-    "abstract_en": "BACKGROUND: Hair thinning in men is a prevalent issue for which treatment oftentimes consists of a multi-modal approach. Targeting key root causes of hair thinning, such as hormones, stress, and metabolism through vitamins, minerals, and botanicals, has been shown to be effective in improving hair growth and quality in women. This approach could also be effective in improving hair growth and quality in men with thinning hair.\n\nAIMS: This study investigates the safety and efficacy of a nutraceutical in improving hair growth and quality in men with thinning hair.\n\nMETHODS: This was a 6-month multi-center, double-blind, randomized, placebo-controlled trial. Men aged 21-61 years old with confirmed hair thinning were included. Subjects were randomized to receive the oral supplement or placebo. The study end points included changes in blinded Global Investigator Ratings for hair growth and quality, the Men's Hair Growth Questionnaire (MHGQ), and changes in the Arizona Sexual Experience Scale (ASEX) in the active group compared to baseline and placebo.\n\nRESULTS: Daily intake of the nutraceutical resulted in significantly more subjects in the active group compared to the placebo rated as improved for hair growth and quality in the blinded investigator global assessments. Overall changes and responses to the MHGQ also corroborated blinded investigator ratings. There were no trends in either treatment group for changes in sexual function on the ASEX questionnaire, and the supplement was well tolerated.\n\nCONCLUSIONS: Ingestion of a nutraceutical targeting key root causes of male hair thinning significantly improves hair growth and quality in men with no changes in sexual function.",
-    "article_link": "https://pubmed.ncbi.nlm.nih.gov/39757794/",
-    "pmc_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11701407/",
-    "html_available": true,
-    "html_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11701407/",
-    "title_ru": "Растительная добавка при истончении волос у мужчин: рандомизированное исследование эффективности и безопасности за 6 месяцев",
-    "patient_plain": "В исследовании у мужчин с истончением волос проверяли, помогает ли ежедневный приём пищевой добавки со стандартизированными растительными компонентами улучшить рост и качество волос. Через 6 месяцев исследователи чаще отмечали улучшение в группе добавки, чем в группе плацебо: рост волос улучшился у 79% участников против 51%, а качество волос — у 74% против 54%. В обеих группах не выявили изменений сексуальной функции.",
-    "patient_use": "Результаты дают основания обсудить с дерматологом добавку как возможное дополнение к подходу при истончении волос, но не как доказанную замену стандартному лечению андрогенетической алопеции. Улучшение оценивали постепенно: через 3 месяца положительные изменения роста волос отмечали у 57% участников, а через 6 месяцев — у 79%. Важно учитывать, что исследование продолжалось полгода, а у двух участников возникли умеренные желудочно-кишечные расстройства, вероятно связанные с добавкой.",
-    "practical_use": "Врач может учитывать результаты при обсуждении дополнительных вариантов поддержки роста волос у мужчин, объясняя пациенту, что эффект оценивали по экспертным оценкам и субъективным ответам, а не по доказательству восстановления волос у каждого участника. Через 180 дней улучшение роста волос отмечалось статистически значимо чаще, чем при плацебо; аналогичное преимущество обнаружено для качества волос. При консультировании следует учитывать переносимость добавки и тот факт, что исследование не выявило изменений сексуальной функции, но не позволяет гарантировать отсутствие таких эффектов у всех пациентов.",
-    "summary": "В многоцентровом рандомизированном двойном слепом исследовании с плацебо-контролем участвовали мужчины 21–61 года с подтверждённым истончением волос. Из 112 включённых участников 85 завершили исследование по протоколу: 52 принимали добавку, 33 — плацебо. Через 180 дней улучшение роста волос по оценке ослеплённых исследователей отмечалось у 79% участников группы добавки против 51% в группе плацебо, а улучшение качества волос — у 74% против 54%; сексуальная функция существенно не менялась. Ограничения включают небольшую выборку завершивших исследование, выбывание участников и отсутствие в представленном фрагменте подробного состава добавки.",
-    "_reason": "Исследование предоставляет контролируемые данные о возможном улучшении роста и качества волос при приёме растительной пищевой добавки у мужчин, а также сведения о её переносимости и сексуальной функции. Практическая значимость ограничена тем, что результаты относятся к конкретной добавке, состав которой в представленном фрагменте не раскрыт, и не устанавливают её место относительно стандартных методов лечения андрогенетической алопеции.",
-    "why_read": "Статья полезна дерматологам, обсуждающим с мужчинами дополнительные средства при истончении волос, и пациентам, которые рассматривают пищевые добавки. Она помогает понять, каких изменений можно ожидать в течение шести месяцев, как результаты сравнивались с плацебо и какие нежелательные явления наблюдались.",
-    "limitations": [
-      "This was a 6-month multi-center, double-blind, randomized, placebo-controlled trial.",
-      "A total of 112 subjects were enrolled in the study between July 2021 and October 2022, with 85 (52 active and 33 placebo) completing the study per protocol.",
-      "Reasons for discontinuation included loss to follow‐up (N = 14), subject withdrawal (N = 9), protocol deviation (N = 1), probably related AE (moderate gastrointestinal upset N = 2), and unrelated AE (N = 1).",
-      "There were no trends in either treatment group for changes in sexual function on the ASEX questionnaire",
-      "Both groups reported moderate levels of perceived stress throughout the duration of the study."
-    ],
-    "advice_items": [
-      {
-        "quote": "This was a 6-month multi-center, double-blind, randomized, placebo-controlled trial.",
-        "advice": "При обсуждении результатов учитывайте, что эффективность оценивали в течение шести месяцев в сравнении с плацебо и с ослеплённой оценкой исследователей. Не переносите результаты автоматически на другие добавки с иным составом.",
-        "audience": "врач"
-      },
-      {
-        "quote": "Daily intake of the nutraceutical resulted in significantly more subjects in the active group compared to the placebo rated as improved for hair growth and quality in the blinded investigator global assessments.",
-        "advice": "Объясните пациенту, что улучшение чаще отмечалось в группе добавки, но это не означает гарантированного результата у конкретного человека. Обсудите, как оценивать динамику волос при наблюдении, и не представляйте добавку как замену стандартному лечению без дополнительных оснований.",
-        "audience": "врач"
-      },
-      {
-        "quote": "There were no trends in either treatment group for changes in sexual function on the ASEX questionnaire, and the supplement was well tolerated.",
-        "advice": "При консультировании можно сообщить, что за время исследования заметных изменений сексуальной функции в группах не выявили. При этом стоит обсудить переносимость добавки и обратить внимание на появление желудочно-кишечных симптомов, поскольку у двух участников отмечалось умеренное расстройство со стороны желудочно-кишечного тракта, вероятно связанное с приёмом.",
-        "audience": "врач"
-      }
-    ],
-    "importance_stars": 5,
-    "importance_mark": "★★★★★",
-    "take": "keep",
-    "id": 106
+    "id": 96
   },
   {
     "pmid": "39679573",
@@ -6506,65 +5906,7 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 107
-  },
-  {
-    "pmid": "39667415",
-    "source": "PubMed",
-    "article": "Dual Wavelength LEDs Induce Reactive Oxygen Species and Nitric Oxide That Inhibit the Production of Dihydrotestosterone by 5-α Reductase.",
-    "authors": [
-      "Kocher Jacob",
-      "Jandick Nicole",
-      "Spragion Derry",
-      "DeSena P Joseph",
-      "Womble T Matthew",
-      "Crizer Katelyn",
-      "Stasko Nathan"
-    ],
-    "date": "2024-12-12",
-    "journal": "Journal of biophotonics",
-    "doi": "10.1002/jbio.202400388",
-    "topic": "АГА",
-    "topic_key": "aga",
-    "topic_keys": [
-      "aga"
-    ],
-    "topics": [
-      "АГА"
-    ],
-    "abstract_en": "Androgenetic alopecia (AGA) causes balding in approximately 50% of adults. One primary cause of AGA is synthesis of dihydrotestosterone from testosterone by 5-α reductase. Systemic pharmaceutical interventions have potentially serious side effects, necessitating development of localized interventions. One such approach is administration of red light via low level light therapy (LLLT), which has promising clinical data. However, the LLLT mechanism of action remains unclear. We investigated the ability of LLLT to stimulate nitric oxide (NO) and the role of NO in inhibition of DHT synthesis. Our results show that red and red-orange light induce NO release in a cell-free platform. In A549 and HEK293T cells, we demonstrate 620 and 660 nm LED-emitted light stimulates the production of NO, reactive oxygen species (ROS), and decreases DHT synthesis. These results provide a plausible mechanism of action for LLLT employing LED-emitted red and red-orange wavelengths of light to treat AGA.",
-    "article_link": "https://pubmed.ncbi.nlm.nih.gov/39667415/",
-    "pmc_link": "",
-    "html_available": false,
-    "html_link": "",
-    "title_ru": "Как красный и красно-оранжевый свет влияют на синтез дигидротестостерона при андрогенетической алопеции",
-    "patient_plain": "Исследователи изучили, как светодиодный свет с длинами волн 620 и 660 нм влияет на образование дигидротестостерона (ДГТ), который участвует в развитии андрогенетической алопеции. В экспериментах на клетках свет стимулировал выработку оксида азота и активных форм кислорода, одновременно снижая синтез ДГТ. Это помогает объяснить возможный механизм действия низкоинтенсивной светотерапии, но ещё не доказывает её эффективность в лечении выпадения волос у людей.",
-    "patient_use": "Исследование помогает понять, почему красный свет рассматривают как возможный способ воздействия на механизмы андрогенетической алопеции без системного применения лекарств. При обсуждении светотерапии с врачом важно уточнить, какие клинические данные подтверждают её влияние именно на рост волос, а не только на клеточные процессы. Результаты этой работы сами по себе не позволяют ожидать восстановления густоты волос или заменять назначенное лечение светодиодными устройствами.",
-    "practical_use": "При обсуждении низкоинтенсивной светотерапии врач может использовать эти результаты для объяснения предполагаемого механизма действия красного и красно-оранжевого света. Авторы связывают эффект с образованием оксида азота и активных форм кислорода и снижением синтеза ДГТ в клеточных моделях. При этом необходимо разграничивать механистические данные и клиническую эффективность: исследование не устанавливает, насколько метод уменьшает выпадение волос или улучшает их рост у пациентов.",
-    "summary": "Работа посвящена изучению механизма действия низкоинтенсивной светотерапии при андрогенетической алопеции. Авторы исследовали красный и красно-оранжевый свет с длинами волн 620 и 660 нм в бесклеточной системе и на клетках A549 и HEK293T. Воздействие стимулировало образование оксида азота и активных форм кислорода и сопровождалось снижением синтеза ДГТ. Основное ограничение состоит в том, что представлены результаты клеточных и бесклеточных экспериментов, а не клинического исследования лечения пациентов.",
-    "_reason": "Статья раскрывает возможный биологический механизм светотерапии, которую рассматривают как локальный подход к лечению андрогенетической алопеции. Практическая значимость ограничена доклиническими результатами: снижение синтеза ДГТ в клеточной модели не гарантирует уменьшения выпадения волос у людей. Материал полезен для понимания механизма метода, но не даёт оснований считать его доказанной заменой лекарственной терапии.",
-    "why_read": "Статью стоит прочитать дерматологам и трихологам, которые обсуждают с пациентами светотерапию при андрогенетической алопеции, а также специалистам, изучающим механизмы воздействия света на кожу и волосяные фолликулы. Она поможет объяснить биологическую гипотезу действия красного света и корректно обозначить границы имеющихся доказательств.",
-    "limitations": [
-      "in a cell-free platform",
-      "In A549 and HEK293T cells",
-      "provide a plausible mechanism of action"
-    ],
-    "advice_items": [
-      {
-        "quote": "These results provide a plausible mechanism of action for LLLT employing LED-emitted red and red-orange wavelengths of light to treat AGA.",
-        "advice": "При обсуждении низкоинтенсивной светотерапии объясняйте, что результаты поддерживают правдоподобную гипотезу механизма действия, но не подтверждают клиническую эффективность лечения сами по себе. Не следует переносить снижение синтеза ДГТ в клеточных моделях непосредственно на ожидаемый рост волос у пациента. Отдельно оценивайте клинические данные об эффективности конкретного устройства.",
-        "audience": "врач"
-      },
-      {
-        "quote": "In A549 and HEK293T cells, we demonstrate 620 and 660 nm LED-emitted light stimulates the production of NO, reactive oxygen species (ROS), and decreases DHT synthesis.",
-        "advice": "При объяснении результатов пациенту уточняйте, что эффекты наблюдали на клеточных моделях и что исследовались определённые длины волн светодиодного излучения. Эти данные не устанавливают эффективный режим применения устройства, длительность процедур или вероятность восстановления волос. Не используйте результаты как самостоятельное обоснование для отмены назначенного лечения.",
-        "audience": "врач"
-      }
-    ],
-    "importance_stars": 4,
-    "importance_mark": "★★★★☆",
-    "take": "skim",
-    "id": 108
+    "id": 97
   },
   {
     "pmid": "40475096",
@@ -6624,70 +5966,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 109
-  },
-  {
-    "pmid": "39527940",
-    "source": "PubMed",
-    "article": "Exploring Mesenchymal Stem Cells versus Minoxidil for Androgenic Alopecia Treatment: A Detailed Animal-Based Histological and Morphometric Study.",
-    "authors": [
-      "Kamar Sherif A",
-      "Naiem Hamdy Khaled",
-      "El-Nefiawy Nagwa Ebrahim",
-      "Mohammed Heba",
-      "Fetouh Marwa A"
-    ],
-    "date": "2024-11-11",
-    "journal": "Cells, tissues, organs",
-    "doi": "10.1159/000542547",
-    "topic": "АГА",
-    "topic_key": "aga",
-    "topic_keys": [
-      "aga"
-    ],
-    "topics": [
-      "АГА"
-    ],
-    "abstract_en": "INTRODUCTION: Androgenic alopecia (AGA), a hair loss condition caused by dihydrotestosterone binding to hair follicle receptors, negatively impacts quality of life for both men and women. Current treatments like minoxidil and finasteride have limitations, highlighting the need for alternative therapies, such as human umbilical cord blood-derived mesenchymal stem cells (HUCB-MSCs).\n\nMETHODS: In this study, forty-eight adult male Wistar albino rats (3 months old) were used. The control group (Group I) received no treatment, while the other rats underwent AGA induction via daily subcutaneous testosterone injections (100 mg/kg). These rats developed alopecia and were divided into three groups: AGA (Group II), AGA plus daily minoxidil spray (Group III), and AGA plus a single intradermal injection of HUCB-MSCs (1 mL containing 1 × 105 cells, Group IV). After 4 weeks, the rats were sacrificed, and skin specimens were prepared for histological analysis using H&amp;E, Masson's trichrome, and immunohistochemical staining for CK 19, vascular endothelial growth factor (VEGF), and TUNEL antibodies.\n\nRESULTS: It was shown that HUCB-MSC treatment reversed structural damage to hair and follicles, normalizing conditions within 1-week post-injection. The treatment enhanced the anagen phase, suppressed telogen and catagen phases, reduced apoptosis, and increased VEGF and CK 19 immune reactions. Observational follow-up for Groups III and IV revealed that while the minoxidil group experienced significant hair loss after 37 days, the stem cell group exhibited dense and long hair covering the treated area.\n\nCONCLUSION: HUCB-MSC therapy demonstrated superior efficacy over minoxidil with no observed side effects, indicating its potential as a promising alternative for AGA treatment.",
-    "article_link": "https://pubmed.ncbi.nlm.nih.gov/39527940/",
-    "pmc_link": "",
-    "html_available": false,
-    "html_link": "",
-    "title_ru": "Мезенхимальные стволовые клетки из пуповинной крови человека против миноксидила при андрогенетической алопеции: гистологическое исследование на крысах",
-    "patient_plain": "Исследователи сравнили действие миноксидила и мезенхимальных стволовых клеток, полученных из пуповинной крови человека, на облысение у крыс. После однократного введения стволовых клеток структура волосяных фолликулов улучшилась, а на обработанном участке выросли густые длинные волосы. В группе миноксидила при последующем наблюдении через 37 дней отмечалось выраженное выпадение волос.",
-    "patient_use": "Исследование показывает, что клеточная терапия представляет интерес как потенциальное направление лечения выпадения волос, но результаты на животных не доказывают её эффективность и безопасность у людей. Обсуждая новые методы лечения с врачом, важно различать экспериментальные клеточные технологии и методы, эффективность которых изучена у пациентов. Отсутствие замеченных побочных эффектов у крыс не означает, что процедура безопасна для человека.",
-    "practical_use": "При обсуждении новых методов лечения андрогенетической алопеции следует учитывать, что в этом эксперименте однократное внутрикожное введение HUCB-MSC сопровождалось улучшением морфологии фолликулов, увеличением активности маркеров CK19 и VEGF и уменьшением апоптоза. Сравнение с ежедневным применением миноксидила указывает на потенциальный исследовательский интерес клеточной терапии, но не позволяет делать вывод о её превосходстве в клинической практике. Для переноса результатов необходимы исследования на людях с оценкой эффективности, длительности эффекта и нежелательных явлений.",
-    "summary": "В исследовании участвовали 48 трёхмесячных самцов крыс линии Wistar с экспериментально вызванной алопецией после ежедневных подкожных инъекций тестостерона в дозе 100 мг/кг. Животных с алопецией распределили между группой без лечения, группой ежедневного применения спрея миноксидила и группой однократного внутрикожного введения 1 мл HUCB-MSC, содержащего 1 × 10^5 клеток. Через четыре недели гистологические результаты указывали на восстановление структуры фолликулов, усиление фазы анагена, подавление фаз телогена и катагена и уменьшение апоптоза после клеточной терапии; при наблюдении в группе миноксидила отмечалось значительное выпадение волос через 37 дней. Основное ограничение — эксперимент на животных с искусственно вызванной алопецией, поэтому результаты нельзя напрямую переносить на лечение андрогенетической алопеции у людей.",
-    "_reason": "Статья представляет доклинические данные о потенциальном альтернативном подходе к лечению алопеции и описывает как морфологические изменения фолликулов, так и наблюдаемое отрастание волос. Практическая значимость для текущего лечения пациентов ограничена отсутствием клинической когорты и невозможностью напрямую сопоставить результаты у крыс с эффективностью терапии у людей.",
-    "why_read": "Статья будет полезна дерматологам и исследователям, которые оценивают перспективы клеточной терапии при выпадении волос. Её также можно прочитать для понимания того, какие изменения фолликулов и биологические маркеры изучают при экспериментальной оценке новых методов лечения, не воспринимая результаты как доказательство готовности метода к применению у людей.",
-    "limitations": [
-      "forty-eight adult male Wistar albino rats (3 months old) were used",
-      "daily subcutaneous testosterone injections (100 mg/kg)",
-      "After 4 weeks, the rats were sacrificed",
-      "Observational follow-up for Groups III and IV",
-      "no observed side effects"
-    ],
-    "advice_items": [
-      {
-        "quote": "HUCB-MSC treatment reversed structural damage to hair and follicles, normalizing conditions within 1-week post-injection.",
-        "advice": "При оценке клеточных методов лечения следует отдельно учитывать изменения структуры фолликулов и клинические показатели роста волос. В данном эксперименте улучшение морфологии отмечалось уже в течение первой недели после инъекции, однако это наблюдение получено у крыс и не определяет сроки возможного эффекта у людей.",
-        "audience": "врач"
-      },
-      {
-        "quote": "The treatment enhanced the anagen phase, suppressed telogen and catagen phases, reduced apoptosis, and increased VEGF and CK 19 immune reactions.",
-        "advice": "Эти показатели можно использовать как ориентиры для понимания биологических эффектов экспериментальной клеточной терапии: исследователи оценивали распределение фаз цикла волоса, апоптоз и маркеры, связанные с фолликулами и сосудистыми процессами. При обсуждении результатов важно не приравнивать изменения гистологических маркеров к доказанному клиническому восстановлению волос у пациентов.",
-        "audience": "врач"
-      },
-      {
-        "quote": "HUCB-MSC therapy demonstrated superior efficacy over minoxidil with no observed side effects, indicating its potential as a promising alternative for AGA treatment.",
-        "advice": "Результат следует рассматривать как основание для дальнейших исследований, а не как доказательство того, что клеточная терапия эффективнее миноксидила у людей. Пациентам не следует самостоятельно заменять стандартное лечение экспериментальными клеточными процедурами только на основании этого исследования.",
-        "audience": "пациент"
-      }
-    ],
-    "importance_stars": 4,
-    "importance_mark": "★★★★☆",
-    "take": "skim",
-    "id": 110
+    "id": 98
   },
   {
     "pmid": "39521141",
@@ -6747,7 +6026,7 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 111
+    "id": 99
   },
   {
     "pmid": "39425514",
@@ -6816,7 +6095,7 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 112
+    "id": 100
   },
   {
     "pmid": "39404126",
@@ -6871,7 +6150,7 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 113
+    "id": 101
   },
   {
     "pmid": "39327649",
@@ -6934,7 +6213,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 114
+    "id": 102
   },
   {
     "pmid": "40212428",
@@ -6992,7 +6271,7 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 115
+    "id": 103
   },
   {
     "pmid": "39911983",
@@ -7065,6 +6344,6 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 116
+    "id": 104
   }
 ]
