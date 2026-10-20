@@ -107,7 +107,7 @@ a:hover{text-decoration:underline}
 .close{border:1px solid var(--line);background:#fff;border-radius:10px;padding:8px 12px;color:var(--muted);align-self:flex-start}
 .panel-body{padding:20px 28px 28px}
 .section-title{font-size:11px;text-transform:uppercase;letter-spacing:.08em;color:var(--muted);font-weight:700;margin:18px 0 8px}
-.box{background:#f8fafb;border:1px solid var(--line);border-radius:12px;padding:14px 16px;font-size:14px;line-height:1.65}
+.box{background:#f8fafb;border:1px solid var(--line);border-radius:12px;padding:14px 16px;font-size:14px;line-height:1.65;white-space:pre-line}
 .box.practical{background:var(--accent-soft);border-color:#b7e3e6}
 #panelAdviceSection{margin:4px 0 8px}
 #panelAdviceSection .section-title{margin-top:18px;margin-bottom:12px}
@@ -227,9 +227,9 @@ a:hover{text-decoration:underline}
       <button class="close" id="closePanel">✕</button>
     </div>
     <div class="panel-body">
-      <div id="panelPatientBlock">
-        <div class="section-title">Простым языком</div>
-        <div class="box" id="panelPatient"></div>
+      <div id="panelSummaryBlock">
+        <div class="section-title">Суть статьи</div>
+        <div class="box" id="panelSummary"></div>
       </div>
       <div id="panelPatientUseBlock">
         <div class="section-title">Практическая польза пациенту</div>
@@ -238,10 +238,6 @@ a:hover{text-decoration:underline}
       <div id="panelPracticalBlock">
         <div class="section-title">Практическая польза врачу</div>
         <div class="box practical" id="panelPractical"></div>
-      </div>
-      <div id="panelSummaryBlock">
-        <div class="section-title">Суть статьи</div>
-        <div class="box" id="panelSummary"></div>
       </div>
       <div id="panelAttackSection" hidden>
         <div class="section-title">Методы атак — проверить у нас</div>
@@ -596,18 +592,15 @@ function openPanel(id){
   document.getElementById("panelOriginal").textContent=a.article||"";
   const idBit=a.pmid?` · PMID ${a.pmid}`:"";
   document.getElementById("panelMeta").textContent=`${fmtDate(a.date)} · ${a.journal||sourceLabel(a)}${idBit}`;
-  const plain=String(a.patient_plain||"").trim();
-  setBlock("panelPatientBlock", !!plain);
-  document.getElementById("panelPatient").textContent=plain;
+  const summary=String(a.summary||"").trim();
+  setBlock("panelSummaryBlock", !!summary);
+  document.getElementById("panelSummary").textContent=summary;
   const patientUse=String(a.patient_use||"").trim();
   setBlock("panelPatientUseBlock", !!patientUse);
   document.getElementById("panelPatientUse").textContent=patientUse;
   const practical=String(a.practical_use||"").trim();
   setBlock("panelPracticalBlock", !!practical);
   document.getElementById("panelPractical").textContent=practical;
-  const summary=String(a.summary||"").trim();
-  setBlock("panelSummaryBlock", !!summary);
-  document.getElementById("panelSummary").textContent=summary;
   renderAttack(a.attack_methods);
   renderAdvice(a.advice_items);
   const why=[a.why_read,a._reason].map(v=>String(v||"").trim()).filter(Boolean).join(" ");
