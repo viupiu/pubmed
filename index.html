@@ -321,7 +321,7 @@ function topicTagsHtml(a){
 let articles = [];
 let activeView = "all";
 let activeTopic = [];
-let activeYear = ["2026"];
+let activeYear = [];
 let activeStars = [];
 let searchQuery = "";
 let currentId = null;
@@ -354,12 +354,16 @@ function matchesSearch(a,q){
   if(!q)return true;
   const hay=[
     a.pmid,a.article_link,a.pmc_link,a.doi,a.journal,
-    getTitle(a),a.article,valuesText(a.authors),a.topic,a.summary,a.practical_use,a.patient_plain,
+    getTitle(a),a.article,valuesText(a.authors),a.topic,a.summary,
+    a.practical_use,a.patient_plain,a.patient_use,
     a.knowledge_area,a._skill,valuesText(a.skills),valuesText(a.methods),
     valuesText(a.tasks),valuesText(a.domains),valuesText(a.project_fit),a._reason,a.why_read,
     ...(a.advice_items||[]).flatMap(it=>[it.quote,it.advice,it.audience])
   ].join(" ").toLowerCase();
-  return hay.includes(q);
+  // Все слова запроса должны встретиться (порядок не важен).
+  const tokens=q.split(/\s+/).map(t=>t.trim()).filter(Boolean);
+  if(!tokens.length)return true;
+  return tokens.every(t=>hay.includes(t));
 }
 function toggleFilter(list, v){
   const i=list.indexOf(v);
@@ -371,7 +375,8 @@ function matchesFilters(a, skip){
     const keys=articleTopicKeys(a);
     if(!activeTopic.some(t=>keys.includes(t)))return false;
   }
-  if(skip!=="year" && activeYear.length && !activeYear.includes(articleYear(a)))return false;
+  // При поиске смотрим весь каталог, без фильтра года.
+  if(skip!=="year" && !searchQuery && activeYear.length && !activeYear.includes(articleYear(a)))return false;
   if(skip!=="stars" && activeStars.length && !activeStars.includes(String(a.importance_stars??"")))return false;
   if(searchQuery && !matchesSearch(a,searchQuery))return false;
   return true;
@@ -379,13 +384,13 @@ function matchesFilters(a, skip){
 function baseFiltered(){return articles.filter(a=>matchesFilters(a,null))}
 function isDefaultFilters(){
   return activeView==="all" && !searchQuery && !activeTopic.length
-    && activeYear.length===1 && activeYear[0]==="2026"
+    && !activeYear.length
     && !activeStars.length;
 }
 function resetFilters(){
   activeView="all";
   activeTopic=[];
-  activeYear=["2026"];
+  activeYear=[];
   activeStars=[];
   searchQuery="";
   pageIndex=0;
@@ -645,7 +650,13 @@ function closeSidebar(){
 
 document.getElementById("closePanel").onclick=closePanel;
 document.getElementById("overlay").addEventListener("click",e=>{if(e.target.id==="overlay")closePanel()});
-document.getElementById("search").addEventListener("input",e=>{searchQuery=e.target.value.trim().toLowerCase();pageIndex=0;buildSidebar();render()});
+document.getElementById("search").addEventListener("input",e=>{
+  searchQuery=e.target.value.trim().toLowerCase();
+  pageIndex=0;
+  // Поиск не должен упираться в выбранный год.
+  if(searchQuery && activeYear.length)activeYear=[];
+  buildSidebar();render();
+});
 document.getElementById("sort").addEventListener("change",()=>{pageIndex=0;render()});
 document.getElementById("sidebar").addEventListener("click",onChipClick);
 document.getElementById("menuBtn").onclick=()=>{document.getElementById("sidebar").classList.toggle("open");document.getElementById("backdrop").classList.toggle("show")};
