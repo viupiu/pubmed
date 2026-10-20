@@ -51,7 +51,8 @@
     ],
     "importance_stars": 5,
     "importance_mark": "★★★★★",
-    "take": "keep"
+    "take": "keep",
+    "audience_sex": "women"
   },
   {
     "id": 2,
@@ -106,7 +107,8 @@
     ],
     "importance_stars": 5,
     "importance_mark": "★★★★★",
-    "take": "keep"
+    "take": "keep",
+    "audience_sex": "any"
   },
   {
     "id": 3,
@@ -150,7 +152,8 @@
     "advice_items": [],
     "importance_stars": 5,
     "importance_mark": "★★★★★",
-    "take": "skim"
+    "take": "skim",
+    "audience_sex": "men"
   },
   {
     "id": 4,
@@ -197,7 +200,8 @@
     "advice_items": [],
     "importance_stars": 5,
     "importance_mark": "★★★★★",
-    "take": "skim"
+    "take": "skim",
+    "audience_sex": "any"
   },
   {
     "id": 5,
@@ -245,7 +249,8 @@
     "advice_items": [],
     "importance_stars": 5,
     "importance_mark": "★★★★★",
-    "take": "skim"
+    "take": "skim",
+    "audience_sex": "men"
   },
   {
     "id": 6,
@@ -306,7 +311,8 @@
     ],
     "importance_stars": 5,
     "importance_mark": "★★★★★",
-    "take": "keep"
+    "take": "keep",
+    "audience_sex": "any"
   },
   {
     "id": 7,
@@ -366,7 +372,8 @@
     ],
     "importance_stars": 5,
     "importance_mark": "★★★★★",
-    "take": "keep"
+    "take": "keep",
+    "audience_sex": "men"
   },
   {
     "id": 8,
@@ -410,7 +417,8 @@
     "advice_items": [],
     "importance_stars": 5,
     "importance_mark": "★★★★★",
-    "take": "keep"
+    "take": "keep",
+    "audience_sex": "women"
   },
   {
     "id": 9,
@@ -466,7 +474,8 @@
     ],
     "importance_stars": 5,
     "importance_mark": "★★★★★",
-    "take": "keep"
+    "take": "keep",
+    "audience_sex": "women"
   },
   {
     "id": 10,
@@ -523,7 +532,8 @@
     ],
     "importance_stars": 5,
     "importance_mark": "★★★★★",
-    "take": "keep"
+    "take": "keep",
+    "audience_sex": "men"
   },
   {
     "id": 11,
@@ -587,7 +597,8 @@
     ],
     "importance_stars": 5,
     "importance_mark": "★★★★★",
-    "take": "keep"
+    "take": "keep",
+    "audience_sex": "any"
   },
   {
     "id": 12,
@@ -633,7 +644,8 @@
     "advice_items": [],
     "importance_stars": 5,
     "importance_mark": "★★★★★",
-    "take": "keep"
+    "take": "keep",
+    "audience_sex": "any"
   },
   {
     "id": 13,
@@ -673,7 +685,8 @@
     "advice_items": [],
     "importance_stars": 5,
     "importance_mark": "★★★★★",
-    "take": "keep"
+    "take": "keep",
+    "audience_sex": "any"
   },
   {
     "id": 14,
@@ -736,7 +749,8 @@
     ],
     "importance_stars": 5,
     "importance_mark": "★★★★★",
-    "take": "keep"
+    "take": "keep",
+    "audience_sex": "trans"
   },
   {
     "id": 15,
@@ -781,7 +795,8 @@
     "advice_items": [],
     "importance_stars": 5,
     "importance_mark": "★★★★★",
-    "take": "keep"
+    "take": "keep",
+    "audience_sex": "men"
   },
   {
     "id": 16,
@@ -825,7 +840,8 @@
     "advice_items": [],
     "importance_stars": 5,
     "importance_mark": "★★★★★",
-    "take": "skim"
+    "take": "skim",
+    "audience_sex": "any"
   },
   {
     "id": 17,
@@ -862,7 +878,8 @@
     "advice_items": [],
     "importance_stars": 5,
     "importance_mark": "★★★★★",
-    "take": "skim"
+    "take": "skim",
+    "audience_sex": "men"
   },
   {
     "id": 18,
@@ -927,7 +944,8 @@
     ],
     "importance_stars": 5,
     "importance_mark": "★★★★★",
-    "take": "keep"
+    "take": "keep",
+    "audience_sex": "men"
   },
   {
     "id": 19,
@@ -985,7 +1003,8 @@
     ],
     "importance_stars": 5,
     "importance_mark": "★★★★★",
-    "take": "keep"
+    "take": "keep",
+    "audience_sex": "any"
   },
   {
     "id": 20,
@@ -1024,7 +1043,8 @@
     "advice_items": [],
     "importance_stars": 5,
     "importance_mark": "★★★★★",
-    "take": "skim"
+    "take": "skim",
+    "audience_sex": "men"
   },
   {
     "id": 21,
@@ -1068,7 +1088,8 @@
     "advice_items": [],
     "importance_stars": 5,
     "importance_mark": "★★★★★",
-    "take": "skim"
+    "take": "skim",
+    "audience_sex": "any"
   },
   {
     "id": 22,
@@ -1144,6 +1165,7 @@
     ],
     "importance_stars": 5,
     "importance_mark": "★★★★★",
-    "take": "keep"
+    "take": "keep",
+    "audience_sex": "men"
   }
 ]
