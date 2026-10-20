@@ -344,67 +344,6 @@
   },
   {
     "id": 7,
-    "pmid": "42701670",
-    "source": "PubMed",
-    "article": "Pain in the heart, hair on the head: Pericarditis as an unanticipated risk of low-dose oral minoxidil.",
-    "authors": [
-      "Zappi Isabella",
-      "Spindler Archie",
-      "Maas Derek",
-      "Yaghoobzadeh Hooman",
-      "Lo Sicco Kristen I",
-      "Shapiro Jerry"
-    ],
-    "date": "2026-08-04",
-    "journal": "JAAD case reports",
-    "doi": "10.1016/j.jdcr.2026.07.056",
-    "topic": "АГА",
-    "topic_key": "aga",
-    "topic_keys": [
-      "aga"
-    ],
-    "topics": [
-      "АГА"
-    ],
-    "abstract_en": "",
-    "article_link": "https://pubmed.ncbi.nlm.nih.gov/42701670/",
-    "pmc_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13545680/",
-    "html_available": true,
-    "html_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13545680/",
-    "title_ru": "Перикардит как редкое потенциальное осложнение приёма низких доз перорального миноксидила для лечения выпадения волос",
-    "summary": "В статье описан случай перикардита, который авторы сочли наиболее вероятно связанным с повторным началом приёма низких доз перорального миноксидила (LDOM). В обзоре литературы также приведены два ранее опубликованных случая перикардита у мужчин, принимавших миноксидил, в том числе с развитием перикардиального или плеврального выпота; в обоих случаях симптомы разрешились после отмены препарата. Авторы подчёркивают, что осложнение может возникнуть даже у людей без известных заболеваний сердца или почек и после ранее хорошо переносимого лечения. Доказательства основаны на отдельных клинических случаях и не позволяют определить частоту осложнения или доказать причинно-следственную связь.",
-    "practical_use": "При назначении или возобновлении перорального миноксидила следует обсудить редкие, но потенциально серьёзные сердечно-сосудистые осложнения и обеспечить врачебное наблюдение. При подозрении на перикардит необходима кардиологическая оценка; ранее хорошая переносимость препарата не исключает осложнения при повторном назначении. Статья не позволяет количественно оценить риск или определить оптимальную схему возобновления лечения.",
-    "patient_plain": "Пероральный миноксидил, который используют для лечения выпадения волос, в редких описанных случаях связывали с воспалением оболочки сердца — перикардитом. Такие случаи отмечали и у людей без известных заболеваний сердца или почек, а также после повторного начала приёма препарата. В опубликованных случаях симптомы проходили после отмены миноксидила, но это не доказывает, что препарат был единственной причиной. Возобновлять его приём следует под наблюдением врача, а при подозрении на сердечное осложнение необходимо обратиться за медицинской помощью.",
-    "_reason": "Статья важна для практики, поскольку обращает внимание на потенциально серьёзное осложнение препарата, который применяют при андрогенетической алопеции и который обычно характеризуют как хорошо переносимый в низких дозах. Однако это описание клинического случая с обзором ещё двух случаев, поэтому оно служит сигналом для настороженности, а не доказательством частого риска или основанием для отказа от препарата у всех пациентов.",
-    "why_read": "Материал стоит прочитать дерматологам, назначающим пероральный миноксидил, особенно при повторном начале лечения после перерыва. Он также полезен для обсуждения сердечно-сосудистой безопасности и необходимости наблюдения, но не заменяет более масштабные исследования безопасности и клинические рекомендации.",
-    "limitations": [
-      "current studies may be underpowered to detect rare complications such as pericarditis",
-      "Although exceedingly rare, these reports highlight a potential association between LDOM and pericarditis.",
-      "raising questions about whether higher starting doses contribute towards risk"
-    ],
-    "advice_items": [
-      {
-        "quote": "This case reinforces the importance of dermatologist supervision when resuming LDOM, as pericarditis may develop rapidly and should warrant cardiac evaluation.",
-        "advice": "При возобновлении перорального миноксидила организуйте врачебное наблюдение и обсудите с пациентом возможные сердечные осложнения. При подозрении на перикардит необходима оценка состояния сердца. Авторы отмечают, что осложнение может развиться быстро.",
-        "audience": "врач"
-      },
-      {
-        "quote": "Prior tolerance to LDOM may not preclude side effects upon re-exposure.",
-        "advice": "Не считайте прежнюю хорошую переносимость перорального миноксидила гарантией безопасности при повторном назначении. При возобновлении лечения заново оцените клиническую ситуацию и необходимость наблюдения.",
-        "audience": "врач"
-      },
-      {
-        "quote": "Clinicians should remain vigilant for pericarditis symptoms and counsel patients regarding the possible rare but serious cardiac complications.",
-        "advice": "Перед началом или возобновлением лечения обсудите с пациентом возможность редких, но серьёзных сердечных осложнений. Объясните, что при появлении симптомов, вызывающих подозрение на перикардит, необходимо своевременно обратиться за медицинской помощью.",
-        "audience": "врач"
-      }
-    ],
-    "importance_stars": 4,
-    "importance_mark": "★★★★☆",
-    "take": "keep"
-  },
-  {
-    "id": 8,
     "pmid": "42644026",
     "source": "PubMed",
     "article": "Diagnostic Yield and Clinical Impact of Trichoscopy in Alopecia: A Cross-Sectional Study From a Rural Tertiary Care Centre.",
@@ -468,7 +407,7 @@
     "take": "keep"
   },
   {
-    "id": 9,
+    "id": 8,
     "pmid": "41742379",
     "source": "PubMed",
     "article": "Spironolactone vs. bicalutamide in female pattern hair loss: a randomized clinical trial.",
@@ -512,7 +451,7 @@
     "take": "keep"
   },
   {
-    "id": 10,
+    "id": 9,
     "pmid": "42631326",
     "source": "PubMed",
     "article": "Poor Therapeutic Response in Female Pattern Hair Loss: Mechanisms and a Practical Framework for Clinical Management.",
@@ -568,65 +507,7 @@
     "take": "keep"
   },
   {
-    "id": 11,
-    "pmid": "42564029",
-    "source": "PubMed",
-    "article": "Unexpected Hair Regrowth Following Oral Bicalutamide Exposure in a Male Patient With Androgenetic Alopecia and a Suboptimal Response to Conventional Therapies: A Case Report.",
-    "authors": [
-      "Martínez Coronado Jared",
-      "Dominguez Romo Kenia",
-      "Vazquez Enriquez Luisa F",
-      "Hurtado Cordova Jose",
-      "Pico Carolina"
-    ],
-    "date": "2026-07-06",
-    "journal": "Cureus",
-    "doi": "10.7759/cureus.112176",
-    "topic": "АГА",
-    "topic_key": "aga",
-    "topic_keys": [
-      "aga"
-    ],
-    "topics": [
-      "АГА"
-    ],
-    "abstract_en": "Androgenetic alopecia (AGA) is the most common cause of non-scarring hair loss in men. Although topical minoxidil and oral finasteride are established treatments, some patients show limited clinical response despite prolonged therapy. Evidence on the use of oral bicalutamide in male AGA remains scarce because of concerns about systemic adverse effects. We report the case of a 45-year-old man with treatment-resistant AGA who experienced clinically apparent hair regrowth during oral bicalutamide exposure after an inadequate response to conventional therapies. Treatment was accompanied by gynecomastia, mastodynia, decreased libido, erectile dysfunction, and mild elevations in hepatic enzymes, leading to drug discontinuation. Clinical adverse effects resolved after withdrawal of bicalutamide; however, follow-up hormonal evaluation and liver function tests were unavailable. This case describes a temporal association between androgen receptor blockade, clinically apparent hair regrowth, and clinically significant adverse effects. Although the findings provide additional insight into the role of androgen receptor signaling in AGA, they should not be interpreted as evidence supporting the use of oral bicalutamide in male patients. Further controlled studies are needed to better define the safety profile and potential role of androgen receptor antagonism in androgenetic alopecia.",
-    "article_link": "https://pubmed.ncbi.nlm.nih.gov/42564029/",
-    "pmc_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13441645/",
-    "html_available": true,
-    "html_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13441645/",
-    "title_ru": "Восстановление роста волос на фоне приёма бикалутамида у мужчины с андрогенетической алопецией и слабым ответом на стандартное лечение: описание клинического случая",
-    "summary": "В статье описан 45-летний мужчина с андрогенетической алопецией, у которого длительное применение наружного и перорального миноксидила и перорального финастерида давало ограниченный эффект. После отмены обоих вариантов миноксидила и начала приёма бикалутамида через четыре месяца наблюдалось клинически заметное увеличение густоты волос и покрытия кожи головы. Во время лечения возникли гинекомастия, болезненность молочных желёз, снижение либидо, эректильная дисфункция и небольшое повышение печёночных ферментов, поэтому препарат отменили. Это единичное наблюдение не доказывает, что рост волос был вызван бикалутамидом, и не подтверждает эффективность или приемлемую безопасность такого лечения.",
-    "practical_use": "На приёме следует рассматривать этот случай как основание для дальнейшего изучения андрогенных рецепторов, а не как аргумент в пользу назначения бикалутамида мужчине с недостаточным ответом на стандартную терапию. При обсуждении статьи важно объяснить системные эндокринные, сексуальные и потенциально печёночные риски препарата. Авторы подчёркивают необходимость контролируемых исследований; при этом упоминают исходный и периодический лабораторный контроль функции печени как важную меру безопасности при системной терапии бикалутамидом.",
-    "patient_plain": "У одного мужчины с недостаточным эффектом привычного лечения волосы стали заметно гуще после начала приёма бикалутамида. Однако одновременно появились увеличение и болезненность молочных желёз, снижение полового влечения, проблемы с эрекцией и повышение печёночных ферментов. После отмены препарата клинические побочные эффекты прошли, но повторных анализов для подтверждения восстановления функции печени и нормализации гормональных показателей не было. Один такой случай не доказывает эффективность препарата, а выраженные побочные эффекты не позволяют считать его безопасным способом лечения облысения.",
-    "_reason": "Статья интересна тем, что описывает заметное улучшение роста волос у мужчины после воздействия на андрогенные рецепторы, несмотря на слабый ответ на предшествующее лечение. Однако доказательная ценность ограничена одним случаем, отсутствием стандартизированных количественных измерений роста волос и невозможностью исключить влияние предыдущей терапии. Существенные системные побочные эффекты и отсутствие подтверждения биохимического восстановления после отмены не позволяют рекомендовать бикалутамид для лечения мужской андрогенетической алопеции.",
-    "why_read": "Статью стоит прочитать дерматологам и трихологам, которые ведут мужчин с недостаточным ответом на миноксидил и финастерид и хотят лучше понимать роль андрогенных рецепторов в миниатюризации волосяных фолликулов. Она также полезна врачам, оценивающим риски системной антиандрогенной терапии. Для выбора лечения конкретному пациенту этот клинический случай не предоставляет достаточных доказательств эффективности бикалутамида.",
-    "limitations": [
-      "As a single-patient observation, it cannot establish causality or estimate treatment efficacy.",
-      "Hormonal measurements before, during, and after treatment were unavailable",
-      "Follow-up liver function tests after treatment discontinuation were also unavailable",
-      "alcohol consumption during treatment was not documented",
-      "a viral hepatitis panel was not performed",
-      "treatment response was assessed using serial clinical photographs and routine dermatologic examination rather than standardized quantitative methods such as phototrichogram analysis."
-    ],
-    "advice_items": [
-      {
-        "quote": "Mild elevations in liver enzymes have been described during bicalutamide therapy, supporting the importance of baseline and periodic laboratory monitoring [5-7].",
-        "advice": "При обсуждении системной терапии бикалутамидом учитывайте риск повышения печёночных ферментов и необходимость исходного и периодического лабораторного контроля. В статье не приведены конкретные сроки или схема мониторинга, поэтому их нельзя выводить из этого клинического случая. Эти сведения не являются основанием назначать бикалутамид для лечения андрогенетической алопеции.",
-        "audience": "врач"
-      },
-      {
-        "quote": "Further controlled studies are needed to better characterize the biological effects of androgen receptor antagonism, establish its safety profile, and determine whether this therapeutic approach has any role in the management of male AGA.",
-        "advice": "Не рассматривайте описанное улучшение роста волос как доказательство эффективности бикалутамида при мужской андрогенетической алопеции. Авторы указывают на необходимость контролируемых исследований, которые позволят установить эффективность и безопасность такого подхода. При обсуждении результатов с пациентом отдельно объясните, что в описанном случае возникли значимые эндокринные и сексуальные побочные эффекты, а также повышение печёночных ферментов.",
-        "audience": "врач"
-      }
-    ],
-    "importance_stars": 4,
-    "importance_mark": "★★★★☆",
-    "take": "keep"
-  },
-  {
-    "id": 12,
+    "id": 10,
     "pmid": "42325479",
     "source": "PubMed",
     "article": "Assessing the Efficacy of Multimodal Therapy in Nonsurgical Hair Restoration for Noncicatricial Alopecia: A Retrospective Study.",
@@ -679,7 +560,7 @@
     "take": "keep"
   },
   {
-    "id": 13,
+    "id": 11,
     "pmid": "42535115",
     "source": "PubMed",
     "article": "Efficacy of Topical Tretinoin and Topical Minoxidil Cotherapy in Androgenetic Alopecia: A Review.",
@@ -751,7 +632,7 @@
     "take": "keep"
   },
   {
-    "id": 14,
+    "id": 12,
     "pmid": "42396141",
     "source": "PubMed",
     "article": "Sexual dysfunction associated with 5α-reductase inhibitors in the treatment of androgenetic alopecia: a systematic review.",
@@ -815,7 +696,7 @@
     "take": "keep"
   },
   {
-    "id": 15,
+    "id": 13,
     "pmid": "42234621",
     "source": "PubMed",
     "article": "Assessment and treatment of adolescent hair loss.",
@@ -872,7 +753,7 @@
     "take": "keep"
   },
   {
-    "id": 16,
+    "id": 14,
     "pmid": "42190753",
     "source": "PubMed",
     "article": "Microneedle frequency adjunct to 2% minoxidil in female androgenetic alopecia: A randomized controlled trial.",
@@ -920,7 +801,7 @@
     "take": "keep"
   },
   {
-    "id": 17,
+    "id": 15,
     "pmid": "42168420",
     "source": "PubMed",
     "article": "Combination Therapy in Androgenetic Alopecia: A Network Meta-Analysis of Minoxidil and Other Pharmacological Agents.",
@@ -966,7 +847,7 @@
     "take": "keep"
   },
   {
-    "id": 18,
+    "id": 16,
     "pmid": "42144229",
     "source": "PubMed",
     "article": "Androgenetic Alopecia: Narrative Review of Current Therapies and Proposal of a Practical Algorithm for Pharmacological Treatment.",
@@ -1006,7 +887,7 @@
     "take": "keep"
   },
   {
-    "id": 19,
+    "id": 17,
     "pmid": "42434041",
     "source": "PubMed",
     "article": "Additive Effects of Platelet-Rich Plasma and Systemic Therapies in Androgenetic Alopecia: A Retrospective Study.",
@@ -1056,7 +937,7 @@
     "take": "keep"
   },
   {
-    "id": 20,
+    "id": 18,
     "pmid": "41779759",
     "source": "PubMed",
     "article": "Persistent Alopecic Patches Following Dutasteride Mesotherapy for Female Androgenetic Alopecia: A Case Series.",
@@ -1108,7 +989,7 @@
     "take": "keep"
   },
   {
-    "id": 21,
+    "id": 19,
     "pmid": "41741964",
     "source": "PubMed",
     "article": "Quality of life and patient-reported side effects of low-dose oral minoxidil in treating female pattern hair loss.",
@@ -1166,7 +1047,7 @@
     "take": "keep"
   },
   {
-    "id": 22,
+    "id": 20,
     "pmid": "41066610",
     "source": "PubMed",
     "article": "Clinicopathological features and treatment outcomes of fibrosing alopecia in a pattern distribution: a multicentre cohort study.",
@@ -1233,7 +1114,7 @@
     "take": "keep"
   },
   {
-    "id": 23,
+    "id": 21,
     "pmid": "41695992",
     "source": "PubMed",
     "article": "Expanding the therapeutic landscape of minoxidil for androgenetic alopecia: topical, oral and sublingual formulations.",
@@ -1295,7 +1176,7 @@
     "take": "keep"
   },
   {
-    "id": 24,
+    "id": 22,
     "pmid": "41737285",
     "source": "PubMed",
     "article": "Diagnostic Performance of the Trichogram Compared to Histopathology of Scalp Biopsy in Horizontal Sections in Female Androgenetic Alopecia: A Retrospective Study.",
@@ -1350,7 +1231,7 @@
     "take": "keep"
   },
   {
-    "id": 25,
+    "id": 23,
     "pmid": "41650295",
     "source": "PubMed",
     "article": "Androgenetic alopecia: an international expert view on the aetiopathogenesis, quality of life and current and emerging therapeutic approaches.",
@@ -1393,66 +1274,7 @@
     "take": "skim"
   },
   {
-    "id": 26,
-    "pmid": "42005482",
-    "source": "PubMed",
-    "article": "Early Trichoscopic Changes of Minoxidil Therapy in Male Pattern Hair Loss: A Prospective Cohort Study.",
-    "authors": [
-      "Shukla Neha",
-      "Jaiswal Chandra Shekhar",
-      "Nagwanshi Jyoti",
-      "Dandotiya Dileep",
-      "Sharma Ranjana"
-    ],
-    "date": "2025-12-29",
-    "journal": "Journal of pharmacy & bioallied sciences",
-    "doi": "10.4103/jpbs.jpbs_1711_24",
-    "topic": "АГА",
-    "topic_key": "aga",
-    "topic_keys": [
-      "aga"
-    ],
-    "topics": [
-      "АГА"
-    ],
-    "abstract_en": "BACKGROUND: Minoxidil 5% is a primary treatment for male pattern hair loss, but initial increased shedding can reduce compliance. While effective, early changes are not visible to the naked eye. Trichoscopy is a rapid, cost-effective tool for diagnosing hair disorders, yet no studies have examined its role in assessing early minoxidil effects. This study aims to evaluate trichoscopic changes in early minoxidil therapy to improve patient compliance.\n\nMETHODOLOGY: A prospective cohort study was conducted from February 2019 to August 2020 at MGM Medical College and MY Hospital, Indore. Male patients with hair loss were evaluated using trichoscopy by a single observer. Other causes of hair loss were excluded.\n\nRESULTS: Minor adverse effects were reported in 45.5% of subjects, with 20% experiencing scalp dryness, 11% increased shedding, and 14% both. Overall, 70% of patients were satisfied with minoxidil therapy. The mean hair loss duration was 13 months, and the most common presentation was N-H grade III. Family history was positive in 78 subjects.\n\nCONCLUSION: Trichoscopy enhances early assessment of minoxidil therapy in male pattern hair loss, improving satisfaction and compliance. Positive changes can be observed within one month, encouraging continued treatment adherence.",
-    "article_link": "https://pubmed.ncbi.nlm.nih.gov/42005482/",
-    "pmc_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13086379/",
-    "html_available": true,
-    "html_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13086379/",
-    "title_ru": "Ранние изменения при трихоскопии на фоне миноксидила 5% у мужчин с андрогенетической алопецией",
-    "summary": "В проспективное когортное исследование включили 200 мужчин в возрасте 18–40 лет с подтверждённой трихоскопией андрогенетической алопецией. Исследователи сравнивали показатели трихоскопии до начала терапии миноксидилом 5% и во время наблюдения: через два месяца статистически значимо увеличились количество волос и число тонких, похожих на пушковые волос, а также уменьшились некоторые признаки, связанные с алопецией. Удовлетворённость лечением отметили 70% участников, у 45,5% наблюдались незначительные нежелательные явления. Исследование показывает, что трихоскопия помогает выявлять ранние изменения, которые могут быть незаметны визуально, но ограничено мужской когортой и не доказывает, что применение трихоскопии само по себе улучшает долгосрочную приверженность лечению.",
-    "practical_use": "При обсуждении лечения мужской андрогенетической алопеции врач может использовать трихоскопию для объективного сравнения состояния волос до начала терапии и в динамике, в том числе когда пациент пока не замечает видимого улучшения. Результаты позволяют обсуждать изменения уже на раннем этапе наблюдения, одновременно уточняя переносимость лечения и ожидания пациента. Исследование не устанавливает универсальный график обследований и не позволяет по одним трихоскопическим показателям гарантировать индивидуальный ответ на миноксидил.",
-    "patient_plain": "У мужчин с андрогенетической алопецией на фоне применения миноксидила 5% через два месяца при трихоскопии обнаружили увеличение количества волос и уменьшение некоторых признаков выпадения. Такие изменения могут быть незаметны при обычном осмотре, поэтому отсутствие видимого результата в зеркале не всегда означает, что изменений нет. При этом у части участников возникали сухость кожи головы и усиление выпадения волос, а исследование не гарантирует такой же результат каждому человеку.",
-    "_reason": "Практическая ценность статьи заключается в том, что она показывает возможность объективно отслеживать ранние изменения при лечении мужской андрогенетической алопеции, когда визуальный результат ещё трудно оценить. Однако данные одного когортного исследования не подтверждают, что трихоскопический контроль сам по себе повышает долгосрочную приверженность или улучшает конечный результат лечения.",
-    "why_read": "Статья полезна дерматологам и трихологам, которые наблюдают мужчин с ранней андрогенетической алопецией и хотят объяснять пациентам динамику лечения на основании объективных показателей. Её также стоит прочитать врачам, работающим с вопросами удовлетворённости терапией и переносимости миноксидила. Для оценки эффективности лечения у женщин эти результаты непосредственно неприменимы.",
-    "limitations": [
-      "This prospective cohort study (Feb 2019–Aug 2020) included male patients (18–40 years) with trichoscopic-confirmed MPHL at MGM Medical College.",
-      "We did not recruit female subjects in our study because telogen effluvium is difficult to differentiate from pattern hair loss by trichoscopy in females."
-    ],
-    "advice_items": [
-      {
-        "quote": "Dermatoscopy can be a useful tool to demonstrate hair diameter diversity due to progressive miniaturization before clinical baldness is visible and is characteristic of androgenetic alopecia.",
-        "advice": "При обследовании мужчины с подозрением на андрогенетическую алопецию используйте трихоскопию для оценки различий в диаметре волос, которые могут отражать миниатюризацию фолликулов до появления заметного облысения. Сопоставляйте эти признаки с клинической картиной, а не рассматривайте их изолированно.",
-        "audience": "врач"
-      },
-      {
-        "quote": "The number of vellus-like hair increased significantly with a mean value of 12.41 at baseline to 22.65 at second follow-up after 2 months of therapy (P = 0.000), which is due to the growth of new hairs.",
-        "advice": "При оценке динамики лечения учитывайте не только общее количество волос, но и число волос, похожих на пушковые, поскольку в исследовании этот показатель увеличился за два месяца терапии. Объясните пациенту, что это изменение было зарегистрировано при трихоскопии и само по себе не гарантирует заметного косметического улучшения.",
-        "audience": "врач"
-      },
-      {
-        "quote": "We also assessed patient satisfaction rate with effect of minoxidil therapy at the end of 2 months and found that 140 (70%) patients were satisfied with the therapy and 60 (30%) were not satisfied.",
-        "advice": "При контрольном визите выясняйте не только объективную динамику, но и удовлетворённость пациента лечением. Если ожидаемого визуального результата пока нет, обсудите результаты обследования и переносимость терапии, не обещая гарантированного улучшения.",
-        "audience": "врач"
-      }
-    ],
-    "importance_stars": 4,
-    "importance_mark": "★★★★☆",
-    "take": "keep"
-  },
-  {
-    "id": 27,
+    "id": 24,
     "pmid": "41219547",
     "source": "PubMed",
     "article": "Comparative Efficacy and Safety of Platelet Rich Plasma (PRP) versus Topical Minoxidil for Androgenetic Alopecia: A Systematic Review and Meta-analysis.",
@@ -1504,7 +1326,7 @@
     "take": "keep"
   },
   {
-    "id": 28,
+    "id": 25,
     "pmid": "41118052",
     "source": "PubMed",
     "article": "Oral Minoxidil for Alopecia Treatment: Risks, Benefits, and Recommendations.",
@@ -1562,7 +1384,7 @@
     "take": "keep"
   },
   {
-    "id": 29,
+    "id": 26,
     "pmid": "41044024",
     "source": "PubMed",
     "article": "Comparative Efficacy of Topical Chitosan and Minoxidil in Hair Loss: A Controlled Study With Microneedling.",
@@ -1610,7 +1432,7 @@
     "take": "keep"
   },
   {
-    "id": 30,
+    "id": 27,
     "pmid": "39948731",
     "source": "PubMed",
     "article": "Assessing the safety of topical minoxidil through disproportionality analysis of FAERS reports.",
