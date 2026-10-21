@@ -3019,50 +3019,6 @@
   },
   {
     "id": 48,
-    "pmid": "42294847",
-    "source": "PubMed",
-    "article": "Sacroiliac joint manipulation for low back and radicular pain: outcomes in a 100-patient single-center cohort.",
-    "authors": [
-      "Kowalczyk Patrycja",
-      "Niewodniczy Maciej",
-      "Szmyd Bartosz",
-      "Wiśniewski Karol",
-      "Jaskólski Dariusz J"
-    ],
-    "date": "2026-06-15",
-    "journal": "Neurologia i neurochirurgia polska",
-    "doi": "10.5603/pjnns.110751",
-    "topic": "Протрузии позвоночника",
-    "topic_key": "spine",
-    "topic_keys": [
-      "spine"
-    ],
-    "topics": [
-      "Протрузии позвоночника"
-    ],
-    "abstract_en": "INTRODUCTION: Sacroiliac joint (SIJ) dysfunction is an underrecognized source of lumbosacral and leg pain. Manual therapy targeting SIJ hypomobility/blockage may rapidly reduce pain and disability, yet pragmatic outcome data remain limited.\n\nMATERIAL AND METHODS: We conducted a single-center observational cohort study of 100 consecutive adults (73% women; mean age 49.16 ± 14.28 years; BMI 25.99 ± 4.15 kg/m²) with lumbosacral and/or radicular leg pain attributed to SIJ dysfunction. Eligibility required cross-sectional imaging (CT/MRI) and ≥ 3 positive SIJ provocation tests (e.g., Patrick/FABER, Mennell, thigh thrust, Yeoman's, SIJ compression, hip rotation). All patients received a standardized SIJ manipulation protocol (up to three sessions, 7-day intervals) administered by the same physiotherapist. Pain intensity on the Numerical Rating Scale (NRS) was measured at baseline, after each session, and at 3 months; disability was assessed with the Oswestry Disability Index (ODI). Nonparametric statistics were prespecified (Shapiro-Wilk test for normality; Friedman test with Kendall's W and Holm-adjusted Wilcoxon post hoc test for repeated NRS; Wilcoxon signed-rank test for ODI; α < 0.05).\n\nRESULTS: The most frequent abnormal finding was the Mennell sign (clinical finding, 100%); key provocation tests were commonly positive [thigh thrust 89%, Mennell (provocation) test 81%, Yeoman's test 52%]. Median NRS decreased from 8 (IQR: 7-9) at baseline to 1 (IQR: 0-3) after the first manipulation, 0 (IQR: 0-0) after the second and third, and 0 (IQR: 0-2) at 3 months (Friedman p < 0.001). ODI improved from 30 (IQR: 25-35) to 7 (IQR: 6-9; p < 0.001), with significant gains across all domains (all p < 0.001) at 3 months.\n\nCONCLUSIONS: In carefully triaged patients with suspected SIJ-mediated pain, a short, standardized SIJ manipulation sequence was associated with large, rapid, and sustained improvements in pain and disability through 3 months. These pragmatic data complement prior trials and support considering SIJ manipulation as a low-cost, repeatable option within conservative care pathways. Randomized, assessor-blinded studies with longer follow-up are warranted to confirm causality and identify likely responders.",
-    "article_link": "https://pubmed.ncbi.nlm.nih.gov/42294847/",
-    "pmc_link": "",
-    "html_available": false,
-    "html_link": "",
-    "title_ru": "Манипуляция крестцово-подвздошного сустава при боли в пояснице и ноге",
-    "patient_plain": "",
-    "patient_use": "Манипуляция КПС может быть вариантом консервативного лечения, если обследование указывает на этот сустав как источник боли, но исследование не доказывает, что процедура эффективна сама по себе. При боли в пояснице с отдачей в ногу попросите врача определить вероятный источник симптомов и оценить, подходит ли вам мануальная терапия.",
-    "practical_use": "В исследовании отбор основывался на данных КТ или МРТ и не менее чем трёх положительных провокационных тестах КПС. Не переносите полученные результаты на всех пациентов с радикулопатией: причинная роль манипуляции и критерии отбора наиболее отвечающих на лечение пациентов пока не установлены.",
-    "summary": "В одноцентровом наблюдательном исследовании 100 взрослых с болью в пояснице и/или иррадиирующей болью в ноге, связанной с дисфункцией крестцово-подвздошного сустава (КПС), применяли мануальную манипуляцию: до трёх сеансов с интервалом 7 дней. Медианная боль по шкале NRS снизилась с 8 до 1 после первого сеанса и до 0 после последующих; через 3 месяца улучшились также показатели ограничения повседневной активности.\nВсе участники получали лечение без контрольной группы, поэтому нельзя отделить эффект манипуляции от естественного улучшения и других факторов.",
-    "_reason": "Практический интерес ограничен отсутствием контрольной группы и невозможностью подтвердить самостоятельный эффект процедуры.",
-    "why_read": "Полезно для оценки краткого протокола манипуляции КПС и критериев отбора пациентов.",
-    "limitations": [
-      "single-center observational cohort study",
-      "Randomized, assessor-blinded studies with longer follow-up are warranted to confirm causality and identify likely responders."
-    ],
-    "advice_items": [],
-    "importance_stars": 1,
-    "importance_mark": "★☆☆☆☆",
-    "take": "skim"
-  },
-  {
-    "id": 49,
     "pmid": "42267621",
     "source": "PubMed",
     "article": "Exploring the mechanism of differential responses to combination therapy in melasma: pigmentary versus mixed pigmentary-vascular types-a clinical study based on interaction analysis.",
@@ -3127,7 +3083,7 @@
     "take": "keep"
   },
   {
-    "id": 50,
+    "id": 49,
     "pmid": "42434659",
     "source": "PubMed",
     "article": "Evidence-Based Conservative Treatment Strategies for Lumbar Radiculopathy: A Systematic Review.",
@@ -3172,7 +3128,7 @@
     "take": "keep"
   },
   {
-    "id": 51,
+    "id": 50,
     "pmid": "42499700",
     "source": "PubMed",
     "article": "High-Potency Depigmenting Mask Delivered via 1,927-nm Fractional Laser in Refractory Melasma: A Pilot Case Series.",
@@ -3238,7 +3194,7 @@
     "take": "keep"
   },
   {
-    "id": 52,
+    "id": 51,
     "pmid": "42260872",
     "source": "PubMed",
     "article": "Clinical efficacy of acupuncture in the treatment of sciatica during the remission phase of lumbar disc herniation: A secondary analysis of a randomized controlled trial.",
@@ -3355,10 +3311,10 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 53
+    "id": 52
   },
   {
-    "id": 54,
+    "id": 53,
     "pmid": "42266765",
     "source": "PubMed",
     "article": "Subtype-Specific Response to Fractional-Mode Q-Switched Ruby Laser in Melasma: A Prospective Single-Blind Clinical Study Using Clinical and Noninvasive Imaging Assessments.",
@@ -3421,7 +3377,7 @@
     "take": "keep"
   },
   {
-    "id": 55,
+    "id": 54,
     "pmid": "42602406",
     "source": "PubMed",
     "article": "Efficacy and safety of microneedling with tranexamic acid versus microneedling with vitamin C in the treatment of melasma: a systematic review and meta-analysis.",
@@ -3493,7 +3449,7 @@
     "take": "keep"
   },
   {
-    "id": 56,
+    "id": 55,
     "pmid": "42555436",
     "source": "PubMed",
     "article": "Early Phase Adaptations in Strength, Muscle Size, and Co-activation Following Resistance Training in Untrained Women.",
@@ -3553,7 +3509,7 @@
     "take": "keep"
   },
   {
-    "id": 57,
+    "id": 56,
     "pmid": "42482855",
     "source": "PubMed",
     "article": "Combination Approach to Hyperpigmentation: Unveiling Enhanced Aesthetic Results With Microneedling and Pigment-Correcting Peel.",
@@ -3611,7 +3567,7 @@
     "take": "keep"
   },
   {
-    "id": 58,
+    "id": 57,
     "pmid": "42228070",
     "source": "PubMed",
     "article": "The Efficacy and Safety of Platelet-Rich Plasma in the Treatment of Melasma: A Systematic Review and Meta-analysis.",
@@ -3676,7 +3632,7 @@
     "take": "keep"
   },
   {
-    "id": 59,
+    "id": 58,
     "pmid": "42356038",
     "source": "PubMed",
     "article": "Effects of Knee Flexion Angle on Gluteus Medius Activation and Activation Ratios During the Modified Clamshell Exercise.",
@@ -3732,7 +3688,7 @@
     "take": "keep"
   },
   {
-    "id": 60,
+    "id": 59,
     "pmid": "42255387",
     "source": "PubMed",
     "article": "Combined ultrasound-guided hyaluronic acid injections, high-power laser therapy and physiotherapy improve hip function in osteoarthritis: A randomized controlled trial.",
@@ -3855,10 +3811,10 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 61
+    "id": 60
   },
   {
-    "id": 62,
+    "id": 61,
     "pmid": "42453254",
     "source": "PubMed",
     "article": "Awareness, knowledge, attitude, and behaviors related to topical corticosteroid use among population in Hail, Saudi Arabia: A cross-sectional study.",
@@ -3938,7 +3894,7 @@
     "take": "keep"
   },
   {
-    "id": 63,
+    "id": 62,
     "pmid": "42326234",
     "source": "PubMed",
     "article": "Oral Corticosteroid Therapy in Lumbar Radiculopathy: Evidence From Randomized Controlled Trials.",
@@ -4042,10 +3998,10 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 64
+    "id": 63
   },
   {
-    "id": 65,
+    "id": 64,
     "pmid": "42160459",
     "source": "PubMed",
     "article": "Menstrual Cycle Phase Does Not Influence Training-Induced Muscle Hypertrophy or Strength: A Randomized Controlled Trial.",
@@ -4111,7 +4067,7 @@
     "take": "keep"
   },
   {
-    "id": 66,
+    "id": 65,
     "pmid": "42220332",
     "source": "PubMed",
     "article": "Changes in sleep and clinical outcomes in hip osteoarthritis: A longitudinal secondary analysis of a randomised controlled trial.",
@@ -4170,7 +4126,7 @@
     "take": "keep"
   },
   {
-    "id": 67,
+    "id": 66,
     "pmid": "42119525",
     "source": "PubMed",
     "article": "Reliability of flywheel hip extension and leg curl tests and their associations with isokinetic hamstring strength.",
@@ -4228,7 +4184,7 @@
     "take": "keep"
   },
   {
-    "id": 68,
+    "id": 67,
     "pmid": "42281676",
     "source": "PubMed",
     "article": "Partial Unilateral Lentiginosis: A Systematic Review of 159 Reported Cases and Diagnostic Considerations.",
@@ -4302,7 +4258,7 @@
     "take": "keep"
   },
   {
-    "id": 69,
+    "id": 68,
     "pmid": "42434041",
     "source": "PubMed",
     "article": "Additive Effects of Platelet-Rich Plasma and Systemic Therapies in Androgenetic Alopecia: A Retrospective Study.",
@@ -4353,7 +4309,7 @@
     "take": "keep"
   },
   {
-    "id": 70,
+    "id": 69,
     "pmid": "42094857",
     "source": "PubMed",
     "article": "A Retrospective Analysis of Radiofrequency Microneedling for Melasma Management in the Japanese Population.",
@@ -4413,7 +4369,7 @@
     "take": "keep"
   },
   {
-    "id": 71,
+    "id": 70,
     "pmid": "42081634",
     "source": "PubMed",
     "article": "Efficacy and Safety of Topical Metformin vs Kligman Formula in the Treatment of Melasma: A Split-Face Study.",
@@ -4482,7 +4438,7 @@
     "take": "keep"
   },
   {
-    "id": 72,
+    "id": 71,
     "pmid": "42014099",
     "source": "PubMed",
     "article": "Cardiovascular Complications of Minoxidil Toxicosis in Two Dogs.",
@@ -4557,7 +4513,7 @@
     "take": "keep"
   },
   {
-    "id": 73,
+    "id": 72,
     "pmid": "42109558",
     "source": "PubMed",
     "article": "Facial Melanosis: A Comprehensive Review of Uncommon and Common Presentations with Personal Experience.",
@@ -4626,7 +4582,7 @@
     "take": "keep"
   },
   {
-    "id": 74,
+    "id": 73,
     "pmid": "42188553",
     "source": "PubMed",
     "article": "The Effects of a 16-Week Periodized Resistance Training Program on the Strength, Power, and Body Composition of Elite Collegiate Cheerleaders.",
@@ -4681,7 +4637,7 @@
     "take": "keep"
   },
   {
-    "id": 75,
+    "id": 74,
     "pmid": "42033031",
     "source": "PubMed",
     "article": "Editorial Commentary: When Efficacy is Similar, Risk Should Decide: Why Ketorolac Deserves Priority Over Corticosteroids For Hip Injections.",
@@ -4739,7 +4695,7 @@
     "take": "keep"
   },
   {
-    "id": 76,
+    "id": 75,
     "pmid": "42038512",
     "source": "PubMed",
     "article": "Viscosupplementation with High Molecular Weight Hyaluronic Acid for Hip Osteoarthritis: An Updated Systematic Review and Meta-Analysis of Randomized Controlled Trials.",
@@ -4803,7 +4759,7 @@
     "take": "keep"
   },
   {
-    "id": 77,
+    "id": 76,
     "pmid": "42028100",
     "source": "PubMed",
     "article": "Efficacy and Safety of Picosecond Laser Combined With Sodium Hyaluronate for Melasma.",
@@ -4867,7 +4823,7 @@
     "take": "keep"
   },
   {
-    "id": 78,
+    "id": 77,
     "pmid": "42025113",
     "source": "PubMed",
     "article": "Histopathological evaluation of facial melasma treated with oral tranexamic acid alone and in combination with ketotifen.",
@@ -4940,7 +4896,7 @@
     "take": "keep"
   },
   {
-    "id": 79,
+    "id": 78,
     "pmid": "42012877",
     "source": "PubMed",
     "article": "Motor imagery and action observation for knee and hip osteoarthritis: systematic review and meta-analysis.",
@@ -4997,7 +4953,7 @@
     "take": "keep"
   },
   {
-    "id": 80,
+    "id": 79,
     "pmid": "41706544",
     "source": "PubMed",
     "article": "Moderators of the Effects of Exercise and Manual Therapy for People With Knee and Hip Osteoarthritis: A Secondary Analysis of a Randomized Clinical Trial.",
@@ -5062,7 +5018,7 @@
     "take": "keep"
   },
   {
-    "id": 81,
+    "id": 80,
     "pmid": "41985475",
     "source": "PubMed",
     "article": "Changes in Upper-Limb Lean Tissue Mass in the Early Stages of Resistance Training: The Role of Volume Progression and Exercise Variation in Young Women and Men.",
@@ -5119,7 +5075,7 @@
     "take": "keep"
   },
   {
-    "id": 82,
+    "id": 81,
     "pmid": "41964922",
     "source": "PubMed",
     "article": "Optimization of hand position on the bar for strengthening biceps brachii and latissimus dorsi during strength training.",
@@ -5173,7 +5129,7 @@
     "take": "keep"
   },
   {
-    "id": 83,
+    "id": 82,
     "pmid": "41934348",
     "source": "PubMed",
     "article": "Incidence and Risks of Chronic Rhinosinusitis in Head and Neck Cancer: A Meta-Analysis.",
@@ -5222,7 +5178,7 @@
     "take": "keep"
   },
   {
-    "id": 84,
+    "id": 83,
     "pmid": "41736456",
     "source": "PubMed",
     "article": "Minimal Important Change and Minimal Clinically Important Difference in Pain and Function With Exercise in Hip Osteoarthritis.",
@@ -5288,7 +5244,7 @@
     "take": "keep"
   },
   {
-    "id": 85,
+    "id": 84,
     "pmid": "41931963",
     "source": "PubMed",
     "article": "Effect of a protein intervention during resistance training with varying training intensities on muscle outcomes in frail community-dwelling older adults: a randomized controlled trial.",
@@ -5347,7 +5303,7 @@
     "take": "keep"
   },
   {
-    "id": 86,
+    "id": 85,
     "pmid": "41927997",
     "source": "PubMed",
     "article": "Efficacy and Safety of LetibotulinumtoxinA Injection for Trapezius Hypertrophy: A Prospective, Randomized, Double-Blind Trial.",
@@ -5403,7 +5359,7 @@
     "take": "keep"
   },
   {
-    "id": 87,
+    "id": 86,
     "pmid": "42686152",
     "source": "PubMed",
     "article": "Variations in Gluteus Medius Activity During Clam Exercise: Differences Due to Hip Flexion Angle During Exercise and Maximum Passive Internal Rotation Range.",
@@ -5515,10 +5471,10 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 88
+    "id": 87
   },
   {
-    "id": 89,
+    "id": 88,
     "pmid": "41954038",
     "source": "PubMed",
     "article": "Evaluating the Effectiveness of Commercial Oral Supplements for Hair Growth: A Systematic Review and Meta-Analysis.",
@@ -5567,7 +5523,7 @@
     "take": "keep"
   },
   {
-    "id": 90,
+    "id": 89,
     "pmid": "41947475",
     "source": "PubMed",
     "article": "Prospective, Randomized, Double-Blind, Placebo-Controlled Study of an Oral Antioxidant-Rich Synbiotic Supplement on Skin Health and Photoaging.",
@@ -5633,7 +5589,7 @@
     "take": "skim"
   },
   {
-    "id": 91,
+    "id": 90,
     "pmid": "41945421",
     "source": "PubMed",
     "article": "Effectiveness of Using the AOPT-LTL Technique for the Treatment of Melasma: A Clinical Study.",
@@ -5702,7 +5658,7 @@
     "take": "keep"
   },
   {
-    "id": 92,
+    "id": 91,
     "pmid": "42064496",
     "source": "PubMed",
     "article": "Efficacy and Safety of Laser-Based Therapies for Melasma: A Systematic Review and Meta-Analysis.",
@@ -5840,10 +5796,10 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 93
+    "id": 92
   },
   {
-    "id": 94,
+    "id": 93,
     "pmid": "41870519",
     "source": "PubMed",
     "article": "Efficacy and Safety of a Topical Nicotinamide Adenine Dinucleotide Skinbooster for the Treatment of Melasma.",
@@ -5908,7 +5864,7 @@
     "take": "keep"
   },
   {
-    "id": 95,
+    "id": 94,
     "pmid": "41841366",
     "source": "PubMed",
     "article": "Comparison of efficacy and safety of fractional 1064 nm picosecond laser and low-fluence Q-switched Nd:YAG laser in the treatment of melasma.",
@@ -5969,7 +5925,7 @@
     "take": "keep"
   },
   {
-    "id": 96,
+    "id": 95,
     "pmid": "41832625",
     "source": "PubMed",
     "article": "Microneedle-based Transdermal Patch: A Novel Strategy for Hyperpigmentation Treatment.",
@@ -6028,7 +5984,7 @@
     "take": "keep"
   },
   {
-    "id": 97,
+    "id": 96,
     "pmid": "41824827",
     "source": "PubMed",
     "article": "Improved clinical efficacy of melasma with combination therapy of intense pulsed light and tranexamic acid: A retrospective analysis.",
@@ -6133,10 +6089,10 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 98
+    "id": 97
   },
   {
-    "id": 99,
+    "id": 98,
     "pmid": "41959968",
     "source": "PubMed",
     "article": "Topical Steroid and Fairness Cream Abuse in Facial Dermatoses: A Cross-Sectional Study at a Tertiary Care Center in Western Uttar Pradesh.",
@@ -6207,7 +6163,7 @@
     "take": "keep"
   },
   {
-    "id": 100,
+    "id": 99,
     "pmid": "41900512",
     "source": "PubMed",
     "article": "Effects of Creatine Monohydrate Gummies on Performance and Body Composition in Female Beach Volleyball Athletes.",
@@ -6264,7 +6220,7 @@
     "take": "keep"
   },
   {
-    "id": 101,
+    "id": 100,
     "pmid": "41782066",
     "source": "PubMed",
     "article": "Comparing the efficacy and safety of a 730-nm picosecond laser with a 532-nm Q-switched Nd:YAG laser for facial pigmented disorders: a retrospective comparative study.",
@@ -6328,7 +6284,7 @@
     "take": "keep"
   },
   {
-    "id": 102,
+    "id": 101,
     "pmid": "42605306",
     "source": "PubMed",
     "article": "Safety and Efficacy of Laser Versus Cryotherapy in the Treatment of Lentigines: A Systematic Review and Meta-analysis of Randomized Controlled Trials : Short title: Safety and Efficacy of Laser Versus Cryotherapy in the Treatment of Lentigines.",
@@ -6391,7 +6347,7 @@
     "take": "keep"
   },
   {
-    "id": 103,
+    "id": 102,
     "pmid": "42516618",
     "source": "PubMed",
     "article": "Front-Loading Fatigue: Does the Pre-exhaustion Method influence Resistance Training-induced Muscular Adaptations?",
@@ -6457,7 +6413,7 @@
     "take": "keep"
   },
   {
-    "id": 104,
+    "id": 103,
     "pmid": "42017707",
     "source": "PubMed",
     "article": "Effects of cervical traction with and without EMG biofeedback in patients with cervical radiculopathy- A randomised controlled trial.",
@@ -6552,10 +6508,10 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 105
+    "id": 104
   },
   {
-    "id": 106,
+    "id": 105,
     "pmid": "41764757",
     "source": "PubMed",
     "article": "Effect of Kinetic Control Retraining on Neck Proprioception and Function in Cervical Radiculopathy: A Randomized Controlled Trial.",
@@ -6600,7 +6556,7 @@
     "take": "keep"
   },
   {
-    "id": 107,
+    "id": 106,
     "pmid": "41725026",
     "source": "PubMed",
     "article": "Exploring the Effectiveness, Tolerability, and Safety of the Adjunctive Use of Microneedling With Tranexamic Acid in the Treatment of Melasma.",
@@ -6670,7 +6626,7 @@
     "take": "keep"
   },
   {
-    "id": 108,
+    "id": 107,
     "pmid": "41884735",
     "source": "PubMed",
     "article": "Efficacy of Tranexamic acid Microneedling versus Intradermal Injection of Tranexamic Acid in the Treatment of Melasma - A Randomised Controlled Trial.",
@@ -6736,7 +6692,7 @@
     "take": "keep"
   },
   {
-    "id": 109,
+    "id": 108,
     "pmid": "41755803",
     "source": "PubMed",
     "article": "Long-term efficacy of intra-articular viscosupplementation in delaying hip osteoarthritis radiographic progression: a retrospective, non-controlled study from the ANTIAGE registry.",
@@ -6805,7 +6761,7 @@
     "take": "keep"
   },
   {
-    "id": 110,
+    "id": 109,
     "pmid": "41741964",
     "source": "PubMed",
     "article": "Quality of life and patient-reported side effects of low-dose oral minoxidil in treating female pattern hair loss.",
@@ -6853,7 +6809,7 @@
     "take": "keep"
   },
   {
-    "id": 111,
+    "id": 110,
     "pmid": "41734356",
     "source": "PubMed",
     "article": "Neuromuscular Fatigue During Heavy Resistance Drop Set Training to Failure.",
@@ -6908,7 +6864,7 @@
     "take": "keep"
   },
   {
-    "id": 112,
+    "id": 111,
     "pmid": "41730219",
     "source": "PubMed",
     "article": "Stable Supportive Footwear for Self-managing Hip Osteoarthritis Pain : A Randomized Clinical Trial.",
@@ -7040,10 +6996,10 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 113
+    "id": 112
   },
   {
-    "id": 114,
+    "id": 113,
     "pmid": "41743904",
     "source": "PubMed",
     "article": "Correlation Between Improvements in Melasma Quality of Life (MELASQoL-INA) and Modified Melasma Area and Severity Index (mMASI) Following Triple Combination Therapy.",
@@ -7105,7 +7061,7 @@
     "take": "keep"
   },
   {
-    "id": 115,
+    "id": 114,
     "pmid": "41718594",
     "source": "PubMed",
     "article": "Progressive Overload Affects the Magnitude of Muscle Hypertrophy.",
@@ -7167,7 +7123,7 @@
     "take": "keep"
   },
   {
-    "id": 116,
+    "id": 115,
     "pmid": "41869255",
     "source": "PubMed",
     "article": "Laser-Based Management of Occupational Photodamage in a Young Adult: A Case Report.",
@@ -7237,7 +7193,7 @@
     "take": "keep"
   },
   {
-    "id": 117,
+    "id": 116,
     "pmid": "41908499",
     "source": "PubMed",
     "article": "Drug-Induced Melasma in Patients on 5-Alpha Reductase Inhibitors: A Case Report.",
@@ -7301,7 +7257,7 @@
     "take": "keep"
   },
   {
-    "id": 118,
+    "id": 117,
     "pmid": "41767513",
     "source": "PubMed",
     "article": "Efficacy and safety of Q-switched laser combined with intense pulsed light in treating melasma: a meta-analysis.",
@@ -7364,7 +7320,7 @@
     "take": "keep"
   },
   {
-    "id": 119,
+    "id": 118,
     "pmid": "41754127",
     "source": "PubMed",
     "article": "Effects of 8 Weeks of Resistance Training Combined with a High-Protein Diet and Omega-3 Supplementation on Body Composition, Muscular Performance, and Muscle-Related Biomarkers in Overweight Women.",
@@ -7424,7 +7380,7 @@
     "take": "keep"
   },
   {
-    "id": 120,
+    "id": 119,
     "pmid": "41673842",
     "source": "PubMed",
     "article": "The effects of combined balance and perturbation training on gluteal muscle activity and hip kinematics in women with patellofemoral pain syndrome: a randomized controlled trial.",
@@ -7479,7 +7435,7 @@
     "take": "keep"
   },
   {
-    "id": 121,
+    "id": 120,
     "pmid": "41668543",
     "source": "PubMed",
     "article": "Dual 1550-nm Erbium Glass Fiber and 1927-nm Thulium Fiber Non-ablative Fractional Laser System Treatment in Patients With Skin of Color: A Review of Clinical Studies and Unmet Needs.",
@@ -7551,7 +7507,7 @@
     "take": "keep"
   },
   {
-    "id": 122,
+    "id": 121,
     "pmid": "41675240",
     "source": "PubMed",
     "article": "Factors Associated With Quality of Life and Treatment Practice Among Melasma Patients in Nepal.",
@@ -7618,7 +7574,7 @@
     "take": "keep"
   },
   {
-    "id": 123,
+    "id": 122,
     "pmid": "42138052",
     "source": "PubMed",
     "article": "Steroid-eluting stents in chronic rhinosinusitis: a systematic review.",
@@ -7676,7 +7632,7 @@
     "take": "keep"
   },
   {
-    "id": 124,
+    "id": 123,
     "pmid": "41736839",
     "source": "PubMed",
     "article": "Intra-articular hyaluronic acid (viscosupplementation) for osteoarthritis: is it effective?",
@@ -7745,7 +7701,7 @@
     "take": "keep"
   },
   {
-    "id": 125,
+    "id": 124,
     "pmid": "41684167",
     "source": "PubMed",
     "article": "No Differences in Muscular Adaptations to Long-Term Resistance Training Between Young Strict Vegetarian and Non-Vegetarian Women.",
@@ -7804,7 +7760,7 @@
     "take": "keep"
   },
   {
-    "id": 126,
+    "id": 125,
     "pmid": "41656621",
     "source": "PubMed",
     "article": "A 50+ Sunscreen Containing Polypodium Leucotomos Extract, Ellagic Acid, and Niacinamide in Facial Melasma and Photoaging-Related Hyperpigmentation: A Pilot Observational Study Using Line-Field Confocal Optical Coherence Tomography.",
@@ -7873,7 +7829,7 @@
     "take": "keep"
   },
   {
-    "id": 127,
+    "id": 126,
     "pmid": "41652806",
     "source": "PubMed",
     "article": "The Safety and Efficacy of a Novel Saw Palmetto (Serenoa repens) Extract for Promoting Hair Growth in Adults With Self-Perceived Thinning Hair: 180-Day Results.",
@@ -7913,7 +7869,7 @@
     "take": "keep"
   },
   {
-    "id": 128,
+    "id": 127,
     "pmid": "41607139",
     "source": "PubMed",
     "article": "A Pilot Study on the Use of Topical Gold and Diamond Suspension Combined With 1,064 nm Picosecond Nd:YAG Laser for the Treatment of Facial Melasma.",
@@ -7978,7 +7934,7 @@
     "take": "keep"
   },
   {
-    "id": 129,
+    "id": 128,
     "pmid": "41601401",
     "source": "PubMed",
     "article": "Tranexamic Acid for Hyperpigmentation Disorders: A Literature Review on Efficacy and Safety in Melasma and PIH.",
@@ -8041,7 +7997,7 @@
     "take": "keep"
   },
   {
-    "id": 130,
+    "id": 129,
     "pmid": "41618213",
     "source": "PubMed",
     "article": "Investigating the therapeutic impact of platelet-rich plasma on knee, hip, and traumatic osteoarthritis: a meta-analysis and systematic review.",
@@ -8101,7 +8057,7 @@
     "take": "keep"
   },
   {
-    "id": 131,
+    "id": 130,
     "pmid": "41609763",
     "source": "PubMed",
     "article": "Ankle Position-Dependent Muscle Swelling During Seated Leg Curl: Ultrasonographic Insights Into the Hamstrings and Medial and Lateral Gastrocnemius.",
@@ -8165,7 +8121,7 @@
     "take": "keep"
   },
   {
-    "id": 132,
+    "id": 131,
     "pmid": "41720017",
     "source": "PubMed",
     "article": "Analysis of the efficacy of intense pulsed light combined with collagen wound dressings for treating facial postburn hyperpigmentation.",
@@ -8235,7 +8191,7 @@
     "take": "keep"
   },
   {
-    "id": 133,
+    "id": 132,
     "pmid": "41589005",
     "source": "PubMed",
     "article": "Assessing the Safety and Efficacy of Picosecond Alexandrite Lasers in the Management of Melasma: A Systematic Review and Meta-Analysis of Randomised Control Trials.",
@@ -8307,7 +8263,7 @@
     "take": "keep"
   },
   {
-    "id": 134,
+    "id": 133,
     "pmid": "41752649",
     "source": "PubMed",
     "article": "Short-Term Effects of Manual Therapy Combined with Functional Magnetic Stimulation in Individuals with Lumbar Disk Herniation with Radiculopathy: A Randomized Clinical Trial.",
@@ -8359,7 +8315,7 @@
     "take": "skim"
   },
   {
-    "id": 135,
+    "id": 134,
     "pmid": "41579839",
     "source": "PubMed",
     "article": "Efficacy and safety of corticosteroids in the management of chronic rhinosinusitis: A systematic review and meta-analysis of randomized and non-randomized studies.",
@@ -8418,7 +8374,7 @@
     "take": "keep"
   },
   {
-    "id": 136,
+    "id": 135,
     "pmid": "41695992",
     "source": "PubMed",
     "article": "Expanding the therapeutic landscape of minoxidil for androgenetic alopecia: topical, oral and sublingual formulations.",
@@ -8461,7 +8417,7 @@
     "take": "keep"
   },
   {
-    "id": 137,
+    "id": 136,
     "pmid": "41566113",
     "source": "PubMed",
     "article": "Efficacy and Tolerability of 0.2% Thiamidol Cream for Facial Hyperpigmentation: A Randomized, Double-Blind, and Vehicle-Controlled Study.",
@@ -8526,7 +8482,7 @@
     "take": "keep"
   },
   {
-    "id": 138,
+    "id": 137,
     "pmid": "40679399",
     "source": "PubMed",
     "article": "Myofibrillar Protein Synthesis Rates Do not Differ With Low and High Estradiol Concentrations Across the Menstrual Cycle.",
@@ -8639,10 +8595,10 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 139
+    "id": 138
   },
   {
-    "id": 140,
+    "id": 139,
     "pmid": "41599942",
     "source": "PubMed",
     "article": "Using Dose-Response Correlation Re-Analyzing to Distinguish Placebo from Standardized Rose-Hip Powder (Lito) in a Clinical Trial on Osteoarthritis Where Data Initially Looked Identical.",
@@ -8696,7 +8652,7 @@
     "take": "keep"
   },
   {
-    "id": 141,
+    "id": 140,
     "pmid": "41083209",
     "source": "PubMed",
     "article": "How blood flow restriction resistance training has been studied on non-restricted muscles in healthy, injured and clinical populations: a scoping review and evidence gap map.",
@@ -8755,7 +8711,7 @@
     "take": "keep"
   },
   {
-    "id": 142,
+    "id": 141,
     "pmid": "41598681",
     "source": "PubMed",
     "article": "Clinical Outcomes of Intra-Articular Ozone Injections in Hip Osteoarthritis: A Retrospective Study Comparing Different Injection Frequencies.",
@@ -8822,7 +8778,7 @@
     "take": "keep"
   },
   {
-    "id": 143,
+    "id": 142,
     "pmid": "41545313",
     "source": "PubMed",
     "article": "A phase III, randomised, double-blind, multi-dose, placebo- and naproxen-controlled study to evaluate the efficacy and safety of fasinumab in patients with pain due to osteoarthritis of the knee or hip.",
@@ -8894,7 +8850,7 @@
     "take": "keep"
   },
   {
-    "id": 144,
+    "id": 143,
     "pmid": "41532844",
     "source": "PubMed",
     "article": "Therapist-Delivered Video Therapy Habit Reversal Training for Body-Focused Repetitive Behaviors: Clinical Outcomes From a Large Real-World Sample of Youth and Adults.",
@@ -8950,7 +8906,7 @@
     "take": "keep"
   },
   {
-    "id": 145,
+    "id": 144,
     "pmid": "41517728",
     "source": "PubMed",
     "article": "Laser and light-based therapies combined with topical agents for melasma: A systematic review and meta-analysis.",
@@ -9017,7 +8973,7 @@
     "take": "keep"
   },
   {
-    "id": 146,
+    "id": 145,
     "pmid": "41511609",
     "source": "PubMed",
     "article": "Effects of different kinesiology taping applications on Pain, muscular Fitness, Proprioception, Mobility, Functionality, and disability in patients with lumbar disc herniation.",
@@ -9061,7 +9017,7 @@
     "take": "skim"
   },
   {
-    "id": 147,
+    "id": 146,
     "pmid": "41505744",
     "source": "PubMed",
     "article": "Effects of Performing Eccentric Contractions to Failure After Concentric Muscle Failure in Resistance Training Sessions: Protocol for a Within-Participant Randomized Trial.",
@@ -9124,7 +9080,7 @@
     "take": "keep"
   },
   {
-    "id": 148,
+    "id": 147,
     "pmid": "41643473",
     "source": "PubMed",
     "article": "Influences of vegan status on protein intake, lean body mass, and strength in lightly active, young women: A cross-sectional study.",
@@ -9180,7 +9136,7 @@
     "take": "keep"
   },
   {
-    "id": 149,
+    "id": 148,
     "pmid": "41485124",
     "source": "PubMed",
     "article": "Comparative Study of a 1064 nm Fractional Picosecond Laser Versus Intense Pulsed Light in Facial Rejuvenation: A Prospective Randomized Trial.",
@@ -9245,7 +9201,7 @@
     "take": "keep"
   },
   {
-    "id": 150,
+    "id": 149,
     "pmid": "42287090",
     "source": "PubMed",
     "article": "Comparison of Clinical Efficiency and Safety Between Intra-Articular Injection of Platelet-Rich Plasma and Hyaluronic Acid for Hip Osteoarthritis: A Systematic Review and Meta-Analysis.",
@@ -9314,7 +9270,7 @@
     "take": "keep"
   },
   {
-    "id": 151,
+    "id": 150,
     "pmid": "42047123",
     "source": "PubMed",
     "article": "Efficacy of Alexandrite picosecond laser therapy with and without dermal polyrevitalisation (NCTF® 135 HA) in patients with melasma: A Randomised Controlled Trial.",
@@ -9437,10 +9393,10 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 152
+    "id": 151
   },
   {
-    "id": 153,
+    "id": 152,
     "pmid": "41493259",
     "source": "PubMed",
     "article": "A Novel Topical Agent for the Management of Hyperpigmentation, Including Melasma and Age Spots.",
@@ -9510,7 +9466,7 @@
     "take": "keep"
   },
   {
-    "id": 154,
+    "id": 153,
     "pmid": "41493255",
     "source": "PubMed",
     "article": "Evaluation of an Advanced, Multimodal Skin Tone Correcting Serum in Participants With Mild-to-Severe Dyschromia and Hyperpigmentation.",
@@ -9568,7 +9524,7 @@
     "take": "keep"
   },
   {
-    "id": 155,
+    "id": 154,
     "pmid": "41493252",
     "source": "PubMed",
     "article": "Clinical Evaluation of a Thiamidol-Based Regimen With SPF Compared With SPF Alone for Facial Hyperpigmentation.",
@@ -9620,7 +9576,7 @@
     "take": "keep"
   },
   {
-    "id": 156,
+    "id": 155,
     "pmid": "41493251",
     "source": "PubMed",
     "article": "A Randomized, Controlled, Split-Face, Double-Blind Study Comparing Topical Malassezin to Hydroquinone 4% for Melasma.",
@@ -9687,7 +9643,7 @@
     "take": "keep"
   },
   {
-    "id": 157,
+    "id": 156,
     "pmid": "41585833",
     "source": "PubMed",
     "article": "Efficacy of Intense Pulsed Light Treatment in Melasma.",
@@ -9755,7 +9711,7 @@
     "take": "keep"
   },
   {
-    "id": 158,
+    "id": 157,
     "pmid": "41473851",
     "source": "PubMed",
     "article": "Micro-fragmented adipose tissue for the treatment of hip osteoarthritis: A prospective pilot study at 1-year follow-up.",
@@ -9830,7 +9786,7 @@
     "take": "keep"
   },
   {
-    "id": 159,
+    "id": 158,
     "pmid": "41550413",
     "source": "PubMed",
     "article": "Prevalence and impact of sleep disorders in osteoarthritis: A systematic review and meta-analysis.",
@@ -9886,7 +9842,7 @@
     "take": "keep"
   },
   {
-    "id": 160,
+    "id": 159,
     "pmid": "41450485",
     "source": "PubMed",
     "article": "Orthobiologic injections for hip osteoarthritis: A systematic review of clinical outcomes.",
@@ -9945,7 +9901,7 @@
     "take": "keep"
   },
   {
-    "id": 161,
+    "id": 160,
     "pmid": "41490183",
     "source": "PubMed",
     "article": "A Case of Severe Skin Adverse Reactions Caused by Cetuximab.",
@@ -10021,7 +9977,7 @@
     "take": "keep"
   },
   {
-    "id": 162,
+    "id": 161,
     "pmid": "41471132",
     "source": "PubMed",
     "article": "Systematic Review and Meta-Analysis of Treatments on Melasma Area Severity Index and Quality of Life.",
@@ -10089,7 +10045,7 @@
     "take": "keep"
   },
   {
-    "id": 163,
+    "id": 162,
     "pmid": "41379528",
     "source": "PubMed",
     "article": "Comparison of Muscle Hypertrophy and Strength Adaptations Induced by Back Squat and Leg Extension Resistance Exercises.",
@@ -10150,7 +10106,7 @@
     "take": "keep"
   },
   {
-    "id": 164,
+    "id": 163,
     "pmid": "41523529",
     "source": "PubMed",
     "article": "A Comparative Study of the Efficacy of Chemical Peels and Microneedling in the Treatment of Moderate to Severe Melasma.",
@@ -10212,7 +10168,7 @@
     "take": "keep"
   },
   {
-    "id": 165,
+    "id": 164,
     "pmid": "41386386",
     "source": "PubMed",
     "article": "The effect of exercise and soy protein intake on physical frailty score improvement in community-dwelling elderly: a randomized controlled trial.",
@@ -10272,7 +10228,7 @@
     "take": "keep"
   },
   {
-    "id": 166,
+    "id": 165,
     "pmid": "41372602",
     "source": "PubMed",
     "article": "Efficacy and Safety of 675-nm Laser Monotherapy for Melasma in Fitzpatrick Skin Types III-V: A Prospective Pre-Post Intervention Study.",
@@ -10341,7 +10297,7 @@
     "take": "keep"
   },
   {
-    "id": 167,
+    "id": 166,
     "pmid": "41510434",
     "source": "PubMed",
     "article": "High Resolution Ultrasound for the Assessment of Melasma: Experience With 1064 nm Q-Switched Nd:YAG Laser.",
@@ -10403,7 +10359,7 @@
     "take": "keep"
   },
   {
-    "id": 168,
+    "id": 167,
     "pmid": "41359274",
     "source": "PubMed",
     "article": "Small muscle mass exercise enhances muscular adaptations? Effects of unilateral and bilateral biceps curl on maximum strength and muscle size changes.",
@@ -10466,7 +10422,7 @@
     "take": "keep"
   },
   {
-    "id": 169,
+    "id": 168,
     "pmid": "41345828",
     "source": "PubMed",
     "article": "Regional Activation of the Latissimus Dorsi Muscle by High-Density Surface Electromyography During Isometric Shoulder and Trunk Exercises.",
@@ -10515,7 +10471,7 @@
     "take": "keep"
   },
   {
-    "id": 170,
+    "id": 169,
     "pmid": "41343037",
     "source": "PubMed",
     "article": "The Resistance Training Dose Response: Meta-Regressions Exploring the Effects of Weekly Volume and Frequency on Muscle Hypertrophy and Strength Gains.",
@@ -10577,7 +10533,7 @@
     "take": "keep"
   },
   {
-    "id": 171,
+    "id": 170,
     "pmid": "41420622",
     "source": "PubMed",
     "article": "The efficacy of cysteamine as a melasma therapy: a systematic review of trial studies.",
@@ -10638,7 +10594,7 @@
     "take": "keep"
   },
   {
-    "id": 172,
+    "id": 171,
     "pmid": "41378674",
     "source": "PubMed",
     "article": "The Efficacy of Laser Therapy in Melasma Treatment: A Systematic Review and Meta-Analysis.",
@@ -10753,10 +10709,10 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 173
+    "id": 172
   },
   {
-    "id": 174,
+    "id": 173,
     "pmid": "41363060",
     "source": "PubMed",
     "article": "The Quality and Reliability of Short Videos About Melasma on TikTok and Bilibili: A Cross-Sectional Study.",
@@ -10812,7 +10768,7 @@
     "take": "keep"
   },
   {
-    "id": 175,
+    "id": 174,
     "pmid": "41347603",
     "source": "PubMed",
     "article": "Efficacy of the Combination Therapy of Intense Pulsed Light and Microneedling With a Postbiotic Formulation for Melasma.",
@@ -10911,7 +10867,7 @@
     "take": "keep"
   },
   {
-    "id": 176,
+    "id": 175,
     "pmid": "41329151",
     "source": "PubMed",
     "article": "Clinical Evaluation of Thiamidol-Containing Formulations for the Visual Management of Facial Hyperpigmentation.",
@@ -11007,10 +10963,10 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 177
+    "id": 176
   },
   {
-    "id": 178,
+    "id": 177,
     "pmid": "40714983",
     "source": "PubMed",
     "article": "Effect of calcifediol on chronic rhinosinusitis, a randomized clinical trial.",
@@ -11062,7 +11018,7 @@
     "take": "keep"
   },
   {
-    "id": 179,
+    "id": 178,
     "pmid": "41315336",
     "source": "PubMed",
     "article": "Safety and efficacy of niosomal and conventional tranexamic acid/niacinamide vs. hydroquinone creams in melasma: A randomized, double-blind, case-controlled clinical trial.",
@@ -11188,10 +11144,10 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 180
+    "id": 179
   },
   {
-    "id": 181,
+    "id": 180,
     "pmid": "41321592",
     "source": "PubMed",
     "article": "Efficacy and Safety Evaluation of Microneedling Combined with Tranexamic Acid-Arbutin Liquid Excipients in the Treatment of Melasma: A Retrospective Study.",
@@ -11254,7 +11210,7 @@
     "take": "keep"
   },
   {
-    "id": 182,
+    "id": 181,
     "pmid": "41321361",
     "source": "PubMed",
     "article": "Comparison of Gluteus Medius Muscle Activation in Women With and Without Patellofemoral Pain.",
@@ -11312,7 +11268,7 @@
     "take": "keep"
   },
   {
-    "id": 183,
+    "id": 182,
     "pmid": "41289886",
     "source": "PubMed",
     "article": "Gluteus medius activation timing is related to knee abduction angle during single-leg landing.",
@@ -11368,7 +11324,7 @@
     "take": "keep"
   },
   {
-    "id": 184,
+    "id": 183,
     "pmid": "41346985",
     "source": "PubMed",
     "article": "Sleep disturbances and sleep quality among individuals diagnosed with osteoarthritis: a systematic review and meta-analysis.",
@@ -11484,7 +11440,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 185
+    "id": 184
   },
   {
     "pmid": "41409531",
@@ -11545,10 +11501,10 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 186
+    "id": 185
   },
   {
-    "id": 187,
+    "id": 186,
     "pmid": "41243347",
     "source": "PubMed",
     "article": "Hypopigmentation Following Picosecond Laser Treatment for Melasma: A Case Series.",
@@ -11660,10 +11616,10 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 188
+    "id": 187
   },
   {
-    "id": 189,
+    "id": 188,
     "pmid": "41376753",
     "source": "PubMed",
     "article": "Outcomes Following Stem Cell-Based Therapies for Hip Osteoarthritis: A Scoping Review.",
@@ -11772,7 +11728,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 190
+    "id": 189
   },
   {
     "pmid": "41245990",
@@ -11834,10 +11790,10 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 191
+    "id": 190
   },
   {
-    "id": 192,
+    "id": 191,
     "pmid": "41256928",
     "source": "PubMed",
     "article": "Effects of multi-ingredient protein supplementation combined with exercise intervention on body composition and muscle fitness in healthy women: a systematic review with multilevel meta-analysis.",
@@ -11903,7 +11859,7 @@
     "take": "keep"
   },
   {
-    "id": 193,
+    "id": 192,
     "pmid": "41337764",
     "source": "PubMed",
     "article": "Comparison of the Efficacy of Conventional Radiofrequency to Intraarticular Steroid Injections for Advanced Hip Osteoarthritis: A Randomized Trial.",
@@ -11958,7 +11914,7 @@
     "take": "keep"
   },
   {
-    "id": 194,
+    "id": 193,
     "pmid": "41165671",
     "source": "PubMed",
     "article": "Hip Pain and Mobility Deficits-Hip Osteoarthritis: Revision 2025.",
@@ -12005,7 +11961,7 @@
     "take": "keep"
   },
   {
-    "id": 195,
+    "id": 194,
     "pmid": "41323020",
     "source": "PubMed",
     "article": "The Effects of Fasinumab on Peripheral Nerve Function and Ganglion Anatomy: Results From a Randomized, Double-Blind, Placebo-Controlled Study in Patients With Pain Due to Osteoarthritis of the Knee or Hip, and a Series of Nonclinical Studies.",
@@ -12079,7 +12035,7 @@
     "take": "keep"
   },
   {
-    "id": 196,
+    "id": 195,
     "pmid": "41146901",
     "source": "PubMed",
     "article": "Non-Insulated Microneedle Radiofrequency for the Treatment of Hydroquinone-Induced Exogenous Ochronosis: A Case Report and Literature Review.",
@@ -12150,7 +12106,7 @@
     "take": "keep"
   },
   {
-    "id": 197,
+    "id": 196,
     "pmid": "41124830",
     "source": "PubMed",
     "article": "Optimal modality and dose of exercise for relieving pain in patients with knee or hip osteoarthritis: Bayesian pairwise, network, and dose-response meta-analyses.",
@@ -12269,10 +12225,10 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 198
+    "id": 197
   },
   {
-    "id": 199,
+    "id": 198,
     "pmid": "41091230",
     "source": "PubMed",
     "article": "Fractional non ablative 675 nm diode laser versus low fluence high frequency Q- switched 1064 nm nd: YAG laser in the treatment of melasma: a comparative split face trial.",
@@ -12337,7 +12293,7 @@
     "take": "keep"
   },
   {
-    "id": 200,
+    "id": 199,
     "pmid": "41744050",
     "source": "PubMed",
     "article": "Combined Aquatic and Pilates Exercises Improve Pain, Mobility, Functional Disability, and Quality of Life in Women With Lumbar Disc Herniation: A Randomized Controlled Trial.",
@@ -12379,7 +12335,7 @@
     "take": "keep"
   },
   {
-    "id": 201,
+    "id": 200,
     "pmid": "42368614",
     "source": "PubMed",
     "article": "App-based exercise intervention versus supervised exercise therapy for patients with hip or knee osteoarthritis-the randomised noninferiority DigiOA trial.",
@@ -12440,7 +12396,7 @@
     "take": "keep"
   },
   {
-    "id": 202,
+    "id": 201,
     "pmid": "41141645",
     "source": "PubMed",
     "article": "Training load and pain response during progressive resistance training in patients with hip osteoarthritis in the PROHIP trial.",
@@ -12504,7 +12460,7 @@
     "take": "keep"
   },
   {
-    "id": 203,
+    "id": 202,
     "pmid": "41044286",
     "source": "PubMed",
     "article": "A pilot randomized split-face trial comparing fractional Q-Switched ruby laser and 1064-nm Q-Switched nd: YAG laser in Chinese women with melasma running titile: fQSRL vs. QSNY in melasma.",
@@ -12623,10 +12579,10 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 204
+    "id": 203
   },
   {
-    "id": 205,
+    "id": 204,
     "pmid": "41042152",
     "source": "PubMed",
     "article": "Impact of resistance training-induced changes in muscle quality on muscle power: a post-hoc analysis.",
@@ -12677,7 +12633,7 @@
     "take": "keep"
   },
   {
-    "id": 206,
+    "id": 205,
     "pmid": "41049232",
     "source": "PubMed",
     "article": "Adult-Onset Partial Unilateral Lentiginosis: A Rare Pigmentary Mosaicism With Clinical Response to Tranexamic Acid.",
@@ -12750,7 +12706,7 @@
     "take": "keep"
   },
   {
-    "id": 207,
+    "id": 206,
     "pmid": "41104353",
     "source": "PubMed",
     "article": "Patient-reported outcomes following radiofrequency ablation of the hip: a retrospective study.",
@@ -12815,7 +12771,7 @@
     "take": "keep"
   },
   {
-    "id": 208,
+    "id": 207,
     "pmid": "41036635",
     "source": "PubMed",
     "article": "A Novel Dermocosmetic Routine Containing Vitamin B3 and 2-Mercaptonicotinyl Glycine Significantly Improves Melasma After 3 Months of Daily Use.",
@@ -12886,7 +12842,7 @@
     "take": "keep"
   },
   {
-    "id": 209,
+    "id": 208,
     "pmid": "41014037",
     "source": "PubMed",
     "article": "Comparison of Visible Light-Protective Tinted Sunscreen to Untinted Sunscreen to Protect Melasma Patients During Summer: A Prospective Randomized Investigator-Blinded Study.",
@@ -12954,7 +12910,7 @@
     "take": "keep"
   },
   {
-    "id": 210,
+    "id": 209,
     "pmid": "41093311",
     "source": "PubMed",
     "article": "Effects of Amino Acid Supplementation on Muscle protein metabolism and adaptation: a narrative review of effects on muscle mass, strength, and sex differences.",
@@ -13019,7 +12975,7 @@
     "take": "keep"
   },
   {
-    "id": 211,
+    "id": 210,
     "pmid": "41020517",
     "source": "PubMed",
     "article": "Laser and Light-Based Therapies for Treating Melasma: An In-Depth Review.",
@@ -13149,10 +13105,10 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 212
+    "id": 211
   },
   {
-    "id": 213,
+    "id": 212,
     "pmid": "41003821",
     "source": "PubMed",
     "article": "Efficacy and safety of low-fluence 1064 nm picosecond laser with/without micro-lens arrays for melasma treatment: a randomized, split-face controlled study.",
@@ -13220,7 +13176,7 @@
     "take": "keep"
   },
   {
-    "id": 214,
+    "id": 213,
     "pmid": "41149049",
     "source": "PubMed",
     "article": "Efficacy and Safety of Different Treatments for Melasma: Network Meta-Analysis of Updated Data.",
@@ -13290,7 +13246,7 @@
     "take": "keep"
   },
   {
-    "id": 215,
+    "id": 214,
     "pmid": "40997242",
     "source": "PubMed",
     "article": "Effects of cervico-lumbar combination manual therapy in patients with cervical radiculopathy : A randomized controlled pilot trial.",
@@ -13335,7 +13291,7 @@
     "take": "skim"
   },
   {
-    "id": 216,
+    "id": 215,
     "pmid": "40996222",
     "source": "PubMed",
     "article": "Delphi consensus on melasma management by international experts and pigmentary disorders society.",
@@ -13430,7 +13386,7 @@
     "take": "keep"
   },
   {
-    "id": 217,
+    "id": 216,
     "pmid": "41316621",
     "source": "PubMed",
     "article": "Comparable regional hypertrophy of the knee extensor muscles in response to resistance training with machines versus free weights: a randomized within-subject approach.",
@@ -13490,7 +13446,7 @@
     "take": "keep"
   },
   {
-    "id": 218,
+    "id": 217,
     "pmid": "41255724",
     "source": "PubMed",
     "article": "Combining Fractional 1927 nm Thulium Laser and Subdermal 1470 nm Diode Laser for Facial Aesthetic Procedures: Two Case Reports.",
@@ -13602,7 +13558,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 219
+    "id": 218
   },
   {
     "pmid": "40986632",
@@ -13673,10 +13629,10 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 220
+    "id": 219
   },
   {
-    "id": 221,
+    "id": 220,
     "pmid": "40977436",
     "source": "PubMed",
     "article": "Superficial and Deep Gluteal Muscle Activation During Common Therapeutic Exercises: A Muscle Functional Magnetic Resonance Imaging Analysis.",
@@ -13734,7 +13690,7 @@
     "take": "keep"
   },
   {
-    "id": 222,
+    "id": 221,
     "pmid": "40974584",
     "source": "PubMed",
     "article": "Diagnostic Performance of Ultrasound to Evaluate Mild Hip Osteoarthritis: Comparison With Radiography and MRI.",
@@ -13854,10 +13810,10 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 223
+    "id": 222
   },
   {
-    "id": 224,
+    "id": 223,
     "pmid": "40971538",
     "source": "PubMed",
     "article": "Effectiveness of simultaneous application of cervical traction and neural mobilization on pain and disability in patients with cervical radiculopathy: A systematic review and meta-analysis.",
@@ -13902,7 +13858,7 @@
     "take": "keep"
   },
   {
-    "id": 225,
+    "id": 224,
     "pmid": "40970991",
     "source": "PubMed",
     "article": "Clinical study on the effectiveness of laser combined with topical tranexamic acid in the treatment of melasma.",
@@ -13965,7 +13921,7 @@
     "take": "keep"
   },
   {
-    "id": 226,
+    "id": 225,
     "pmid": "40970768",
     "source": "PubMed",
     "article": "Comparative Efficacy of 35 % Glycolic Acid Peel versus 4 % Retinol Peel in Melasma.",
@@ -14025,7 +13981,7 @@
     "take": "keep"
   },
   {
-    "id": 227,
+    "id": 226,
     "pmid": "41041440",
     "source": "PubMed",
     "article": "Relative efficacy of minoxidil in combination with other treatments for androgenic alopecia: a network meta-analysis based on randomized controlled trials.",
@@ -14069,7 +14025,7 @@
     "take": "keep"
   },
   {
-    "id": 228,
+    "id": 227,
     "pmid": "40960154",
     "source": "PubMed",
     "article": "Efficacy and safety of the triple combination cream in Chinese patients with moderate to severe melasma: A multi-center, randomized, double-blind, three-arm, parallel-group, placebo-controlled clinical trial.",
@@ -14147,7 +14103,7 @@
     "take": "keep"
   },
   {
-    "id": 229,
+    "id": 228,
     "pmid": "40932145",
     "source": "PubMed",
     "article": "Treatment of Melasma Using Low-Fluence QS Nd: YAG (1064 nm) Laser: A Blind, Randomized, Placebo-Controlled Trial.",
@@ -14211,7 +14167,7 @@
     "take": "keep"
   },
   {
-    "id": 230,
+    "id": 229,
     "pmid": "40926406",
     "source": "PubMed",
     "article": "A Core-Shell Structured Microneedle Patch With Adjustable Release of Kinetically for the Treatment of Melasma.",
@@ -14274,7 +14230,7 @@
     "take": "keep"
   },
   {
-    "id": 231,
+    "id": 230,
     "pmid": "40926079",
     "source": "PubMed",
     "article": "Resistance training, but not leucine, increased basal muscle protein synthesis and reversed frailty in older women consuming optimized protein intake.",
@@ -14398,10 +14354,10 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 232
+    "id": 231
   },
   {
-    "id": 233,
+    "id": 232,
     "pmid": "40963665",
     "source": "PubMed",
     "article": "Optimizing resistance training for pain management in knee and hip osteoarthritis: a pairwise and dose-response meta-analysis.",
@@ -14456,7 +14412,7 @@
     "take": "keep"
   },
   {
-    "id": 234,
+    "id": 233,
     "pmid": "40891760",
     "source": "PubMed",
     "article": "Clinical features, safety, and efficacy of combining Q-switched Nd:YAG laser and FOB® Tri-White Serum in melasma treatment.",
@@ -14581,10 +14537,10 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 235
+    "id": 234
   },
   {
-    "id": 236,
+    "id": 235,
     "pmid": "40923777",
     "source": "PubMed",
     "article": "Randomized Clinical Trial on the Efficacy of Oral Tranexamic Acid Versus Topical Tranexamic Acid in Treatment of Melasma.",
@@ -14652,7 +14608,7 @@
     "take": "keep"
   },
   {
-    "id": 237,
+    "id": 236,
     "pmid": "40850937",
     "source": "PubMed",
     "article": "Resistance Training Beyond Momentary Failure: The Effects of Past-Failure Partials Versus Initial Partials on Calf Muscle Hypertrophy Among a Resistance-Trained Cohort.",
@@ -14711,7 +14667,7 @@
     "take": "keep"
   },
   {
-    "id": 238,
+    "id": 237,
     "pmid": "41668940",
     "source": "PubMed",
     "article": "Effects of different velocity loss thresholds on strength, neuromuscular adaptations, and muscle hypertrophy during bench press training in women.",
@@ -14828,10 +14784,10 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 239
+    "id": 238
   },
   {
-    "id": 240,
+    "id": 239,
     "pmid": "41048334",
     "source": "PubMed",
     "article": "Response to \"Improvement of female pattern hair loss with bicalutamide: A time-dependent process\".",
@@ -14873,7 +14829,7 @@
     "take": "keep"
   },
   {
-    "id": 241,
+    "id": 240,
     "pmid": "40867012",
     "source": "PubMed",
     "article": "Targeted muscle activation in Bulgarian split squat variations: effects of trunk position and suspension-based execution.",
@@ -14930,7 +14886,7 @@
     "take": "keep"
   },
   {
-    "id": 242,
+    "id": 241,
     "pmid": "40858208",
     "source": "PubMed",
     "article": "Comparative Efficacy of Various Exercise Modalities and Doses in Reducing Pain and Improving Function in Older Adults With Knee or Hip Osteoarthritis: A Bayesian Network and Dose-Response Meta-analysis.",
@@ -14990,7 +14946,7 @@
     "take": "keep"
   },
   {
-    "id": 243,
+    "id": 242,
     "pmid": "40847672",
     "source": "PubMed",
     "article": "Thiamidol in Melasma in Patients of Skin of Color: A Preliminary Report of Efficacy and Safety.",
@@ -15054,7 +15010,7 @@
     "take": "keep"
   },
   {
-    "id": 244,
+    "id": 243,
     "pmid": "40835769",
     "source": "PubMed",
     "article": "Nerve Block-Assisted Intradermal Injection of Tranexamic Acid, Vitamin C, and Glutathione for Melasma: A Split-Face Comparative Study.",
@@ -15173,10 +15129,10 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 245
+    "id": 244
   },
   {
-    "id": 246,
+    "id": 245,
     "pmid": "40843921",
     "source": "PubMed",
     "article": "Comparative Effects of Blood Flow Restriction and Traditional Strength Training on Proximal Shoulder Musculature: A Randomized Clinical Trial.",
@@ -15233,7 +15189,7 @@
     "take": "keep"
   },
   {
-    "id": 247,
+    "id": 246,
     "pmid": "40826371",
     "source": "PubMed",
     "article": "Microneedling-assisted delivery of metformin versus tranexamic acid in treating melasma: a randomized controlled study.",
@@ -15299,7 +15255,7 @@
     "take": "keep"
   },
   {
-    "id": 248,
+    "id": 247,
     "pmid": "40590795",
     "source": "PubMed",
     "article": "Comparative Efficacy and Safety of Injectable Tranexamic Acid Combination Therapies for Melasma: A Network Meta-analysis of Randomized Controlled Trials.",
@@ -15363,7 +15319,7 @@
     "take": "keep"
   },
   {
-    "id": 249,
+    "id": 248,
     "pmid": "40951222",
     "source": "PubMed",
     "article": "Alopecia as an Emerging Adverse Effect Associated With Glucagon-Like Peptide-1 (GLP-1) Receptor Agonists for Weight Loss: A Scoping Review.",
@@ -15406,7 +15362,7 @@
     "take": "keep"
   },
   {
-    "id": 250,
+    "id": 249,
     "pmid": "40802269",
     "source": "PubMed",
     "article": "In Vivo Evaluation of Melasma Pathologic Features and Treatment Response by 2-Photon Microscopy.",
@@ -15530,10 +15486,10 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 251
+    "id": 250
   },
   {
-    "id": 252,
+    "id": 251,
     "pmid": "40832456",
     "source": "PubMed",
     "article": "Low-Level Laser Therapy as an Effective Intervention for Facial Pigmentation: A Case Report of Ephelides and Lentigines in Syrian Women.",
@@ -15596,7 +15552,7 @@
     "take": "keep"
   },
   {
-    "id": 253,
+    "id": 252,
     "pmid": "40800678",
     "source": "PubMed",
     "article": "Combination of Three Treatment Modes of 1064 nm Nd: YAG Laser in the Treatment of Melasma: A Retrospective Observational Study.",
@@ -15664,7 +15620,7 @@
     "take": "keep"
   },
   {
-    "id": 254,
+    "id": 253,
     "pmid": "40759020",
     "source": "PubMed",
     "article": "Efficacy of a Very-Low-Calorie Weight Loss Diet Plus Exercise Compared With Exercise Alone on Hip Osteoarthritis Pain : A Randomized Controlled Trial.",
@@ -15726,7 +15682,7 @@
     "take": "keep"
   },
   {
-    "id": 255,
+    "id": 254,
     "pmid": "40785838",
     "source": "PubMed",
     "article": "Exploring Melasma Patients' Needs Through Social Media: A Qualitative Study.",
@@ -15800,7 +15756,7 @@
     "take": "keep"
   },
   {
-    "id": 256,
+    "id": 255,
     "pmid": "40776769",
     "source": "PubMed",
     "article": "Efficacy of Non-Ablative Fractional Laser Combined With Tranexamic Acid in Melasma Treatment: A Randomized Split-Face Trial.",
@@ -15872,7 +15828,7 @@
     "take": "keep"
   },
   {
-    "id": 257,
+    "id": 256,
     "pmid": "40755428",
     "source": "PubMed",
     "article": "Knowledge, Perceptions, and Practices of Skin-Lightening Products Among Female Medical Students: A Cross-Sectional Study.",
@@ -15937,7 +15893,7 @@
     "take": "keep"
   },
   {
-    "id": 258,
+    "id": 257,
     "pmid": "40751170",
     "source": "PubMed",
     "article": "Nutritional interventions in muscle hypertrophy research: a scientometric analysis within the context of resistance training (1992-2025).",
@@ -15995,7 +15951,7 @@
     "take": "keep"
   },
   {
-    "id": 259,
+    "id": 258,
     "pmid": "40747731",
     "source": "PubMed",
     "article": "Fractional and Non-Fractional Picosecond Nd:YAG Lasers Combined With Fractional Picosecond KTP Laser for the Treatment of Melasma in Female Chinese.",
@@ -16058,7 +16014,7 @@
     "take": "keep"
   },
   {
-    "id": 260,
+    "id": 259,
     "pmid": "40753994",
     "source": "PubMed",
     "article": "Clinical and cost-effectiveness of a cycling and education intervention versus usual physiotherapy care for the treatment of hip osteoarthritis in the UK (CLEAT): a pragmatic, randomised, controlled trial.",
@@ -16127,7 +16083,7 @@
     "take": "keep"
   },
   {
-    "id": 261,
+    "id": 260,
     "pmid": "40809103",
     "source": "PubMed",
     "article": "Quantification of weekly strength-training volume per muscle group in competitive physique athletes.",
@@ -16195,7 +16151,7 @@
     "take": "keep"
   },
   {
-    "id": 262,
+    "id": 261,
     "pmid": "40728831",
     "source": "PubMed",
     "article": "Optimizing Resistance Training Outcomes: Comparing In-Person Supervision, Online Coaching, and Self-Guided Approaches: A Randomized Controlled Trial.",
@@ -16259,7 +16215,7 @@
     "take": "keep"
   },
   {
-    "id": 263,
+    "id": 262,
     "pmid": "40735130",
     "source": "PubMed",
     "article": "Efficacy, Safety, and Tolerability of Nasal Wash in Patients with Upper Respiratory Tract Diseases.",
@@ -16314,7 +16270,7 @@
     "take": "keep"
   },
   {
-    "id": 264,
+    "id": 263,
     "pmid": "40707570",
     "source": "PubMed",
     "article": "Comparative efficacy of topical interventions for facial photoaging: a network meta-analysis.",
@@ -16453,10 +16409,10 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 265
+    "id": 264
   },
   {
-    "id": 266,
+    "id": 265,
     "pmid": "40712915",
     "source": "PubMed",
     "article": "Booster sessions for maintaining the effect of neuromuscular exercise and progressive resistance training in hip osteoarthritis: 12-month follow-up from a multicenter cluster-randomized controlled trial.",
@@ -16578,10 +16534,10 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 267
+    "id": 266
   },
   {
-    "id": 268,
+    "id": 267,
     "pmid": "40725695",
     "source": "PubMed",
     "article": "The Efficacy and Safety of Probiotics in the Management of Chronic Rhinosinusitis: A Systematic Review and Meta-Analysis.",
@@ -16716,7 +16672,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 269
+    "id": 268
   },
   {
     "pmid": "40821339",
@@ -16785,10 +16741,10 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 270
+    "id": 269
   },
   {
-    "id": 271,
+    "id": 270,
     "pmid": "40809618",
     "source": "PubMed",
     "article": "Comparison of the Efficacy of Intralesional Ascorbic Acid Mesotherapy and Intralesional Tranexamic Acid in Treating Melasma in the Skin of Colour Population.",
@@ -16853,7 +16809,7 @@
     "take": "keep"
   },
   {
-    "id": 272,
+    "id": 271,
     "pmid": "40634656",
     "source": "PubMed",
     "article": "Novel melasma therapy using combined low fluence and microsecond pulse Q switched 1064 nm neodymium doped yttrium aluminium garnet laser.",
@@ -16957,7 +16913,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 273
+    "id": 272
   },
   {
     "pmid": "40625221",
@@ -17012,10 +16968,10 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 274
+    "id": 273
   },
   {
-    "id": 275,
+    "id": 274,
     "pmid": "40692697",
     "source": "PubMed",
     "article": "Dumbbell versus cable lateral raises for lateral deltoid hypertrophy: an experimental study.",
@@ -17075,7 +17031,7 @@
     "take": "keep"
   },
   {
-    "id": 276,
+    "id": 275,
     "pmid": "40618157",
     "source": "PubMed",
     "article": "The impacts of transcranial direct current stimulation combined with aquatic neuromuscular training on pain, function, kinesiophobia, knee instability, and quality of life in knee osteoarthritis: a double-blind randomized trial.",
@@ -17138,7 +17094,7 @@
     "take": "keep"
   },
   {
-    "id": 277,
+    "id": 276,
     "pmid": "40616673",
     "source": "PubMed",
     "article": "730-nm, 532-nm and 694-nm laser in the treatment of freckles and solar lentigines (A randomized clinical trial).",
@@ -17207,7 +17163,7 @@
     "take": "keep"
   },
   {
-    "id": 278,
+    "id": 277,
     "pmid": "40620441",
     "source": "PubMed",
     "article": "The effects and safety of sequential high concentration glycolic acid and trichloroacetic acid chemical peels in skin photo-type IV-VI, a retrospective cross-sectional monocentric review.",
@@ -17271,7 +17227,7 @@
     "take": "keep"
   },
   {
-    "id": 279,
+    "id": 278,
     "pmid": "40778014",
     "source": "PubMed",
     "article": "Effectiveness and Safety of Intradermal Tranexamic Acid Injection as an Adjunctive Treatment for Melasma in Skin Type IV-V: A Double-blind Randomized Controlled Trial.",
@@ -17328,7 +17284,7 @@
     "take": "keep"
   },
   {
-    "id": 280,
+    "id": 279,
     "pmid": "40627587",
     "source": "PubMed",
     "article": "Photoprotection Efficacy of Sun Protection Factor and Iron Oxide Formulations in Diverse Skin With Melasma and Photodamage.",
@@ -17441,10 +17397,10 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 281
+    "id": 280
   },
   {
-    "id": 282,
+    "id": 281,
     "pmid": "40586974",
     "source": "PubMed",
     "article": "Efficacy and Tolerability of a New Facial 2-Mercaptonicotinoyl Glycine-Containing Depigmenting Serum Versus Hydroquinone 4% over 3-Month Treatment of Facial Melasma.",
@@ -17521,7 +17477,7 @@
     "take": "keep"
   },
   {
-    "id": 283,
+    "id": 282,
     "pmid": "40711097",
     "source": "PubMed",
     "article": "Effects of Different Moments of Inertia on Neuromuscular Performance in Elite Female Soccer Players During Hip Extension Exercise to Prevent Hamstring Asymmetries and Injuries: A Cross-Sectional Study.",
@@ -17582,7 +17538,7 @@
     "take": "keep"
   },
   {
-    "id": 284,
+    "id": 283,
     "pmid": "40576817",
     "source": "PubMed",
     "article": "Effectiveness of 675 nm Laser in Melasma Treatment: 1-Year Follow-Up.",
@@ -17644,7 +17600,7 @@
     "take": "keep"
   },
   {
-    "id": 285,
+    "id": 284,
     "pmid": "40731783",
     "source": "PubMed",
     "article": "Functional Burden and Quality of Life in Hip and Knee Osteoarthritis: A Cross-Sectional Study.",
@@ -17720,7 +17676,7 @@
     "take": "keep"
   },
   {
-    "id": 286,
+    "id": 285,
     "pmid": "40555739",
     "source": "PubMed",
     "article": "Combining Microneedling and Tranexamic Acid for Melasma: A Systematic Review and Meta-Analysis.",
@@ -17785,7 +17741,7 @@
     "take": "keep"
   },
   {
-    "id": 287,
+    "id": 286,
     "pmid": "40654553",
     "source": "PubMed",
     "article": "Topical Alternatives for Hair Loss: Beyond the Conventional.",
@@ -17909,10 +17865,10 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 288
+    "id": 287
   },
   {
-    "id": 289,
+    "id": 288,
     "pmid": "40731752",
     "source": "PubMed",
     "article": "Effects of Non-Immersive Virtual Reality Exercise on Self-Reported Pain and Mechanical Hyperalgesia in Older Adults with Knee and Hip Osteoarthritis: A Secondary Analysis of a Randomized Controlled Trial.",
@@ -17976,7 +17932,7 @@
     "take": "keep"
   },
   {
-    "id": 290,
+    "id": 289,
     "pmid": "40655803",
     "source": "PubMed",
     "article": "Comparative Efficacy of Tranexamic Acid and Vitamin C with Microneedling: A Split-Face Study in Melasma Management.",
@@ -18038,7 +17994,7 @@
     "take": "keep"
   },
   {
-    "id": 291,
+    "id": 290,
     "pmid": "40573144",
     "source": "PubMed",
     "article": "Post-Exercise Whey Protein Supplementation: Effects on IGF-1, Strength, and Body Composition in Pre-Menopausal Women, a Randomised Controlled Trial.",
@@ -18096,7 +18052,7 @@
     "take": "keep"
   },
   {
-    "id": 292,
+    "id": 291,
     "pmid": "40688117",
     "source": "PubMed",
     "article": "Comparative Evaluation of Therapeutic Efficacy and Safety of 90% Lactic Acid Peel Versus 40% Pyruvic Acid Peel in Epidermal Melasma.",
@@ -18164,7 +18120,7 @@
     "take": "keep"
   },
   {
-    "id": 293,
+    "id": 292,
     "pmid": "40522526",
     "source": "PubMed",
     "article": "Fractional carbon dioxide laser assisted delivery of tranexamic acid versus ascorbic acid in the treatment of melasma: a split face comparative study with digital skin analysis.",
@@ -18222,7 +18178,7 @@
     "take": "keep"
   },
   {
-    "id": 294,
+    "id": 293,
     "pmid": "40527791",
     "source": "PubMed",
     "article": "Oral tranexamic acid, low-fluence intense pulsed light, and glycolic acid for the treatment of mixed melasma: An observational study.",
@@ -18288,7 +18244,7 @@
     "take": "keep"
   },
   {
-    "id": 295,
+    "id": 294,
     "pmid": "40489412",
     "source": "PubMed",
     "article": "Effects of Nordic Hamstring Exercise Set Configuration on Eccentric Hamstring Strength Changes in Youth Female Athletes.",
@@ -18345,7 +18301,7 @@
     "take": "keep"
   },
   {
-    "id": 296,
+    "id": 295,
     "pmid": "40551899",
     "source": "PubMed",
     "article": "Neuromuscular adaptations to resistance training in elite versus recreational athletes.",
@@ -18405,7 +18361,7 @@
     "take": "keep"
   },
   {
-    "id": 297,
+    "id": 296,
     "pmid": "40480912",
     "source": "PubMed",
     "article": "Chemical ablation of pericapsular nerve group with 95% ethanol for pain relief and quality of life in patients with hip osteoarthritis: a prospective, double-blinded, randomised, controlled trial.",
@@ -18461,7 +18417,7 @@
     "take": "keep"
   },
   {
-    "id": 298,
+    "id": 297,
     "pmid": "40586253",
     "source": "PubMed",
     "article": "Topical Tranexamic Acid-mediated with Non-insulated Microneedling Radiofrequency for the Treatment of Melasma.",
@@ -18581,10 +18537,10 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 299
+    "id": 298
   },
   {
-    "id": 300,
+    "id": 299,
     "pmid": "40537979",
     "source": "PubMed",
     "article": "Clinical Analysis of PRP Combined With Hyaluronic Acid Mesotherapy in the Treatment of Facial Chloasma.",
@@ -18703,10 +18659,10 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 301
+    "id": 300
   },
   {
-    "id": 302,
+    "id": 301,
     "pmid": "40419099",
     "source": "PubMed",
     "article": "Activated melanocytes and senescent collagen fibers predict laser-treated melasma outcomes: An optical biopsy-based prospective cohort study.",
@@ -18772,7 +18728,7 @@
     "take": "keep"
   },
   {
-    "id": 303,
+    "id": 302,
     "pmid": "40375257",
     "source": "PubMed",
     "article": "Pain management of hip osteoarthritis with corticosteroids vs injection therapies: a systematic review and meta-analysis.",
@@ -18815,7 +18771,7 @@
     "take": "keep"
   },
   {
-    "id": 304,
+    "id": 303,
     "pmid": "40343507",
     "source": "PubMed",
     "article": "Intra-articular hyaluronic acid injections for hip osteoarthritis: a level I systematic review.",
@@ -18878,7 +18834,7 @@
     "take": "keep"
   },
   {
-    "id": 305,
+    "id": 304,
     "pmid": "40487492",
     "source": "PubMed",
     "article": "80% Lactic Acid Peel Versus 50% Glycolic Acid Peel for Melasma: A Randomised Clinical Trial.",
@@ -18938,7 +18894,7 @@
     "take": "keep"
   },
   {
-    "id": 306,
+    "id": 305,
     "pmid": "40337888",
     "source": "PubMed",
     "article": "Mottled hyperpigmentation caused by mesotherapy: successful treatment with a picosecond 1064 nm Nd:YAG laser.",
@@ -18995,7 +18951,7 @@
     "take": "keep"
   },
   {
-    "id": 307,
+    "id": 306,
     "pmid": "40486337",
     "source": "PubMed",
     "article": "Effects of Local Vibration and Foam Rolling on Hip Pain and Function in Mild to Moderate Hip Osteoarthritis: A Randomized Controlled Trial.",
@@ -19109,10 +19065,10 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 308
+    "id": 307
   },
   {
-    "id": 309,
+    "id": 308,
     "pmid": "40396558",
     "source": "PubMed",
     "article": "Efficacy of Platelet Rich Plasma Therapy in Melasma Using Microinjections and Microneedling Techniques.",
@@ -19172,7 +19128,7 @@
     "take": "keep"
   },
   {
-    "id": 310,
+    "id": 309,
     "pmid": "40391727",
     "source": "PubMed",
     "article": "Dual Benefits of Oral Tranexamic Acid: Reducing Melasma Severity and Inflammation.",
@@ -19233,7 +19189,7 @@
     "take": "keep"
   },
   {
-    "id": 311,
+    "id": 310,
     "pmid": "40386829",
     "source": "PubMed",
     "article": "Real-World Efficacy and Safety of Cuticapil Stem Hair Serum as an Add-On to Minoxidil in Androgenetic Alopecia: A Prospective Observational Study.",
@@ -19284,7 +19240,7 @@
     "take": "keep"
   },
   {
-    "id": 312,
+    "id": 311,
     "pmid": "40323711",
     "source": "PubMed",
     "article": "Effects of High Intensity Circuit Versus Traditional Strength Training on Physiological Responses in Trained Women.",
@@ -19346,7 +19302,7 @@
     "take": "keep"
   },
   {
-    "id": 313,
+    "id": 312,
     "pmid": "40296512",
     "source": "PubMed",
     "article": "Efficacy and Safety of Generic Fluocinolone Acetonide, Hydroquinone, and Tretinoin Cream Compared With TRI-LUMA for the Treatment of Moderate-To-Severe Melasma in Chinese Patients: A Randomized, Single-Center, Placebo-Controlled Trial.",
@@ -19484,7 +19440,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 314
+    "id": 313
   },
   {
     "pmid": "40365252",
@@ -19547,10 +19503,10 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 315
+    "id": 314
   },
   {
-    "id": 316,
+    "id": 315,
     "pmid": "40267413",
     "source": "PubMed",
     "article": "Muscle Soreness and Neuromuscular Fatigue After Three Different Resistance Exercise Protocols: Comparison Between Men and Women.",
@@ -19600,7 +19556,7 @@
     "take": "keep"
   },
   {
-    "id": 317,
+    "id": 316,
     "pmid": "40263750",
     "source": "PubMed",
     "article": "Reconsidering Exercise Selection with EMG: Poor Agreement between Ranking Hip Exercises with Gluteal EMG and Muscle Force.",
@@ -19660,7 +19616,7 @@
     "take": "keep"
   },
   {
-    "id": 318,
+    "id": 317,
     "pmid": "40263972",
     "source": "PubMed",
     "article": "Photoaging and Cosmetic Result with Artificial Daylight Photo-dynamic Therapy Using Methyl Aminolevulinate.",
@@ -19738,7 +19694,7 @@
     "take": "keep"
   },
   {
-    "id": 319,
+    "id": 318,
     "pmid": "40249908",
     "source": "PubMed",
     "article": "Without Fail: Muscular Adaptations in Single-Set Resistance Training Performed to Failure or with Repetitions-in-Reserve.",
@@ -19809,7 +19765,7 @@
     "take": "keep"
   },
   {
-    "id": 320,
+    "id": 319,
     "pmid": "40757554",
     "source": "PubMed",
     "article": "Effects of Strength Training Assessed by Anthropometry and Muscle Ultrasound.",
@@ -19920,10 +19876,10 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 321
+    "id": 320
   },
   {
-    "id": 322,
+    "id": 321,
     "pmid": "40566421",
     "source": "PubMed",
     "article": "Elderly Hip Osteoarthritis: A Review of Short-Term Pain Relief Through Non-Weight-Bearing Therapies.",
@@ -19982,7 +19938,7 @@
     "take": "keep"
   },
   {
-    "id": 323,
+    "id": 322,
     "pmid": "40194956",
     "source": "PubMed",
     "article": "Platelet-rich plasma for androgenetic alopecia: intradermal injection or microneedle delivery?",
@@ -20030,7 +19986,7 @@
     "take": "keep"
   },
   {
-    "id": 324,
+    "id": 323,
     "pmid": "40182912",
     "source": "PubMed",
     "article": "Reliability of Hand-Held Dynamometer in Measuring Gluteal Muscle Rate of Torque Development and Peak Torque: Push and Pull Configurations.",
@@ -20085,7 +20041,7 @@
     "take": "keep"
   },
   {
-    "id": 325,
+    "id": 324,
     "pmid": "40167772",
     "source": "PubMed",
     "article": "Comparison of The efficacy and safety of fractional erbium: YAG laser in combination with Tranexamic acid delivery by different methods versus Tranexamic acid alone: A systematic review and meta-analysis.",
@@ -20152,7 +20108,7 @@
     "take": "keep"
   },
   {
-    "id": 326,
+    "id": 325,
     "pmid": "40145274",
     "source": "PubMed",
     "article": "Treatment of Solar Lentigines: A Systematic Review of Clinical Trials.",
@@ -20214,7 +20170,7 @@
     "take": "keep"
   },
   {
-    "id": 327,
+    "id": 326,
     "pmid": "40135653",
     "source": "PubMed",
     "article": "Clinical Efficacy of CGF Combined With Periodic Supramolecular Salicylic Acid in the Treatment of Chloasma.",
@@ -20274,7 +20230,7 @@
     "take": "keep"
   },
   {
-    "id": 328,
+    "id": 327,
     "pmid": "39729039",
     "source": "PubMed",
     "article": "Budesonide nasal irrigation for chronic rhinosinusitis: a meta-analysis of therapeutic outcomes and safety profile.",
@@ -20335,7 +20291,7 @@
     "take": "keep"
   },
   {
-    "id": 329,
+    "id": 328,
     "pmid": "38934336",
     "source": "PubMed",
     "article": "Therapeutic efficiency and safety assessment of intradermal platelet-rich plasma combined with oral tranexamic acid in patients with facial melasma.",
@@ -20401,7 +20357,7 @@
     "take": "keep"
   },
   {
-    "id": 330,
+    "id": 329,
     "pmid": "40296942",
     "source": "PubMed",
     "article": "Comparison of the Effectiveness and Safety of 5% Cysteamine and 2% Kojic Acid Creams in the Treatment of Melasma in Indian Adult Females.",
@@ -20469,7 +20425,7 @@
     "take": "keep"
   },
   {
-    "id": 331,
+    "id": 330,
     "pmid": "40225053",
     "source": "PubMed",
     "article": "Intra-articular administration of autologous adipose-derived stem cells in hip osteoarthritis: Longitudinal treatment trajectories and prognostic factors.",
@@ -20599,10 +20555,10 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 332
+    "id": 331
   },
   {
-    "id": 333,
+    "id": 332,
     "pmid": "40256059",
     "source": "PubMed",
     "article": "Efficacy, safety, and cost-effectiveness of glycolic acid vs. azelaic acid in melasma.",
@@ -20724,10 +20680,10 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 334
+    "id": 333
   },
   {
-    "id": 335,
+    "id": 334,
     "pmid": "40122142",
     "source": "PubMed",
     "article": "Whether the transient hair shedding phase exist after minoxidil treatment and does it predict treatment efficacy? A retrospective study in androgenetic alopecia patients.",
@@ -20778,7 +20734,7 @@
     "take": "keep"
   },
   {
-    "id": 336,
+    "id": 335,
     "pmid": "40959008",
     "source": "PubMed",
     "article": "Activation patterns of the deltoid and periscapular muscles at different shoulder flexion angles in patients with nonpseudoparalysis massive rotator cuff tears.",
@@ -20884,10 +20840,10 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 337
+    "id": 336
   },
   {
-    "id": 338,
+    "id": 337,
     "pmid": "40225974",
     "source": "PubMed",
     "article": "Value of Q-switched 755-nm alexandrite laser combined with topical tranexamic acid in the treatment of melasma.",
@@ -21010,7 +20966,7 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 339
+    "id": 338
   },
   {
     "pmid": "40056230",
@@ -21076,10 +21032,10 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 340
+    "id": 339
   },
   {
-    "id": 341,
+    "id": 340,
     "pmid": "41424957",
     "source": "PubMed",
     "article": "Effectiveness of platelet-rich plasma in pain management of osteoarthritis with developmental dysplasia of the hip: a double-blind, randomized controlled trial.",
@@ -21197,7 +21153,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 342
+    "id": 341
   },
   {
     "pmid": "40127493",
@@ -21256,10 +21212,10 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 343
+    "id": 342
   },
   {
-    "id": 344,
+    "id": 343,
     "pmid": "40127492",
     "source": "PubMed",
     "article": "Efficacy of overnight leave-on sandwich therapy with 5% cysteamine and ectoine cream compared to hydroquinone 4% cream for treatment of melasma: a double-blind randomized controlled trial.",
@@ -21321,7 +21277,7 @@
     "take": "keep"
   },
   {
-    "id": 345,
+    "id": 344,
     "pmid": "40062688",
     "source": "PubMed",
     "article": "Evaluation of the Efficacy of a Serum Containing Niacinamide, Tranexamic Acid, Vitamin C, and Hydroxy Acid Compared to 4% Hydroquinone in the Management of Melasma.",
@@ -21441,7 +21397,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 346
+    "id": 345
   },
   {
     "pmid": "40019613",
@@ -21496,10 +21452,10 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 347
+    "id": 346
   },
   {
-    "id": 348,
+    "id": 347,
     "pmid": "40162353",
     "source": "PubMed",
     "article": "Comparison of the Efficacy of Intradermal Tranexamic Acid and Topical Triple Combination Modification in Decreasing the Severity Score of Melasma: A Meta-analysis.",
@@ -21563,7 +21519,7 @@
     "take": "keep"
   },
   {
-    "id": 349,
+    "id": 348,
     "pmid": "40125051",
     "source": "PubMed",
     "article": "Efficacy and Safety of Cysteamine in Melasma in Patients of Skin of Colour: A Brief Report.",
@@ -21632,7 +21588,7 @@
     "take": "keep"
   },
   {
-    "id": 350,
+    "id": 349,
     "pmid": "40014580",
     "source": "PubMed",
     "article": "Epidemiological landscape of androgenetic alopecia in the US: An All of Us cross-sectional study.",
@@ -21674,7 +21630,7 @@
     "take": "keep"
   },
   {
-    "id": 351,
+    "id": 350,
     "pmid": "40028215",
     "source": "PubMed",
     "article": "Sex differences in absolute and relative changes in muscle size following resistance training in healthy adults: a systematic review with Bayesian meta-analysis.",
@@ -21737,7 +21693,7 @@
     "take": "keep"
   },
   {
-    "id": 352,
+    "id": 351,
     "pmid": "40001000",
     "source": "PubMed",
     "article": "Efficacy and safety of fasinumab in an NSAID-controlled study in patients with pain due to osteoarthritis of the knee or hip.",
@@ -21868,10 +21824,10 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 353
+    "id": 352
   },
   {
-    "id": 354,
+    "id": 353,
     "pmid": "39976796",
     "source": "PubMed",
     "article": "Efficacy and safety of biological products in hip osteoarthritis: a systematic review and meta-analysis of randomized controlled trials.",
@@ -21926,7 +21882,7 @@
     "take": "keep"
   },
   {
-    "id": 355,
+    "id": 354,
     "pmid": "39966101",
     "source": "PubMed",
     "article": "Degenerative Hip Osteoarthritis in Unilateral Knee Osteoarthritis Patients: A Correlation Analysis.",
@@ -22040,7 +21996,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "skim",
-    "id": 356
+    "id": 355
   },
   {
     "pmid": "39948731",
@@ -22095,7 +22051,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 357
+    "id": 356
   },
   {
     "pmid": "39954138",
@@ -22163,10 +22119,10 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 358
+    "id": 357
   },
   {
-    "id": 359,
+    "id": 358,
     "pmid": "39951164",
     "source": "PubMed",
     "article": "Assessment of clinical efficacy in melasma treatment with picosecond laser combined with Shumin Star.",
@@ -22271,7 +22227,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 360
+    "id": 359
   },
   {
     "pmid": "39997270",
@@ -22325,10 +22281,10 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 361
+    "id": 360
   },
   {
-    "id": 362,
+    "id": 361,
     "pmid": "39959841",
     "source": "PubMed",
     "article": "Lengthened partial repetitions elicit similar muscular adaptations as full range of motion repetitions during resistance training in trained individuals.",
@@ -22393,7 +22349,7 @@
     "take": "keep"
   },
   {
-    "id": 363,
+    "id": 362,
     "pmid": "39932988",
     "source": "PubMed",
     "article": "The impact of different standing positions on gluteus medius activation and lumbar lordosis in LBP-developers during prolonged standing.",
@@ -22449,7 +22405,7 @@
     "take": "keep"
   },
   {
-    "id": 364,
+    "id": 363,
     "pmid": "39932536",
     "source": "PubMed",
     "article": "Cluster sets and traditional sets elicit similar muscular hypertrophy: a volume and effort-matched study in resistance-trained individuals.",
@@ -22511,7 +22467,7 @@
     "take": "keep"
   },
   {
-    "id": 365,
+    "id": 364,
     "pmid": "39931640",
     "source": "PubMed",
     "article": "Investigation of the effects of combined exercises and self-management education, with and without functional exercises, on pain and functional outcomes in patients with avascular necrosis of the femoral head: a protocol for a single-blind, randomised controlled trial with a parallel design and a 4 month follow-up.",
@@ -22555,7 +22511,7 @@
     "take": "skim"
   },
   {
-    "id": 366,
+    "id": 365,
     "pmid": "39921709",
     "source": "PubMed",
     "article": "Efficacy of formulations for treating hyperpigmentation: a systematic review and meta-analysis.",
@@ -22683,10 +22639,10 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 367
+    "id": 366
   },
   {
-    "id": 368,
+    "id": 367,
     "pmid": "40028437",
     "source": "PubMed",
     "article": "Treatment of Melasma With Q-Switched Laser in Combination With Tranexamic Acid.",
@@ -22739,7 +22695,7 @@
     "take": "keep"
   },
   {
-    "id": 369,
+    "id": 368,
     "pmid": "39922217",
     "source": "PubMed",
     "article": "Addition of aerobic physical activity to resistance exercise for hip osteoarthritis (PHOENIX): a randomised comparative effectiveness trial.",
@@ -22804,7 +22760,7 @@
     "take": "keep"
   },
   {
-    "id": 370,
+    "id": 369,
     "pmid": "39895335",
     "source": "PubMed",
     "article": "A 675 nm Laser in the Treatment of Facial Melasma in Dark Skin Types.",
@@ -22869,7 +22825,7 @@
     "take": "keep"
   },
   {
-    "id": 371,
+    "id": 370,
     "pmid": "40078863",
     "source": "PubMed",
     "article": "Successful Treatment of Recalcitrant Melasma with Picolaser and Isobionicamide-Cysteamine Combination.",
@@ -22931,7 +22887,7 @@
     "take": "keep"
   },
   {
-    "id": 372,
+    "id": 371,
     "pmid": "39970818",
     "source": "PubMed",
     "article": "Minimal important change in the Hip Disability and Osteoarthritis Outcome Score and the European Quality of Life 5 Dimensions in adults with hip osteoarthritis after 12 weeks of exercise.",
@@ -22988,7 +22944,7 @@
     "take": "keep"
   },
   {
-    "id": 373,
+    "id": 372,
     "pmid": "39963025",
     "source": "PubMed",
     "article": "Analysis of Common Treatment Drugs and Allergen Sensitization in Hair Loss Patients.",
@@ -23030,7 +22986,7 @@
     "take": "keep"
   },
   {
-    "id": 374,
+    "id": 373,
     "pmid": "39943675",
     "source": "PubMed",
     "article": "Efficacy and Safety of a Topical Formulation Containing Trihydroxybenzoic Acid Glucoside and α-Arbutin, Applied Along With a Sunscreen: A Noncomparative, Prospective, Interventional Study in Indian Females With Facial Melasma or Dark Spots.",
@@ -23098,7 +23054,7 @@
     "take": "keep"
   },
   {
-    "id": 375,
+    "id": 374,
     "pmid": "39927593",
     "source": "PubMed",
     "article": "Low-Fluence Q-Switch 1064 Nm Laser Combined With Oral Tranexamic Acid: A Quicker Treatment for Laser-Induced Postinflammatory Hyperpigmentation.",
@@ -23163,7 +23119,7 @@
     "take": "keep"
   },
   {
-    "id": 376,
+    "id": 375,
     "pmid": "39918262",
     "source": "PubMed",
     "article": "Effectiveness and Safety of Combined Use of Home-Based Radiofrequency Device and Arbutin Cream in Melasma and Facial Rejuvenation.",
@@ -23288,10 +23244,10 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 377
+    "id": 376
   },
   {
-    "id": 378,
+    "id": 377,
     "pmid": "39874353",
     "source": "PubMed",
     "article": "Impact of exercise with blood flow restriction on muscle hypertrophy and performance outcomes in men and women.",
@@ -23353,7 +23309,7 @@
     "take": "keep"
   },
   {
-    "id": 379,
+    "id": 378,
     "pmid": "39869076",
     "source": "PubMed",
     "article": "Does increasing the resistance-training volume lead to greater gains? The effects of weekly set progressions on muscular adaptations in females.",
@@ -23417,7 +23373,7 @@
     "take": "keep"
   },
   {
-    "id": 380,
+    "id": 379,
     "pmid": "39854075",
     "source": "PubMed",
     "article": "Non-Ablative Fractional 1940-nm Diode Laser for Skin Resurfacing and Treatment of Benign Pigmented Lesions.",
@@ -23478,7 +23434,7 @@
     "take": "keep"
   },
   {
-    "id": 381,
+    "id": 380,
     "pmid": "39843829",
     "source": "PubMed",
     "article": "Comparative efficacy and safety of the novel Picosecond Alexandrite Laser and the traditional combined Q-switched and long-pulse Nd: YAG lasers in melasma treatment: a randomized evaluator-blinded trial.",
@@ -23603,7 +23559,7 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 382
+    "id": 381
   },
   {
     "pmid": "39867973",
@@ -23656,7 +23612,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "skim",
-    "id": 383
+    "id": 382
   },
   {
     "pmid": "39944453",
@@ -23720,7 +23676,7 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 384
+    "id": 383
   },
   {
     "pmid": "40034971",
@@ -23779,10 +23735,10 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 385
+    "id": 384
   },
   {
-    "id": 386,
+    "id": 385,
     "pmid": "39970463",
     "source": "PubMed",
     "article": "Effectiveness of ultrasound-guided hip injections on pain and functioning in patients with hip osteoarthritis: A systematic review.",
@@ -23842,7 +23798,7 @@
     "take": "keep"
   },
   {
-    "id": 387,
+    "id": 386,
     "pmid": "39789623",
     "source": "PubMed",
     "article": "Effects of self-monitoring physical activity with wearable activity trackers on perceived joint function and health-related quality of life in people with hip and knee osteoarthritis: a secondary analysis of a cluster-randomised clinical trial.",
@@ -23893,7 +23849,7 @@
     "take": "keep"
   },
   {
-    "id": 388,
+    "id": 387,
     "pmid": "41172315",
     "source": "PubMed",
     "article": "[Experience of using teledermatology for elderly patients: a study in the Republic of Bashkortostan.].",
@@ -23955,7 +23911,7 @@
     "take": "keep"
   },
   {
-    "id": 389,
+    "id": 388,
     "pmid": "40657344",
     "source": "PubMed",
     "article": "Synergistic Impact of Nasal Irrigation and Health Education in Reducing Chronic Rhinosinusitis Among Cement Plant Workers: a Randomized Controlled Trial.",
@@ -24015,7 +23971,7 @@
     "take": "keep"
   },
   {
-    "id": 390,
+    "id": 389,
     "pmid": "40453387",
     "source": "PubMed",
     "article": "Evaluation of the Efficiency of Microneedling with PRP Versus Microneedling with Tranexamic Acid in the Treatment of Melisma.",
@@ -24080,7 +24036,7 @@
     "take": "keep"
   },
   {
-    "id": 391,
+    "id": 390,
     "pmid": "39758692",
     "source": "PubMed",
     "article": "Effects of Kettlebell Swing Style and Mass on Female Hip Joint Kinetics.",
@@ -24133,7 +24089,7 @@
     "take": "keep"
   },
   {
-    "id": 392,
+    "id": 391,
     "pmid": "39731267",
     "source": "PubMed",
     "article": "Review of Applications of Microneedling in Melasma.",
@@ -24193,7 +24149,7 @@
     "take": "keep"
   },
   {
-    "id": 393,
+    "id": 392,
     "pmid": "39635963",
     "source": "PubMed",
     "article": "Comparison of Maitland Passive Joint Mobilization and Self-Rehabilitation on Function, Activity, and Quality of Life in Beninese Patients With Hip Osteoarthritis: A Pragmatic Randomized Trial.",
@@ -24251,7 +24207,7 @@
     "take": "keep"
   },
   {
-    "id": 394,
+    "id": 393,
     "pmid": "39741687",
     "source": "PubMed",
     "article": "Intra-Articular Platelet-Rich Plasma versus Hyaluronic Acid in the Treatment of Hip Osteoarthritis: A Cross-Sectional Analysis of the Overlapping Systematic Reviews.",
@@ -24323,7 +24279,7 @@
     "take": "keep"
   },
   {
-    "id": 395,
+    "id": 394,
     "pmid": "39699049",
     "source": "PubMed",
     "article": "Preliminary Evaluation of Improvements in Melasma and Photoaging With Laser-Driven Microjet Injection of Poly- d , l -Lactic Acid.",
@@ -24386,7 +24342,7 @@
     "take": "keep"
   },
   {
-    "id": 396,
+    "id": 395,
     "pmid": "39679573",
     "source": "PubMed",
     "article": "Clinical Safety and Efficacy of Dual Wavelength Low-Level Light Therapy in Androgenetic Alopecia: A Double-Blind Randomized Controlled Study.",
@@ -24430,7 +24386,7 @@
     "take": "keep"
   },
   {
-    "id": 397,
+    "id": 396,
     "pmid": "39728246",
     "source": "PubMed",
     "article": "Hands-On Versus Hands-Off Treatment of Hip-Related Nonspecific Musculoskeletal Diseases: A Systematic Review.",
@@ -24492,7 +24448,7 @@
     "take": "keep"
   },
   {
-    "id": 398,
+    "id": 397,
     "pmid": "39688823",
     "source": "PubMed",
     "article": "Clinical Response to Joint Infiltration With Bone Marrow Aspirate in Hip Osteoarthritis: A Systematic Review and Single-arm Meta-analysis.",
@@ -24551,7 +24507,7 @@
     "take": "keep"
   },
   {
-    "id": 399,
+    "id": 398,
     "pmid": "39505835",
     "source": "PubMed",
     "article": "In Patients With Painful Hip Osteoarthritis, Is It More Beneficial to Offer Them an Ultrasound-Guided or a Fluoroscopic-Guided Intra-Articular Corticosteroid Injection to Relieve Their Symptoms? A Systematic Review and Network Meta-Analysis.",
@@ -24604,7 +24560,7 @@
     "take": "keep"
   },
   {
-    "id": 400,
+    "id": 399,
     "pmid": "39614963",
     "source": "PubMed",
     "article": "The Skin-Lightening Power of Tirbanibulin 1% Ointment.",
@@ -24660,7 +24616,7 @@
     "take": "keep"
   },
   {
-    "id": 401,
+    "id": 400,
     "pmid": "39591957",
     "source": "PubMed",
     "article": "Eccentric Force and Regional Biceps Femoris Muscle Excitation During Conventional and 80° Hip-Flexed Nordic Curl.",
@@ -24770,10 +24726,10 @@
     "importance_stars": 4,
     "importance_mark": "★★★★☆",
     "take": "keep",
-    "id": 402
+    "id": 401
   },
   {
-    "id": 403,
+    "id": 402,
     "pmid": "39726491",
     "source": "PubMed",
     "article": "The Impact of Exercise Interventions on Pain, Function, and Quality of Life in Patients With Osteoarthritis: A Systematic Review and Meta-Analysis.",
@@ -24842,7 +24798,7 @@
     "take": "keep"
   },
   {
-    "id": 404,
+    "id": 403,
     "pmid": "39574411",
     "source": "PubMed",
     "article": "Efficacy and Safety of Combination Therapy of Microneedling Radiofrequency, In-Office and Home-Based Topical Cysteamine in Refractory Melasma: A Split Face, Vehicle-Control, Randomized Control Trial.",
@@ -24914,7 +24870,7 @@
     "take": "keep"
   },
   {
-    "id": 405,
+    "id": 404,
     "pmid": "39574359",
     "source": "PubMed",
     "article": "Intradermal Injection of Tranexamic Acid for the Treatment of Adult Melasma: A Systematic Review and Meta-Analysis of Randomized Controlled Trials.",
@@ -24975,7 +24931,7 @@
     "take": "keep"
   },
   {
-    "id": 406,
+    "id": 405,
     "pmid": "39555866",
     "source": "PubMed",
     "article": "The Efficacy of Topical Cosmetic Containing Alpha-Arbutin 5% and Kojic Acid 2% Compared With Triple Combination Cream for the Treatment of Melasma: A Split-Face, Evaluator-Blinded Randomized Pilot Study.",
@@ -25041,7 +24997,7 @@
     "take": "keep"
   },
   {
-    "id": 407,
+    "id": 406,
     "pmid": "39545640",
     "source": "PubMed",
     "article": "Polmacoxib 2mg in patients with mild to moderate idiopathic osteoarthritis of hip/knee-a randomized, double-anonymous study.",
@@ -25164,10 +25120,10 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 408
+    "id": 407
   },
   {
-    "id": 409,
+    "id": 408,
     "pmid": "39482349",
     "source": "PubMed",
     "article": "Intraarticular gold microparticles using hyaluronic acid as the carrier for hip osteoarthritis. A 2-year follow-up pilot study.",
@@ -25231,7 +25187,7 @@
     "take": "keep"
   },
   {
-    "id": 410,
+    "id": 409,
     "pmid": "39462248",
     "source": "PubMed",
     "article": "Efficacy of Subdermal Poly-d,l-Lactic Acid Injections for the Treatment of Melasma.",
@@ -25289,7 +25245,7 @@
     "take": "keep"
   },
   {
-    "id": 411,
+    "id": 410,
     "pmid": "39569300",
     "source": "PubMed",
     "article": "Efficacy and Safety of Platelet-Rich Plasma (PRP) Intra-articular Injections in Hip Osteoarthritis: A Systematic Review of Randomized Clinical Trials.",
@@ -25413,10 +25369,10 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 412
+    "id": 411
   },
   {
-    "id": 413,
+    "id": 412,
     "pmid": "39458144",
     "source": "PubMed",
     "article": "The Presentation, Clinical Diagnosis, Risk Factors, and Management of Rapidly Progressive Hip Osteoarthritis: A Narrative Literature Review.",
@@ -25487,7 +25443,7 @@
     "take": "keep"
   },
   {
-    "id": 414,
+    "id": 413,
     "pmid": "39414648",
     "source": "PubMed",
     "article": "Efficacy of Microneedle as an Assisted Therapy for Melasma: A Meta-analysis and Systematic Review of Randomized Controlled Trials.",
@@ -25566,7 +25522,7 @@
     "take": "keep"
   },
   {
-    "id": 415,
+    "id": 414,
     "pmid": "39410770",
     "source": "PubMed",
     "article": "Melasma Revisited: National Survey Reveals How Dermatologists Diagnose and Treat This Complex Skin Condition.",
@@ -25633,7 +25589,7 @@
     "take": "keep"
   },
   {
-    "id": 416,
+    "id": 415,
     "pmid": "39404126",
     "source": "PubMed",
     "article": "Low-Level Laser and LED Therapy in Alopecia: A Systematic Review and Meta-Analysis.",
@@ -25677,7 +25633,7 @@
     "take": "keep"
   },
   {
-    "id": 417,
+    "id": 416,
     "pmid": "40066382",
     "source": "PubMed",
     "article": "To Study the Incidence of Biofilm Formation, its Microbiology and its Effect on the Development of Acute and Chronic Rhinosinusitis- A Prospective Study.",
@@ -25748,7 +25704,7 @@
     "take": "keep"
   },
   {
-    "id": 418,
+    "id": 417,
     "pmid": "39388663",
     "source": "PubMed",
     "article": "Muscle Hypertrophy and Strength Adaptations to Systematically Varying Resistance Exercises.",
@@ -25810,7 +25766,7 @@
     "take": "keep"
   },
   {
-    "id": 419,
+    "id": 418,
     "pmid": "39880517",
     "source": "PubMed",
     "article": "Evidence-Based Behavior Therapy for Tourette Syndrome.",
@@ -25870,7 +25826,7 @@
     "take": "keep"
   },
   {
-    "id": 420,
+    "id": 419,
     "pmid": "39507183",
     "source": "PubMed",
     "article": "Autologous Peripheral Blood-Derived Orthobiologics for the Management of Hip Osteoarthritis: A Systematic Review of Current Clinical Evidence.",
@@ -25929,7 +25885,7 @@
     "take": "keep"
   },
   {
-    "id": 421,
+    "id": 420,
     "pmid": "39132922",
     "source": "PubMed",
     "article": "Prefabricated contoured foot orthoses to reduce pain and increase physical activity in people with hip osteoarthritis: A randomised feasibility trial.",
@@ -25997,7 +25953,7 @@
     "take": "keep"
   },
   {
-    "id": 422,
+    "id": 421,
     "pmid": "39228051",
     "source": "PubMed",
     "article": "Prognostic Factors and Changes in Pain, Physical Functioning, and Participation in Patients With Hip and/or Knee Osteoarthritis: A Systematic Review.",
@@ -26061,7 +26017,7 @@
     "take": "keep"
   },
   {
-    "id": 423,
+    "id": 422,
     "pmid": "39331867",
     "source": "PubMed",
     "article": "Systematic narrative review of modalities in physiotherapy for managing pain in hip and knee osteoarthritis: A review.",
@@ -26123,7 +26079,7 @@
     "take": "keep"
   },
   {
-    "id": 424,
+    "id": 423,
     "pmid": "39327649",
     "source": "PubMed",
     "article": "Low-Dose Oral Minoxidil and Associated Adverse Events: Analyses of the FDA Adverse Event Reporting System (FAERS) With a Focus on Pericardial Effusions.",
@@ -26169,7 +26125,7 @@
     "take": "keep"
   },
   {
-    "id": 425,
+    "id": 424,
     "pmid": "39311713",
     "source": "PubMed",
     "article": "Description, Implementation, and Efficacy of the Comprehensive Behavioral Intervention for Tics as First-Line Treatment for Tourette and Other Tic Disorders.",
@@ -26210,7 +26166,7 @@
     "take": "keep"
   },
   {
-    "id": 426,
+    "id": 425,
     "pmid": "39312909",
     "source": "PubMed",
     "article": "2023 American Academy of Orthopaedic Surgeons Management of Osteoarthritis of the Hip Evidence-Based Clinical Practice Guideline: Case Studies.",
@@ -26249,7 +26205,7 @@
     "take": "skim"
   },
   {
-    "id": 427,
+    "id": 426,
     "pmid": "39282999",
     "source": "PubMed",
     "article": "Modulation of Melanocyte in Melasma Patients After Picosecond Laser Treatment.",
@@ -26314,7 +26270,7 @@
     "take": "keep"
   },
   {
-    "id": 428,
+    "id": 427,
     "pmid": "39318357",
     "source": "PubMed",
     "article": "Associations between changes in leg extensor muscle power and physical function after supervised exercise in patients with hip osteoarthritis. Secondary analysis from the hip booster trial.",
@@ -26377,7 +26333,7 @@
     "take": "keep"
   },
   {
-    "id": 429,
+    "id": 428,
     "pmid": "39265924",
     "source": "PubMed",
     "article": "Effectiveness and safety of intra-articular interventions for knee and hip osteoarthritis based on large randomized trials: A systematic review and network meta-analysis.",
@@ -26452,7 +26408,7 @@
     "take": "keep"
   },
   {
-    "id": 430,
+    "id": 429,
     "pmid": "39254726",
     "source": "PubMed",
     "article": "Management of hip osteoarthritis: harnessing the potential of mesenchymal stem cells-a systematic review.",
@@ -26576,10 +26532,10 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 431
+    "id": 430
   },
   {
-    "id": 432,
+    "id": 431,
     "pmid": "39235304",
     "source": "PubMed",
     "article": "Efficacy and Safety of Low-Fluence 730-nm Picosecond Laser in the Treatment of Melasma in Chinese Patients.",
@@ -26691,10 +26647,10 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep",
-    "id": 433
+    "id": 432
   },
   {
-    "id": 434,
+    "id": 433,
     "pmid": "39068982",
     "source": "PubMed",
     "article": "Frequent use of prescription NSAIDs among people with knee or hip osteoarthritis despite contraindications to or precautions with NSAIDs.",
@@ -26756,7 +26712,7 @@
     "take": "keep"
   },
   {
-    "id": 435,
+    "id": 434,
     "pmid": "39002073",
     "source": "PubMed",
     "article": "Platelet-Rich Plasma for Knee and Hip Osteoarthritis Pain: A Scoping Review.",
@@ -26827,7 +26783,7 @@
     "take": "keep"
   },
   {
-    "id": 436,
+    "id": 435,
     "pmid": "38945508",
     "source": "PubMed",
     "article": "Effectiveness of mHealth Interventions to Improve Pain Intensity and Functional Disability in Individuals With Hip or Knee Osteoarthritis: A Systematic Review and Meta-analysis.",
@@ -26884,7 +26840,7 @@
     "take": "keep"
   },
   {
-    "id": 437,
+    "id": 436,
     "pmid": "38926896",
     "source": "PubMed",
     "article": "Efficacy of home-based exercise in the treatment of pain and disability at the hip and knee in patients with osteoarthritis: a systematic review and meta-analysis.",
@@ -26945,7 +26901,7 @@
     "take": "keep"
   },
   {
-    "id": 438,
+    "id": 437,
     "pmid": "38872226",
     "source": "PubMed",
     "article": "Facilitators, barriers and support needs to GLA:D exercise adherence - a mixed method study.",
@@ -27000,7 +26956,7 @@
     "take": "keep"
   },
   {
-    "id": 439,
+    "id": 438,
     "pmid": "39564400",
     "source": "PubMed",
     "article": "The Efficacy of Bone Marrow Stem Cell Therapy in Hip Osteoarthritis: A Scoping Review.",
@@ -27057,7 +27013,7 @@
     "take": "keep"
   },
   {
-    "id": 440,
+    "id": 439,
     "pmid": "38781351",
     "source": "PubMed",
     "article": "American Academy of Orthopaedic Surgeons Clinical Practice Guideline Summary Management of Osteoarthritis of the Hip.",
@@ -27117,7 +27073,7 @@
     "take": "keep"
   },
   {
-    "id": 441,
+    "id": 440,
     "pmid": "38821500",
     "source": "PubMed",
     "article": "Clinical efficacy of multiple intra-articular injection for hip osteoarthritis.",
@@ -27176,7 +27132,7 @@
     "take": "keep"
   },
   {
-    "id": 442,
+    "id": 441,
     "pmid": "38948640",
     "source": "PubMed",
     "article": "Effect of platelet-rich plasma injections versus placebo on pain and quality of life in patients with hip osteoarthritis: A double-blind, randomized clinical trial.",
@@ -27242,7 +27198,7 @@
     "take": "keep"
   },
   {
-    "id": 443,
+    "id": 442,
     "pmid": "38613739",
     "source": "PubMed",
     "article": "Cost-Effectiveness of Treatments for Musculoskeletal Conditions Offered by Physiotherapists: A Systematic Review of Trial-Based Evaluations.",
@@ -27305,7 +27261,7 @@
     "take": "keep"
   },
   {
-    "id": 444,
+    "id": 443,
     "pmid": "38588540",
     "source": "PubMed",
     "article": "Progressive Resistance Training or Neuromuscular Exercise for Hip Osteoarthritis : A Multicenter Cluster Randomized Controlled Trial.",
@@ -27376,7 +27332,7 @@
     "take": "keep"
   },
   {
-    "id": 445,
+    "id": 444,
     "pmid": "38484833",
     "source": "PubMed",
     "article": "Dropout From Exercise Interventions in Adults With Knee or Hip Osteoarthritis: A Systematic Review and Meta-analysis.",
@@ -27441,7 +27397,7 @@
     "take": "keep"
   },
   {
-    "id": 446,
+    "id": 445,
     "pmid": "38516558",
     "source": "PubMed",
     "article": "Adjunctive electrophysical therapies used in addition to land-based exercise therapy for osteoarthritis of the hip or knee: A systematic review and meta-analysis.",
@@ -27506,7 +27462,7 @@
     "take": "keep"
   },
   {
-    "id": 447,
+    "id": 446,
     "pmid": "38398445",
     "source": "PubMed",
     "article": "Nonsteroidal Anti-Inflammatory Drug Injections versus Steroid Injections in the Management of Upper and Lower Extremity Orthopedic Conditions: A Systematic Review with Meta-Analysis.",
@@ -27579,7 +27535,7 @@
     "take": "keep"
   },
   {
-    "id": 448,
+    "id": 447,
     "pmid": "37980627",
     "source": "PubMed",
     "article": "Effects of Analgesics on Self-Reported Physical Function and Walking Ability in People With Hip or Knee Osteoarthritis: A Systematic Review and Meta-Analysis.",
@@ -27636,7 +27592,7 @@
     "take": "keep"
   },
   {
-    "id": 449,
+    "id": 448,
     "pmid": "38304412",
     "source": "PubMed",
     "article": "Mediators of the effects of exercise and manual therapy for people with knee and hip osteoarthritis: A secondary, exploratory analysis of the MOA trial.",
@@ -27700,7 +27656,7 @@
     "take": "keep"
   },
   {
-    "id": 450,
+    "id": 449,
     "pmid": "37955078",
     "source": "PubMed",
     "article": "Efficacy of proprioceptive neuromuscular facilitation on functioning in patients with bilateral hip osteoarthritis: A pilot randomized controlled trial.",
@@ -27763,7 +27719,7 @@
     "take": "keep"
   },
   {
-    "id": 451,
+    "id": 450,
     "pmid": "37781792",
     "source": "PubMed",
     "article": "Effects of device-performed and manual hip traction and vibration therapy in older adults with symptomatic hip osteoarthritis: A randomized single-blind controlled trial.",
@@ -27825,7 +27781,7 @@
     "take": "keep"
   },
   {
-    "id": 452,
+    "id": 451,
     "pmid": "38187099",
     "source": "PubMed",
     "article": "Investigation of the association of long-term NSAID use with radiographic hip osteoarthritis over four to five years: Data from the OAI and CHECK studies.",
@@ -27878,7 +27834,7 @@
     "take": "keep"
   },
   {
-    "id": 453,
+    "id": 452,
     "pmid": "38059584",
     "source": "PubMed",
     "article": "Effectiveness of strategies to improve adherence to physical therapy in patients with knee and hip osteoarthritis: a systematic review and meta-analysis.",
@@ -27939,7 +27895,7 @@
     "take": "keep"
   },
   {
-    "id": 454,
+    "id": 453,
     "pmid": "38053480",
     "source": "PubMed",
     "article": "Weight Loss Induced by Antiobesity Medications and All-Cause Mortality Among Patients With Knee or Hip Osteoarthritis.",
@@ -28007,7 +27963,7 @@
     "take": "keep"
   },
   {
-    "id": 455,
+    "id": 454,
     "pmid": "38030118",
     "source": "PubMed",
     "article": "How effective are exercises delivered digitally (requiring internet), amongst patients with hip or knee osteoarthritis? A systematic review and meta-analysis.",
@@ -28067,7 +28023,7 @@
     "take": "keep"
   },
   {
-    "id": 456,
+    "id": 455,
     "pmid": "38150696",
     "source": "PubMed",
     "article": "Ultrasound guided injection with Collagen-based Medical Device: real-life evaluation of efficacy and safety in hip osteoarthritis.",
@@ -28132,7 +28088,7 @@
     "take": "keep"
   },
   {
-    "id": 457,
+    "id": 456,
     "pmid": "38000487",
     "source": "PubMed",
     "article": "Viscosupplementation Is Effective for the Treatment of Osteoarthritis in the Hip: A Systematic Review.",
@@ -28195,7 +28151,7 @@
     "take": "keep"
   },
   {
-    "id": 458,
+    "id": 457,
     "pmid": "37924247",
     "source": "PubMed",
     "article": "Online remote behavioural intervention for tics in 9- to 17-year-olds: the ORBIT RCT with embedded process and economic evaluation.",
@@ -28258,7 +28214,7 @@
     "take": "keep"
   },
   {
-    "id": 459,
+    "id": 458,
     "pmid": "37775621",
     "source": "PubMed",
     "article": "Use of prescribed analgesics before and after exercise therapy and patient education in patients with knee or hip osteoarthritis.",
@@ -28321,7 +28277,7 @@
     "take": "keep"
   },
   {
-    "id": 460,
+    "id": 459,
     "pmid": "37697975",
     "source": "PubMed",
     "article": "Effectiveness of exercise on pain intensity and physical function in patients with knee and hip osteoarthritis: an umbrella and mapping review with meta-meta-analysis.",
@@ -28386,7 +28342,7 @@
     "take": "keep"
   },
   {
-    "id": 461,
+    "id": 460,
     "pmid": "37545359",
     "source": "PubMed",
     "article": "Evaluating the feasibility, acceptability, and preliminary effectiveness of tele-comprehensive behavior therapy for tics (teleCBIT) for Tourette syndrome in youth and adults.",
@@ -28434,7 +28390,7 @@
     "take": "keep"
   },
   {
-    "id": 462,
+    "id": 461,
     "pmid": "38418047",
     "source": "PubMed",
     "article": "Body-Focused Repetitive Behavior Disorders in Children and Adolescents: Clinical Characteristics and Treatment Outcomes in a Naturalistic Setting.",
@@ -28479,7 +28435,7 @@
     "take": "keep"
   },
   {
-    "id": 463,
+    "id": 462,
     "pmid": "36440399",
     "source": "PubMed",
     "article": "A preliminary study of comprehensive behavioral intervention for tics in Chinese children with chronic tic disorder or Tourette syndrome.",
@@ -28524,7 +28480,7 @@
     "take": "keep"
   },
   {
-    "id": 464,
+    "id": 463,
     "pmid": "36608977",
     "source": "PubMed",
     "article": "Modified Comprehensive Behavioral Intervention for Tics: Treating Children With Tic Disorders, Co-Occurring ADHD, and Psychosocial Impairment.",
@@ -28574,7 +28530,7 @@
     "take": "keep"
   },
   {
-    "id": 465,
+    "id": 464,
     "pmid": "34508805",
     "source": "PubMed",
     "article": "Long-term Outcomes of Behavior Therapy for Youth With Tourette Disorder.",
@@ -28627,7 +28583,7 @@
     "take": "keep"
   },
   {
-    "id": 466,
+    "id": 465,
     "pmid": "34480868",
     "source": "PubMed",
     "article": "Therapist-supported online remote behavioural intervention for tics in children and adolescents in England (ORBIT): a multicentre, parallel group, single-blind, randomised controlled trial.",
@@ -28689,7 +28645,7 @@
     "take": "keep"
   },
   {
-    "id": 467,
+    "id": 466,
     "pmid": "33610169",
     "source": "PubMed",
     "article": "One-year outcome of manualised behavior therapy of chronic tic disorders in children and adolescents.",
@@ -28731,7 +28687,7 @@
     "take": "keep"
   },
   {
-    "id": 468,
+    "id": 467,
     "pmid": "33415472",
     "source": "PubMed",
     "article": "Group behavioral interventions for tics and comorbid symptoms in children with chronic tic disorders.",
@@ -28778,7 +28734,7 @@
     "take": "keep"
   },
   {
-    "id": 469,
+    "id": 468,
     "pmid": "33315190",
     "source": "PubMed",
     "article": "Effectiveness of Behaviour Therapy for Children and Adolescents with Tourette Syndrome and Chronic Tic Disorder in a Naturalistic Setting.",
@@ -28828,7 +28784,7 @@
     "take": "keep"
   },
   {
-    "id": 470,
+    "id": 469,
     "pmid": "33231786",
     "source": "PubMed",
     "article": "Internet-based guided self-help comprehensive behavioral intervention for tics (ICBIT) for youth with tic disorders: a feasibility and effectiveness study with 6 month-follow-up.",
@@ -28872,7 +28828,7 @@
     "take": "keep"
   },
   {
-    "id": 471,
+    "id": 470,
     "pmid": "33095180",
     "source": "PubMed",
     "article": "Therapist-Supported Online Interventions for Children and Young People With Tic Disorders: Lessons Learned From a Randomized Controlled Trial and Considerations for Future Practice.",
@@ -28925,7 +28881,7 @@
     "take": "skim"
   },
   {
-    "id": 472,
+    "id": 471,
     "pmid": "32851356",
     "source": "PubMed",
     "article": "Review of habit reversal training for tic disorders.",
@@ -28983,7 +28939,7 @@
     "take": "keep"
   },
   {
-    "id": 473,
+    "id": 472,
     "pmid": "31782167",
     "source": "PubMed",
     "article": "Effectiveness of a modified comprehensive behavioral intervention for tics for children and adolescents with tourette's syndrome: A randomized controlled trial.",
@@ -29032,7 +28988,7 @@
     "take": "keep"
   },
   {
-    "id": 474,
+    "id": 473,
     "pmid": "32586437",
     "source": "PubMed",
     "article": "Development and Open Trial of a Psychosocial Intervention for Young Children With Chronic Tics: The CBIT-JR Study.",
@@ -29079,7 +29035,7 @@
     "take": "keep"
   },
   {
-    "id": 475,
+    "id": 474,
     "pmid": "30772854",
     "source": "PubMed",
     "article": "Therapist-guided and parent-guided internet-delivered behaviour therapy for paediatric Tourette's disorder: a pilot randomised controlled trial with long-term follow-up.",
@@ -29128,7 +29084,7 @@
     "take": "keep"
   },
   {
-    "id": 476,
+    "id": 475,
     "pmid": "30146896",
     "source": "PubMed",
     "article": "Efficacy of Habit Reversal Training in Children With Chronic Tic Disorders: A Within-Subject Analysis.",
@@ -29173,7 +29129,7 @@
     "take": "keep"
   },
   {
-    "id": 477,
+    "id": 476,
     "pmid": "29956034",
     "source": "PubMed",
     "article": "Combined habit reversal training and exposure response prevention in a group setting compared to individual training: a randomized controlled clinical trial.",
@@ -29218,7 +29174,7 @@
     "take": "keep"
   },
   {
-    "id": 478,
+    "id": 477,
     "pmid": "29636706",
     "source": "PubMed",
     "article": "A Randomized Controlled Trial Comparing Behavioral, Educational, and Pharmacological Treatments in Youths With Chronic Tic Disorder or Tourette Syndrome.",
@@ -29268,7 +29224,7 @@
     "take": "keep"
   },
   {
-    "id": 479,
+    "id": 478,
     "pmid": "28005403",
     "source": "PubMed",
     "article": "Preliminary Randomized Controlled Trial of Habit Reversal Training for Treatment of Hair Pulling in Youth.",
@@ -29312,7 +29268,7 @@
     "take": "keep"
   },
   {
-    "id": 480,
+    "id": 479,
     "pmid": "27701731",
     "source": "PubMed",
     "article": "Treating Trichotillomania (Hair-Pulling Disorder) in a Child.",
@@ -29355,7 +29311,7 @@
     "take": "skim"
   },
   {
-    "id": 481,
+    "id": 480,
     "pmid": "27365937",
     "source": "PubMed",
     "article": "Cheek Plumper: An Innovative Anti-cheek Biting Appliance.",
@@ -29409,7 +29365,7 @@
     "take": "keep"
   },
   {
-    "id": 482,
+    "id": 481,
     "pmid": "27132945",
     "source": "PubMed",
     "article": "Practitioner Review: Treatments for Tourette syndrome in children and young people - a systematic review.",
@@ -29474,7 +29430,7 @@
     "take": "keep"
   },
   {
-    "id": 483,
+    "id": 482,
     "pmid": "27037483",
     "source": "PubMed",
     "article": "Habit reversal training and educational group treatments for children with tourette syndrome: A preliminary randomised controlled trial.",
