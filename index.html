@@ -308,7 +308,8 @@ const TOPIC_SHORT = {
   hyper: "Гипертрофия мышц",
   cox: "Коксартроз",
   pig: "Пигментация лица",
-  ocd: "Детское OCD",
+  tics: "Детские тики",
+  spine: "Протрузии позвоночника",
 };
 const TOPIC_MERGE = {
   aga_drugs: "aga",
@@ -317,7 +318,9 @@ const TOPIC_MERGE = {
   hyper_women: "hyper",
   coxarthrosis: "cox",
   face_pigmentation: "pig",
-  pediatric_ocd: "ocd",
+  pediatric_ocd: "tics",
+  ocd: "tics",
+  spine_disc: "spine",
 };
 function mapTopicKey(k){
   return TOPIC_MERGE[k]||k;
@@ -492,7 +495,7 @@ function buildSidebar(){
   const topicCounts=new Map(countBy("topic_key","topic"));
   const topicSet=new Set(Object.keys(TOPIC_SHORT));
   articles.forEach(a=>{articleTopicKeys(a).forEach(k=>topicSet.add(k))});
-  const topicEntries=[...topicSet].map(k=>[k,topicCounts.get(k)||0]).sort((a,b)=>b[1]-a[1]||(TOPIC_SHORT[a[0]]||a[0]).localeCompare(TOPIC_SHORT[b[0]]||b[0],"ru"));
+  const topicEntries=[...topicSet].map(k=>[k,topicCounts.get(k)||0]).filter(([,n])=>n>0).sort((a,b)=>b[1]-a[1]||(TOPIC_SHORT[a[0]]||a[0]).localeCompare(TOPIC_SHORT[b[0]]||b[0],"ru"));
   buildChips("topicChips",topicEntries,activeTopic,"topic",v=>TOPIC_SHORT[v]||v,true);
   buildChips("starChips",countBy("importance_stars","stars").sort((a,b)=>Number(b[0])-Number(a[0])),activeStars,"stars",v=>`${Number(v)}★`);
   document.querySelectorAll(".nav-btn[data-filter]").forEach(btn=>{
