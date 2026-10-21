@@ -381,7 +381,7 @@ function matchesSearch(a,q){
   if(!q)return true;
   const hay=[
     a.pmid,a.article_link,a.pmc_link,a.doi,a.journal,
-    getTitle(a),a.article,valuesText(a.authors),a.topic,a.summary,
+    getTitle(a),a.article,a.abstract_en,valuesText(a.authors),a.topic,a.summary,
     a.practical_use,a.patient_plain,a.patient_use,
     a.knowledge_area,a._skill,valuesText(a.skills),valuesText(a.methods),
     valuesText(a.tasks),valuesText(a.domains),valuesText(a.project_fit),a._reason,a.why_read,
@@ -398,13 +398,13 @@ function toggleFilter(list, v){
   return list;
 }
 function matchesFilters(a, skip){
-  if(skip!=="topic" && activeTopic.length){
+  // При поиске — весь каталог: тема / год / звёзды не сужают выдачу.
+  if(skip!=="topic" && !searchQuery && activeTopic.length){
     const keys=articleTopicKeys(a);
     if(!activeTopic.some(t=>keys.includes(t)))return false;
   }
-  // При поиске смотрим весь каталог, без фильтра года.
   if(skip!=="year" && !searchQuery && activeYear.length && !activeYear.includes(articleYear(a)))return false;
-  if(skip!=="stars" && activeStars.length && !activeStars.includes(String(a.importance_stars??"")))return false;
+  if(skip!=="stars" && !searchQuery && activeStars.length && !activeStars.includes(String(a.importance_stars??"")))return false;
   if(searchQuery && !matchesSearch(a,searchQuery))return false;
   return true;
 }
@@ -698,8 +698,12 @@ document.getElementById("overlay").addEventListener("click",e=>{if(e.target.id==
 document.getElementById("search").addEventListener("input",e=>{
   searchQuery=e.target.value.trim().toLowerCase();
   pageIndex=0;
-  // Поиск не должен упираться в выбранный год.
-  if(searchQuery && activeYear.length)activeYear=[];
+  // Поиск по всему каталогу: сбрасываем чипы темы/года/звёзд.
+  if(searchQuery){
+    if(activeYear.length)activeYear=[];
+    if(activeTopic.length)activeTopic=[];
+    if(activeStars.length)activeStars=[];
+  }
   buildSidebar();render();
 });
 document.getElementById("sort").addEventListener("change",()=>{pageIndex=0;render()});
