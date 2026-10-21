@@ -365,6 +365,7 @@ function fmtDate(raw){
 function getTitle(a){return a.title_ru||a.article||"Без названия"}
 function valuesText(value){return Array.isArray(value)?value.join(" "):(value||"")}
 function articleYear(a){
+  // a.date — дата публикации статьи (PubMed), не дата сборки каталога
   const y=String(a.date||"").slice(0,4);
   return /^\d{4}$/.test(y)?y:"";
 }
