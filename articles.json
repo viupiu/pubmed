@@ -25572,6 +25572,57 @@
   },
   {
     "id": 430,
+    "pmid": "41438879",
+    "source": "PubMed",
+    "article": "Efficacy of high-intensity focused ultrasound for treating upper and lower eyelid sagging.",
+    "authors": [
+      "Hwang Yousun",
+      "Kim Jin-Hyun",
+      "Lee Han Earl",
+      "Jie Isaac Wong Kai",
+      "Song Jong Keun",
+      "Jalali Arash",
+      "Rosellini Isabella",
+      "Thulesen Jesper",
+      "Vitale Massimo",
+      "Kim Eun-Jae",
+      "Yi Kyu-Ho"
+    ],
+    "date": "2025-11-03",
+    "journal": "JPRAS open",
+    "doi": "10.1016/j.jpra.2025.10.036",
+    "topic": "Космеология",
+    "topic_key": "cosmo",
+    "topic_keys": [
+      "cosmo"
+    ],
+    "topics": [
+      "Космеология"
+    ],
+    "abstract_en": "INTRODUCTION: Eyelid sagging is a frequent concern among aging patients, yet achieving noticeable improvement with noninvasive methods remains challenging.\n\nOBJECTIVE: This prospective cohort study evaluated the efficacy and safety of high-intensity focused ultrasound (HIFU) for improving upper and lower eyelid sagging.\n\nMETHODS: Thirty-four Korean women (aged 31-67 years) with mild to moderate eyelid laxity underwent a single session of HIFU (ULTRAFORMER MPT) using a 2.0-mm, 4-MHz probe, delivering 120 shots to the periocular region. Outcomes were assessed at 12 weeks via a four-point scale rated by blinded clinicians and patients. Eyelid length was measured using standardized photography.\n\nRESULTS: Mean eyelid length decreased by 0.94 ± 0.34 mm (p < 0.0001). Clinical improvement was reported by 76 % of patients and recognized by clinicians in 59 % of cases. The mean scores for overall improvement, eyelid tightening, and crow's feet reduction were 2.25 ± 0.3, 2.10 ± 0.4, and 1.95 ± 0.3, respectively. Mild pain and erythema were the only reported side effects, resolving within 3-4 days.\n\nCONCLUSION: HIFU is a safe and effective noninvasive option for improving both upper and lower eyelid sagging, with high patient satisfaction and minimal adverse effects.",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/41438879/",
+    "pmc_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12719753/",
+    "html_available": true,
+    "html_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12719753/",
+    "title_ru": "HIFU для подтяжки верхних и нижних век: результаты через 12 недель",
+    "patient_plain": "",
+    "patient_use": "HIFU можно рассматривать как нехирургический вариант коррекции лёгкого или умеренного провисания век, но заметное улучшение возникает не у всех. Если выбираете процедуру, уточните у врача опыт работы с периорбитальной областью и меры защиты глаз; при опущении века, влияющем на зрение, не заменяйте обследование у офтальмолога эстетической процедурой.",
+    "practical_use": "При оценке результата отделяйте косметическую дряблость кожи от истинного птоза века, который может требовать функциональной коррекции. При проведении HIFU в периорбитальной области необходимы надлежащая защита глаз и соблюдение техники процедуры.",
+    "summary": "В проспективном исследовании 34 женщин 31–67 лет с лёгкой или умеренной дряблостью век оценивали одну процедуру высокоинтенсивного фокусированного ультразвука (HIFU) на аппарате ULTRAFORMER MPT. Через 12 недель 76% участниц отметили видимое улучшение, а измеряемая длина верхнего века уменьшилась в среднем на 0,94 мм. Боль и покраснение были лёгкими и проходили за 3–4 дня.\nИсследование небольшое, без контрольной группы; наблюдение ограничено 12 неделями, поэтому стойкость эффекта и сравнительную эффективность с хирургической блефаропластикой установить нельзя.",
+    "_reason": "Исследование даёт предварительные данные о косметическом эффекте HIFU на веках, но не определяет долговечность результата.",
+    "why_read": "Полезно для оценки ожидаемого эффекта и краткосрочных нежелательных явлений HIFU в периорбитальной области.",
+    "limitations": [
+      "Thirty-four Korean women",
+      "mild to moderate eyelid laxity",
+      "Future research should include larger, multicenter, and randomized controlled trials with extended follow-up"
+    ],
+    "advice_items": [],
+    "importance_stars": 4,
+    "importance_mark": "★★★★☆",
+    "take": "keep"
+  },
+  {
+    "id": 431,
     "pmid": "41196244",
     "source": "PubMed",
     "article": "Effectiveness of Thoracic Spine Manipulation for Upper Quadrant Musculoskeletal Disorders: A Systematic Review.",
@@ -25615,7 +25666,7 @@
     "take": "keep"
   },
   {
-    "id": 431,
+    "id": 432,
     "pmid": "41321762",
     "source": "PubMed",
     "article": "Prognostic factors for treatment success of conservative management and role for physiotherapy in radicular pain caused by a lumbar disc herniation: a systematic review.",
@@ -25658,7 +25709,7 @@
     "take": "keep"
   },
   {
-    "id": 432,
+    "id": 433,
     "pmid": "41225220",
     "source": "PubMed",
     "article": "Forehead Volumization and Rejuvenation with Hybrid Fillers.",
@@ -25704,7 +25755,7 @@
     "take": "keep"
   },
   {
-    "id": 433,
+    "id": 434,
     "pmid": "41239367",
     "source": "PubMed",
     "article": "Efficacy and safety of Chinese herbal compounds for lumbar disc herniation: a systematic review of randomized controlled trials.",
@@ -25750,7 +25801,7 @@
     "take": "keep"
   },
   {
-    "id": 434,
+    "id": 435,
     "pmid": "41243347",
     "source": "PubMed",
     "article": "Hypopigmentation Following Picosecond Laser Treatment for Melasma: A Case Series.",
@@ -25807,7 +25858,7 @@
     "take": "keep"
   },
   {
-    "id": 435,
+    "id": 436,
     "pmid": "41261256",
     "source": "PubMed",
     "article": "Clinical Durability of Hyaluronic Acid-Based Dermal Fillers for Facial Application: A Systematic Review.",
@@ -25853,7 +25904,7 @@
     "take": "keep"
   },
   {
-    "id": 436,
+    "id": 437,
     "pmid": "41321592",
     "source": "PubMed",
     "article": "Efficacy and Safety Evaluation of Microneedling Combined with Tranexamic Acid-Arbutin Liquid Excipients in the Treatment of Melasma: A Retrospective Study.",
@@ -25916,7 +25967,7 @@
     "take": "keep"
   },
   {
-    "id": 437,
+    "id": 438,
     "pmid": "41315336",
     "source": "PubMed",
     "article": "Safety and efficacy of niosomal and conventional tranexamic acid/niacinamide vs. hydroquinone creams in melasma: A randomized, double-blind, case-controlled clinical trial.",
@@ -25978,7 +26029,7 @@
     "take": "keep"
   },
   {
-    "id": 438,
+    "id": 439,
     "pmid": "41329151",
     "source": "PubMed",
     "article": "Clinical Evaluation of Thiamidol-Containing Formulations for the Visual Management of Facial Hyperpigmentation.",
@@ -26037,7 +26088,7 @@
     "take": "keep"
   },
   {
-    "id": 439,
+    "id": 440,
     "pmid": "41347603",
     "source": "PubMed",
     "article": "Efficacy of the Combination Therapy of Intense Pulsed Light and Microneedling With a Postbiotic Formulation for Melasma.",
@@ -26136,7 +26187,7 @@
     "take": "keep"
   },
   {
-    "id": 440,
+    "id": 441,
     "pmid": "41363060",
     "source": "PubMed",
     "article": "The Quality and Reliability of Short Videos About Melasma on TikTok and Bilibili: A Cross-Sectional Study.",
@@ -26192,7 +26243,7 @@
     "take": "keep"
   },
   {
-    "id": 441,
+    "id": 442,
     "pmid": "41378674",
     "source": "PubMed",
     "article": "The Efficacy of Laser Therapy in Melasma Treatment: A Systematic Review and Meta-Analysis.",
@@ -26262,7 +26313,7 @@
     "take": "keep"
   },
   {
-    "id": 442,
+    "id": 443,
     "pmid": "41420622",
     "source": "PubMed",
     "article": "The efficacy of cysteamine as a melasma therapy: a systematic review of trial studies.",
@@ -26323,7 +26374,7 @@
     "take": "keep"
   },
   {
-    "id": 443,
+    "id": 444,
     "pmid": "41345306",
     "source": "PubMed",
     "article": "A Prospective, Randomized, Active-Controlled, Evaluator-Blinded, Noninferiority Clinical Trial Examining a Non-Cross-Linked Bovine-Derived Type I/III Collagen Filler Combined with Hyaluronic Acid for Periocular Rejuvenation.",
@@ -26370,7 +26421,7 @@
     "take": "keep"
   },
   {
-    "id": 444,
+    "id": 445,
     "pmid": "41350828",
     "source": "PubMed",
     "article": "Effect of cervical traction on balance parameters in patients with cervical radiculopathy: a randomized controlled trial.",
@@ -26418,7 +26469,7 @@
     "take": "keep"
   },
   {
-    "id": 445,
+    "id": 446,
     "pmid": "41361144",
     "source": "PubMed",
     "article": "Efficacy of Ionization-Adjusted PN Filler in Minimizing Injection Pain: A Randomized, Patient-Blinded, Split-Face Study.",
@@ -26461,7 +26512,7 @@
     "take": "keep"
   },
   {
-    "id": 446,
+    "id": 447,
     "pmid": "41510434",
     "source": "PubMed",
     "article": "High Resolution Ultrasound for the Assessment of Melasma: Experience With 1064 nm Q-Switched Nd:YAG Laser.",
@@ -26523,7 +26574,7 @@
     "take": "keep"
   },
   {
-    "id": 447,
+    "id": 448,
     "pmid": "41372602",
     "source": "PubMed",
     "article": "Efficacy and Safety of 675-nm Laser Monotherapy for Melasma in Fitzpatrick Skin Types III-V: A Prospective Pre-Post Intervention Study.",
@@ -26592,7 +26643,7 @@
     "take": "keep"
   },
   {
-    "id": 448,
+    "id": 449,
     "pmid": "41523529",
     "source": "PubMed",
     "article": "A Comparative Study of the Efficacy of Chemical Peels and Microneedling in the Treatment of Moderate to Severe Melasma.",
@@ -26654,7 +26705,7 @@
     "take": "keep"
   },
   {
-    "id": 449,
+    "id": 450,
     "pmid": "41403571",
     "source": "PubMed",
     "article": "Dynamic Neuromuscular Stabilization Exercise and Chronic Lumbar Disc Herniation: Effects on Pain, Mobility, and Trunk Endurance-A Randomized Controlled Trial.",
@@ -26703,7 +26754,7 @@
     "take": "keep"
   },
   {
-    "id": 450,
+    "id": 451,
     "pmid": "41471132",
     "source": "PubMed",
     "article": "Systematic Review and Meta-Analysis of Treatments on Melasma Area Severity Index and Quality of Life.",
@@ -26771,7 +26822,7 @@
     "take": "keep"
   },
   {
-    "id": 451,
+    "id": 452,
     "pmid": "41490183",
     "source": "PubMed",
     "article": "A Case of Severe Skin Adverse Reactions Caused by Cetuximab.",
@@ -26847,7 +26898,7 @@
     "take": "keep"
   },
   {
-    "id": 452,
+    "id": 453,
     "pmid": "41583410",
     "source": "PubMed",
     "article": "Anatomical-based filler injection techniques for the midcheek groove and infraorbital region: Narrative review.",
@@ -26902,7 +26953,7 @@
     "take": "keep"
   },
   {
-    "id": 453,
+    "id": 454,
     "pmid": "41460143",
     "source": "PubMed",
     "article": "Revolutionizing tear trough rejuvenation: A novel bilaminar approach with differential rheologic G prime fillers.",
@@ -26949,7 +27000,7 @@
     "take": "skim"
   },
   {
-    "id": 454,
+    "id": 455,
     "pmid": "41585833",
     "source": "PubMed",
     "article": "Efficacy of Intense Pulsed Light Treatment in Melasma.",
@@ -27017,7 +27068,7 @@
     "take": "keep"
   },
   {
-    "id": 455,
+    "id": 456,
     "pmid": "41987708",
     "source": "PubMed",
     "article": "Effect of Physical Therapy Program on Cervical Radiculopathy in Patients with a Reversed Cervical Curve: a Single-blind Randomized Controlled Trial.",
@@ -27062,7 +27113,7 @@
     "take": "keep"
   },
   {
-    "id": 456,
+    "id": 457,
     "pmid": "41493251",
     "source": "PubMed",
     "article": "A Randomized, Controlled, Split-Face, Double-Blind Study Comparing Topical Malassezin to Hydroquinone 4% for Melasma.",
@@ -27129,7 +27180,7 @@
     "take": "keep"
   },
   {
-    "id": 457,
+    "id": 458,
     "pmid": "41493252",
     "source": "PubMed",
     "article": "Clinical Evaluation of a Thiamidol-Based Regimen With SPF Compared With SPF Alone for Facial Hyperpigmentation.",
@@ -27181,7 +27232,7 @@
     "take": "keep"
   },
   {
-    "id": 458,
+    "id": 459,
     "pmid": "41493255",
     "source": "PubMed",
     "article": "Evaluation of an Advanced, Multimodal Skin Tone Correcting Serum in Participants With Mild-to-Severe Dyschromia and Hyperpigmentation.",
@@ -27239,7 +27290,7 @@
     "take": "keep"
   },
   {
-    "id": 459,
+    "id": 460,
     "pmid": "41493259",
     "source": "PubMed",
     "article": "A Novel Topical Agent for the Management of Hyperpigmentation, Including Melasma and Age Spots.",
@@ -27309,7 +27360,7 @@
     "take": "keep"
   },
   {
-    "id": 460,
+    "id": 461,
     "pmid": "41493260",
     "source": "PubMed",
     "article": "Prospective Single-Site Open-label Study Assessing Safety and Efficacy of Poly-L-Lactic Acid for Temple Volume Loss.",
@@ -27353,7 +27404,7 @@
     "take": "keep"
   },
   {
-    "id": 461,
+    "id": 462,
     "pmid": "41532837",
     "source": "PubMed",
     "article": "A Split Face Study Comparing the Effect of a PDLLA Based Product and PLLA on the Nasolabial Fold (NLF).",
@@ -27402,7 +27453,7 @@
     "take": "keep"
   },
   {
-    "id": 462,
+    "id": 463,
     "pmid": "41556403",
     "source": "PubMed",
     "article": "Topical Volumizing Cream Improves Facial Volume and Skin Health in Adults With Rapid Weight Loss From Pharmacologic (GLP-1/GIP Agonists), Surgical, or Behavioral Interventions.",
@@ -27455,7 +27506,7 @@
     "take": "keep"
   },
   {
-    "id": 463,
+    "id": 464,
     "pmid": "41566538",
     "source": "PubMed",
     "article": "Global Recommendations for Facial Rejuvenation Using a Hyaluronic Acid and Calcium Hydroxyapatite Hybrid Injectable.",
@@ -27526,7 +27577,7 @@
     "take": "keep"
   },
   {
-    "id": 464,
+    "id": 465,
     "pmid": "42047123",
     "source": "PubMed",
     "article": "Efficacy of Alexandrite picosecond laser therapy with and without dermal polyrevitalisation (NCTF® 135 HA) in patients with melasma: A Randomised Controlled Trial.",
@@ -27592,7 +27643,7 @@
     "take": "keep"
   },
   {
-    "id": 465,
+    "id": 466,
     "pmid": "41485124",
     "source": "PubMed",
     "article": "Comparative Study of a 1064 nm Fractional Picosecond Laser Versus Intense Pulsed Light in Facial Rejuvenation: A Prospective Randomized Trial.",
@@ -27657,7 +27708,7 @@
     "take": "keep"
   },
   {
-    "id": 466,
+    "id": 467,
     "pmid": "41494147",
     "source": "PubMed",
     "article": "Spinal manipulative therapy for adults with chronic low back pain.",
@@ -27705,7 +27756,7 @@
     "take": "keep"
   },
   {
-    "id": 467,
+    "id": 468,
     "pmid": "41501430",
     "source": "PubMed",
     "article": "Comparative Pain Assessment of Intradermal Versus Subdermal Skin Booster Injections Using PDLLA: A Randomized, Double-Blinded Split-Injection Study.",
@@ -27753,7 +27804,7 @@
     "take": "keep"
   },
   {
-    "id": 468,
+    "id": 469,
     "pmid": "41598467",
     "source": "PubMed",
     "article": "Saudi Clinical Practice Guideline for the Assessment and Management of Low Back Pain and Sciatica in Adults.",
@@ -27809,7 +27860,7 @@
     "take": "skim"
   },
   {
-    "id": 469,
+    "id": 470,
     "pmid": "41511609",
     "source": "PubMed",
     "article": "Effects of different kinesiology taping applications on Pain, muscular Fitness, Proprioception, Mobility, Functionality, and disability in patients with lumbar disc herniation.",
@@ -27853,7 +27904,7 @@
     "take": "skim"
   },
   {
-    "id": 470,
+    "id": 471,
     "pmid": "41517728",
     "source": "PubMed",
     "article": "Laser and light-based therapies combined with topical agents for melasma: A systematic review and meta-analysis.",
@@ -27920,7 +27971,7 @@
     "take": "keep"
   },
   {
-    "id": 471,
+    "id": 472,
     "pmid": "41532844",
     "source": "PubMed",
     "article": "Therapist-Delivered Video Therapy Habit Reversal Training for Body-Focused Repetitive Behaviors: Clinical Outcomes From a Large Real-World Sample of Youth and Adults.",
@@ -27976,7 +28027,7 @@
     "take": "keep"
   },
   {
-    "id": 472,
+    "id": 473,
     "pmid": "41541242",
     "source": "PubMed",
     "article": "Preliminary Investigation and Safety Profile of a Novel Hybrid Filler (Hyaluronic Acid-Calcium Hydroxylapatite) in Asian Facial Rejuvenation.",
@@ -28025,7 +28076,7 @@
     "take": "keep"
   },
   {
-    "id": 473,
+    "id": 474,
     "pmid": "41566113",
     "source": "PubMed",
     "article": "Efficacy and Tolerability of 0.2% Thiamidol Cream for Facial Hyperpigmentation: A Randomized, Double-Blind, and Vehicle-Controlled Study.",
@@ -28090,7 +28141,7 @@
     "take": "keep"
   },
   {
-    "id": 474,
+    "id": 475,
     "pmid": "41658578",
     "source": "PubMed",
     "article": "Effectiveness of acupuncture in the treatment of chronic sciatica from herniated disks: a systematic review and meta-analysis.",
@@ -28135,7 +28186,7 @@
     "take": "keep"
   },
   {
-    "id": 475,
+    "id": 476,
     "pmid": "41752649",
     "source": "PubMed",
     "article": "Short-Term Effects of Manual Therapy Combined with Functional Magnetic Stimulation in Individuals with Lumbar Disk Herniation with Radiculopathy: A Randomized Clinical Trial.",
@@ -28187,7 +28238,7 @@
     "take": "skim"
   },
   {
-    "id": 476,
+    "id": 477,
     "pmid": "41589005",
     "source": "PubMed",
     "article": "Assessing the Safety and Efficacy of Picosecond Alexandrite Lasers in the Management of Melasma: A Systematic Review and Meta-Analysis of Randomised Control Trials.",
@@ -28259,7 +28310,7 @@
     "take": "keep"
   },
   {
-    "id": 477,
+    "id": 478,
     "pmid": "41720017",
     "source": "PubMed",
     "article": "Analysis of the efficacy of intense pulsed light combined with collagen wound dressings for treating facial postburn hyperpigmentation.",
@@ -28329,7 +28380,7 @@
     "take": "keep"
   },
   {
-    "id": 478,
+    "id": 479,
     "pmid": "40971765",
     "source": "PubMed",
     "article": "Ultrasound Guidance for Botulinum Toxin Injection of Muscles Innervated by the Facial Nerve: A Systematic Review of Anatomical Precision, Safety, and Outcomes.",
@@ -28372,7 +28423,7 @@
     "take": "keep"
   },
   {
-    "id": 479,
+    "id": 480,
     "pmid": "41601401",
     "source": "PubMed",
     "article": "Tranexamic Acid for Hyperpigmentation Disorders: A Literature Review on Efficacy and Safety in Melasma and PIH.",
@@ -28435,7 +28486,7 @@
     "take": "keep"
   },
   {
-    "id": 480,
+    "id": 481,
     "pmid": "41607139",
     "source": "PubMed",
     "article": "A Pilot Study on the Use of Topical Gold and Diamond Suspension Combined With 1,064 nm Picosecond Nd:YAG Laser for the Treatment of Facial Melasma.",
@@ -28500,7 +28551,7 @@
     "take": "keep"
   },
   {
-    "id": 481,
+    "id": 482,
     "pmid": "41656621",
     "source": "PubMed",
     "article": "A 50+ Sunscreen Containing Polypodium Leucotomos Extract, Ellagic Acid, and Niacinamide in Facial Melasma and Photoaging-Related Hyperpigmentation: A Pilot Observational Study Using Line-Field Confocal Optical Coherence Tomography.",
@@ -28569,7 +28620,7 @@
     "take": "keep"
   },
   {
-    "id": 482,
+    "id": 483,
     "pmid": "41715284",
     "source": "PubMed",
     "article": "Clinical Outcomes of an Innovative Poly-L-Lactic Acid (LASYNPRO) in Facial Rejuvenation: Prospective, Multicenter Spanish Study.",
@@ -28627,7 +28678,7 @@
     "take": "keep"
   },
   {
-    "id": 483,
+    "id": 484,
     "pmid": "41729119",
     "source": "PubMed",
     "article": "Comparative Evaluation of Topical Stabilized Retinaldehyde 0.1% vs. 0.05% on Skin Biophysical and Biomechanical Parameters.",
@@ -28675,7 +28726,7 @@
     "take": "keep"
   },
   {
-    "id": 484,
+    "id": 485,
     "pmid": "41650338",
     "source": "PubMed",
     "article": "Efficacy and Safety of Sodium Hyaluronate Gel for Facial Skin Rejuvenation.",
@@ -28724,7 +28775,7 @@
     "take": "keep"
   },
   {
-    "id": 485,
+    "id": 486,
     "pmid": "41675240",
     "source": "PubMed",
     "article": "Factors Associated With Quality of Life and Treatment Practice Among Melasma Patients in Nepal.",
@@ -28791,7 +28842,7 @@
     "take": "keep"
   },
   {
-    "id": 486,
+    "id": 487,
     "pmid": "41667864",
     "source": "PubMed",
     "article": "Safety and Efficacy of Chin Enhancement and Facial Contouring with Two-Three-Point Injection Technique: A Systematic Review and Meta-Analysis.",
@@ -28832,7 +28883,7 @@
     "take": "keep"
   },
   {
-    "id": 487,
+    "id": 488,
     "pmid": "41668543",
     "source": "PubMed",
     "article": "Dual 1550-nm Erbium Glass Fiber and 1927-nm Thulium Fiber Non-ablative Fractional Laser System Treatment in Patients With Skin of Color: A Review of Clinical Studies and Unmet Needs.",
@@ -28904,7 +28955,7 @@
     "take": "keep"
   },
   {
-    "id": 488,
+    "id": 489,
     "pmid": "41767513",
     "source": "PubMed",
     "article": "Efficacy and safety of Q-switched laser combined with intense pulsed light in treating melasma: a meta-analysis.",
@@ -28967,7 +29018,7 @@
     "take": "keep"
   },
   {
-    "id": 489,
+    "id": 490,
     "pmid": "41908499",
     "source": "PubMed",
     "article": "Drug-Induced Melasma in Patients on 5-Alpha Reductase Inhibitors: A Case Report.",
@@ -29031,7 +29082,7 @@
     "take": "keep"
   },
   {
-    "id": 490,
+    "id": 491,
     "pmid": "41869255",
     "source": "PubMed",
     "article": "Laser-Based Management of Occupational Photodamage in a Young Adult: A Case Report.",
@@ -29101,7 +29152,7 @@
     "take": "keep"
   },
   {
-    "id": 491,
+    "id": 492,
     "pmid": "41743904",
     "source": "PubMed",
     "article": "Correlation Between Improvements in Melasma Quality of Life (MELASQoL-INA) and Modified Melasma Area and Severity Index (mMASI) Following Triple Combination Therapy.",
@@ -29163,7 +29214,7 @@
     "take": "keep"
   },
   {
-    "id": 492,
+    "id": 493,
     "pmid": "41731228",
     "source": "PubMed",
     "article": "Effects of Profhilo® Tissue Bioremodeling on Skin Texture and Perioral Wrinkles: A Randomized Controlled Triple-Blind Clinical Trial.",
@@ -29210,7 +29261,7 @@
     "take": "keep"
   },
   {
-    "id": 493,
+    "id": 494,
     "pmid": "41884735",
     "source": "PubMed",
     "article": "Efficacy of Tranexamic acid Microneedling versus Intradermal Injection of Tranexamic Acid in the Treatment of Melasma - A Randomised Controlled Trial.",
@@ -29276,7 +29327,7 @@
     "take": "keep"
   },
   {
-    "id": 494,
+    "id": 495,
     "pmid": "41724989",
     "source": "PubMed",
     "article": "Efficacy and Safety of Amino Acid-Enriched Hyaluronic Acid in Facial Rejuvenation: A Systematic Review and Meta-Analysis.",
@@ -29320,7 +29371,7 @@
     "take": "keep"
   },
   {
-    "id": 495,
+    "id": 496,
     "pmid": "41725026",
     "source": "PubMed",
     "article": "Exploring the Effectiveness, Tolerability, and Safety of the Adjunctive Use of Microneedling With Tranexamic Acid in the Treatment of Melasma.",
@@ -29390,7 +29441,7 @@
     "take": "keep"
   },
   {
-    "id": 496,
+    "id": 497,
     "pmid": "41735774",
     "source": "PubMed",
     "article": "A Single-Center, Open-Label Study to Evaluate the Efficacy and Tolerability of Retinal Encapsulated in a Novel Biomimetic Exosome in the Treatment of Mild-To-Moderate Facial Photodamage.",
@@ -29440,7 +29491,7 @@
     "take": "keep"
   },
   {
-    "id": 497,
+    "id": 498,
     "pmid": "41764757",
     "source": "PubMed",
     "article": "Effect of Kinetic Control Retraining on Neck Proprioception and Function in Cervical Radiculopathy: A Randomized Controlled Trial.",
@@ -29485,7 +29536,7 @@
     "take": "keep"
   },
   {
-    "id": 498,
+    "id": 499,
     "pmid": "41797621",
     "source": "PubMed",
     "article": "An Open-Label Study to Assess the Efficacy and Tolerability of a Multifunctional, 10-Peptide Face and Neck Serum to Address Skin Quality.",
@@ -29534,7 +29585,7 @@
     "take": "keep"
   },
   {
-    "id": 499,
+    "id": 500,
     "pmid": "42017707",
     "source": "PubMed",
     "article": "Effects of cervical traction with and without EMG biofeedback in patients with cervical radiculopathy- A randomised controlled trial.",
@@ -29579,7 +29630,7 @@
     "take": "skim"
   },
   {
-    "id": 500,
+    "id": 501,
     "pmid": "42605306",
     "source": "PubMed",
     "article": "Safety and Efficacy of Laser Versus Cryotherapy in the Treatment of Lentigines: A Systematic Review and Meta-analysis of Randomized Controlled Trials : Short title: Safety and Efficacy of Laser Versus Cryotherapy in the Treatment of Lentigines.",
@@ -29642,7 +29693,7 @@
     "take": "keep"
   },
   {
-    "id": 501,
+    "id": 502,
     "pmid": "41782066",
     "source": "PubMed",
     "article": "Comparing the efficacy and safety of a 730-nm picosecond laser with a 532-nm Q-switched Nd:YAG laser for facial pigmented disorders: a retrospective comparative study.",
@@ -29706,7 +29757,7 @@
     "take": "keep"
   },
   {
-    "id": 502,
+    "id": 503,
     "pmid": "41959968",
     "source": "PubMed",
     "article": "Topical Steroid and Fairness Cream Abuse in Facial Dermatoses: A Cross-Sectional Study at a Tertiary Care Center in Western Uttar Pradesh.",
@@ -29777,7 +29828,7 @@
     "take": "keep"
   },
   {
-    "id": 503,
+    "id": 504,
     "pmid": "41820616",
     "source": "PubMed",
     "article": "Comparative Efficacy and Patient-centered Outcomes of Intraoral Submucosal Zonal Injection Versus Traditional Extra-oral Injection for Improving Perioral Contour: A Randomized Controlled Trial.",
@@ -29826,7 +29877,7 @@
     "take": "keep"
   },
   {
-    "id": 504,
+    "id": 505,
     "pmid": "41846592",
     "source": "PubMed",
     "article": "Tuina Alleviates Pain Associated with Lumbar Disc Herniation by Regulating Functional Connectivity Between Inferior Frontal Triangularis and Multiple Brain Networks: A Randomized Controlled fMRI Study.",
@@ -29875,7 +29926,7 @@
     "take": "skim"
   },
   {
-    "id": 505,
+    "id": 506,
     "pmid": "41824827",
     "source": "PubMed",
     "article": "Improved clinical efficacy of melasma with combination therapy of intense pulsed light and tranexamic acid: A retrospective analysis.",
@@ -29938,7 +29989,7 @@
     "take": "keep"
   },
   {
-    "id": 506,
+    "id": 507,
     "pmid": "41832625",
     "source": "PubMed",
     "article": "Microneedle-based Transdermal Patch: A Novel Strategy for Hyperpigmentation Treatment.",
@@ -29997,7 +30048,7 @@
     "take": "keep"
   },
   {
-    "id": 507,
+    "id": 508,
     "pmid": "41841366",
     "source": "PubMed",
     "article": "Comparison of efficacy and safety of fractional 1064 nm picosecond laser and low-fluence Q-switched Nd:YAG laser in the treatment of melasma.",
@@ -30058,7 +30109,7 @@
     "take": "keep"
   },
   {
-    "id": 508,
+    "id": 509,
     "pmid": "41870519",
     "source": "PubMed",
     "article": "Efficacy and Safety of a Topical Nicotinamide Adenine Dinucleotide Skinbooster for the Treatment of Melasma.",
@@ -30123,7 +30174,7 @@
     "take": "keep"
   },
   {
-    "id": 509,
+    "id": 510,
     "pmid": "41910842",
     "source": "PubMed",
     "article": "Italian Expert Consensus on the Efficacy and Safety of High Doses of Incobotulinum Toxin A (Bocouture®) in a Full-Face Approach Based on the Electromyographic Analysis.",
@@ -30189,7 +30240,7 @@
     "take": "keep"
   },
   {
-    "id": 510,
+    "id": 511,
     "pmid": "42064496",
     "source": "PubMed",
     "article": "Efficacy and Safety of Laser-Based Therapies for Melasma: A Systematic Review and Meta-Analysis.",
@@ -30272,7 +30323,7 @@
     "take": "keep"
   },
   {
-    "id": 511,
+    "id": 512,
     "pmid": "41889091",
     "source": "PubMed",
     "article": "Is Ready-To-Use AbobotulinumtoxinA More Effective Than OnabotulinumtoxinA for Glabellar Lines? A Randomized, Controlled, Triple-Blinded Clinical Trial.",
@@ -30319,7 +30370,7 @@
     "take": "keep"
   },
   {
-    "id": 512,
+    "id": 513,
     "pmid": "41945421",
     "source": "PubMed",
     "article": "Effectiveness of Using the AOPT-LTL Technique for the Treatment of Melasma: A Clinical Study.",
@@ -30388,7 +30439,7 @@
     "take": "keep"
   },
   {
-    "id": 513,
+    "id": 514,
     "pmid": "41947475",
     "source": "PubMed",
     "article": "Prospective, Randomized, Double-Blind, Placebo-Controlled Study of an Oral Antioxidant-Rich Synbiotic Supplement on Skin Health and Photoaging.",
@@ -30454,7 +30505,7 @@
     "take": "skim"
   },
   {
-    "id": 514,
+    "id": 515,
     "pmid": "41970772",
     "source": "PubMed",
     "article": "Unlocking the Effects of Neural Mobilization versus Transcutaneous Electrical Nerve Stimulation in Cervical Radiculopathy.",
@@ -30499,7 +30550,7 @@
     "take": "skim"
   },
   {
-    "id": 515,
+    "id": 516,
     "pmid": "42528867",
     "source": "PubMed",
     "article": "Efficacy and Safety of Monophasic Versus Biphasic Hyaluronic Acid Dermal Fillers in Correction of Moderate-to-Severe Nasolabial Folds: A Randomized, Controlled, Double Blinded and Intraindividual Study.",
@@ -30543,7 +30594,54 @@
     "take": "keep"
   },
   {
-    "id": 516,
+    "id": 517,
+    "pmid": "41940941",
+    "source": "PubMed",
+    "article": "Clinical Efficacy and Safety of Shallow-Dermal Linear HIFU for Fine-Wrinkle Reduction in Asian Skin.",
+    "authors": [
+      "Song Jong Keun",
+      "Park Yerin",
+      "Oh Eom Ji",
+      "Kato Mana",
+      "Yi Kyu-Ho",
+      "Baek Sang Oon"
+    ],
+    "date": "2026-04-06",
+    "journal": "The Journal of craniofacial surgery",
+    "doi": "10.1097/SCS.0000000000012744",
+    "topic": "Космеология",
+    "topic_key": "cosmo",
+    "topic_keys": [
+      "cosmo"
+    ],
+    "topics": [
+      "Космеология"
+    ],
+    "abstract_en": "High-intensity focused ultrasound (HIFU) is an established technique for improving fine wrinkles through thermally induced collagen remodeling. As interest in superficial-dermal applications-particularly in Asian skin with distinct dermal characteristics-grows, there is a need to define reproducible, anatomy-guided parameters for dermis-targeted HIFU. This study evaluated the clinical and biophysical effects of a standardized shallow-dermal HIFU protocol for full-face and neck rejuvenation in Asian women. Thirty Asian women (Fitzpatrick skin types III-IV; ages 33-59) who underwent a single full-face and neck shallow-dermal HIFU treatment between January and June 2024 were retrospectively evaluated. Outcomes assessed at baseline and at weeks 4 and 12 included 3-dimensional profilometric wrinkle depth, surface roughness, cutometric elasticity indices (R2 and R5), blinded Global Aesthetic Improvement Scale ratings, patient satisfaction scores, and safety profiles. At week 12, wrinkle depth decreased by 19.3% and surface roughness by 15.9%, while gross and net elasticity increased by 21.6% and 18.1%, respectively. Blinded evaluators rated 93% of participants as improved or better, and mean patient satisfaction increased to 4.6±0.4. Only mild and transient adverse events were observed, including erythema (10%) and edema (6%). Shallow-dermal HIFU demonstrated consistent improvements in wrinkles, elasticity, and skin texture with favorable tolerability in Asian skin. These findings support an anatomy-guided framework for dermis-focused HIFU and underscore the need for further controlled studies to refine optimal treatment parameters and evaluate long-term durability.",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/41940941/",
+    "pmc_link": "",
+    "html_available": false,
+    "html_link": "",
+    "title_ru": "Поверхностный HIFU для уменьшения мелких морщин лица и шеи",
+    "patient_plain": "",
+    "patient_use": "Поверхностный HIFU может умеренно уменьшить мелкие морщины и улучшить текстуру кожи, но эффективность именно этого протокола пока подтверждена только небольшим исследованием азиатских женщин. Если рассматриваете процедуру, спросите врача о глубине воздействия и параметрах аппарата для поверхностной дермы; статья не позволяет определить оптимальные настройки или длительность эффекта.",
+    "practical_use": "При оценке результата следует раздельно учитывать глубину морщин, шероховатость и эластичность, а не подменять объективные изменения общей эстетической оценкой. Не переносить предложенный подход на другие фототипы и аппараты без проверки применимости параметров.",
+    "summary": "В ретроспективном исследовании 30 азиатских женщин 33–59 лет с фототипами кожи III–IV оценивали результат однократного поверхностно-дермального HIFU (высокоинтенсивного сфокусированного ультразвука) для лица и шеи. Через 12 недель глубина морщин уменьшилась на 19,3%, шероховатость кожи — на 15,9%; эластичность повысилась на 18,1–21,6%. У 93% участниц слепые оценщики отметили улучшение или более выраженный эффект. Наблюдались кратковременные покраснение (10%) и отёк (6%).\nИсследование небольшое, ретроспективное, без контрольной группы; долгосрочная сохранность результата не установлена.",
+    "_reason": "Есть измеримые улучшения после одной процедуры, но контрольной группы и данных о стойкости эффекта нет.",
+    "why_read": "Подходит для предварительной оценки поверхностно-дермального HIFU как метода коррекции мелких морщин лица и шеи.",
+    "limitations": [
+      "Thirty Asian women",
+      "retrospectively evaluated",
+      "the need for further controlled studies",
+      "evaluate long-term durability"
+    ],
+    "advice_items": [],
+    "importance_stars": 4,
+    "importance_mark": "★★★★☆",
+    "take": "keep"
+  },
+  {
+    "id": 518,
     "pmid": "41129279",
     "source": "PubMed",
     "article": "Streamlined Facial Rejuvenation: A Randomized Split-Face Trial of Premixed Intradermal Botulinum Toxin Type A and Hyaluronic Acid Biorevitalization.",
@@ -30593,7 +30691,7 @@
     "take": "keep"
   },
   {
-    "id": 517,
+    "id": 519,
     "pmid": "41243519",
     "source": "PubMed",
     "article": "A Multicenter, Open-Label Study of Combined Poly-L-Lactic Acid and Hyaluronic Midface Filler Regimen Enhances Facial Harmony and Skin Quality in GLP-1 Medication Users.",
@@ -30641,7 +30739,7 @@
     "take": "keep"
   },
   {
-    "id": 518,
+    "id": 520,
     "pmid": "41507069",
     "source": "PubMed",
     "article": "Safety and Effectiveness of a Crosslinked Hyaluronic Acid Filler in Korean Patients for the Correction of Nasolabial Folds: A Randomized, Patient- and Evaluator-Blinded, Paired Study.",
@@ -30684,7 +30782,49 @@
     "take": "keep"
   },
   {
-    "id": 519,
+    "id": 521,
+    "pmid": "42005972",
+    "source": "PubMed",
+    "article": "Double Chin Correction with Combination of High Intensity Focused Ultrasound and Hyaluronic Acid: A 24-Week Case Report.",
+    "authors": [
+      "Fujimaki Aira",
+      "Imaizumi Akiko"
+    ],
+    "date": "2026-04-12",
+    "journal": "Clinical, cosmetic and investigational dermatology",
+    "doi": "10.2147/CCID.S599307",
+    "topic": "Космеология",
+    "topic_key": "cosmo",
+    "topic_keys": [
+      "cosmo"
+    ],
+    "topics": [
+      "Космеология"
+    ],
+    "abstract_en": "Submental fullness, commonly referred to as a double chin, is a frequent aesthetic concern influenced by subcutaneous fat accumulation and underlying skeletal structure. High-intensity focused ultrasound (HIFU) and hyaluronic acid (HA) filler injection have each been used as minimally invasive treatment options; however, reports on their combined use remain limited. We report two Asian female patients with mild to moderate submental fullness who were treated with a sequential combination of linear HIFU and HA filler injection in routine clinical practice. One patient underwent HIFU followed by HA injection, whereas the other received HA injection prior to HIFU treatment. Both patients demonstrated improvement in submental contour, cervicomental angle, and chin projection during follow-up, with results maintained at 24 weeks. Patient satisfaction was high, treatment-related discomfort was minimal, and no immediate or delayed adverse events were observed. Although limited by the small number of cases, these observations suggest that a combined approach using HIFU and HA filler may represent a well-tolerated, minimally invasive option for selected patients with submental fullness.",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/42005972/",
+    "pmc_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13086036/",
+    "html_available": true,
+    "html_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13086036/",
+    "title_ru": "Коррекция второго подбородка сочетанием HIFU и филлера гиалуроновой кислоты",
+    "patient_plain": "",
+    "patient_use": "Сочетание HIFU и филлера ГК может быть вариантом коррекции второго подбородка, если одновременно присутствуют избыток жировой ткани и недостаточная проекция подбородка, но эта статья не доказывает его превосходство над отдельными процедурами. Перед выбором лечения попросите врача определить, что именно формирует ваш профиль — жир, особенности костной структуры или избыток кожи; по этим двум случаям нельзя установить оптимальную последовательность процедур.",
+    "practical_use": "При планировании коррекции оцените отдельно объём подподбородочной жировой ткани, проекцию подбородка и шейно-подбородочный угол: HIFU направлен на уменьшение жировой ткани и уплотнение кожи, а филлер ГК — на структурную поддержку и проекцию подбородка. Не переносите заявленную безопасность и результат на всех пациентов: в статье нет контрольной группы, а измерение толщины жира штангенциркулем зависит от оператора.",
+    "summary": "В описании двух клинических случаев у женщин азиатского происхождения с лёгкой или умеренной выраженностью второго подбородка применяли высокоинтенсивный фокусированный ультразвук (HIFU) и инъекции филлера гиалуроновой кислоты (ГК). У одной пациентки сначала провели HIFU, затем ввели филлер, у другой — в обратной последовательности. В обоих случаях улучшились контур подподбородочной области, шейно-подбородочный угол и проекция подбородка; эффект сохранялся 24 недели, осложнений не наблюдали.\nДва случая без контрольной группы не позволяют определить вклад каждого метода в результат или оценить эффективность сочетания для широкой популяции.",
+    "_reason": "Практический вывод ограничен двумя случаями: сочетание процедур выглядит перспективным, но оснований рекомендовать его как доказанный стандарт недостаточно.",
+    "why_read": "Помогает понять, почему при втором подбородке с недостаточной проекцией подбородка авторы сочетали уменьшение жировой ткани с восполнением структурного объёма.",
+    "limitations": [
+      "The small sample size and case report design limit the generalizability of the findings.",
+      "Because this report does not include a control group, it is not possible to determine the relative contribution of HIFU and HA filler to the observed clinical changes.",
+      "Caliper-based measurement of submental fat thickness is operator-dependent and may not completely isolate pre-platysmal fat."
+    ],
+    "advice_items": [],
+    "importance_stars": 4,
+    "importance_mark": "★★★★☆",
+    "take": "skim"
+  },
+  {
+    "id": 522,
     "pmid": "42025113",
     "source": "PubMed",
     "article": "Histopathological evaluation of facial melasma treated with oral tranexamic acid alone and in combination with ketotifen.",
@@ -30757,7 +30897,7 @@
     "take": "keep"
   },
   {
-    "id": 520,
+    "id": 523,
     "pmid": "42028100",
     "source": "PubMed",
     "article": "Efficacy and Safety of Picosecond Laser Combined With Sodium Hyaluronate for Melasma.",
@@ -30821,7 +30961,51 @@
     "take": "keep"
   },
   {
-    "id": 521,
+    "id": 524,
+    "pmid": "42052614",
+    "source": "PubMed",
+    "article": "Pilot Study: Repeated Utenpanium (RZL-012) Treatment for Submental Fat Reduction.",
+    "authors": [
+      "Shridharani Sachin M",
+      "Biesman Brian S",
+      "Gueta Racheli",
+      "Walker Patricia S"
+    ],
+    "date": "2026-04-27",
+    "journal": "Plastic and reconstructive surgery. Global open",
+    "doi": "10.1097/GOX.0000000000007611",
+    "topic": "Космеология",
+    "topic_key": "cosmo",
+    "topic_keys": [
+      "cosmo"
+    ],
+    "topics": [
+      "Космеология"
+    ],
+    "abstract_en": "BACKGROUND: Utenpanium (RZL-012) (5-(3,6-dibromo-9H-carbazol-9-yl)-N,N,N-trimethylpentan-1-aminium chloride) is a novel injectable cytolytic agent in development for aesthetic and therapeutic indications. This open-label phase 2 study evaluated the safety and efficacy of repeat treatment with RZL-012 for the reduction of submental fat (SMF) in patients previously treated and seeking additional improvement.\n\nMETHODS: Fifteen patients (18-65 y) who had received RZL-012 three to 24 months prior underwent a second treatment to the SMF area and were followed up for more than 84 days. SMF was assessed at baseline and posttreatment using the Clinician Chin Assessment Tool and Subject Chin Assessment Tool. Safety was evaluated through adverse event monitoring, and patient satisfaction was recorded.\n\nRESULTS: All patients (15 of 15, 100%) achieved at least a 1-grade improvement on both Clinician Chin Assessment Tool and Subject Chin Assessment Tool relative to the original baseline (before first treatment), and 47% (7 of 15) achieved at least a 2-grade improvement. These outcomes exceeded those observed after initial treatment, in which 67% achieved at least a 1-grade improvement and none achieved at least a 2-grade improvement. Eighty percent of patients reported being \"satisfied\" or \"very satisfied\" with treatment outcomes. Adverse events were localized and consistent with prior studies.\n\nCONCLUSIONS: Repeat treatment with RZL-012 provides additional improvement in SMF appearance with favorable safety and tolerability, supporting its potential utility in patients seeking further aesthetic benefit.",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/42052614/",
+    "pmc_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13120499/",
+    "html_available": true,
+    "html_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13120499/",
+    "title_ru": "Повторные инъекции RZL-012 для уменьшения подкожного жира под подбородком",
+    "patient_plain": "",
+    "patient_use": "Повторные инъекции RZL-012 могут дополнительно уменьшить жир под подбородком у тех, кому недостаточно первого курса, но препарат пока изучается. Не записывайтесь на эту процедуру как на стандартное лечение: уточните у врача статус регистрации RZL-012 и доступность контролируемых клинических исследований.",
+    "practical_use": "При оценке результата повторного курса сравнивайте оценки Clinician Chin Assessment Tool и Subject Chin Assessment Tool с исходными показателями до первой инъекции. До внедрения метода в практику учитывайте частоту местных реакций и отсутствие контрольной группы в пилотном исследовании.",
+    "summary": "В открытом пилотном исследовании 15 пациентов, ранее получавших уколы утенпаниума (RZL-012), прошли повторный курс для дополнительного уменьшения жира под подбородком. Через 84 дня после повторного введения у всех 15 пациентов улучшилась оценка контура подбородка минимум на одну ступень, у 7 из 15 — минимум на две; 80% были удовлетворены результатом. У всех возникли местные нежелательные явления: отёк, уплотнение кожи или кровоподтёки; зарегистрированы также умеренная боль у пяти пациентов и выраженный отёк у двух. Все явления разрешились самостоятельно в течение 84 дней.\nИсследование включало только 15 человек, не имело контрольной группы и было спонсировано производителем препарата.",
+    "_reason": "Исследование показывает дополнительный косметический эффект повторных инъекций, но препарат остаётся экспериментальным.",
+    "why_read": "Полезно для оценки перспектив инъекционного уменьшения субментального жира после недостаточного эффекта первой процедуры.",
+    "limitations": [
+      "open-label phase 2 study",
+      "Fifteen patients",
+      "Adequate and well-controlled phase 3 trials are underway"
+    ],
+    "advice_items": [],
+    "importance_stars": 4,
+    "importance_mark": "★★★★☆",
+    "take": "skim"
+  },
+  {
+    "id": 525,
     "pmid": "42109558",
     "source": "PubMed",
     "article": "Facial Melanosis: A Comprehensive Review of Uncommon and Common Presentations with Personal Experience.",
@@ -30890,7 +31074,7 @@
     "take": "keep"
   },
   {
-    "id": 522,
+    "id": 526,
     "pmid": "42081634",
     "source": "PubMed",
     "article": "Efficacy and Safety of Topical Metformin vs Kligman Formula in the Treatment of Melasma: A Split-Face Study.",
@@ -30959,7 +31143,7 @@
     "take": "keep"
   },
   {
-    "id": 523,
+    "id": 527,
     "pmid": "42094857",
     "source": "PubMed",
     "article": "A Retrospective Analysis of Radiofrequency Microneedling for Melasma Management in the Japanese Population.",
@@ -31019,7 +31203,7 @@
     "take": "keep"
   },
   {
-    "id": 524,
+    "id": 528,
     "pmid": "42130059",
     "source": "PubMed",
     "article": "Advancing the Evidence on Glabellar Contraction Patterns-A Prospective Multicenter Study on Its Clinical Relevance for Glabellar Neuromodulator Injections.",
@@ -31084,7 +31268,7 @@
     "take": "keep"
   },
   {
-    "id": 525,
+    "id": 529,
     "pmid": "42281676",
     "source": "PubMed",
     "article": "Partial Unilateral Lentiginosis: A Systematic Review of 159 Reported Cases and Diagnostic Considerations.",
@@ -31158,7 +31342,7 @@
     "take": "keep"
   },
   {
-    "id": 526,
+    "id": 530,
     "pmid": "42113278",
     "source": "PubMed",
     "article": "Evaluation of a multifunctional traction device for lumbar disc herniation: a prospective randomized controlled study using magnetic resonance imaging and clinical assessment.",
@@ -31207,7 +31391,7 @@
     "take": "skim"
   },
   {
-    "id": 527,
+    "id": 531,
     "pmid": "41662390",
     "source": "PubMed",
     "article": "Efficacy and Safety of Poly-L-lactic Acid for Midface Rejuvenation: A 12-Month Split-face Controlled Evaluation With 3D Imaging and Patient-reported Outcomes.",
@@ -31252,7 +31436,7 @@
     "take": "keep"
   },
   {
-    "id": 528,
+    "id": 532,
     "pmid": "42326234",
     "source": "PubMed",
     "article": "Oral Corticosteroid Therapy in Lumbar Radiculopathy: Evidence From Randomized Controlled Trials.",
@@ -31301,7 +31485,7 @@
     "take": "keep"
   },
   {
-    "id": 529,
+    "id": 533,
     "pmid": "42453254",
     "source": "PubMed",
     "article": "Awareness, knowledge, attitude, and behaviors related to topical corticosteroid use among population in Hail, Saudi Arabia: A cross-sectional study.",
@@ -31381,7 +31565,7 @@
     "take": "keep"
   },
   {
-    "id": 530,
+    "id": 534,
     "pmid": "42206438",
     "source": "PubMed",
     "article": "Effectiveness and safety of topical L-ascorbic acid 15% serum compared to retinol 0.1% serum for skin aging: a double-blind randomized controlled trial study.",
@@ -31425,7 +31609,7 @@
     "take": "keep"
   },
   {
-    "id": 531,
+    "id": 535,
     "pmid": "42215311",
     "source": "PubMed",
     "article": "Effects of Physical Exercise on Pain in Patients With Lumbar Disc Herniation: A Systematic Review and Meta-Analysis of Randomised Controlled Trials.",
@@ -31469,7 +31653,7 @@
     "take": "keep"
   },
   {
-    "id": 532,
+    "id": 536,
     "pmid": "42228070",
     "source": "PubMed",
     "article": "The Efficacy and Safety of Platelet-Rich Plasma in the Treatment of Melasma: A Systematic Review and Meta-analysis.",
@@ -31534,7 +31718,7 @@
     "take": "keep"
   },
   {
-    "id": 533,
+    "id": 537,
     "pmid": "42482855",
     "source": "PubMed",
     "article": "Combination Approach to Hyperpigmentation: Unveiling Enhanced Aesthetic Results With Microneedling and Pigment-Correcting Peel.",
@@ -31592,7 +31776,7 @@
     "take": "keep"
   },
   {
-    "id": 534,
+    "id": 538,
     "pmid": "42602406",
     "source": "PubMed",
     "article": "Efficacy and safety of microneedling with tranexamic acid versus microneedling with vitamin C in the treatment of melasma: a systematic review and meta-analysis.",
@@ -31664,7 +31848,51 @@
     "take": "keep"
   },
   {
-    "id": 535,
+    "id": 539,
+    "pmid": "42266763",
+    "source": "PubMed",
+    "article": "Efficacy of Polynucleotide for the Recovery of Depressed Lesions Following Steroid-Based Lipolysis Injections.",
+    "authors": [
+      "Park Sung Min",
+      "Oh Seung Min",
+      "Oh Myungjune",
+      "Lee Dongkeun Kenneth"
+    ],
+    "date": "2026-06-03",
+    "journal": "Clinical, cosmetic and investigational dermatology",
+    "doi": "10.2147/CCID.S603237",
+    "topic": "Космеология",
+    "topic_key": "cosmo",
+    "topic_keys": [
+      "cosmo"
+    ],
+    "topics": [
+      "Космеология"
+    ],
+    "abstract_en": "BACKGROUND: Steroid-containing lipolysis injections may rarely induce facial lipoatrophy, resulting in persistent contour deformities and psychological distress. In compromised tissues, conventional fillers may pose safety concerns, prompting interest in treatment approaches that support local tissue recovery.\n\nOBJECTIVE: To evaluate the clinical efficacy and safety of polynucleotide (PN) injection for facial lipoatrophy caused by steroid-containing lipolysis injections.\n\nMETHODS: This retrospective clinical study included six patients who developed facial lipoatrophy following steroid-containing lipolysis injectionsand were treated with PN (Rejuran®, 20 mg/mL). PN was administered using a combination of intradermal microinjections and superficial subcutaneous bolus injections at 2-4-week intervals. Clinical outcomes were assessed using the Physician's Global Assessment (PGA; 1-5 scale) based on standardized photographic comparisons, along with patient-reported satisfaction.\n\nRESULTS: All patients demonstrated meaningful improvement in facial contour following PN treatment. Three patients achieved near-complete resolution (PGA 5), while the remaining three showed substantial improvement (PGA 4). Improvement progressed gradually with repeated sessions. No treatment-related adverse events were observed.\n\nCONCLUSION: PN injection appears to be a safe and effective tissue-supportive option for managing facial lipoatrophy following steroid-containing lipolysis injections. Larger prospective studies are warranted to establish standardized treatment protocols.",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/42266763/",
+    "pmc_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13242990/",
+    "html_available": true,
+    "html_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13242990/",
+    "title_ru": "Полинуклеотиды при атрофии жировой ткани лица после липолитических инъекций со стероидами",
+    "patient_plain": "",
+    "patient_use": "Инъекции полинуклеотидов Rejuran могут быть вариантом коррекции западений лица после липолитиков со стероидами, но эффективность и безопасность пока подтверждены лишь небольшим наблюдением. При появлении таких западений обратитесь к дерматологу или пластическому хирургу, имеющему опыт лечения постинъекционной липоатрофии, и обсудите применимость полинуклеотидов именно в вашем случае.",
+    "practical_use": "При постстероидной липоатрофии лица оцените глубину и число западений: в этой серии более глубокие и множественные дефекты чаще требовали большего числа сеансов. Не переносите результаты на другие препараты полинуклеотидов и не считайте отсутствие осложнений у шести пациенток доказательством безопасности метода.",
+    "summary": "В ретроспективном исследовании шесть женщин с западением тканей лица после липолитических инъекций со стероидами получали полинуклеотиды Rejuran (20 мг/мл) внутрикожными микроинъекциями и поверхностными подкожными болюсами с интервалами 2–4 недели. У всех отмечено улучшение контура: у трёх — почти полное восстановление, у трёх — значительное; связанных с лечением нежелательных явлений не зарегистрировали.\nИсследование включало только шесть пациенток, без контрольной группы; оценка проводилась через 2–4 недели после последнего сеанса.",
+    "_reason": "Есть конкретный вариант коррекции постинъекционной липоатрофии лица, но схема лечения не стандартизирована.",
+    "why_read": "Помогает оценить потенциальную роль полинуклеотидов при западениях лица после липолитиков со стероидами.",
+    "limitations": [
+      "retrospective clinical study",
+      "Six patients",
+      "Larger prospective studies are warranted to establish standardized treatment protocols."
+    ],
+    "advice_items": [],
+    "importance_stars": 4,
+    "importance_mark": "★★★★☆",
+    "take": "keep"
+  },
+  {
+    "id": 540,
     "pmid": "42266765",
     "source": "PubMed",
     "article": "Subtype-Specific Response to Fractional-Mode Q-Switched Ruby Laser in Melasma: A Prospective Single-Blind Clinical Study Using Clinical and Noninvasive Imaging Assessments.",
@@ -31727,7 +31955,7 @@
     "take": "keep"
   },
   {
-    "id": 536,
+    "id": 541,
     "pmid": "42260872",
     "source": "PubMed",
     "article": "Clinical efficacy of acupuncture in the treatment of sciatica during the remission phase of lumbar disc herniation: A secondary analysis of a randomized controlled trial.",
@@ -31780,7 +32008,7 @@
     "take": "keep"
   },
   {
-    "id": 537,
+    "id": 542,
     "pmid": "42453157",
     "source": "PubMed",
     "article": "Use of High-Intensity Focused Ultrasound in the Periorbital Rejuvenation: A Systematic Review.",
@@ -31826,7 +32054,7 @@
     "take": "keep"
   },
   {
-    "id": 538,
+    "id": 543,
     "pmid": "42499700",
     "source": "PubMed",
     "article": "High-Potency Depigmenting Mask Delivered via 1,927-nm Fractional Laser in Refractory Melasma: A Pilot Case Series.",
@@ -31892,7 +32120,7 @@
     "take": "keep"
   },
   {
-    "id": 539,
+    "id": 544,
     "pmid": "42434659",
     "source": "PubMed",
     "article": "Evidence-Based Conservative Treatment Strategies for Lumbar Radiculopathy: A Systematic Review.",
@@ -31937,7 +32165,7 @@
     "take": "keep"
   },
   {
-    "id": 540,
+    "id": 545,
     "pmid": "42267621",
     "source": "PubMed",
     "article": "Exploring the mechanism of differential responses to combination therapy in melasma: pigmentary versus mixed pigmentary-vascular types-a clinical study based on interaction analysis.",
@@ -32002,7 +32230,7 @@
     "take": "keep"
   },
   {
-    "id": 541,
+    "id": 546,
     "pmid": "42298161",
     "source": "PubMed",
     "article": "The Effects of Tranexamic Acid Injections on Surgical Scars: A Retrospective Study.",
@@ -32063,7 +32291,7 @@
     "take": "keep"
   },
   {
-    "id": 542,
+    "id": 547,
     "pmid": "42460183",
     "source": "PubMed",
     "article": "Melasma Flaring and Unmasking After Treatment With a 1,927-nm Non-ablative Fractional Thulium Fiber Laser.",
@@ -32125,7 +32353,7 @@
     "take": "keep"
   },
   {
-    "id": 543,
+    "id": 548,
     "pmid": "42333209",
     "source": "PubMed",
     "article": "Q-Switched 1064 nm Fractional Laser with Intradermal Tranexamic Acid for Melasma: A Retrospective Propensity Score-Matched Study.",
@@ -32191,7 +32419,7 @@
     "take": "keep"
   },
   {
-    "id": 544,
+    "id": 549,
     "pmid": "42379083",
     "source": "PubMed",
     "article": "Efficacy of botulinum toxin for masseter muscle hypertrophy: A systematic review and meta-analysis.",
@@ -32242,7 +32470,7 @@
     "take": "keep"
   },
   {
-    "id": 545,
+    "id": 550,
     "pmid": "42367716",
     "source": "PubMed",
     "article": "Efficacy and Safety of a Novel Sodium Hyaluronate Composite Solution via Mesotherapy for Facial Rejuvenation: A Multicenter Randomized Controlled Study.",
@@ -32293,7 +32521,7 @@
     "take": "keep"
   },
   {
-    "id": 546,
+    "id": 551,
     "pmid": "42449739",
     "source": "PubMed",
     "article": "Retrospective Analysis of the Therapeutic Outcomes of Microneedle Radiofrequency on Melasma by Optical Coherence Tomography: A Observational Pilot Study.",
@@ -32364,7 +32592,7 @@
     "take": "keep"
   },
   {
-    "id": 547,
+    "id": 552,
     "pmid": "41705282",
     "source": "PubMed",
     "article": "The efficacy of tranexamic acid in prevention and treatment of post-inflammatory hyperpigmentation: a pilot study.",
@@ -32429,7 +32657,7 @@
     "take": "keep"
   },
   {
-    "id": 548,
+    "id": 553,
     "pmid": "42393894",
     "source": "PubMed",
     "article": "Gabapentinoids for Neuropathic Pain Management: A Systematic Umbrella Review.",
@@ -32474,7 +32702,7 @@
     "take": "skim"
   },
   {
-    "id": 549,
+    "id": 554,
     "pmid": "42406361",
     "source": "PubMed",
     "article": "Efficacy and Tolerability of a Topical Pigment-Correcting Serum in Melasma and Postinflammatory Hyperpigmentation.",
@@ -32539,7 +32767,7 @@
     "take": "keep"
   },
   {
-    "id": 550,
+    "id": 555,
     "pmid": "42391146",
     "source": "PubMed",
     "article": "Effects of Traditional Chinese Acupoint Massage Combined with Tailored Tai Chi on Low Back Pain in Patients with Lumbar Disc Herniation: A Randomized Controlled Trial.",
@@ -32586,7 +32814,7 @@
     "take": "keep"
   },
   {
-    "id": 551,
+    "id": 556,
     "pmid": "42393386",
     "source": "PubMed",
     "article": "Synergistic pain relief in cervical radiculopathy: A randomized trial of topical methylcobalamin gel with phonophoresis and Mulligan mobilization.",
@@ -32629,7 +32857,7 @@
     "take": "skim"
   },
   {
-    "id": 552,
+    "id": 557,
     "pmid": "42582527",
     "source": "PubMed",
     "article": "Clinical Effects and Safety of Radiofrequency Microneedling for the Management of Melasma: A Retrospective Study.",
@@ -32693,7 +32921,7 @@
     "take": "keep"
   },
   {
-    "id": 553,
+    "id": 558,
     "pmid": "42401423",
     "source": "PubMed",
     "article": "A Randomized, Double-blind, Placebo-controlled, Dose Ranging, Parallel, Multi-Centre, Phase II Study to Evaluate the Efficacy and Safety of MT921 in Subjects with Moderate to Severe Submental Fat.",
@@ -32744,7 +32972,7 @@
     "take": "keep"
   },
   {
-    "id": 554,
+    "id": 559,
     "pmid": "42402180",
     "source": "PubMed",
     "article": "Niacinamide/ Co-enzyme Q10 loaded transferosomal gel for anti-aging and enhanced biophysical skin outcome: a split-face clinical study.",
@@ -32788,7 +33016,7 @@
     "take": "skim"
   },
   {
-    "id": 555,
+    "id": 560,
     "pmid": "42420660",
     "source": "PubMed",
     "article": "Association of AbobotulinumtoxinA and Skinbooster for Periorbital Wrinkles: A Randomized, Controlled, Double-Blind, Split-Face Study.",
@@ -32836,7 +33064,7 @@
     "take": "keep"
   },
   {
-    "id": 556,
+    "id": 561,
     "pmid": "42426967",
     "source": "PubMed",
     "article": "Real-world evidence for the efficacy and tolerability of an isobutylamido-thiazolyl-resorcinol (Thiamidol)-containing skincare regimen on facial hyperpigmentation and overall skin appearance: A multi-centre study in 11 European countries.",
@@ -32905,7 +33133,7 @@
     "take": "keep"
   },
   {
-    "id": 557,
+    "id": 562,
     "pmid": "42598733",
     "source": "PubMed",
     "article": "Treatment of Refractory Centrofacial Melasma in a 64-Year-Old Female Using the NewMelan Depigmentation System: A Case Report.",
@@ -32963,7 +33191,151 @@
     "take": "keep"
   },
   {
-    "id": 558,
+    "id": 563,
+    "pmid": "42506726",
+    "source": "PubMed",
+    "article": "Masseter Muscle Morphometric Changes After Botulinum Toxin Type A Injection: A Prospective 3-Month Study.",
+    "authors": [
+      "Val Matteo",
+      "Zucchini Ludovica",
+      "Pollis Matteo",
+      "Guarda-Nardini Luca",
+      "Lombardo Luca",
+      "Manfredini Daniele",
+      "Colonna Anna"
+    ],
+    "date": "2026-07-15",
+    "journal": "Toxins",
+    "doi": "10.3390/toxins18070306",
+    "topic": "Космеология",
+    "topic_key": "cosmo",
+    "topic_keys": [
+      "cosmo"
+    ],
+    "topics": [
+      "Космеология"
+    ],
+    "abstract_en": "Myofascial pain of the masticatory muscles, frequently associated with bruxism, is a prevalent condition with substantial impact on quality of life. Botulinum toxin type A (BoNT-A) is used as an adjunctive treatment for refractory cases, but the temporal pattern of masseter morphometric change after injection remained incompletely characterised. This prospective observational pilot study was designed and reported strictly as a 3D imaging and morphometric methodology study; clinical pain and patient-reported outcomes were outside its scope and were not assessed. Eleven adults with myofascial pain and bruxism received BoNT-A (100 U total: 30 U per masseter side, 20 U per anterior temporalis side). Structured-light 3D facial scans (EinScan H, Shining 3D) were acquired at baseline (T0), one month (T1), and three months (T2). A standardised masseter region of interest (\"TGL area\") was defined using cutaneous landmarks (tragus, gonion, labial commissure). Measurement precision was confirmed by intra-session repeatability (0.083 ± 0.020 mm), registration accuracy (RMS error 0.189-0.200 mm), and excellent landmark reliability (mean ICC [3, 1] = 0.955, 95% CI: 0.843-0.991). Repeated-measures ANOVA showed a significant effect of time on bilateral surface displacement (F(1.85,18.52) = 14.39, p < 0.001, η2G = 0.44), with significant reductions at T1 (-0.716 ± 0.480 mm; p = 0.002, Hedges' g = 2.03) and T2 (-0.847 ± 0.588 mm; p = 0.002, g = 1.96) relative to baseline, and no significant change between T1 and T2 (p = 1.000). Changes were bilaterally symmetric (symmetry index at T1: 0.231 ± 0.154 mm). These findings indicate that 3D structured-light scanning reliably detects subtle facial contour changes after BoNT-A injection and may complement clinical and patient-reported assessments; the pilot design and small sample preclude definitive conclusions.",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/42506726/",
+    "pmc_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13417228/",
+    "html_available": true,
+    "html_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13417228/",
+    "title_ru": "Ботулотоксин типа A: изменение контура жевательных мышц за 3 месяца",
+    "patient_plain": "",
+    "patient_use": "Инъекции ботулотоксина могут уменьшать объём жевательных мышц, но эта статья не позволяет судить об облегчении боли или улучшении функции челюсти. При бруксизме и миофасциальной боли сначала ориентируйтесь на консервативное лечение; вопрос об инъекциях рассматривайте с врачом при недостаточном эффекте этих методов.",
+    "practical_use": "Для объективной оценки изменений контура после инъекций можно применять стандартизированное 3D-сканирование с повторной регистрацией по анатомическим ориентирам. Не используйте уменьшение поверхностного смещения как замену оценке боли и функции при височно-нижнечелюстных расстройствах.",
+    "summary": "В проспективном наблюдательном пилотном исследовании 11 взрослых с миофасциальной болью и бруксизмом получили 100 ЕД ботулотоксина типа A: по 30 ЕД в каждую жевательную мышцу и по 20 ЕД в каждую переднюю височную мышцу. По данным 3D-сканирования, через месяц и три месяца уменьшение поверхности в области жевательных мышц составило в среднем 0,716 и 0,847 мм соответственно; значимого изменения между этими сроками не обнаружили. У трёх участников (27,3%) возникли локальные кровоподтёки и лёгкий преходящий отёк, прошедшие за 5–7 дней.\nИсследование оценивало морфометрию лица, но не измеряло боль, жевательную функцию или субъективное улучшение.",
+    "_reason": "Исследование показывает измеримое изменение контура жевательных мышц, но не устанавливает клиническую эффективность лечения боли.",
+    "why_read": "Полезно для оценки сроков и точности 3D-измерения изменений лица после ботулотоксина.",
+    "limitations": [
+      "pilot design and small sample",
+      "clinical pain and patient-reported outcomes were outside its scope and were not assessed",
+      "results are intended to be hypothesis-generating rather than confirmatory"
+    ],
+    "advice_items": [],
+    "importance_stars": 4,
+    "importance_mark": "★★★★☆",
+    "take": "skim"
+  },
+  {
+    "id": 564,
+    "pmid": "42469307",
+    "source": "PubMed",
+    "article": "Individualized HIFU in women over 60: ultrasound assessment of layer-specific facial soft-tissue thickness changes.",
+    "authors": [
+      "Yi Kyu-Ho",
+      "Park Yerin",
+      "Song Jong-Keun",
+      "Yoon Chang-Il",
+      "Lee Kyu-Eun",
+      "Cartier Hugues",
+      "Garson Sebastien",
+      "Kim Jin-Hyun"
+    ],
+    "date": "2026-07-17",
+    "journal": "Scientific reports",
+    "doi": "10.1038/s41598-026-61092-7",
+    "topic": "Космеология",
+    "topic_key": "cosmo",
+    "topic_keys": [
+      "cosmo"
+    ],
+    "topics": [
+      "Космеология"
+    ],
+    "abstract_en": "High-intensity focused ultrasound (HIFU) is widely used for facial rejuvenation, but standardized depth settings may not adequately account for age-related variation in facial soft tissue architecture in women aged 60 years and older. In this exploratory pilot study, 20 women underwent three HIFU sessions at 4-week intervals (Weeks 0, 4, and 8) and were evaluated at Week 16 (8 weeks after the final session). Participants received either a conventional protocol or an anatomy-guided protocol individualized using high-frequency ultrasound (HFUS) measurements. HFUS assessed superficial fat thickness, deep fat thickness, and skin-to-SMAS distance at baseline and Week 16. Both protocols produced reductions in lower-face and submental tissue thicknesses. Across all HFUS endpoints, the anatomy-guided protocol showed larger mean reductions than the conventional protocol. In this exploratory analysis, nominal, unadjusted between-group differences were observed for lower-face skin-to-SMAS distance (difference in change, - 0.19 mm; 95% CI, - 0.38 to - 0.02; p = 0.035), submental superficial fat thickness (- 0.20 mm; 95% CI, - 0.39 to - 0.02; p = 0.032), and submental skin-to-SMAS distance (- 0.19 mm; 95% CI, - 0.38 to - 0.02; p = 0.035). These differences were small in absolute magnitude and should be interpreted cautiously in relation to ultrasound measurement precision. Investigator-rated improvement of \"much improved\" or better occurred in 40% of the conventional group and 60% of the anatomy-guided group. These preliminary findings suggest that anatomy-informed HIFU may be associated with small, layer-specific ultrasound-measured soft-tissue thickness changes in older women; however, the submillimeter magnitude of the differences, small sample size, parallel-group design, and short follow-up warrant cautious interpretation.",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/42469307/",
+    "pmc_link": "",
+    "html_available": false,
+    "html_link": "",
+    "title_ru": "HIFU после 60 лет: индивидуальный подбор глубины воздействия по УЗИ",
+    "patient_plain": "",
+    "patient_use": "Индивидуальный подбор HIFU по УЗИ пока нельзя считать доказанно более эффективным способом омоложения после 60 лет: исследование слишком маленькое, а измеренные различия минимальны. Если рассматриваете HIFU, спросите врача, измеряет ли он толщину жировых слоёв и расстояние до SMAS перед выбором глубины воздействия, и не принимайте этот протокол за гарантию лучшего косметического результата.",
+    "practical_use": "При оценке HIFU у женщин старше 60 лет следует различать изменения толщины тканей по УЗИ и клинически заметное омоложение. Индивидуализацию по высокочастотному УЗИ можно рассматривать как предварительный подход, но эти данные не устанавливают превосходство протокола и не определяют оптимальные параметры воздействия.",
+    "summary": "В пилотном исследовании 20 женщин старше 60 лет прошли три процедуры HIFU (высокоинтенсивный фокусированный ультразвук) с интервалом 4 недели. Сравнивали стандартный протокол и индивидуальный подбор параметров по высокочастотному УЗИ (ультразвуковому исследованию), оценивающему толщину поверхностного и глубокого жира и расстояние от кожи до SMAS (поверхностной мышечно-апоневротической системы). В обеих группах уменьшилась толщина мягких тканей нижней части лица и подподбородочной области; индивидуальный протокол показал более выраженные изменения, а улучшение на уровне «значительно улучшилось» или выше отметили у 60% женщин против 40% при стандартном протоколе.\nРазличия между группами по УЗИ были небольшими — менее 0,2 мм по отдельным показателям. Исследование включало только 20 участниц, а наблюдение завершилось через 8 недель после последней процедуры.",
+    "_reason": "Исследование предлагает индивидуальный подбор HIFU по УЗИ, но пока не доказывает клинически значимого преимущества.",
+    "why_read": "Помогает оценить, насколько обоснован индивидуальный подбор глубины HIFU у женщин старше 60 лет.",
+    "limitations": [
+      "exploratory pilot study",
+      "small sample size",
+      "parallel-group design",
+      "short follow-up",
+      "submillimeter magnitude of the differences"
+    ],
+    "advice_items": [],
+    "importance_stars": 4,
+    "importance_mark": "★★★★☆",
+    "take": "skim"
+  },
+  {
+    "id": 565,
+    "pmid": "42488921",
+    "source": "PubMed",
+    "article": "Dual-approach High-intensity Focused Ultrasound for Facial Contour Modulation and Submental Reduction.",
+    "authors": [
+      "Song Jong Keun",
+      "Park Yerin",
+      "Jalali Arash",
+      "Pupo Dagné",
+      "Ascher Benjamin",
+      "Oh Eom Ji",
+      "Kato Mana",
+      "Yi Kyu-Ho"
+    ],
+    "date": "2026-07-22",
+    "journal": "Plastic and reconstructive surgery. Global open",
+    "doi": "10.1097/GOX.0000000000007919",
+    "topic": "Космеология",
+    "topic_key": "cosmo",
+    "topic_keys": [
+      "cosmo"
+    ],
+    "topics": [
+      "Космеология"
+    ],
+    "abstract_en": "BACKGROUND: Facial aging produces region-specific convexity excess and sulcus depletion, requiring compartmental rather than uniform energy delivery. Dual-mode high-intensity focused ultrasound (HIFU) enables depth- and geometry-selective remodeling of superficial fat and the superficial musculoaponeurotic system.\n\nMETHODS: In this prospective case series, 38 Korean adults underwent a single session of compartment-programmed dual-mode HIFU across 7 predefined zones (4 facial, 3 submental). Zone-specific intent dictated mode geometry (dot for focal microsupport; linear for broader compaction). Outcomes included 3-dimensional stereophotogrammetry-based volumetry, cervicomental angle, jawline definition index, blinded Global Aesthetic Improvement Scale, and patient satisfaction at baseline, week 4, and week 12.\n\nRESULTS: Thirty-two participants completed week 12 follow-up. Volumetry demonstrated intention-consistent change: central perioral-marionette zone showed microaugmentation (+0.7 cm3), whereas lateral facial zones decreased (zygomatic-nasolabial -2.4 cm3; lateral zygomatic -2.1 cm3; mandibular border -1.5 cm3). Submental volume decreased (central -3.3 cm3; lateral -1.9/-2.0 cm3). Cervicomental angle improved (+6.4°), and jawline definition index increased (+17.1%) (P < 0.001). At week 12, 93.7% were rated \"improved or better\" on the Global Aesthetic Improvement Scale; satisfaction was 4.5 ± 0.4. Adverse events were mild and transient.\n\nCONCLUSIONS: Compartment-programmed dual-mode HIFU produced coordinated, zone-specific facial and submental contour change by week 12. A longer follow-up is required to confirm durability beyond early remodeling.",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/42488921/",
+    "pmc_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13391147/",
+    "html_available": true,
+    "html_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13391147/",
+    "title_ru": "HIFU для коррекции овала лица и уменьшения второго подбородка",
+    "patient_plain": "",
+    "patient_use": "Двухрежимный HIFU может умеренно улучшить чёткость овала лица и уменьшить второй подбородок за один сеанс, но результат зависит от зоны обработки. Если рассматриваете процедуру, уточните у врача, использует ли он раздельные настройки для уменьшения объёма боковых зон и коррекции центральных участков; долговечность результата по этой статье не установлена.",
+    "practical_use": "При планировании процедуры разделяйте зоны с избытком объёма и участки, где требуется сохранение или небольшое увеличение объёма: в исследовании применяли точечный режим для центральных зон и линейный для боковых. Оценивайте результат по стандартизированным фотографиям и объёмным измерениям через 4 и 12 недель, не экстраполируя эти данные на долгосрочный эффект.",
+    "summary": "В проспективной серии случаев 38 взрослых прошли один сеанс двухрежимного высокоинтенсивного фокусированного ультразвука (HIFU) с настройками для семи зон лица и подбородочной области. Через 12 недель уменьшился объём боковых отделов щёк, линии нижней челюсти и подподбородочной области, а центральная околоротовая зона показала небольшой прирост объёма. Среди 32 участников, завершивших наблюдение, у 93,7% отмечено улучшение по оценке Global Aesthetic Improvement Scale; нежелательные явления были лёгкими и преходящими.\nНебольшое неконтролируемое исследование с наблюдением только до 12 недель не позволяет установить длительность эффекта.",
+    "_reason": "Исследование показывает измеримое улучшение контура лица и подподбородочной области после одного сеанса, но не доказывает стойкость результата.",
+    "why_read": "Полезно для понимания того, как настройки HIFU подбирают отдельно для зон уменьшения и сохранения объёма.",
+    "limitations": [
+      "Thirty-two of 38 participants completed the 12-week follow-up assessment.",
+      "Longer-term controlled studies are needed to confirm durability and mechanism beyond early remodeling."
+    ],
+    "advice_items": [],
+    "importance_stars": 4,
+    "importance_mark": "★★★★☆",
+    "take": "keep"
+  },
+  {
+    "id": 566,
     "pmid": "42495855",
     "source": "PubMed",
     "article": "Rapid Results With TrenibotulinumtoxinE For the Treatment of Glabellar Lines in Toxin-naïve Adults: Safety, Efficacy, and Satisfaction Findings From a Pivotal Phase 3 Study.",
@@ -33017,7 +33389,7 @@
     "take": "keep"
   },
   {
-    "id": 559,
+    "id": 567,
     "pmid": "42504233",
     "source": "PubMed",
     "article": "Effect of Stabilization Exercises Added to Routine Physiotherapy on Trunk Muscle Dimensions, Pain, Disability, and Lumbar Range of Motion in Patients With Unilateral Lumbar Disc Protrusion: A Randomized Controlled Trial.",
@@ -33062,7 +33434,7 @@
     "take": "keep"
   },
   {
-    "id": 560,
+    "id": 568,
     "pmid": "42701669",
     "source": "PubMed",
     "article": "A Prospective Study of Cutaneous Adverse Effects Among Patients With Topical Corticosteroid Abuse in a Tertiary Care Center.",
@@ -33127,7 +33499,7 @@
     "take": "keep"
   },
   {
-    "id": 561,
+    "id": 569,
     "pmid": "42610208",
     "source": "PubMed",
     "article": "Injection Mapping and Dose Escalation For Botulinum Toxin Treatment on the Lower Face: A Randomized, Double-blind Clinical Trial.",
@@ -33172,7 +33544,7 @@
     "take": "keep"
   },
   {
-    "id": 562,
+    "id": 570,
     "pmid": "42670306",
     "source": "PubMed",
     "article": "Fractional CO2 (FxCO2) Laser Therapy Combined with Erythromycin Ophthalmic Ointment-Based Moist Wound Healing for Facial Pigmented Scars: A Retrospective Observational Study.",
@@ -33233,7 +33605,7 @@
     "take": "keep"
   },
   {
-    "id": 563,
+    "id": 571,
     "pmid": "42656784",
     "source": "PubMed",
     "article": "Association Between Conservative Treatment Modalities and Clinical Outcomes in Patients With Lumbosacral Disc Herniation Following Short Term and Long Term Treatments: A Retrospective Cohort Study.",
@@ -33278,7 +33650,7 @@
     "take": "keep"
   },
   {
-    "id": 564,
+    "id": 572,
     "pmid": "42665953",
     "source": "PubMed",
     "article": "Efficacy and Safety of 755-nm Picosecond Alexandrite Laser for Acquired Bilateral Naevus of Ota-Like Macules (Hori Naevus): A Systematic Review and Meta-Analysis.",
@@ -33350,7 +33722,7 @@
     "take": "keep"
   },
   {
-    "id": 565,
+    "id": 573,
     "pmid": "42740895",
     "source": "PubMed",
     "article": "Comparison of the efficacy and safety of 755-nm picosecond alexandrite laser with diffractive lens array vs. fractional microneedle radiofrequency for the treatment of facial photoaging: a retrospective study.",
@@ -33421,7 +33793,7 @@
     "take": "keep"
   },
   {
-    "id": 566,
+    "id": 574,
     "pmid": "42696340",
     "source": "PubMed",
     "article": "Clinical Evidence of Skin Improvements With a Biologically Active Multimodal Topical Skin Treatment.",
@@ -33465,7 +33837,50 @@
     "take": "keep"
   },
   {
-    "id": 567,
+    "id": 575,
+    "pmid": "42711476",
+    "source": "PubMed",
+    "article": "Fanning Deep Injection of Botulinum Toxin Type-A for Masseter Hypertrophy: A Retrospective Study of 239 Patients.",
+    "authors": [
+      "Qian Jiange",
+      "Lu Zhihao",
+      "Long Xiaohui"
+    ],
+    "date": "2026-09-08",
+    "journal": "Aesthetic plastic surgery",
+    "doi": "10.1007/s00266-026-06223-1",
+    "topic": "Космеология",
+    "topic_key": "cosmo",
+    "topic_keys": [
+      "cosmo"
+    ],
+    "topics": [
+      "Космеология"
+    ],
+    "abstract_en": "BACKGROUND: Masseter hypertrophy commonly contributes to a broadened lower-face contour in Asian populations. Although botulinum toxin type A (BoNT-A) is widely used for nonsurgical facial contouring, conventional multi-point injection techniques may result in uneven diffusion, paradoxical bulging, cheek hollowing, or smile asymmetry. The Fanning Deep Injection (FDI) technique was developed as an anatomically guided approach targeting the deep-inferior masseter through a single-entry, fan-shaped distribution pattern.\n\nMETHODS: We retrospectively reviewed patients treated with BoNT-A using the FDI technique between January 2021 and December 2023. Eligible patients had standardized pre-/post-treatment photographs (≥3 months), complete procedural records, and available follow-up data. Outcomes included injection pain (VAS), facial-width changes measured on standardized frontal photographs, patient satisfaction (GAIS and Likert scale), and treatment-related complications.\n\nRESULTS: Among 6,520 treated patients, 239 met all inclusion criteria. The mean age was 30.3 ± 6.3 years, and the mean follow-up duration was 4.86 ± 1.28 months. Significant reductions in facial width were observed across all three horizontal reference lines, with the greatest reduction at the oral-commissure level. Injection-related discomfort was minimal (VAS 1.02 ± 0.82), and patient satisfaction was high. Two patients (0.8%) experienced transient localized bulging that resolved spontaneously. No clinically significant cheek depression, persistent smile asymmetry, or long-term masticatory weakness requiring intervention was identified during the available follow-up period.\n\nCONCLUSION: Within the limitations of this retrospective study, the FDI technique demonstrated favorable aesthetic outcomes, high patient satisfaction, and a low incidence of adverse events in the treatment of masseter hypertrophy. The deep-inferior fan-shaped injection strategy may facilitate relatively homogeneous intramuscular distribution while potentially reducing superficial diffusion to adjacent mimetic muscles. However, prospective controlled studies incorporating longer follow-up, standardized ultrasound protocols, validated patient-reported outcome measures, and 3D quantitative imaging are required to further validate these findings.\n\nLEVEL OF EVIDENCE IV: This journal requires that authors assign a level of evidence to each article. For a full description of these Evidence-Based Medicine ratings, please refer to the Table of Contents or the online Instructions to Authors www.springer.com/00266 .",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/42711476/",
+    "pmc_link": "",
+    "html_available": false,
+    "html_link": "",
+    "title_ru": "Глубокое веерное введение ботулотоксина при гипертрофии жевательных мышц",
+    "patient_plain": "",
+    "patient_use": "Глубокое веерное введение ботулотоксина типа A может уменьшить ширину нижней части лица при увеличенных жевательных мышцах, но эта техника пока не доказала превосходство над обычными инъекциями. Если рассматриваете процедуру, спросите врача о его опыте работы с FDI и рисках асимметрии улыбки, западения щёк и жевательной слабости.",
+    "practical_use": "При планировании коррекции оценивать исходную гипертрофию жевательных мышц и документировать ширину лица на стандартизированных фотографиях. Не переносить низкую частоту осложнений из этой выборки на всех пациентов: подробные данные о дозировках и стандартизированном ультразвуковом контроле в представленном тексте отсутствуют.",
+    "summary": "В ретроспективном исследовании 239 пациентов оценили технику FDI (Fanning Deep Injection): ботулотоксин типа A вводили через одну точку доступа веерообразно в глубокую нижнюю часть жевательной мышцы. Ширина лица уменьшилась на трёх горизонтальных уровнях, наиболее выраженно — на уровне углов рта; удовлетворённость пациентов была высокой. У 2 пациентов (0,8%) возникло временное локальное выпячивание, прошедшее самостоятельно. Среднее наблюдение составило около 5 месяцев.\nУровень доказательности IV: анализ отобранных случаев без контрольной группы; долгосрочная безопасность и преимущество перед стандартной техникой не установлены.",
+    "_reason": "Исследование показывает потенциальную пользу конкретной техники инъекций, но не позволяет установить её превосходство над стандартным введением.",
+    "why_read": "Полезно для оценки техники FDI при выборе способа нехирургической коррекции увеличенных жевательных мышц.",
+    "limitations": [
+      "Retrospective study",
+      "LEVEL OF EVIDENCE IV",
+      "prospective controlled studies incorporating longer follow-up"
+    ],
+    "advice_items": [],
+    "importance_stars": 4,
+    "importance_mark": "★★★★☆",
+    "take": "skim"
+  },
+  {
+    "id": 576,
     "pmid": "42827665",
     "source": "PubMed",
     "article": "Knowledge, attitudes, and practices regarding melasma among female patients.",
@@ -33523,7 +33938,137 @@
     "take": "keep"
   },
   {
-    "id": 568,
+    "id": 577,
+    "pmid": "42808113",
+    "source": "PubMed",
+    "article": "A Prospective Split-face Trial Evaluating Skin Recovery and Enhancement with Polynucleotide (Rejuran) Following Fractional Needle Radiofrequency Treatment.",
+    "authors": [
+      "Kim JongSeo"
+    ],
+    "date": "2026-09-28",
+    "journal": "Plastic and reconstructive surgery. Global open",
+    "doi": "10.1097/GOX.0000000000008109",
+    "topic": "Космеология",
+    "topic_key": "cosmo",
+    "topic_keys": [
+      "cosmo"
+    ],
+    "topics": [
+      "Космеология"
+    ],
+    "abstract_en": "BACKGROUND: Fractional needle radiofrequency (FN-RF: Sylfirm-X) is a widely used energy-based treatment for skin rejuvenation, but it often disrupts the epidermal barrier and delays recovery. Polynucleotide (PN: Rejuran) injection has emerged as a recovery adjunct to promote post-RF healing. This study evaluates whether PN enhances skin barrier recovery when used immediately after FN-RF.\n\nMETHODS: A prospective, split-face clinical trial was conducted in 25 female patients 20-60 years of age. Immediately after treatment, 2 mL of PN was injected into right side, and 2 mL of normal saline was administered to the left side as a control. Skin parameters were objectively measured at baseline and 6 weeks after treatment, including pore size and wrinkle depth in 3-dimensional photography, transepidermal water loss and stratum corneum hydration, cutaneous elasticity, and sonographic dermal thickness. Patient-reported outcomes regarding redness resolution, burning sensation, and perceived improvements in pores, wrinkles, and elasticity were also collected.\n\nRESULTS: PN-treated sides showed significantly greater improvement in pore score (Δ +4.79 versus +0.95, P < 0.001) and wrinkle score (Δ +5.04 versus +3.67, P < 0.001). Transepidermal water loss decreased significantly only on the PN side (8.19→3.85, P < 0.001), and stratum corneum hydration increased more markedly (23.42→48.19, P < 0.0001). No significant differences were observed in dermal thickness or elasticity. Patient-reported outcomes indicated faster erythema resolution and higher satisfaction on the PN-injected side.\n\nCONCLUSIONS: PN injection following FN-RF treatment significantly accelerates skin recovery, improves hydration, and enhances pore refinement compared to radiofrequency alone. PN serves as a clinically effective adjunctive therapy for optimizing postprocedural outcomes in aesthetic dermatology.",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/42808113/",
+    "pmc_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13619185/",
+    "html_available": true,
+    "html_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13619185/",
+    "title_ru": "Полинуклеотиды Rejuran после игольчатого RF: восстановление кожи и уменьшение пор",
+    "patient_plain": "",
+    "patient_use": "Добавление Rejuran после игольчатого RF может улучшить увлажнённость кожи, внешний вид пор и скорость исчезновения покраснения, но дополнительный эффект на морщины менее выражен, а улучшения эластичности не показано. Если вы планируете такую комбинацию, спросите врача о целесообразности инъекций именно для вашей цели и о рисках процедуры; считать полинуклеотиды обязательным дополнением к RF по этому исследованию нельзя.",
+    "practical_use": "При оценке результата сочетания процедур отдельно отслеживайте восстановление кожного барьера, увлажнённость и выраженность пор: эти показатели улучшились заметнее, чем эластичность и толщина дермы. Не экстраполируйте результаты небольшого исследования с шестинедельным наблюдением на долгосрочную эффективность и безопасность.",
+    "summary": "В проспективном исследовании 25 женщин 20–60 лет сравнили результаты фракционного игольчатого радиочастотного воздействия Sylfirm-X с последующим введением полинуклеотидов Rejuran (2 мл) и без них. Через 6 недель сочетание RF с полинуклеотидами обеспечило более выраженное улучшение показателей пор и морщин, повышение увлажнённости рогового слоя, снижение трансэпидермальной потери воды и более быстрое уменьшение покраснения. Значимых различий по эластичности и толщине дермы не выявили.\nИсследование включало 25 участниц и наблюдение в течение 6 недель; серьёзных нежелательных явлений за этот период не зарегистрировали.",
+    "_reason": "Исследование даёт конкретный, но предварительный вывод о дополнительной пользе Rejuran после игольчатого RF для восстановления барьера и уменьшения пор.",
+    "why_read": "Помогает определить, для каких эстетических целей добавление полинуклеотидов после RF имеет клинические основания.",
+    "limitations": [
+      "Twenty-five female patients",
+      "6-week follow-up",
+      "No significant differences were observed in dermal thickness or elasticity."
+    ],
+    "advice_items": [],
+    "importance_stars": 4,
+    "importance_mark": "★★★★☆",
+    "take": "keep"
+  },
+  {
+    "id": 578,
+    "pmid": "42867024",
+    "source": "PubMed",
+    "article": "Efficacy and Safety of 1.5- and 3.0-mm High-Intensity Focused Ultrasound for Eyebrow Lifting in Korean Adults: A Prospective Randomized Split-Face Study.",
+    "authors": [
+      "Yoo Kwang Ho",
+      "Song Hyewon",
+      "Choi Yuhwa"
+    ],
+    "date": "2026-10-01",
+    "journal": "Skin research and technology : official journal of International Society for Bioengineering and the Skin (ISBS) [and] International Society for Digital Imaging of Skin (ISDIS) [and] International Society for Skin Imaging (ISSI)",
+    "doi": "10.1111/srt.70393",
+    "topic": "Космеология",
+    "topic_key": "cosmo",
+    "topic_keys": [
+      "cosmo"
+    ],
+    "topics": [
+      "Космеология"
+    ],
+    "abstract_en": "BACKGROUND: High-intensity focused ultrasound (HIFU) is widely used for noninvasive eyebrow lifting, but within-subject comparisons of cartridge focal depths are scarce.\n\nOBJECTIVE: To evaluate the efficacy and safety of 1.5- and 3.0-mm cartridges for eyebrow lifting in Korean adults, with an exploratory between-depth comparison.\n\nMETHODS: In this randomized split-face study, 20 Korean adults were treated once with the 1.5-mm cartridge on one side and the 3.0-mm contralaterally (225 J/side). Average and maximum eyebrow heights (AEH, primary; MEH, secondary) were measured from standardized photographs at baseline, post-treatment, and weeks 1, 4, and 12. Satisfaction, pain, and adverse events were recorded.\n\nRESULTS: Both measures increased significantly at all time points (unadjusted p < 0.05). At week 12, AEH increased by 1.76 ± 1.19 mm (1.5-mm) and 1.23 ± 1.33 mm (3.0-mm); 98.75% one-sided CI lower bounds (1.10 and 0.51 mm) met the corrected primary efficacy criterion. MEH met the separately corrected criterion with the 1.5-mm (0.57 mm) but not the 3.0-mm cartridge (-0.08 mm). The exploratory week-12 AEH difference was nonsignificant (p = 0.116). No treatment-related adverse events occurred over 12 weeks, supporting short-term tolerability in this cohort rather than definitive safety.\n\nCONCLUSIONS: Each cartridge was associated with significant within-subject increases in photographic eyebrow-height measures through 12 weeks and high satisfaction, although the corrected MEH criterion was not met with the 3.0-mm cartridge. Without a sham control, findings indicate within-subject improvement, not causal efficacy; the between-cartridge comparison is inconclusive, not evidence of equivalence. Larger, sham-controlled studies are needed.",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/42867024/",
+    "pmc_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13659797/",
+    "html_available": true,
+    "html_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13659797/",
+    "title_ru": "HIFU-лифтинг бровей: сравнение глубины фокуса 1,5 и 3,0 мм",
+    "patient_plain": "",
+    "patient_use": "Однократный HIFU-сеанс может дать небольшое повышение бровей, но это исследование не доказывает, что изменения вызваны именно процедурой. Не выбирайте глубину 1,5 или 3,0 мм как заведомо лучшую по этим данным: убедительных доказательств превосходства одной глубины нет.",
+    "practical_use": "При обсуждении HIFU-лифтинга оценивайте ожидаемый эффект как небольшое изменение высоты бровей, а не гарантированное выраженное подтягивание. Не интерпретируйте отсутствие статистически значимого различия между глубинами как доказательство их эквивалентности.",
+    "summary": "В рандомизированном исследовании с разделением лица на две стороны 20 взрослых корейцев однократно получили высокоинтенсивный фокусированный ультразвук (HIFU): картриджем 1,5 мм на одной стороне и 3,0 мм на другой, по 225 Дж на сторону. Через 12 недель средняя высота бровей увеличилась на 1,76 ± 1,19 мм при глубине 1,5 мм и на 1,23 ± 1,33 мм при глубине 3,0 мм. Для максимальной высоты бровей критерий эффективности был выполнен только для картриджа 1,5 мм. За 12 недель связанных с лечением нежелательных явлений не зарегистрировали.\n\nВыборка мала, контрольной стороны без лечения или имитации процедуры не было; производитель предоставил оборудование, а два автора работали в этой компании. Наблюдение длилось 12 недель, поэтому долгосрочную эффективность и безопасность установить нельзя.",
+    "_reason": "Исследование даёт количественную оценку подъёма бровей после одного HIFU-сеанса, но не позволяет подтвердить причинную эффективность процедуры.",
+    "why_read": "Полезно для оценки реалистичной величины эффекта HIFU-лифтинга бровей и ограничений сравнения глубины фокуса.",
+    "limitations": [
+      "small, uncontrolled pilot study",
+      "lacked a sham or untreated control",
+      "not prospectively powered for this between-cartridge comparison",
+      "These findings should not be extrapolated beyond the studied population of young Korean adults",
+      "not prospectively registered in a public clinical trial registry prior to participant enrollment"
+    ],
+    "advice_items": [],
+    "importance_stars": 5,
+    "importance_mark": "★★★★★",
+    "take": "keep"
+  },
+  {
+    "id": 579,
+    "pmid": "42893183",
+    "source": "PubMed",
+    "article": "Energy-Based Devices for GLP-1 Receptor Agonist-Associated Facial Aging: A Tissue-Specific Safety Framework.",
+    "authors": [
+      "Cho Chang-Hwan",
+      "Koo Soyoun",
+      "Yoo Kyounghun"
+    ],
+    "date": "2026-10-12",
+    "journal": "Clinical, cosmetic and investigational dermatology",
+    "doi": "10.2147/CCID.S628537",
+    "topic": "Космеология",
+    "topic_key": "cosmo",
+    "topic_keys": [
+      "cosmo"
+    ],
+    "topics": [
+      "Космеология"
+    ],
+    "abstract_en": "Glucagon-like peptide-1 receptor agonist (GLP-1RA)-associated rapid weight loss may be accompanied by facial changes resembling accelerated aging, colloquially termed \"Ozempic face\". In this review, this proposed phenotype is termed GLP-1RA-associated facial accelerated aging (GLP-1RA-FAA) and is characterized primarily by facial volume loss and skin laxity, with possible but incompletely characterized alterations in dermal-adipose support, adipose-derived stem-cell biology, fibroblast-extracellular-matrix homeostasis, and facial muscle. Demand for energy-based device (EBD) treatment in this population is increasing; however, whether conventional EBD parameters are effective or safe in medication-associated facial volume depletion is unknown. A narrative review was informed by structured searches of PubMed/MEDLINE, Embase, Web of Science, and the Cochrane Library from January 2000 through August 31, 2026. Evidence was selected for clinical directness and relevance to radiofrequency, high-intensity focused ultrasound, broadband light, microwave, extracorporeal shock wave therapy, diode laser, and synchronized radiofrequency with high-intensity facial electrical stimulation. Available modalities differ in their intended tissue depth and in the potential relevance of three conceptual targets: preservation of adipose tissue, dermal fibroblast-extracellular-matrix remodeling, and facial muscle-SMAS support. Preclinical body-contouring studies suggest that sustained subcutaneous heating in the approximate 43-45°C range can be associated with adipocyte injury or apoptosis; however, no facial thermal dose threshold has been established, particularly in GLP-1RA-treated patients. No individual EBD modality has demonstrated simultaneous restoration of adipose, dermal, and muscle-related targets in prospective GLP-1RA-specific studies. Conservative control of treatment depth, careful avoidance of unnecessary deep energy deposition in volume-depleted regions, investigation of low-intensity dermal remodeling strategies, and evaluation of muscle-targeting approaches are proposed as research considerations. These concepts are hypothesis generating and do not constitute clinical recommendations or standards of care. Prospective controlled studies in well-characterized GLP-1RA-treated populations are required before device-specific protocols can be adopted.",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/42893183/",
+    "pmc_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13675960/",
+    "html_available": true,
+    "html_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13675960/",
+    "title_ru": "Аппаратные процедуры при потере объёма лица на фоне препаратов GLP-1",
+    "patient_plain": "",
+    "patient_use": "Если после снижения веса на семаглутиде или тирзепатиде лицо потеряло объём, нельзя считать HIFU, RF-лифтинг или другие энергетические процедуры доказанно безопасным способом коррекции. До появления специальных клинических данных не выбирайте глубокое энергетическое воздействие как стандартное решение для восполнения объёма лица.",
+    "practical_use": "При оценке пациента разделяйте дефицит подкожного жира, дряблость кожи и возможное снижение мышечной поддержки: аппаратные методы воздействуют на разные ткани и не взаимозаменяемы. При обсуждении энергетических процедур учитывайте риск дополнительной потери жирового объёма и отсутствие валидированных параметров воздействия для пациентов на GLP-1-препаратах.",
+    "summary": "Обзор рассматривает безопасность радиочастотных процедур, высокоинтенсивного сфокусированного ультразвука (HIFU), световых, лазерных и других энергетических методов при изменении лица после быстрого снижения веса на фоне агонистов рецептора глюкагоноподобного пептида-1 (GLP-1), включая семаглутид и тирзепатид. Основные изменения — потеря жирового объёма и дряблость кожи. Ни один аппаратный метод не доказал одновременного восстановления подкожного жира, дермы и мышечной поддержки лица в проспективных исследованиях этой группы пациентов.\nВ исследованиях контурирования тела нагрев подкожных тканей примерно до 43–45 °C связывали с повреждением и гибелью адипоцитов, но безопасный температурный порог для лица не установлен. Предложенные принципы выбора процедур основаны преимущественно на косвенных данных и не являются клиническими рекомендациями.",
+    "_reason": "Обзор предупреждает о неопределённой безопасности аппаратного воздействия на лицо с уменьшенным объёмом жировой ткани.",
+    "why_read": "Помогает не принимать HIFU и RF-лифтинг за доказанные методы коррекции изменений лица после медикаментозного снижения веса.",
+    "limitations": [
+      "no facial thermal dose threshold has been established",
+      "No individual EBD modality has demonstrated simultaneous restoration",
+      "These concepts are hypothesis generating and do not constitute clinical recommendations or standards of care",
+      "Prospective controlled studies in well-characterized GLP-1RA-treated populations are required"
+    ],
+    "advice_items": [],
+    "importance_stars": 4,
+    "importance_mark": "★★★★☆",
+    "take": "keep"
+  },
+  {
+    "id": 580,
     "pmid": "42888572",
     "source": "PubMed",
     "article": "Hyaluronic acid-based skin booster with glutathione combined with 1064-nm Nd:YAG laser and oral tranexamic acid for melasma: A prospective comparative study.",
