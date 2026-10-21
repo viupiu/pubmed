@@ -8446,13 +8446,13 @@
     "date": "2026-01-12",
     "journal": "The Journal of clinical psychiatry",
     "doi": "10.4088/JCP.25m15834",
-    "topic": "Детское OCD",
-    "topic_key": "ocd",
+    "topic": "Детские тики",
+    "topic_key": "tics",
     "topic_keys": [
-      "ocd"
+      "tics"
     ],
     "topics": [
-      "Детское OCD"
+      "Детские тики"
     ],
     "abstract_en": "Objective: To examine the effectiveness of therapist-delivered video therapy habit reversal training (HRT) in large real-world samples of children, adolescents, and adults with trichotillomania and excoriation disorder (ED). Methods: The sample included 543 patients with trichotillomania (57 children, 75 adolescents, 411 adults) and 528 patients with ED (40 children, 46 adolescents, 442 adults). Treatment followed a protocol of weekly HRT sessions, transitioning to biweekly sessions. The Repetitive Body Focused Behavior Scale was administered at baseline, weeks 5-7, and weeks 14-16 and during maintenance periods through week 52. Results: Mean treatment duration was 14.64±2.50 weeks (7.71±2.61 sessions) for trichotillomania and 14.54±2.69 weeks (7.73±2.68 sessions) for excoriation. At weeks 14-16, trichotillomania showed a median 33.33% severity reduction (interquartile range [IQR]=11.11%-54.55%; 44.08% achieving ≥35% reduction) with large effects (Hedges g = 1.01, 95% CI [0.88-1.14]). Excoriation showed a median 33.33% reduction (IQR=12.50%-57.14%; 48.66% achieving ≥35% reduction) with large effects (Hedges g = 1.16, 95% CI [1.02-1.30]). Improvements were maintained through week 52 (trichotillomania: g=1.51 [CI, 1.23-1.79]; excoriation: g=1.56 [1.29-1.84]). Both conditions showed improvements in depression, anxiety, and stress (g=0.22-0.29). All age groups improved, with effect sizes ranging from g=0.78-1.12 for trichotillomania and g=0.68-1.54 for excoriation. Conclusion: This analysis shows promising evidence that therapist-delivered video therapy HRT is associated with reductions in both hair-pulling and skin-picking severity and improvements in related symptoms in a real-world setting. The large treatment effects and improvements across the lifespan for both conditions suggest this delivery format may help address barriers to accessing evidence-based care for body-focused repetitive behaviors.",
     "article_link": "https://pubmed.ncbi.nlm.nih.gov/41532844/",
@@ -25179,13 +25179,13 @@
     "date": "2024-10-09",
     "journal": "The Psychiatric clinics of North America",
     "doi": "10.1016/j.psc.2024.08.007",
-    "topic": "Детское OCD",
-    "topic_key": "ocd",
+    "topic": "Детские тики",
+    "topic_key": "tics",
     "topic_keys": [
-      "ocd"
+      "tics"
     ],
     "topics": [
-      "Детское OCD"
+      "Детские тики"
     ],
     "abstract_en": "This article provides an overview of evidence-based behavior therapy for Tourette syndrome (TS) in children, adolescents, and adults. First, this article describes evidence-based behavioral therapies for TS, examines their efficacy in randomized controlled trials, and identifies extant limitations. Second, based on the identified limitations, this article presents future directions for further research on behavioral therapies for TS. Finally, the article concludes with general recommendations for providing evidence-based behavior therapy for children, adolescents, and adults with TS.",
     "article_link": "https://pubmed.ncbi.nlm.nih.gov/39880517/",
@@ -25537,13 +25537,13 @@
     "date": "2024-09-23",
     "journal": "Journal of child and adolescent psychopharmacology",
     "doi": "10.1089/cap.2024.0023",
-    "topic": "Детское OCD",
-    "topic_key": "ocd",
+    "topic": "Детские тики",
+    "topic_key": "tics",
     "topic_keys": [
-      "ocd"
+      "tics"
     ],
     "topics": [
-      "Детское OCD"
+      "Детские тики"
     ],
     "abstract_en": "Objective: To provide an evidence-based review of the Comprehensive Behavioral Intervention for Tic (CBIT) disorders. Results: For close to a century, behavioral interventions for managing tics associated with Tourette and other tic disorders (TDs) were incorrectly considered ineffective and dangerous by the professional community, due, in large part, to unfounded fears that efforts to suppress tics would lead to a host of negative psychological, and even physical, outcomes (e.g., symptom substitution, tic rebound). Spurred by a growing body of research to the contrary, the Comprehensive Behavioral Treatment for Tics (CBIT) was developed to provide a tolerable and effective nonpharmacological treatment option, alone or in combination with medication, for youth and adults with tics associated with Tourette or other TDs. CBIT combines two evidence-based practices, habit reversal training (HRT) to address the urge-tic relationship and a functional intervention to identify and neutralize tic-related environmental factors. Based on positive findings from two large-scale randomized controlled trials that involved a total of 248 8-69-year olds with Tourette or chronic TD, CBIT has been designated as a first-line treatment, when available, for treating tics by the American Academy of Neurology and the European and Canadian medical academies. Conclusions: CBIT has demonstrated acute and durable efficacy when delivered alone or in combination with medication, in person, or via telehealth, and in the presence or absence of common comorbid conditions. Additional research is needed to develop and test treatment guidelines for the use of CBIT in combination with pharmacologic, neuromodulatory, and other intervention modalities.",
     "article_link": "https://pubmed.ncbi.nlm.nih.gov/39311713/",
@@ -27583,13 +27583,13 @@
     "date": "2023-10-01",
     "journal": "Health technology assessment (Winchester, England)",
     "doi": "10.3310/CPMS3211",
-    "topic": "Детское OCD",
-    "topic_key": "ocd",
+    "topic": "Детские тики",
+    "topic_key": "tics",
     "topic_keys": [
-      "ocd"
+      "tics"
     ],
     "topics": [
-      "Детское OCD"
+      "Детские тики"
     ],
     "abstract_en": "BACKGROUND: Behavioural therapy for tics is difficult to access, and little is known about its effectiveness when delivered online.\n\nOBJECTIVE: To investigate the clinical and cost-effectiveness of an online-delivered, therapist- and parent-supported therapy for young people with tic disorders.\n\nDESIGN: Single-blind, parallel-group, randomised controlled trial, with 3-month (primary end point) and 6-month post-randomisation follow-up. Participants were individually randomised (1 : 1), using on online system, with block randomisations, stratified by site. Naturalistic follow-up was conducted at 12 and 18 months post-randomisation when participants were free to access non-trial interventions. A subset of participants participated in a process evaluation.\n\nSETTING: Two hospitals (London and Nottingham) in England also accepting referrals from patient identification centres and online self-referrals.\n\nPARTICIPANTS: Children aged 9-17 years (1) with Tourette syndrome or chronic tic disorder, (2) with a Yale Global Tic Severity Scale-total tic severity score of 15 or more (or > 10 with only motor or vocal tics) and (3) having not received behavioural therapy for tics in the past 12 months or started/stopped medication for tics within the past 2 months.\n\nINTERVENTIONS: Either 10 weeks of online, remotely delivered, therapist-supported exposure and response prevention therapy (intervention group) or online psychoeducation (control).\n\nOUTCOME: Primary outcome: Yale Global Tic Severity Scale-total tic severity score 3 months post-randomisation; analysis done in all randomised patients for whom data were available. Secondary outcomes included low mood, anxiety, treatment satisfaction and health resource use. Quality-adjusted life-years are derived from parent-completed quality-of-life measures. All trial staff, statisticians and the chief investigator were masked to group allocation.\n\nRESULTS: Two hundred and twenty-four participants were randomised to the intervention (n = 112) or control (n = 112) group. Participants were mostly male (n = 177; 79%), with a mean age of 12 years. At 3 months the estimated mean difference in Yale Global Tic Severity Scale-total tic severity score between the groups adjusted for baseline and site was -2.29 points (95% confidence interval -3.86 to -0.71) in favour of therapy (effect size -0.31, 95% confidence interval -0.52 to -0.10). This effect was sustained throughout to the final follow-up at 18 months (-2.01 points, 95% confidence interval -3.86 to -0.15; effect size -0.27, 95% confidence interval -0.52 to -0.02). At 18 months the mean incremental cost per participant of the intervention compared to the control was £662 (95% confidence interval -£59 to £1384), with a mean incremental quality-adjusted life-year of 0.040 (95% confidence interval -0.004 to 0.083) per participant. The mean incremental cost per quality-adjusted life-year gained was £16,708. The intervention was acceptable and delivered with high fidelity. Parental engagement predicted child engagement and more positive clinical outcomes.\n\nHARMS: Two serious, unrelated adverse events occurred in the control group.\n\nLIMITATIONS: We cannot separate the effects of digital online delivery and the therapy itself. The sample was predominately white and British, limiting generalisability. The design did not compare to face-to-face services.\n\nCONCLUSION: Online, therapist-supported behavioural therapy for young people with tic disorders is clinically and cost-effective in reducing tics, with durable benefits extending up to 18 months.\n\nFUTURE WORK: Future work should compare online to face-to-face therapy and explore how to embed the intervention in clinical practice.\n\nTRIAL REGISTRATION: This trial is registered as ISRCTN70758207; ClinicalTrials.gov (NCT03483493). The trial is now complete.\n\nFUNDING: This project was funded by the National Institute for Health and Care Research (NIHR) Health and Technology Assessment programme (project number 16/19/02) and will be published in full in Health and Technology Assessment; Vol. 27, No. 18. See the NIHR Journals Library website for further project information.",
     "article_link": "https://pubmed.ncbi.nlm.nih.gov/37924247/",
@@ -27759,13 +27759,13 @@
     "date": "2023-08-07",
     "journal": "Journal of telemedicine and telecare",
     "doi": "10.1177/1357633X231189305",
-    "topic": "Детское OCD",
-    "topic_key": "ocd",
+    "topic": "Детские тики",
+    "topic_key": "tics",
     "topic_keys": [
-      "ocd"
+      "tics"
     ],
     "topics": [
-      "Детское OCD"
+      "Детские тики"
     ],
     "abstract_en": "IntroductionComprehensive behavioral intervention for tics (CBIT) is an efficacious, first-line treatment for Tourette syndrome (TS) and other chronic or persistent tic disorders. However, CBIT's public health impact has been limited by suboptimal treatment access. Preliminary research has shown that providing CBIT over videoconference (teleCBIT) is a promising delivery method for patients who cannot access in-person care. However, extant studies have been small efficacy trials focused only on pediatric patients. Replication of these studies is needed in additional treatment settings and across a wider age range of patients, especially in light of advances in telehealth technology and increasing telehealth adoption among practitioners.MethodsWe conducted a single-arm trial to evaluate the feasibility, acceptability, and effectiveness of teleCBIT embedded in comprehensive, medical tic specialty clinics. From October 2016 to September 2018, patients were offered teleCBIT at their usual care appointments. Those who were interested and met inclusion/exclusion criteria received 8 sessions of CBIT guided by a manualized protocol. An independent evaluator, masked to treatment progress, administered assessments at baseline, post-treatment, and 3 and 6 months after treatment.ResultsTwenty-five percent of patients who were offered treatment initiated teleCBIT through the study, and all treatment initiators completed treatment. From pre- to post-treatment, decreases in Yale Global Tic Severity Scale (YGTSS) total tic severity scores showed a large effect size among pediatric patients (n = 19; t = 5.72, P < 0.001, d = 1.31) and a medium-to-large effect size for adult patients (n = 10, t = 1.41, P = 0.096, d = 0.664). Thirteen of 19 pediatric patients (68%) and 6 of 10 adult patients (60%) had a positive global treatment response at post-treatment. Patients rated the treatment as highly satisfactory. Ninety-three percent of sessions were free of substantial technical problems.DiscussionWithin the context of medical tic specialty clinics, teleCBIT demonstrated strong evidence of feasibility, acceptability, and preliminary effectiveness comparable to in-person treatment for both pediatric and adult patients. TeleCBIT warrants study in future research on enhancing care systems for patients with TS.Trial registryhttps://clinicaltrials.gov/ct2/keydates/NCT04007913.",
     "article_link": "https://pubmed.ncbi.nlm.nih.gov/37545359/",
@@ -27805,13 +27805,13 @@
     "date": "2023-07-27",
     "journal": "Behavior therapy",
     "doi": "10.1016/j.beth.2023.07.010",
-    "topic": "Детское OCD",
-    "topic_key": "ocd",
+    "topic": "Детские тики",
+    "topic_key": "tics",
     "topic_keys": [
-      "ocd"
+      "tics"
     ],
     "topics": [
-      "Детское OCD"
+      "Детские тики"
     ],
     "abstract_en": "Body-focused repetitive behavior disorders, including trichotillomania (hair-pulling disorder) and excoriation (skin picking) disorder, typically emerge in early adolescence, but little is known about the clinical characteristics and treatment outcomes of these disorders in young people, particularly in real-world clinical settings. Participants were 63 children and adolescents (51 girls; age range 9-17) with a diagnosis of trichotillomania (n = 33) and/or skin-picking disorder (n = 33) attending a specialist outpatient clinic in Stockholm, Sweden. Demographic and clinical characteristics were gathered at the initial assessment. Of the 63 assessed youths, 56 received manual-based behavior therapy mainly focusing on habit reversal training, which was combined with medication when deemed appropriate. The mean clinician-reported trichotillomania and skin-picking disorder symptom severity at baseline (n = 63) was in the moderate range. We observed high rates of psychiatric comorbidity (63.5%) and use of psychiatric medication (54.8%). For the 56 individuals undertaking treatment at the clinic, mixed-effects regression models showed a significant decrease in symptom severity from baseline to posttreatment, with gains maintained up to the 12-month follow-up. Substantial and durable improvements were also seen on self-reported symptoms, self-reported depression, and global functioning. Specialist care should be made more widely available to improve the prognosis and quality of life of young people with trichotillomania and skin-picking disorder.",
     "article_link": "https://pubmed.ncbi.nlm.nih.gov/38418047/",
@@ -27850,13 +27850,13 @@
     "date": "2022-11-11",
     "journal": "Frontiers in psychiatry",
     "doi": "10.3389/fpsyt.2022.997174",
-    "topic": "Детское OCD",
-    "topic_key": "ocd",
+    "topic": "Детские тики",
+    "topic_key": "tics",
     "topic_keys": [
-      "ocd"
+      "tics"
     ],
     "topics": [
-      "Детское OCD"
+      "Детские тики"
     ],
     "abstract_en": "OBJECTIVE: To investigate the adaptability of Comprehensive Behavioral Intervention for Tics (CBIT) for a Chinese population, and evaluate the efficacy of combined CBIT and pharmacotherapy (CBIT + PT) compared to CBIT or pharmacotherapy (PT) alone for reducing tics and for improving the quality of life (QoL) in a sample of Chinese children with chronic tic disorders (CTD) and Tourette syndrome (TS).\n\nMATERIALS AND METHODS: In this 10-week randomized controlled pilot trial, 37 outpatients aged between 6 and 16 years affected by TS and CTD were randomly assigned to receive CBIT (n = 22) or PT alone (n = 15). Considering the feasibility, the patients allocated to the CBIT treatment group could further choose whether to simultaneously take medicine voluntarily, resulting in a CBIT alone group (n = 12) and a CBIT + PT group (n = 10).\n\nRESULTS: At baseline, no significant difference was found between the three groups in the demographic and clinical characteristics (p > 0.05). All three groups showed a significant reduction in tic severity after treatment assessed by the Yale Global Tic Severity Scale (YGTSS) severity score [F (2,33) = 35.05, p < 0.001, η p  2 = 0.51], the score of the Clinical Global Impression scale for Improvement (CGI-I) [F (1,34) = 13.87, p = 0.001, η p  2 = 0.29], and YGTSS impairment score [F (2,33) = 31.71, p < 0.001, η p  2 = 0.48]. Significant interactions were found between the time-point and group in emotional functioning [F (2,29) = 4.39, p = 0.02, η p  2 = 0.23], psychosocial functioning [F (2,29) = 5.93, p = 0.007, η p  2 = 0.29], and total QoL score [F (1,34) = 3.72, p = 0.04, η p  2 = 0.20] of Pediatric Quality of Life Inventory (PedsQL 4.0) for children suggesting a significantly larger improvement in emotional functioning, psychosocial functioning, and total QoL score of the life quality in the CBIT group for children self-report. PedsQL for proxy report only showed a significant main effect of time-point in physical functioning [F (1,33) = 8.35, p = 0.01, η p  2 = 0.2], emotional functioning [F (1,33) = 10.75, p = 0.002, η p  2 = 0.25], psychosocial functioning [F (1,34) = 11.38, p = 0.002, η p  2 = 0.26], and total Qol score [F (1,34) = 13.21, p = 0.001, η p  2 = 0.29].\n\nCONCLUSION: CBIT is probably effective in reducing tic severity in Chinese children with tic disorders. CBIT + PT may not be superior to CBIT alone in reducing tic severity and improving quality of life. CBIT alone showed advantages in improving quality of life over CBIT + PT and PT alone. CBIT might be an appropriate treatment option for patients with tic disorder in Chinese mainland.",
     "article_link": "https://pubmed.ncbi.nlm.nih.gov/36440399/",
@@ -27899,13 +27899,13 @@
     "date": "2022-07-20",
     "journal": "Behavior therapy",
     "doi": "10.1016/j.beth.2022.07.007",
-    "topic": "Детское OCD",
-    "topic_key": "ocd",
+    "topic": "Детские тики",
+    "topic_key": "tics",
     "topic_keys": [
-      "ocd"
+      "tics"
     ],
     "topics": [
-      "Детское OCD"
+      "Детские тики"
     ],
     "abstract_en": "Our objective was to evaluate the feasibility and acceptability, and preliminary efficacy of a modified comprehensive behavioral intervention for tics (MCBIT) therapy for youth with chronic tic disorders (CTDs), co-occurring attention-deficit hyperactivity disorder (ADHD), and associated psychosocial impairment. Seventeen youth ages 10-17 with CTD and co-occurring ADHD were randomly assigned to the MCBIT group (n = 9) or to a control group where they received traditional comprehensive behavioral intervention for tics (CBIT) therapy (n = 8). Both groups received ten 55-minute weekly treatment sessions, and two 55-minute biweekly relapse prevention sessions. Sixteen of the 17 participants completed the study, and acceptability ratings in both treatment groups were high with no significant differences in expectation of improvement. The MCBIT and CBIT groups in combination showed significant improvement in tic severity, ADHD symptom severity, and tic-related impairment. Group differences were not significant. The results indicate that MCBIT treatment is feasible and acceptable for youth with CTD and ADHD, and is similarly well tolerated relative to traditional CBIT. Results were not sufficiently superior to recommend MCBIT over CBIT for this population. However, given the demonstrated benefit of behavioral treatments that target co-occurring conditions concurrently, continuing to examine novel behavioral approaches that can target tics and related conditions simultaneously and successfully is recommended.",
     "article_link": "https://pubmed.ncbi.nlm.nih.gov/36608977/",
@@ -27953,13 +27953,13 @@
     "date": "2021-09-08",
     "journal": "Journal of the American Academy of Child and Adolescent Psychiatry",
     "doi": "10.1016/j.jaac.2021.08.022",
-    "topic": "Детское OCD",
-    "topic_key": "ocd",
+    "topic": "Детские тики",
+    "topic_key": "tics",
     "topic_keys": [
-      "ocd"
+      "tics"
     ],
     "topics": [
-      "Детское OCD"
+      "Детские тики"
     ],
     "abstract_en": "OBJECTIVE: To determine the long-term durability of behavior therapy for tics among youth with Tourette disorder and persistent (chronic) motor or vocal tic disorders.\n\nMETHOD: Of the 126 youth who participated in a randomized controlled trial of behavior therapy 11 years prior, 80 were recruited for this longitudinal follow-up. Consenting participants were interviewed in person or remotely (Web-based video) by trained evaluators to determine the course of tics, current tic severity, and tic-related impairment. Recruitment and data collection occurred between 2014 and 2019, with an average follow-up duration of 11.2 years.\n\nRESULTS: Treatment responders to both conditions in the original trial achieved partial, but not full, tic remission. Tic severity also decreased significantly across the sample, with 40% reporting partial remission. Behavior therapy responders (n = 21) in the original trial were more likely (67%) to achieve remission at follow-up (Total Tic Score = 12.52, SD = 10.75) compared to psychoeducation/supportive therapy responders (n = 6, 0%) at follow-up (Total Tic Score = 20.67, SD = 6.92) on the Yale Global Tic Severity Scale. Tic-related impairment decreased across the sample, with no significant differences between treatment groups or responders.\n\nCONCLUSION: Despite limitations of unmeasured variables and veracity of self-report at follow-up, this study supports guidelines recommending behavior therapy as the first-line intervention for tics. Further investigation of behavior therapy as an early preventive intervention also merits attention.",
     "article_link": "https://pubmed.ncbi.nlm.nih.gov/34508805/",
@@ -28015,13 +28015,13 @@
     "date": "2021-09-01",
     "journal": "The lancet. Psychiatry",
     "doi": "10.1016/S2215-0366(21)00235-2",
-    "topic": "Детское OCD",
-    "topic_key": "ocd",
+    "topic": "Детские тики",
+    "topic_key": "tics",
     "topic_keys": [
-      "ocd"
+      "tics"
     ],
     "topics": [
-      "Детское OCD"
+      "Детские тики"
     ],
     "abstract_en": "BACKGROUND: Exposure and Response Prevention (ERP) is a form of behavioural therapy for tics; however, its effectiveness remains uncertain. We aimed to evaluate the effectiveness of internet-delivered, therapist-supported, and parent-assisted ERP for treatment of tics in children and young people with Tourette syndrome or chronic tic disorder.\n\nMETHODS: This multicentre, parallel group, single-blind, randomised controlled trial was conducted across two study sites in England. Participants were recruited via 16 patient identification centres, two study sites in England (Nottingham and London), or online self-referral. Eligible participants were aged 9-17 years, had Tourette syndrome or chronic tic disorder, had not received behavioural therapy for tics in the past 12 months or were about to start, and had a Yale Global Tic Severity Scale (YGTSS) Total Tic Severity Score (TTSS) of more than 15 or more than 10 if they had only motor or vocal tics. Patients were excluded if they had started or stopped medication for tics within the past 2 months; had current alcohol or substance dependence, psychosis, suicidality, anorexia nervosa, or suspected moderate to severe intellectual disability; or presented an immediate risk to self or others; or the parent or carer was unable to speak, read, or write in English. Eligible patients were randomly assigned (1:1) by masked outcome assessors to receive 10 weeks of online, remotely delivered, therapist-supported ERP or psychoeducation (active control). Outcome assessors, statisticians, health economists, the trial manager, and the chief investigator were masked to group allocation. Patients were not directly informed of their allocation, but this could be established from the content once treatment commenced and the patients were not, therefore, considered masked to treatment. The primary outcome was YGTSS-TTSS 3 months after randomisation, and analysis was done in all randomised patients for whom data were available for each timepoint and outcome. Safety analysis was by intention to treat. Longer term follow-up is ongoing. This trial is registered with ISRCTN (ISRCTN70758207) and ClinicalTrials.gov (NCT03483493).\n\nFINDINGS: Between May 8, 2018, and Sept 30, 2019, we assessed 445 candidates for inclusion in the study. 221 potential participants were excluded (90 did not meet inclusion criteria, 84 declined to participate, and 47 unable to contact family). 224 participants were enrolled and randomly assigned to ERP (n=112) or psychoeducation (n=112). The enrolled patients were mostly male (n=177; 79%) and of White ethnicity (n=195; 87%). 11 patients were lost to follow-up 3 months after randomisation in the ERP group, compared with 12 patients in the psychoeducation group. Mean YGTSS-TTSS at 3 months after randomisation was 23·9 (SD 8·2) in the ERP group and 26·8 (7·3) in the psychoeducation group. The mean total decrease in YGTSS-TTSS at 3 months was 4·5 (16%, SD 1·1) in the ERP group versus 1·6 (6%, 1·0) in the psychoeducation group. The estimated mean difference in YGTSS-TTSS change between the groups adjusted for baseline and site was -2·29 points (95% CI -3·86 to -0·71) in favour of ERP, with an effect size of -0·31 (95% CI -0·52 to -0·10). Two serious adverse events occurred (one collapse and one tic attack), both in the psychoeducation group, neither of which were related to study treatment.\n\nINTERPRETATION: ERP is an effective behavioural therapy for tics. Remotely delivered, online ERP with minimal therapist contact time represents an efficient public mental health approach to improve access to behavioural therapy for tics in children and adolescents.\n\nFUNDING: National Institute for Health Research and Health and Technology Assessment.",
     "article_link": "https://pubmed.ncbi.nlm.nih.gov/34480868/",
@@ -28057,13 +28057,13 @@
     "date": "2021-02-20",
     "journal": "Child and adolescent psychiatry and mental health",
     "doi": "10.1186/s13034-021-00362-w",
-    "topic": "Детское OCD",
-    "topic_key": "ocd",
+    "topic": "Детские тики",
+    "topic_key": "tics",
     "topic_keys": [
-      "ocd"
+      "tics"
     ],
     "topics": [
-      "Детское OCD"
+      "Детские тики"
     ],
     "abstract_en": "BACKGROUND: Chronic tic disorders are neurodevelopmental disorders that can be treated with Habit Reversal Training (HRT) and Exposure Response Prevention (ERP). Intermediate and long-term effects have been examined after individual treatment with HRT, whereas evaluation of long-term outcome after an initial treatment with ERP, or a combination of HRT and ERP is lacking. The present study examines the long-term effect after a combined treatment with HRT and ERP delivered in an individual or a group setting METHODS: Fifty-nine children and adolescents diagnosed with a chronic tic disorder were randomised to manualised treatment combining HRT and ERP as individual or group training. Forty-seven were re-examined 1 year after acute outcome. Outcome measures included Total Tic Severity score (TTS) measured by the Yale Global Tic Severity Scale (YGTSS) and Beliefs About Tics Scale (BATS) RESULTS: In a mixed model, it was shown that the initial improvement with both individual and group treatment was maintained throughout the follow-up period. There were no significant differences between the two methods of treatment delivery. Of all participants completing the 12 months evaluation, 74.4% were considered responders. There was a significant positive association between the reduction of TTS and the reduction in BATS. In a latent class post-treatment trajectory analysis, two classes were identified, where high baseline severity increased the likelihood of being in the lesser responder class. Similar, but only as a trend, having ADHD, planning difficulties or hypersensitivity increased the risk of a lesser response.\n\nCONCLUSIONS: The present study compares the efficacy in individualised and group treatment of providing manualised therapy for child and adolescent tic disorders using two behavioural methods (combined HRT and ERP) both of which have been shown to have acute benefits but only one of which has been validated for longer term effectiveness. In the present study, both individualised and group treatments showed benefit throughout a 1-year follow-up period with several potential confounds affecting outcomes, while the relative benefits of either HRT and ERP were not addressed. Trial registration NCT04594044, 1-10-72-216-15, registered 19th October 2020, retrospectively registered, https://register.clinicaltrials.gov/prs/app/template/Home.vm?uid=U0005BW2&ts=9&sid=S000ABEY&cx=-wlx7vb The study is approved by the National Ethical Committee (1-10-72-216-15) and the Danish Data Protection Agency (1-16-02-490-15), registered 12 October 2015.",
     "article_link": "https://pubmed.ncbi.nlm.nih.gov/33610169/",
@@ -28104,13 +28104,13 @@
     "date": "2021-01-07",
     "journal": "European child & adolescent psychiatry",
     "doi": "10.1007/s00787-020-01702-5",
-    "topic": "Детское OCD",
-    "topic_key": "ocd",
+    "topic": "Детские тики",
+    "topic_key": "tics",
     "topic_keys": [
-      "ocd"
+      "tics"
     ],
     "topics": [
-      "Детское OCD"
+      "Детские тики"
     ],
     "abstract_en": "Exposure and Response Prevention (ERP), Habit Reversal Training (HRT) and Comprehensive Behavioral Intervention for Tics (CBIT) are effective in reducing tic severity. ERP and HRT have recently gained primary support in a group setting, while CBIT has not been examined similarly. We compared the efficacy of group-CBIT to group-Educational Intervention for Tics (group-EIT) for tics and comorbid symptoms. Children with Tourette Syndrome (TS) or Chronic Tic Disorder (CTD) were randomized to group-CBIT or group-EIT. Tics and comorbid symptoms were assessed in forty-six children pre- and postintervention, and 3-month later. Yale Global Tic Severity Scale (YGTSS) Motor tic severity decreased following both interventions, and was maintained at follow-up for group-CBIT only. The Parent Tic Questionnaire (PTQ) showed significant decrease in total and motor tic severity following group-CBIT only, a gain maintained three months later. YGTSS impairment score decreased following both interventions and was maintained at follow-up. YGTSS vocal tic severity score increased following both interventions, and then decreased significantly at follow up. Co-morbid symptoms including anxiety, behavioral problems, and aggressive behavior decreased following both interventions. Children with behavioral problems benefitted less while children with higher intellectual ability benefit more from intervention. Both group interventions showed efficacy in reducing tic impairment and comorbid symptoms. Group-CBIT was superior to group-EIT in reducing motor tic severity at 3-month follow-up, showing an advantage for tic-focused treatment. Based on the PTQ, group-CBIT was superior to group-EIT in reducing motor, vocal, and total tic scores, a gain maintained three months later. Clinical trial registry information-Group Intervention for Children with Chronic Tics Syndrome: CBIT vs Psychoeducational Intervention URL: http://clinicaltrials.gov , Identifier: NCT02407951, http://www.controlled-trials.com ).",
     "article_link": "https://pubmed.ncbi.nlm.nih.gov/33415472/",
@@ -28154,13 +28154,13 @@
     "date": "2020-12-14",
     "journal": "Child psychiatry and human development",
     "doi": "10.1007/s10578-020-01098-y",
-    "topic": "Детское OCD",
-    "topic_key": "ocd",
+    "topic": "Детские тики",
+    "topic_key": "tics",
     "topic_keys": [
-      "ocd"
+      "tics"
     ],
     "topics": [
-      "Детское OCD"
+      "Детские тики"
     ],
     "abstract_en": "It is unclear if the results of randomised controlled trials (RCTs) of behaviour therapy (BT) for Tourette syndrome (TS) and chronic tic disorder (CTD) can be generalised to naturalistic clinical settings and are durable long-term. In this naturalistic study, 74 young people with TS/CTD received BT at a specialist clinic. Data were collected at baseline, post-treatment, and at 3-, 6-, and 12-month follow-ups. Measures included the Yale Global Tic Severity Scale (YGTSS) and the Clinical Global Impression-Improvement scale (CGI-I), amongst others. Tic severity and tic-related impairment improved after treatment, with large within-group effect sizes. At post-treatment, 57% of the participants were classified as treatment responders according to the CGI-I. Tic severity and tic-related impairment improved further through the follow-up, with 75% treatment responders at the 12-month follow-up. BT is an effective and durable treatment for young people with TS/CTD in a naturalistic specialist clinical setting, with comparable effects to RCTs.",
     "article_link": "https://pubmed.ncbi.nlm.nih.gov/33315190/",
@@ -28199,13 +28199,13 @@
     "date": "2020-11-24",
     "journal": "European child & adolescent psychiatry",
     "doi": "10.1007/s00787-020-01686-2",
-    "topic": "Детское OCD",
-    "topic_key": "ocd",
+    "topic": "Детские тики",
+    "topic_key": "tics",
     "topic_keys": [
-      "ocd"
+      "tics"
     ],
     "topics": [
-      "Детское OCD"
+      "Детские тики"
     ],
     "abstract_en": "Practice guidelines endorse comprehensive behavioral intervention for tics (CBIT) as first-line treatment for tic disorders (TD) in youth. Nevertheless, CBIT is rarely available due to various barriers. This study evaluated the feasibility and potential effectiveness of an Internet-based, self-help CBIT program (ICBIT) guided by parents with minimal therapist support delivered via telepsychotherapy. Forty-one youths, aged 7-18 years, were randomly assigned to receive either ICBIT (n = 25) or a wait-list (WL) condition (n = 16) in a crossover design. ICBIT was feasible to implement and at post-treatment, 64% of the participants have improved significantly. Results demonstrated clinically meaningful reductions in tic severity and improved youth global impairment and functioning. Gains were maintained over a 6-month follow-up period. The effect size for the primary outcome measure (Yale Global Tic Severity Scale) ranged between large effect size (Cohen\"s d = 0.91) at post-intervention to very large effect size (Cohen's d = 2.25) 6 months after the end of the acute intervention. These were comparable to face-to-face delivery treatment trials for TD. Participants rated the intervention as highly acceptable and satisfactory. Youth receiving ICBIT experienced improvement in self-esteem and comorbidity. Finally, during the COVID-19 pandemic, the ICBIT program enabled the delivery of the intervention consecutively without interruption. The results observed provide preliminary evidence of the feasibility and effectiveness of this innovative modality to assist youth with TD and remove various barriers to treatment, including those during a public crisis, such as the COVID-19 pandemic. Larger studies with an active control group are warranted.Trial registration URL: http://clinicaltrials.gov, ClinicalTrials.gov Identifier: NCT04087616.",
     "article_link": "https://pubmed.ncbi.nlm.nih.gov/33231786/",
@@ -28245,13 +28245,13 @@
     "date": "2020-10-23",
     "journal": "JMIR mental health",
     "doi": "10.2196/19600",
-    "topic": "Детское OCD",
-    "topic_key": "ocd",
+    "topic": "Детские тики",
+    "topic_key": "tics",
     "topic_keys": [
-      "ocd"
+      "tics"
     ],
     "topics": [
-      "Детское OCD"
+      "Детские тики"
     ],
     "abstract_en": "In recent years, research into internet-based cognitive behavioral therapy (iCBT) has suggested that therapist-guided digital interventions have greater engagement, adherence, and effectiveness than self-directed digital therapies. While research has focused on the effectiveness of, and adherence to, these interventions, less attention has been paid to their implementation in practice and what aspects of the therapist role support success. An understanding of the key factors related to the therapist role and intervention delivery is required if these iCBTs are to be applied in routine clinical care and outcomes optimized. In light of the coronavirus disease 2019 (COVID-19) pandemic, there is greater emphasis on allowing patients access to remote therapies. We report the experiences and reflections of 4 therapists and their 2 supervisors in delivering an online, therapist-supported intervention in a randomized controlled trial for children and young people with tic disorders (the Online Remote Behavioural Intervention for Tics [ORBIT] trial). Themes discussed include the importance of training, supervision, creating support documents/manuals, and record keeping. Alongside this are communication strategies used by therapists to encourage patient adherence and treatment effectiveness. These include rapport building, treatment personalization, and suggestions for overcoming non-engagement. These reflections offer important considerations for the delivery of iCBTs as well as implications associated with the implementation of these interventions in existing services and future research studies. We share thoughts on where iCBTs may sit in a stepped care model, how services may deal with comorbid conditions, and the potential role of iCBTs in collecting clinical data.",
     "article_link": "https://pubmed.ncbi.nlm.nih.gov/33095180/",
@@ -28293,13 +28293,13 @@
     "date": "2020-06-24",
     "journal": "Pediatric investigation",
     "doi": "10.1002/ped4.12190",
-    "topic": "Детское OCD",
-    "topic_key": "ocd",
+    "topic": "Детские тики",
+    "topic_key": "tics",
     "topic_keys": [
-      "ocd"
+      "tics"
     ],
     "topics": [
-      "Детское OCD"
+      "Детские тики"
     ],
     "abstract_en": "Tic disorders (TD) is a neurodevelopmental disorder that is often first recognized in children and adolescents and is characterized mainly by motor and phonic tics. Drug treatment of TD has been criticized because of serious side effects, and TD treatment emphasizes behavioral psychotherapy. This study reviewed the most common behavioral psychotherapy for TD: habit reversal training (HRT). We examined the contents, variation, curative effects, and premonitory urge control of HRT and other behavioral psychotherapies. The findings suggest that current understanding of HRT is insufficient and further studies are needed. First, studies of online guidance training are needed to implement technology that can help more patients. Second, the future integration of HRT and other technologies is important. Third, imaging techniques could be used to further explore the brain mechanisms underlying HRT. Research on HRT for TD in China is insufficient. We call on more Chinese researchers to study, investigate, and develop technology to promote the development of behavioral psychotherapy for TD in China.",
     "article_link": "https://pubmed.ncbi.nlm.nih.gov/32851356/",
@@ -28352,13 +28352,13 @@
     "date": "2020-01-13",
     "journal": "Journal of advanced nursing",
     "doi": "10.1111/jan.14279",
-    "topic": "Детское OCD",
-    "topic_key": "ocd",
+    "topic": "Детские тики",
+    "topic_key": "tics",
     "topic_keys": [
-      "ocd"
+      "tics"
     ],
     "topics": [
-      "Детское OCD"
+      "Детские тики"
     ],
     "abstract_en": "AIM: To evaluate the effectiveness of a modified four-session Comprehensive Behavioral Intervention for Tics programme for decreasing tics in children and adolescents with Tourette's syndrome.\n\nBACKGROUND: Comprehensive Behavioral Intervention for Tics programme has been shown to decrease tic severity. However, the lack of behaviour therapists in countries, such as in Taiwan, may preclude application of the standard eight-session, 10-week programme.\n\nDESIGN: Randomized controlled study.\n\nMETHODS: Participants aged 6-18 years diagnosed with Tourette's syndrome or chronic tic disorder were recruited from February 2015 through September 2016. Participants in the control and intervention groups (N = 23 each) received the routine care (daily pyridoxine [50 mg] and psychoeducation). The intervention group received additional four behavioural intervention sessions over a 3-month period that included psychoeducation, habit reversal training, relaxation training, and education on tic relapse prevention. The outcome measures, Yale Global Tic Severity Scale scores, were assessed at before and after the completion of programme for both groups and again at 3 months follow-up for the intervention group. The effect of the intervention on severity scores was assessed using a generalized estimated equation.\n\nRESULTS: Comparison of scores before and after intervention showed that the intervention significantly decreased the severity of total motor tics (B = -3.28, p < .01) and total tics (B = -5.86, p < .01) as compared with control treatment. YGTSS scores for the intervention group were lower at 3-month follow-up as compared with before treatment or immediately after treatment completion (total tics, p < .001).\n\nCONCLUSION: The modified four-session Comprehensive Behavioral Intervention for Tics programme was more effective than routine care for decreasing tic severity in our cohort of 6- to 18-year olds. This improvement was maintained 3 months after intervention.\n\nIMPACT: Healthcare providers, including nurses, in countries currently not adopting Comprehensive Behavioral Intervention for Tics programme should be made aware of the positive effects of this modified intervention for Tourette's syndrome.",
     "article_link": "https://pubmed.ncbi.nlm.nih.gov/31782167/",
@@ -28405,13 +28405,13 @@
     "date": "2019-11-27",
     "journal": "Behavior therapy",
     "doi": "10.1016/j.beth.2019.10.004",
-    "topic": "Детское OCD",
-    "topic_key": "ocd",
+    "topic": "Детские тики",
+    "topic_key": "tics",
     "topic_keys": [
-      "ocd"
+      "tics"
     ],
     "topics": [
-      "Детское OCD"
+      "Детские тики"
     ],
     "abstract_en": "The Comprehensive Behavioral Intervention for Tic Disorders (CBIT) has demonstrated efficacy in large randomized controlled trials for children (≥9 yrs), adolescents and adults with Tourette Syndrome and Chronic Tic Disorders. Given the early age of onset for tic disorders, a large portion of affected individuals with chronic tic disorders are less than 9 years of age and appropriate developmental adaptations of behavioral treatment have not yet been tested. The goal of this study was to adapt and evaluate the acceptability and utility of a family-based adaptation of CBIT for children under 9 years of age. Children 5-8 years of age (N = 15) with chronic tics were recruited from three study sites. CBIT was adapted for use with young children and included habit reversal strategies introduced in a developmentally appropriate game format and function-based interventions to reduce family accommodation of and attention to tic symptoms. Children and parents described high level of treatment satisfaction and study retention rate was 100%. Treatment response rate was 54% (CGI-I = 1 or 2) with a significant decrease in the YGTSS total score (Cohen's d = 0.73) that was largely maintained at 3-month and 1-year follow-up assessments. Treatment was associated with reduction of some symptoms of tic-related comorbid syndromes and with changes in parental accommodation and attention to tics. Future research should determine if parental attention to tics and symptom accommodation are important mediators of treatment outcome, or if participating in this intervention at a younger age may prevent the chronic course of tic symptoms.",
     "article_link": "https://pubmed.ncbi.nlm.nih.gov/32586437/",
@@ -28454,13 +28454,13 @@
     "date": "2019-02-15",
     "journal": "BMJ open",
     "doi": "10.1136/bmjopen-2018-024685",
-    "topic": "Детское OCD",
-    "topic_key": "ocd",
+    "topic": "Детские тики",
+    "topic_key": "tics",
     "topic_keys": [
-      "ocd"
+      "tics"
     ],
     "topics": [
-      "Детское OCD"
+      "Детские тики"
     ],
     "abstract_en": "OBJECTIVE: Behaviour therapy (BT) for Tourette's disorder (TD) and persistent (chronic) motor or vocal tic disorder (PTD) is rarely available. We evaluated the feasibility of adapting two existing BT protocols for TD/PTD (habit reversal training (HRT) and exposure and response prevention (ERP)) into a therapist-guided and parent-guided online self-help format.\n\nDESIGN: A pilot, single-blind, parallel group randomised controlled trial.\n\nSETTING: A specialist outpatient clinic in Sweden.\n\nPARTICIPANTS: Twenty-three young people with TD/PTD, aged 8-16.\n\nINTERVENTIONS: Two 10-week therapist-guided and parent-guided internet-delivered programmes (called BIP TIC HRT and BIP TIC ERP).\n\nOUTCOME: The primary outcome measure was the Yale Global Tic Severity Scale. Blinded evaluators rated symptoms at baseline, post-treatment and 3-month follow-up (primary endpoint). All participants were naturalistically followed up to 12 months after treatment.\n\nRESULTS: Patients and parents rated the interventions as highly acceptable, credible and satisfactory. While both interventions resulted in reduced tic-related impairment, parent-rated tic severity and improved quality of life, only BIP TIC ERP resulted in a significant improvement on the primary outcome measure. Within-group effect sizes and responder rates were, respectively: d=1.12 and 75% for BIP TIC ERP, and d=0.50 and 55% for BIP TIC HRT. The therapeutic gains were maintained up to 12 months after the end of the treatment. Adverse events were rare in both groups. The average therapist support time was around 25 min per participant per week.\n\nCONCLUSIONS: Internet-delivered BT has the potential to greatly increase access to evidence-based treatment for young people with TD/PTD. Further evaluation of the efficacy and cost-effectiveness of this treatment modality is warranted.\n\nTRIAL REGISTRATION NUMBER: NCT02864589; Pre-results.",
     "article_link": "https://pubmed.ncbi.nlm.nih.gov/30772854/",
@@ -28499,13 +28499,13 @@
     "date": "2018-08-27",
     "journal": "Behavior modification",
     "doi": "10.1177/0145445518796203",
-    "topic": "Детское OCD",
-    "topic_key": "ocd",
+    "topic": "Детские тики",
+    "topic_key": "tics",
     "topic_keys": [
-      "ocd"
+      "tics"
     ],
     "topics": [
-      "Детское OCD"
+      "Детские тики"
     ],
     "abstract_en": "The aim of this study is to evaluate a cognitive-behavioral treatment for children and adolescents with tic disorder including habit reversal training (HRT) in a sample of children and adolescents (n = 27). Multiple outcome measures were used to assess the effects of the treatment on tic symptoms. In addition, impairment/subjective burden ratings and the self-efficacy to control tics were assessed. A within-subject design with two phases (8 weeks diagnostic; 16 sessions treatment) was analyzed using multilevel modeling (MLM). During the treatment phase, significant improvements in tic symptoms, impairment, and self-efficacy to control tics were found on most outcome measures. Treatment effects were found on the clinical rating of tic symptoms (Yale Global Tic Severity Scale [YGTSS]), the self-efficacy to control tics, and the video-observed motor tic frequency by comparing the improvements during treatment with the course of the outcome measures during the preceding diagnostic phase.",
     "article_link": "https://pubmed.ncbi.nlm.nih.gov/30146896/",
@@ -28543,13 +28543,13 @@
     "date": "2018-06-28",
     "journal": "European child & adolescent psychiatry",
     "doi": "10.1007/s00787-018-1187-z",
-    "topic": "Детское OCD",
-    "topic_key": "ocd",
+    "topic": "Детские тики",
+    "topic_key": "tics",
     "topic_keys": [
-      "ocd"
+      "tics"
     ],
     "topics": [
-      "Детское OCD"
+      "Детские тики"
     ],
     "abstract_en": "Chronic tic disorders may have a huge influence on quality of life. Habit reversal training (HRT) and exposure response prevention (ERP) are effective treatments. In a blinded assessed, open trial, this study evaluates the effectiveness of a newly developed Scandinavian tic treating manual designed to treat adolescents with a chronic tic disorder, combining HRT and ERP. The study compared the efficacy of treatment based on the same manual delivered either individually or in groups. The study was an open randomized controlled clinical trial in which adolescents were randomized to either individual or group therapy. Both therapies included nine sessions. The parents were offered group-based psycho-education. The exclusion criteria were chosen to design a study that would be close to clinical practice. This is the first Scandinavian study that examines the effectiveness of a treatment manual combining HRT and ERP delivered in an individual and group setting. The study showed a significant reduction of the Total Tic score on the Yale Global Tic Severity Scale both in the individual (effect size 1.21) and group setting (effect size 1.38). A total of 66.7% of participants were considered responders. There was no statistical significant difference between the individual and group setting apart from the functional impairment score. The reductions were comparable with those shown in other studies. The participants applied both HRT and ERP, and the majority (36/59) reported an increased post-treatment experience of control. The newly designed Scandinavian manual was equally effective in the individual and group setting with effect sizes comparable with those shown in other studies.",
     "article_link": "https://pubmed.ncbi.nlm.nih.gov/29956034/",
@@ -28588,13 +28588,13 @@
     "date": "2018-03-27",
     "journal": "Frontiers in psychiatry",
     "doi": "10.3389/fpsyt.2018.00100",
-    "topic": "Детское OCD",
-    "topic_key": "ocd",
+    "topic": "Детские тики",
+    "topic_key": "tics",
     "topic_keys": [
-      "ocd"
+      "tics"
     ],
     "topics": [
-      "Детское OCD"
+      "Детские тики"
     ],
     "abstract_en": "CONTEXT: The existing literature on the treatment of pediatric chronic tic disorder (CTD) and Tourette syndrome (TS) indicates that both behavioral therapy (BT) and pharmacotherapy (PT) are effective for reducing symptoms.\n\nOBJECTIVE: To evaluate the efficacy of BT compared to psychoeducation (PE) or PT for reducing tics and co-occurring symptoms and for improving quality of life (QoL) in a sample of youths with CTD and TS.\n\nDESIGN: A 10 weeks, 2 sites (Catania, Rome) randomized controlled trial. Participants were randomized to receive one of the following treatments: BT, PE, or PT.\n\nPARTICIPANTS: 110 outpatients aged between 8 and 17 years affected by CTD or TS.\n\nRESULTS: Patients in the BT and PT groups showed a significant reduction in the severity of tic symptoms, while the PE group did not show any improvement. PT was more effective for reducing obsessive compulsive symptoms than BT, while PE group did not show any improvement. Both BT and PT groups showed an improvement in most QoL domains, whereas no differences were found in the PE group.\n\nCONCLUSIONS: BT is as effective as pharmacological therapy in the treatment of tic disorders in children and adolescents, thus offering an alternative to medications for CTD and TS.",
     "article_link": "https://pubmed.ncbi.nlm.nih.gov/29636706/",
@@ -28637,13 +28637,13 @@
     "date": "2016-12-22",
     "journal": "Journal of child and adolescent psychopharmacology",
     "doi": "10.1089/cap.2016.0085",
-    "topic": "Детское OCD",
-    "topic_key": "ocd",
+    "topic": "Детские тики",
+    "topic_key": "tics",
     "topic_keys": [
-      "ocd"
+      "tics"
     ],
     "topics": [
-      "Детское OCD"
+      "Детские тики"
     ],
     "abstract_en": "OBJECTIVES: This study evaluated the treatment efficacy of habit reversal training (HRT) relative to treatment as usual (TAU) for children and adolescents aged 7-17 years with a primary diagnosis of trichotillomania (TTM).\n\nMETHOD: An initial assessment consisting of semistructured interviews and rating scales was conducted. Participants (N = 40, 85% female) meeting diagnostic criteria for TTM were randomized to either 8 weekly sessions of HRT by trained therapists or 8 weeks of TAU. One week after the final HRT session or final TAU week, patients completed a posttreatment assessment, followed by 1- and 3-month follow-up assessments. All assessments were conducted by a trained rater who was blinded to treatment condition.\n\nRESULTS: The group by time analysis of variance yielded a significant interaction on the National Institute of Mental Health-Trichotillomania Severity Scale Total Score (F1,38 = 16.47, p < 0.001, η2p = 0.30). The mean score decreased from 12.67 ± 4.60 at baseline to 5.62 ± 4.38 at posttreatment in the HRT group (t20 = 5.99, p < 0.001, d = 1.31), whereas the TAU group changed from 10.42 ± 4.35 to 9.32 ± 4.11 (t18 = 1.34, p = 0.20, d = 0.31). The Massachusetts General Hospital-Hair Pulling Scale Total Score decreased from 15.14 ± 3.86 at baseline to 7.14 ± 5.54 at posttreatment in the HRT group (t20 = 6.16, p < 0.001, d = 1.34); the TAU group changed from 14.16 ± 4.51 to 12.26 ± 4.34 (t18 = 1.50, p = 0.15, d = 0.34). On the Clinical Global Impressions-Improvement, 16/21 participants (76%) were rated as treatment responders in the HRT group versus 4/19 (21%) in the TAU group (χ2 = 12.13, p < 0.001, V = 0.55). At 1-month follow-up, 10-12 treatment responders who completed the assessment maintained improvement. At 3-month follow-up, six of eight maintained improvement.\n\nCONCLUSIONS: HRT can be an effective treatment for TTM in youth.",
     "article_link": "https://pubmed.ncbi.nlm.nih.gov/28005403/",
@@ -28681,13 +28681,13 @@
     "date": "2016-10-04",
     "journal": "Journal of clinical psychology",
     "doi": "10.1002/jclp.22399",
-    "topic": "Детское OCD",
-    "topic_key": "ocd",
+    "topic": "Детские тики",
+    "topic_key": "tics",
     "topic_keys": [
-      "ocd"
+      "tics"
     ],
     "topics": [
-      "Детское OCD"
+      "Детские тики"
     ],
     "abstract_en": "Although cognitive behavioral treatments (CBTs) have been recommended as first-line interventions for trichotillomania (hair-pulling disorder [HPD]), research on CBT for young children with HPD is limited. We illustrate the use of family-based CBT for HPD in an 8-year-old boy. The client had a 5-year history of chronic HPD and several large bald spots on the crown of his head. Treatment primarily comprised habit reversal training (HRT) and function-based interventions. The child showed significant improvement in HPD severity and impairment after 8 weekly sessions, although complete abstinence was not achieved. The findings underscore the importance of parental involvement in the treatment and show that children as young as 8 years of age can successfully use strategies taught in HRT.",
     "article_link": "https://pubmed.ncbi.nlm.nih.gov/27701731/",
@@ -28724,13 +28724,13 @@
     "date": "2016-06-15",
     "journal": "International journal of clinical pediatric dentistry",
     "doi": "10.5005/jp-journals-10005-1352",
-    "topic": "Детское OCD",
-    "topic_key": "ocd",
+    "topic": "Детские тики",
+    "topic_key": "tics",
     "topic_keys": [
-      "ocd"
+      "tics"
     ],
     "topics": [
-      "Детское OCD"
+      "Детские тики"
     ],
     "abstract_en": "One of the most challenging tasks for a pediatric dentist is the management of deleterious oral habits which adversely affect the dentofacial complex. However, if these habits can be intercepted and diagnosed well in time, they can save the patient from the psychological impact of undergoing long treatment therapies. One such rare deleterious oral habit is cheek biting that affects the buccal mucosa. Presented here is a case report which describes the interception of this deleterious habit in a 15-year-old female child who was a bilateral cheek biter with the help of an innovative intraoral appliance: The cheek plumper. How to cite this article: Rana V, Srivastava N, Kaushik N, Panthri P. Cheek Plumper: An Innovative Anti-cheek Biting Appliance. Int J Clin Pediatr Dent 2016;9(2):146-148.",
     "article_link": "https://pubmed.ncbi.nlm.nih.gov/27365937/",
@@ -28789,13 +28789,13 @@
     "date": "2016-05-02",
     "journal": "Journal of child psychology and psychiatry, and allied disciplines",
     "doi": "10.1111/jcpp.12556",
-    "topic": "Детское OCD",
-    "topic_key": "ocd",
+    "topic": "Детские тики",
+    "topic_key": "tics",
     "topic_keys": [
-      "ocd"
+      "tics"
     ],
     "topics": [
-      "Детское OCD"
+      "Детские тики"
     ],
     "abstract_en": "BACKGROUND: Tourette syndrome (TS) and chronic tic disorder (CTD) affect 1-2% of children and young people, but the most effective treatment is unclear. To establish the current evidence base, we conducted a systematic review of interventions for children and young people.\n\nMETHODS: Databases were searched from inception to 1 October 2014 for placebo-controlled trials of pharmacological, behavioural, physical or alternative interventions for tics in children and young people with TS or CTD. Certainty in the evidence was assessed with the GRADE approach.\n\nRESULTS: Forty trials were included [pharmacological (32), behavioural (5), physical (2), dietary (1)]. For tics/global score there was evidence favouring the intervention from four trials of α2-adrenergic receptor agonists [clonidine and guanfacine, standardised mean difference (SMD) = -0.71; 95% CI -1.03, -0.40; N = 164] and two trials of habit reversal training (HRT)/comprehensive behavioural intervention (CBIT) (SMD = -0.64; 95% CI -0.99, -0.29; N = 133). Certainty in the effect estimates was moderate. A post hoc analysis combining oral clonidine/guanfacine trials with a clonidine patch trial continued to demonstrate benefit (SMD = -0.54; 95% CI -0.92, -0.16), but statistical heterogeneity was high. Evidence from four trials suggested that antipsychotic drugs improved tic scores (SMD = -0.74; 95% CI -1.08, -0.40; N = 76), but certainty in the effect estimate was low. The evidence for other interventions was categorised as low or very low quality, or showed no conclusive benefit.\n\nCONCLUSIONS: When medication is considered appropriate for the treatment of tics, the balance of clinical benefits to harm favours α2-adrenergic receptor agonists (clonidine and guanfacine) as first-line agents. Antipsychotics are likely to be useful but carry the risk of harm and so should be reserved for when α2-adrenergic receptor agonists are either ineffective or poorly tolerated. There is evidence that HRT/CBIT is effective, but there is no evidence for HRT/CBIT alone relative to combining medication and HRT/CBIT. There is currently no evidence to suggest that the physical and dietary interventions reviewed are sufficiently effective and safe to be considered as treatments.",
     "article_link": "https://pubmed.ncbi.nlm.nih.gov/27132945/",
@@ -28850,13 +28850,13 @@
     "date": "2016-03-23",
     "journal": "Behaviour research and therapy",
     "doi": "10.1016/j.brat.2016.03.003",
-    "topic": "Детское OCD",
-    "topic_key": "ocd",
+    "topic": "Детские тики",
+    "topic_key": "tics",
     "topic_keys": [
-      "ocd"
+      "tics"
     ],
     "topics": [
-      "Детское OCD"
+      "Детские тики"
     ],
     "abstract_en": "Quality of life of children with Tourette Syndrome (TS) is impacted greatly by its symptoms and their social consequences. Habit Reversal Training (HRT) is effective but has not, until now, been empirically evaluated in groups. This randomised controlled trial evaluated feasibility and preliminary efficacy of eight HRT group sessions compared to eight Education group sessions. Thirty-three children aged 9-13 years with TS or Chronic Tic Disorder took part. Outcomes evaluated were tic severity and quality of life (QoL). Tic severity improvements were found in both groups. Motor tic severity (Yale Global Tic Severity Scale) showed greatest improvements in the HRT group. Both groups showed a strong tendency toward improvements in patient reported QoL. In conclusion, group-based treatments for TS are feasible and exposure to other children with tics did not increase tic expression. HRT led to greater reductions in tic severity than Education. Implications, such as cost-effectiveness of treatment delivery, are discussed.",
     "article_link": "https://pubmed.ncbi.nlm.nih.gov/27037483/",
