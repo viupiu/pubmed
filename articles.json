@@ -27254,70 +27254,6 @@
   },
   {
     "id": 440,
-    "pmid": "34665018",
-    "source": "PubMed",
-    "article": "Effectiveness of Available Treatments for Gaming Disorders in Children and Adolescents: A Systematic Review.",
-    "authors": [
-      "Lampropoulou Paraskevi",
-      "Siomos Konstantinos",
-      "Floros Georgios",
-      "Christodoulou Nikos"
-    ],
-    "date": "2021-10-18",
-    "journal": "Cyberpsychology, behavior and social networking",
-    "doi": "10.1089/cyber.2021.0067",
-    "topic": "Детское OCD",
-    "topic_key": "ocd",
-    "topic_keys": [
-      "ocd"
-    ],
-    "topics": [
-      "Детское OCD"
-    ],
-    "abstract_en": "In 2020, the prevalence of gaming disorder (GD) was comparable with the prevalence of obsessive-compulsive disorder, thus demonstrating the necessity of addressing Internet gaming disorder (IGD) and GD in general. GD has been introduced as a psychiatric disorder by International Classification of Diseases and paving the way for treatment and prevention interventions. In this review, we researched available treatment interventions in children and adolescents. Τhe initial search resulted in 972 studies and we ended up with 16 by excluding inappropriate studies according to six inclusion criteria. The studies confirmed that cognitive-behavioral therapy (CBT) or CBT-based interventions are the most used, and in cases of comorbidity, such as depression or attention-deficit/hyperactivity disorder, the appropriate pharmaceutical intervention also was an effective option. Other interventions combined CBT with family therapy or CBT-based therapies that took place in specialized camps. Family as a supportive expedient or even treatment expedient seemed to play a major role. It is remarkable that only little knowledge exists regarding treatment interventions for children aged 8-12 years old. Therefore, more studies need to be carried out for this age range especially, with comparable efficacy to this of other interventions.",
-    "article_link": "https://pubmed.ncbi.nlm.nih.gov/34665018/",
-    "pmc_link": "",
-    "html_available": false,
-    "html_link": "",
-    "title_ru": "Эффективность лечения игрового расстройства у детей и подростков: систематический обзор",
-    "patient_plain": "",
-    "patient_use": "При обращении за помощью из-за чрезмерной игры стоит обсудить с профильным специалистом когнитивно-поведенческую терапию и возможность участия семьи в работе над проблемой. Если у ребёнка одновременно наблюдаются симптомы депрессии или СДВГ, важно сообщить о них специалисту: сопутствующие состояния могут влиять на выбор лечения, а медикаменты в рассмотренных исследованиях применялись с учётом этих состояний. Для детей 8–12 лет стоит отдельно уточнить, насколько предлагаемый подход изучен именно в этой возрастной группе.",
-    "practical_use": "Врачам и специалистам по психическому здоровью обзор помогает обосновать рассмотрение КПТ как основного психотерапевтического подхода и оценить целесообразность семейного компонента. При выявлении депрессии или СДВГ следует проводить отдельную клиническую оценку сопутствующего состояния и учитывать его при планировании помощи, не рассматривая медикаментозную терапию как универсальное лечение игрового расстройства. При работе с детьми младшего возраста важно разъяснять семье ограничения доказательной базы и отслеживать динамику состояния, не перенося автоматически результаты исследований подростков на детей 8–12 лет.",
-    "summary": "Систематический обзор посвящён методам лечения игрового расстройства (GD, Gaming Disorder) и расстройства, связанного с интернет-играми (IGD, Internet Gaming Disorder), у детей и подростков. Из 972 первоначально найденных публикаций авторы отобрали 16 исследований, соответствовавших шести критериям включения. Обзор отражает подходы к лечению состояния, которое было признано психическим расстройством в Международной классификации болезней.\n\nНаиболее распространённым методом оказалась когнитивно-поведенческая терапия (КПТ), включая вмешательства, основанные на её принципах. В отдельных случаях при сопутствующих состояниях, таких как депрессия или синдром дефицита внимания и гиперактивности (СДВГ), эффективным вариантом было также соответствующее медикаментозное лечение. Авторы описывают сочетание КПТ с семейной терапией, а также программы на основе КПТ, проводившиеся в специализированных лагерях. Семья могла выступать как источником поддержки, так и непосредственным участником лечения.\n\nГлавное ограничение доказательной базы — недостаток сведений об эффективности лечения детей 8–12 лет. Обзор не приводит единой количественной оценки эффекта для разных методов и не позволяет установить, какой из них оптимален для всех детей и подростков.",
-    "_reason": "Обзор выделяет КПТ, семейную поддержку и лечение сопутствующей депрессии или СДВГ как практические направления помощи детям и подросткам с игровым расстройством. Его ценность ограничена отсутствием единой количественной оценки эффективности методов и особенно скудными данными для детей 8–12 лет.",
-    "why_read": "Статья полезна детским психиатрам, клиническим психологам и специалистам, работающим с подростками и проблемным игровым поведением, которым необходимо ориентироваться в изученных подходах к лечению. Её также стоит прочитать специалистам, работающим с младшими школьниками, чтобы учитывать недостаток исследований для возраста 8–12 лет и не преувеличивать уверенность в эффективности конкретного вмешательства.",
-    "limitations": [
-      "only little knowledge exists regarding treatment interventions for children aged 8-12 years old",
-      "more studies need to be carried out for this age range especially, with comparable efficacy to this of other interventions"
-    ],
-    "advice_items": [
-      {
-        "quote": "The studies confirmed that cognitive-behavioral therapy (CBT) or CBT-based interventions are the most used, and in cases of comorbidity, such as depression or attention-deficit/hyperactivity disorder, the appropriate pharmaceutical intervention also was an effective option.",
-        "advice": "Рассматривайте когнитивно-поведенческую терапию как один из основных подходов к помощи детям и подросткам с игровым расстройством. При наличии депрессии или СДВГ отдельно оцените сопутствующее состояние и необходимость соответствующего медикаментозного лечения. Не следует трактовать этот вывод как подтверждение эффективности лекарств для всех пациентов с игровым расстройством.",
-        "audience": "врач"
-      },
-      {
-        "quote": "Other interventions combined CBT with family therapy or CBT-based therapies that took place in specialized camps.",
-        "advice": "При обсуждении вариантов помощи учитывайте не только индивидуальную КПТ, но и программы, сочетающие её с семейной терапией, а также описанные в обзоре специализированные программы на основе КПТ. Выбор формата должен учитывать потребности ребёнка и возможность участия семьи; обзор не устанавливает превосходство одного формата над остальными.",
-        "audience": "врач"
-      },
-      {
-        "quote": "Family as a supportive expedient or even treatment expedient seemed to play a major role.",
-        "advice": "Обсудите с семьёй, какую поддержку она может обеспечить ребёнку в процессе лечения. Родственников можно рассматривать не только как источник повседневной поддержки, но и как возможных участников терапевтической работы. При этом участие семьи следует соотносить с индивидуальной ситуацией ребёнка.",
-        "audience": "пациент"
-      },
-      {
-        "quote": "It is remarkable that only little knowledge exists regarding treatment interventions for children aged 8-12 years old.",
-        "advice": "При выборе помощи ребёнку 8–12 лет уточните, на каких данных основан предлагаемый метод и насколько они применимы к этому возрасту. Объясните родителям, что результаты исследований для детей младшего возраста изучены недостаточно, поэтому уверенность в сравнительной эффективности подходов ограничена.",
-        "audience": "врач"
-      }
-    ],
-    "importance_stars": 5,
-    "importance_mark": "★★★★★",
-    "take": "keep"
-  },
-  {
-    "id": 441,
     "pmid": "34597773",
     "source": "PubMed",
     "article": "Systematic Review and Meta-analysis: An Empirical Approach to Defining Treatment Response and Remission in Pediatric Obsessive-Compulsive Disorder.",
@@ -27414,7 +27350,7 @@
     "take": "keep"
   },
   {
-    "id": 442,
+    "id": 441,
     "pmid": "34381507",
     "source": "PubMed",
     "article": "Retrospective Review of Fluvoxamine-Clomipramine Combination Therapy in Obsessive-Compulsive Disorder in Children and Adolescents.",
@@ -27472,72 +27408,7 @@
     "take": "keep"
   },
   {
-    "id": 443,
-    "pmid": "34287023",
-    "source": "PubMed",
-    "article": "Sertraline Pediatric Registry for the Evaluation of Safety: Design and Clinical Characteristics of Pediatric Patients Prescribed Sertraline.",
-    "authors": [
-      "Kolitsopoulos Francesca",
-      "Ramaker Sara",
-      "Compton Scott",
-      "Broderick Samuel",
-      "Orazem John",
-      "Bao Weihang",
-      "Lokhnygina Yuliya",
-      "Chappell Phillip"
-    ],
-    "date": "2021-07-21",
-    "journal": "Journal of child and adolescent psychopharmacology",
-    "doi": "10.1089/cap.2020.0170",
-    "topic": "Детское OCD",
-    "topic_key": "ocd",
-    "topic_keys": [
-      "ocd"
-    ],
-    "topics": [
-      "Детское OCD"
-    ],
-    "abstract_en": "Objectives: To describe the study design and clinical characteristics of patients in the Sertraline Pediatric RegIstry for The Evaluation of Safety (SPRITES). Methods: SPRITES is an open-label postmarketing study of development and safety outcomes in patients aged 6 to 16 years treated with sertraline (with or without psychotherapy) compared with psychotherapy alone for up to 3 years in the United States. Baseline data included demographics and psychiatric history. Primary outcomes included measures of cognitive and emotional development (Trails B, Behavior Rating Inventory of Executive Function [BRIEF]), physical development (height and weight), and pubertal status (Tanner Stage). Data were also collected on present/lifetime risk of suicide-related events using the Columbia-Suicide Severity Rating Scale. Results: SPRITES enrolled 941 patients between the ages of 6 and 16 years. Patients' baseline mean age was 11.9 years (2.9), 57.2% were female, and 84.8% were white. Most patients (78.4%) had an anxiety disorder, and 15.6% were diagnosed with obsessive-compulsive disorder. The mean age at onset of first mental illness was 7.9 years. A higher percentage of sertraline-treated patients compared with patients who received no pharmacological treatment received prior psychotherapy (59.0% vs. 34.4%, p < 0.001), psychotropic medications for a psychiatric disorder (14.1% vs. 3.3%, p < 0.001), and other non-sertraline selective serotonin reuptake inhibitors (8.6% vs. 1.2%, p < 0.001). Most patients were moderately ill on the Clinical Global Impressions-Severity scale, and a higher (p < 0.001) percentage of sertraline-treated patients had a moderate-to-severe mental illness score compared with the no pharmacological treatment group (73.0% vs. 57.8%, respectively). Although patients at high and imminent risk of a suicidal event were excluded at study entry, the sertraline-treated patients reported higher levels of lifetime suicidal behavior compared with patients treated with no pharmacological treatment (5.8% vs. 2.5%, p = 0.039). Conclusions: Baseline data from this nonrandomized observational study suggest that patients prescribed sertraline are reflective of a more mentally ill study population compared with patients receiving psychotherapy. ClinicalTrials.gov identifier: NCT01302080.",
-    "article_link": "https://pubmed.ncbi.nlm.nih.gov/34287023/",
-    "pmc_link": "",
-    "html_available": false,
-    "html_link": "",
-    "title_ru": "Сертралин у детей и подростков: дизайн исследования безопасности и исходные клинические характеристики пациентов",
-    "patient_plain": "",
-    "patient_use": "Если ребёнку с ОКР предлагают сертралин, полезно обсудить с лечащим специалистом не только симптомы и ожидаемую пользу, но и историю предыдущего лечения, изменения настроения и наличие суицидальных мыслей или поведения. Важно понимать, что дети, которым назначают препарат, могут изначально иметь более тяжёлое состояние, поэтому сравнение с пациентами, получающими только психотерапию, не позволяет напрямую судить о вреде или эффективности лекарства. Можно также уточнить, как во время лечения будут отслеживать эмоциональное и когнитивное развитие, рост, вес и половое созревание.",
-    "practical_use": "Врачам следует учитывать исходную неоднородность групп: пациенты, получающие сертралин, чаще имели более тяжёлое состояние и опыт предшествующей терапии, что создаёт риск смешения влияния препарата с влиянием тяжести заболевания. При интерпретации последующих результатов SPRITES необходимо отдельно оценивать динамику когнитивных функций, эмоционального состояния, роста, веса, полового созревания и суицидального риска, сопоставляя её с исходными показателями. Суицидальное поведение в анамнезе требует внимательной клинической оценки и наблюдения, но приведённые различия между группами нельзя трактовать как доказательство причинной связи с сертралином.",
-    "summary": "В исследовании SPRITES оценивали безопасность сертралина и его возможное влияние на развитие детей и подростков в возрасте от 6 до 16 лет. Это открытое пострегистрационное наблюдательное исследование в США, в котором сравнивают пациентов, получающих сертралин с психотерапией или без неё, с пациентами, проходящими только психотерапию. Наблюдение рассчитано на срок до 3 лет. В исследование включили 941 пациента: средний возраст составил 11,9 года, 57,2% участников были девочками, у 78,4% диагностировали тревожное расстройство, а у 15,6% — обсессивно-компульсивное расстройство (ОКР). Первое психическое расстройство в среднем возникало в возрасте 7,9 года.\n\nДо начала наблюдения пациенты, которым назначили сертралин, в целом имели более выраженные психические нарушения и чаще получали помощь ранее, чем участники без медикаментозного лечения. Предшествующую психотерапию проходили 59,0% пациентов в группе сертралина против 34,4% в группе без лекарств; другие психотропные препараты ранее получали соответственно 14,1% и 3,3%, а другие селективные ингибиторы обратного захвата серотонина (СИОЗС) — 8,6% и 1,2%. Умеренно-тяжёлое или более выраженное состояние отмечалось у 73,0% пациентов, получавших сертралин, и у 57,8% участников без фармакотерапии.\n\nИсследование предусматривает оценку когнитивного и эмоционального развития с помощью теста Trails B и опросника поведения, связанного с исполнительными функциями (BRIEF), физического развития по росту и весу, полового созревания по шкале Таннера, а также суицидального риска по Колумбийской шкале оценки тяжести суицидальности. Пациентов с высоким или непосредственным риском суицидального события исключали при включении. При этом о суицидальном поведении в анамнезе сообщили 5,8% участников группы сертралина и 2,5% группы без медикаментозного лечения. Эти исходные данные характеризуют различия между группами, но не доказывают, что сертралин вызывает суицидальное поведение или влияет на развитие: исследование нерандомизированное, а результаты наблюдения за безопасностью в течение трёх лет в данном материале ещё не представлены.",
-    "_reason": "Статья важна для практики при детском ОКР, поскольку описывает крупное исследование долгосрочной безопасности сертралина и показывает, что препарат чаще назначали детям с более тяжёлыми психическими нарушениями и опытом предыдущего лечения. Однако опубликованные здесь исходные данные не позволяют определить эффективность сертралина или установить, вызывает ли он нежелательные изменения развития либо суицидальное поведение.",
-    "why_read": "Материал стоит прочитать детским психиатрам и специалистам, работающим с детьми с ОКР, перед обсуждением медикаментозного лечения и мониторинга безопасности сертралина. Он также полезен исследователям, оценивающим долгосрочную безопасность СИОЗС у детей, поскольку показывает, насколько исходная тяжесть состояния и предшествующая терапия могут затруднять сравнение групп.",
-    "limitations": [
-      "open-label postmarketing study",
-      "compared with psychotherapy alone",
-      "nonrandomized observational study",
-      "patients at high and imminent risk of a suicidal event were excluded at study entry"
-    ],
-    "advice_items": [
-      {
-        "quote": "Baseline data from this nonrandomized observational study suggest that patients prescribed sertraline are reflective of a more mentally ill study population compared with patients receiving psychotherapy.",
-        "advice": "При обсуждении результатов исследования объясняйте, что сертралин чаще назначали детям с более выраженными психическими нарушениями, поэтому различия между группами нельзя автоматически приписывать препарату. При принятии клинических решений учитывайте исходную тяжесть ОКР, сопутствующие расстройства и предыдущую терапию.",
-        "audience": "врач"
-      },
-      {
-        "quote": "Data were also collected on present/lifetime risk of suicide-related events using the Columbia-Suicide Severity Rating Scale.",
-        "advice": "При наблюдении за ребёнком, получающим сертралин, уделяйте внимание текущим и перенесённым суицидальным мыслям и поведению. Оценку риска следует рассматривать как отдельную часть клинического наблюдения, а не заменять ею оценку симптомов ОКР и общего состояния ребёнка.",
-        "audience": "врач"
-      },
-      {
-        "quote": "Primary outcomes included measures of cognitive and emotional development (Trails B, Behavior Rating Inventory of Executive Function [BRIEF]), physical development (height and weight), and pubertal status (Tanner Stage).",
-        "advice": "Обсудите с лечащим специалистом, какие показатели развития ребёнка будут отслеживаться в процессе медикаментозного лечения. Помимо изменения симптомов ОКР, важно обращать внимание на когнитивное и эмоциональное состояние, рост, вес и половое созревание.",
-        "audience": "пациент"
-      }
-    ],
-    "importance_stars": 5,
-    "importance_mark": "★★★★★",
-    "take": "keep"
-  },
-  {
-    "id": 444,
+    "id": 442,
     "pmid": "34111122",
     "source": "PubMed",
     "article": "Selective serotonin reuptake inhibitors, and serotonin and norepinephrine reuptake inhibitors for anxiety, obsessive-compulsive, and stress disorders: A 3-level network meta-analysis.",
@@ -27604,7 +27475,7 @@
     "take": "keep"
   },
   {
-    "id": 445,
+    "id": 443,
     "pmid": "34054609",
     "source": "PubMed",
     "article": "Case Report: Treatment of a Comorbid Attention Deficit Hyperactivity Disorder and Obsessive-Compulsive Disorder With Psychostimulants.",
@@ -27668,7 +27539,7 @@
     "take": "keep"
   },
   {
-    "id": 446,
+    "id": 444,
     "pmid": "33974020",
     "source": "PubMed",
     "article": "Effect of an Internet-Delivered Stepped-Care Program vs In-Person Cognitive Behavioral Therapy on Obsessive-Compulsive Disorder Symptoms in Children and Adolescents: A Randomized Clinical Trial.",
@@ -27737,66 +27608,7 @@
     "take": "keep"
   },
   {
-    "id": 447,
-    "pmid": "33887525",
-    "source": "PubMed",
-    "article": "A narrative review of exercise and obsessive-compulsive disorder.",
-    "authors": [
-      "Freedman David E",
-      "Richter Margaret A"
-    ],
-    "date": "2021-04-02",
-    "journal": "General hospital psychiatry",
-    "doi": "10.1016/j.genhosppsych.2021.03.014",
-    "topic": "Детское OCD",
-    "topic_key": "ocd",
-    "topic_keys": [
-      "ocd"
-    ],
-    "topics": [
-      "Детское OCD"
-    ],
-    "abstract_en": "OBJECTIVE: Individuals with obsessive-compulsive disorder (OCD) suffer significant distress due to their condition; however, there can be multiple barriers to treatment. Even following OCD-tailored treatment, symptoms often remain. Exercise may be an effective and available approach to managing OCD, and yet, there are no specifically dedicated reviews, limiting integration into clinical practice. This study aimed to provide an overview of the literature on exercise and OCD.\n\nMETHOD: Four databases, the Cochrane Central Register of Controlled Trials, MEDLINE, PsycINFO, and EMBASE, were systematically searched. 1534 records were screened and the reference lists of eligible articles were examined. For this review, 11 extracted studies were narratively explored.\n\nRESULTS: Two observational and nine interventional studies were included, of which one article focused on youth and ten studies focused on adults. Physical activity likely reduces the risk of metabolic syndrome or general health conditions. Several pre-post studies demonstrated exercise's benefits for OCD symptoms, while the only randomized controlled trial showed negative findings for its efficacy in reducing obsessions and compulsions.\n\nCONCLUSIONS: The evidence for aerobic exercise's long-term benefits for the symptoms of OCD is mixed, but remains promising. Potential mechanisms of exercise's effects and future directions for research are explored.",
-    "article_link": "https://pubmed.ncbi.nlm.nih.gov/33887525/",
-    "pmc_link": "",
-    "html_available": false,
-    "html_link": "",
-    "title_ru": "Физические упражнения при обсессивно-компульсивном расстройстве: обзор исследований эффективности и ограничений",
-    "patient_plain": "",
-    "patient_use": "Физическая активность может быть полезна для общего здоровья и потенциально дополнять помощь при ОКР, особенно если симптомы сохраняются несмотря на специализированное лечение. Обсудите с лечащим специалистом, как включить посильные упражнения в повседневную жизнь, не отменяя назначенную терапию и не ожидая гарантированного уменьшения навязчивостей. Если физические нагрузки начинают превращаться в обязательный ритуал или усиливают тревогу, стоит отдельно сообщить об этом специалисту.",
-    "practical_use": "Врачам и специалистам, работающим с детьми и подростками с ОКР, важно учитывать, что обзор включал лишь одно исследование с участием молодёжи, поэтому переносить результаты взрослых исследований на детей следует осторожно. При обсуждении аэробных нагрузок целесообразно разграничивать возможную пользу для соматического здоровья и пока не подтверждённый однозначно эффект на обсессии и компульсии. Если упражнения включаются в план помощи, следует оценивать динамику симптомов отдельно от физического самочувствия и не представлять нагрузку как самостоятельное доказанное лечение ОКР.",
-    "summary": "В повествовательном обзоре изучали, могут ли физические упражнения, прежде всего аэробная нагрузка, помогать людям с обсессивно-компульсивным расстройством (ОКР). Авторы систематически искали публикации в четырёх базах данных: Cochrane Central Register of Controlled Trials, MEDLINE, PsycINFO и EMBASE. После проверки 1534 записей в обзор включили 11 исследований: два наблюдательных и девять интервенционных. Одно исследование было посвящено детям и подросткам, остальные десять изучали взрослых.\n\nВ нескольких исследованиях, где симптомы оценивали до и после физических упражнений, наблюдалось улучшение проявлений ОКР. Однако единственное рандомизированное контролируемое исследование не подтвердило эффективность упражнений в уменьшении навязчивых мыслей и компульсивных действий. Таким образом, результаты о долгосрочном влиянии аэробных нагрузок на симптомы ОКР неоднозначны, хотя потенциальная польза сохраняется.\n\nОтдельно авторы отмечают, что физическая активность, вероятно, помогает снижать риск метаболического синдрома и других проблем общего здоровья. При этом доказательства именно психотерапевтического эффекта упражнений ограничены: обзор включал небольшое число исследований, а данные по детям представлены только одной работой. Физические нагрузки рассматриваются как потенциальное дополнение к помощи при ОКР, а не как доказанная замена специализированному лечению.",
-    "_reason": "Обзор полезен тем, что сопоставляет обнадёживающие результаты исследований с отрицательным результатом единственного рандомизированного контролируемого испытания и не позволяет переоценивать эффективность физических упражнений против симптомов ОКР. Для педиатрической практики его ценность ограничена тем, что среди 11 включённых исследований только одно посвящено детям и подросткам.",
-    "why_read": "Статью стоит прочитать детским психиатрам, психотерапевтам и специалистам, сопровождающим физическую активность детей и подростков с ОКР, чтобы реалистично обсуждать роль упражнений в комплексной помощи. Она также полезна врачам, работающим со взрослыми пациентами, которым важно объяснить разницу между общей пользой физической активности и доказанным уменьшением навязчивых мыслей и действий.",
-    "limitations": [
-      "11 extracted studies were narratively explored.",
-      "one article focused on youth and ten studies focused on adults.",
-      "the only randomized controlled trial showed negative findings for its efficacy in reducing obsessions and compulsions.",
-      "The evidence for aerobic exercise's long-term benefits for the symptoms of OCD is mixed, but remains promising."
-    ],
-    "advice_items": [
-      {
-        "quote": "Physical activity likely reduces the risk of metabolic syndrome or general health conditions.",
-        "advice": "Обсуждайте физическую активность как один из способов поддерживать общее здоровье пациента с ОКР, не ограничивая её ценность только изменением психических симптомов. При планировании помощи разделяйте соматические цели и ожидаемое влияние упражнений на навязчивости и компульсии.",
-        "audience": "врач"
-      },
-      {
-        "quote": "Several pre-post studies demonstrated exercise's benefits for OCD symptoms, while the only randomized controlled trial showed negative findings for its efficacy in reducing obsessions and compulsions.",
-        "advice": "При консультировании объясняйте, что улучшение симптомов наблюдалось в исследованиях с оценкой до и после упражнений, но более строгая проверка в единственном рандомизированном контролируемом исследовании не подтвердила эффективность в уменьшении обсессий и компульсий. Не обещайте пациенту устойчивого симптоматического улучшения и не предлагайте заменять упражнениями специализированное лечение.",
-        "audience": "врач"
-      },
-      {
-        "quote": "The evidence for aerobic exercise's long-term benefits for the symptoms of OCD is mixed, but remains promising.",
-        "advice": "Пациенту можно объяснить, что аэробная активность потенциально полезна, но её долгосрочное влияние на симптомы ОКР пока установлено недостаточно уверенно. Если пациент хочет попробовать регулярные занятия, обсудите посильный вариант как дополнение к основному лечению и отслеживайте изменения симптомов без ожидания гарантированного результата.",
-        "audience": "пациент"
-      }
-    ],
-    "importance_stars": 5,
-    "importance_mark": "★★★★★",
-    "take": "keep"
-  },
-  {
-    "id": 448,
+    "id": 445,
     "pmid": "33601937",
     "source": "PubMed",
     "article": "Evaluation of Intravenous Immunoglobulin in Pediatric Acute-Onset Neuropsychiatric Syndrome.",
@@ -27866,7 +27678,7 @@
     "take": "keep"
   },
   {
-    "id": 449,
+    "id": 446,
     "pmid": "33618297",
     "source": "PubMed",
     "article": "Cognitive behavioural therapy with exposure and response prevention in the treatment of obsessive-compulsive disorder: A systematic review and meta-analysis of randomised controlled trials.",
@@ -27934,64 +27746,7 @@
     "take": "keep"
   },
   {
-    "id": 450,
-    "pmid": "33624254",
-    "source": "PubMed",
-    "article": "Inflammation, Obsessive-Compulsive Disorder, and Related Disorders.",
-    "authors": [
-      "Meyer Jeffrey"
-    ],
-    "date": "2021-01-01",
-    "journal": "Current topics in behavioral neurosciences",
-    "doi": "10.1007/7854_2020_210",
-    "topic": "Детское OCD",
-    "topic_key": "ocd",
-    "topic_keys": [
-      "ocd"
-    ],
-    "topics": [
-      "Детское OCD"
-    ],
-    "abstract_en": "Initial reports supporting the possibility of inflammation in the brain in obsessive-compulsive disorder (OCD) evolved from the models of Sydenham's Chorea, and Pediatric Autoimmune Neuropsychiatric Disorder Associated with Streptococcus (PANDAS), which implicated excessive autoimmune responses following exposure to group A B-hemolytic streptococcal infections. Subsequently, this model was expanded to Pediatric Autoimmune Neuropsychiatric Syndrome (PANS) which applied the same concept but included other infections. A critical shortcoming of this model was that it was attributable to a small minority of OCD cases. The relationship between inflammation and OCD was more broadly demonstrated through translocator protein (TSPO) positron emission tomography imaging, a method that detects gliosis, an important component of brain inflammation, in neuropsychiatric diseases, including morphological activation and proliferation of microglia and to some extent astroglia. This method identified greater TSPO binding in the cortico-striatal-thalamo-cortical circuit in OCD, providing a direct brain measure of an important component of inflammation. To identify OCD cases with prominent elevations in TSPO binding in clinical research settings with lower cost peripheral markers, a promising approach is to apply blood serum biomarkers of inflammatory molecules produced by activated microglia and astroglia (gliosis). Such measures may aid stratification in future clinical trials. Several inflammatory-modifying interventions, including celecoxib, minocycline, and n-acetylcysteine, have been tested as treatments in randomized double-blind placebo controlled clinical trials and there is a tendency toward positive results, although these medications are not optimized for brain penetration and sample sizes for most trials were small. Future clinical trials of medications that target gliosis in OCD should apply larger sample sizes, ideally incorporating stratification approaches to enrich samples for the presence of gliosis.",
-    "article_link": "https://pubmed.ncbi.nlm.nih.gov/33624254/",
-    "pmc_link": "",
-    "html_available": false,
-    "html_link": "",
-    "title_ru": "Воспаление мозга при обсессивно-компульсивном расстройстве: механизмы, биомаркеры и перспективы лечения",
-    "patient_plain": "",
-    "patient_use": "При обсуждении лечения ОКР полезно уточнить у врача, рассматриваются ли дополнительные биологические факторы, если течение расстройства вызывает вопросы или имеются основания подозревать связь симптомов с инфекцией. При этом PANDAS и PANS объясняют только небольшую часть случаев, поэтому сам факт ОКР не означает наличия стрептококковой инфекции или аутоиммунного процесса. Целекоксиб, миноциклин и N-ацетилцистеин исследовались как возможные дополнительные подходы, но обзор не подтверждает, что их следует самостоятельно добавлять к стандартному лечению.",
-    "practical_use": "Врачу обзор помогает различать гипотезу об инфекционно-ассоциированном аутоиммунном ОКР и более широкую гипотезу о нейровоспалении, которая изучается с помощью ПЭТ и периферических биомаркеров. Целекоксиб, миноциклин и N-ацетилцистеин следует рассматривать в контексте исследовательских данных, а не как доказанную стандартную терапию ОКР. При обсуждении экспериментального противовоспалительного подхода важно объяснять пациенту ограничения имеющихся испытаний, включая небольшие выборки и недостаточную оптимизацию проникновения препаратов в мозг. Для будущих исследований авторы предлагают отбирать участников с признаками глиоза, чтобы точнее оценивать возможный эффект вмешательств.",
-    "summary": "Обзор посвящён возможной роли воспаления мозга при обсессивно-компульсивном расстройстве (ОКР), в том числе у детей. Первоначально эту связь объясняли аутоиммунными реакциями после стрептококковой инфекции: так появились модели детского аутоиммунного нейропсихиатрического расстройства, ассоциированного со стрептококком (PANDAS), и детского аутоиммунного нейропсихиатрического синдрома (PANS), учитывающего также другие инфекции. Однако эти модели объясняют лишь небольшую долю случаев ОКР.\n\nБолее широкие данные о связи ОКР с воспалением получены с помощью позитронно-эмиссионной томографии (ПЭТ) с оценкой связывания белка TSPO (транслокаторного белка), связанного с активацией клеток мозга при воспалении. У людей с ОКР обнаружено повышенное связывание TSPO в кортико-стриато-таламо-кортикальном контуре мозга. В воспалительной реакции участвуют микроглия и, в некоторой степени, астроциты. Для выявления пациентов с выраженными признаками такого процесса перспективны анализы крови на воспалительные молекулы, вырабатываемые активированными клетками, хотя их диагностическая роль ещё требует проверки.\n\nВ клинических исследованиях в качестве потенциальных средств воздействия на воспалительные процессы при ОКР изучали целекоксиб, миноциклин и N-ацетилцистеин. В контролируемых рандомизированных исследованиях наблюдалась тенденция к положительным результатам, но большинство испытаний включало небольшое число участников, а препараты не были оптимизированы для проникновения в мозг. Авторы считают перспективным проведение более крупных исследований с предварительным отбором пациентов по биомаркерам воспаления. Эти результаты не доказывают, что воспаление является причиной большинства случаев ОКР, и не устанавливают эффективность перечисленных препаратов для рутинного лечения.",
-    "_reason": "Обзор важен тем, что связывает ОКР не только с клиническими симптомами, но и с возможными биологическими механизмами воспаления мозга. Он конкретно называет целекоксиб, миноциклин и N-ацетилцистеин, однако подчёркивает ограничения клинических испытаний и не обосновывает их рутинное назначение. Для практики особенно полезно разграничение редких инфекционно-ассоциированных форм и более общей исследовательской гипотезы нейровоспаления.",
-    "why_read": "Материал стоит прочитать детским психиатрам, психиатрам и специалистам, работающим с детьми с ОКР, которым важно понимать гипотезы PANDAS и PANS и их ограничения. Он также полезен врачам, оценивающим данные об экспериментальных противовоспалительных подходах и биомаркерах воспаления. Обзор не заменяет клинические рекомендации по лечению ОКР.",
-    "limitations": [
-      "A critical shortcoming of this model was that it was attributable to a small minority of OCD cases.",
-      "these medications are not optimized for brain penetration",
-      "sample sizes for most trials were small."
-    ],
-    "advice_items": [
-      {
-        "quote": "A critical shortcoming of this model was that it was attributable to a small minority of OCD cases.",
-        "advice": "При оценке ребёнка с ОКР не следует автоматически объяснять симптомы стрептококковой инфекцией или аутоиммунной реакцией. Модели PANDAS и PANS относятся к ограниченной части случаев, поэтому предположение о такой связи требует отдельного клинического обоснования.",
-        "audience": "врач"
-      },
-      {
-        "quote": "Such measures may aid stratification in future clinical trials.",
-        "advice": "При планировании исследований воспалительных механизмов ОКР можно рассматривать сывороточные биомаркеры как инструмент выделения пациентов с вероятными признаками глиоза. Их применение для выбора лечения пока остаётся исследовательским подходом, а не установленным стандартом клинической практики.",
-        "audience": "врач"
-      },
-      {
-        "quote": "Several inflammatory-modifying interventions, including celecoxib, minocycline, and n-acetylcysteine, have been tested as treatments in randomized double-blind placebo controlled clinical trials and there is a tendency toward positive results, although these medications are not optimized for brain penetration and sample sizes for most trials were small.",
-        "advice": "При обсуждении противовоспалительных препаратов для лечения ОКР необходимо пояснять, что целекоксиб, миноциклин и N-ацетилцистеин изучались в контролируемых испытаниях, но полученные результаты пока предварительны. Не следует представлять эти средства как доказанную замену стандартному лечению или рекомендовать их самостоятельный приём.",
-        "audience": "врач"
-      }
-    ],
-    "importance_stars": 5,
-    "importance_mark": "★★★★★",
-    "take": "keep"
-  },
-  {
-    "id": 451,
+    "id": 447,
     "pmid": "33590457",
     "source": "PubMed",
     "article": "Innovations in the Delivery of Exposure and Response Prevention for Obsessive-Compulsive Disorder.",
@@ -28062,69 +27817,7 @@
     "take": "keep"
   },
   {
-    "id": 452,
-    "pmid": "34134828",
-    "source": "PubMed",
-    "article": "Irritability in Children and Adolescents With OCD.",
-    "authors": [
-      "Guzick Andrew G",
-      "Geller Daniel A",
-      "Small Brent J",
-      "Murphy Tanya K",
-      "Wilhelm Sabine",
-      "Storch Eric A"
-    ],
-    "date": "2020-11-12",
-    "journal": "Behavior therapy",
-    "doi": "10.1016/j.beth.2020.11.001",
-    "topic": "Детское OCD",
-    "topic_key": "ocd",
-    "topic_keys": [
-      "ocd"
-    ],
-    "topics": [
-      "Детское OCD"
-    ],
-    "abstract_en": "Irritability is a common, impairing transdiagnostic symptom in childhood psychopathology, though it has not been comprehensively studied in pediatric obsessive-compulsive disorder (OCD). Further, the central cognitive behavioral treatment component for OCD, exposure and response prevention therapy (ERP), has been recently proposed as a treatment for irritability. This study aimed to evaluate whether certain clinical characteristics are associated with irritability in pediatric OCD and whether irritability reduces following ERP. Participants were 161 youth (ages 7-17) with OCD and a caregiver participating in a randomized controlled trial of D-cycloserine or pill placebo augmented ERP. Participants completed validated assessments during treatment. Irritability was significantly and positively associated with depressive symptoms, defiance, functional impairment, and family accommodation, but was not associated with pretreatment OCD severity, symptom dimensions, obsessive beliefs. Irritability significantly declined following treatment, with over half of youth with any pretreatment irritability experiencing clinically significant change, though this change was not related to OCD improvement. Results suggest that irritability may be a marker of psychiatric comorbidity, parental accommodation, and impairment in youth with OCD. Implications for the exposure-based treatment of irritability are discussed.",
-    "article_link": "https://pubmed.ncbi.nlm.nih.gov/34134828/",
-    "pmc_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8217718/",
-    "html_available": true,
-    "html_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8217718/",
-    "title_ru": "Раздражительность у детей и подростков с обсессивно-компульсивным расстройством: связь с нарушениями поведения и результатами когнитивно-поведенческой терапии",
-    "patient_plain": "",
-    "patient_use": "Если у ребёнка с ОКР часто возникают вспышки раздражения, стоит обсудить с лечащим специалистом не только навязчивости и ритуалы, но и вызывающее поведение, подавленность и трудности в повседневной жизни. Важно рассказать, как семья реагирует на тревогу ребёнка и участвует ли в выполнении ритуалов или избегании пугающих ситуаций: семейные реакции могут быть значимой частью клинической картины. Уменьшение раздражительности во время терапии возможно даже тогда, когда оно не совпадает с улучшением основных симптомов ОКР, поэтому полезно отслеживать оба результата отдельно.",
-    "practical_use": "При оценке ребёнка с ОКР следует отдельно фиксировать раздражительность, вызывающее поведение и функциональные нарушения, используя сведения родителей и самого ребёнка, а не выводить выраженность раздражительности только из тяжести ОКР. Обсуждение семейного приспособления к симптомам помогает определить, какие реакции близких необходимо учитывать в когнитивно-поведенческой терапии. При мониторинге результатов целесообразно раздельно оценивать динамику раздражительности и симптомов ОКР, поскольку в этом исследовании их улучшение не было статистически связано. Результаты относятся к ERP, проводившейся с добавлением D-циклосерина или плацебо, поэтому их нельзя считать доказательством эффективности отдельного препарата против раздражительности.",
-    "summary": "В исследовании изучали раздражительность у детей и подростков 7–17 лет с обсессивно-компульсивным расстройством (ОКР), её связь с другими клиническими проявлениями и изменение после лечения. В анализ исходных характеристик вошёл 161 ребёнок, а результаты лечения оценивали у 142 участников, получавших экспозиционную терапию с предотвращением реакций (ERP) в сочетании с D-циклосерином или таблеткой плацебо. Данные об изменении раздражительности после лечения были доступны для 113 участников. Повышенная раздражительность наблюдалась у 22% исходной выборки.\n\nРаздражительность была связана с более выраженными депрессивными симптомами, вызывающим поведением, функциональными нарушениями и приспособлением семьи к симптомам ребёнка. При этом она не имела значимой связи с исходной тяжестью ОКР, отдельными группами симптомов или обсессивными убеждениями. В многофакторной модели вызывающее поведение и функциональные нарушения по оценке родителей оставались независимыми статистически значимыми факторами, связанными с раздражительностью; вместе включённые в модель переменные объясняли 43% её вариации.\n\nПосле лечения раздражительность значительно уменьшилась, причём более половины детей, у которых она присутствовала до начала терапии, достигли клинически значимого улучшения. Однако уменьшение раздражительности не было связано с улучшением симптомов ОКР, а исходная раздражительность не показала значимого влияния на динамику ОКР или различий в результатах между группами D-циклосерина и плацебо. Результаты поддерживают перспективность экспозиционной когнитивно-поведенческой терапии с участием семьи для работы с раздражительностью, но сами по себе не доказывают, что именно лечение ОКР вызвало её уменьшение независимо от других факторов.",
-    "_reason": "Статья важна для практики детского ОКР, поскольку показывает, что раздражительность связана с вызывающим поведением и нарушением повседневного функционирования, но не обязательно отражает тяжесть обсессий и компульсий. Уменьшение раздражительности на фоне лечения даёт основания учитывать её как самостоятельную цель наблюдения и обсуждать участие семьи в терапии.",
-    "why_read": "Статью стоит прочитать детским психиатрам, клиническим психологам и специалистам, проводящим когнитивно-поведенческую терапию детям с ОКР, особенно если лечение осложняется вспышками раздражения или конфликтами в семье. Она помогает обосновать раздельную оценку раздражительности и симптомов ОКР и показывает, почему важно учитывать вызывающее поведение и функциональные нарушения. При интерпретации результатов следует помнить, что данные об изменении раздражительности имелись только для части участников, а исследование не позволяет установить, чем именно обусловлено её снижение.",
-    "limitations": [
-      "Twenty-two percent of the sample exhibited elevated irritability.",
-      "Follow-up irritability measures were not completed with the first 29 children who were randomized",
-      "The addition of these independent variables did not significantly improve the fit of the model"
-    ],
-    "advice_items": [
-      {
-        "quote": "Irritability was significantly and positively associated with depressive symptoms, defiance, functional impairment, and family accommodation, but was not associated with pretreatment OCD severity, symptom dimensions, obsessive beliefs.",
-        "advice": "При обследовании ребёнка с ОКР оценивайте раздражительность наряду с депрессивными симптомами, вызывающим поведением и нарушением повседневного функционирования. Не используйте выраженность раздражительности как замену оценке тяжести ОКР: в исследовании значимой связи с исходной тяжестью расстройства не обнаружили. Отдельно выясняйте, как семья приспосабливается к симптомам ребёнка.",
-        "audience": "врач"
-      },
-      {
-        "quote": "Finally, the majority of youth with pretreatment irritability experienced clinically significant reductions in irritable symptoms, providing some promising support for family-based, exposure-focused CBT for irritability in children and adolescents.",
-        "advice": "При работе с раздражительностью у ребёнка с ОКР можно обсуждать её как отдельную цель семейной когнитивно-поведенческой терапии, ориентированной на экспозицию. Отслеживайте изменения раздражительности отдельно от обсессий и компульсий, поскольку улучшение этих показателей в исследовании не было взаимосвязано. Представляйте результаты как обнадёживающие данные, а не как доказательство того, что ERP гарантированно устраняет раздражительность.",
-        "audience": "врач"
-      },
-      {
-        "quote": "Families also described more accommodation among irritable youth, highlighting the importance of caregiver involvement in CBT for this population.",
-        "advice": "Обсудите с родителями, как они реагируют на тревогу, ритуалы и избегание ребёнка и не поддерживают ли непреднамеренно поведение, связанное с ОКР. Используйте эту информацию при планировании семейного участия в когнитивно-поведенческой терапии. Объясняйте близким, что их вовлечение является частью работы с клинической картиной, а не поводом обвинять семью в раздражительности ребёнка.",
-        "audience": "врач"
-      }
-    ],
-    "importance_stars": 5,
-    "importance_mark": "★★★★★",
-    "take": "keep"
-  },
-  {
-    "id": 453,
+    "id": 448,
     "pmid": "34134822",
     "source": "PubMed",
     "article": "Improving Delivery Behaviors During Exposure for Pediatric OCD: A Multiple Baseline Training Trial With Community Therapists.",
@@ -28198,7 +27891,7 @@
     "take": "keep"
   },
   {
-    "id": 454,
+    "id": 449,
     "pmid": "33186776",
     "source": "PubMed",
     "article": "Cognitive behavior therapy for internalizing disorders in children and adolescents in routine clinical care: A systematic review and meta-analysis.",
@@ -28261,7 +27954,7 @@
     "take": "keep"
   },
   {
-    "id": 455,
+    "id": 450,
     "pmid": "33043148",
     "source": "PubMed",
     "article": "Long-term outcomes of therapist-guided Internet-delivered cognitive behavior therapy for pediatric obsessive-compulsive disorder.",
@@ -28329,7 +28022,7 @@
     "take": "keep"
   },
   {
-    "id": 456,
+    "id": 451,
     "pmid": "32982805",
     "source": "PubMed",
     "article": "Antidepressants in Children and Adolescents: Meta-Review of Efficacy, Tolerability and Suicidality in Acute Treatment.",
@@ -28391,73 +28084,7 @@
     "take": "keep"
   },
   {
-    "id": 457,
-    "pmid": "32822898",
-    "source": "PubMed",
-    "article": "Temporal precedence of the change in obsessive-compulsive symptoms and change in depressive symptoms during exposure and response prevention for pediatric obsessive-compulsive disorders.",
-    "authors": [
-      "Bakhshaie Jafar",
-      "Geller Daniel A",
-      "Wilhelm Sabine",
-      "McGuire Joseph F",
-      "Small Brent J",
-      "Cepeda Sandra L",
-      "Schneider Sophie C",
-      "Murphy Tanya K",
-      "Porth Rachel",
-      "Storch Eric A"
-    ],
-    "date": "2020-07-28",
-    "journal": "Behaviour research and therapy",
-    "doi": "10.1016/j.brat.2020.103697",
-    "topic": "Детское OCD",
-    "topic_key": "ocd",
-    "topic_keys": [
-      "ocd"
-    ],
-    "topics": [
-      "Детское OCD"
-    ],
-    "abstract_en": "The current study examined the temporal precedence of change in obsessive-compulsive symptoms and change in depressive symptoms during the course of an Exposure and Response Prevention (ERP) for pediatric OCD. Participants included 142 children and adolescents (7-17 years; mean age = 12.39, SD = 2.92; 51.40% female; 60.40% Non-Hispanic White) with a primary or co-primary diagnosis of OCD who received ERP in a two-site randomized controlled trial on d-cycloserine augmentation of CBT for pediatric OCD. Participants completed clinician-administered assessments of OC symptoms (Children's Yale-Brown Obsessive Compulsive Scale) and depressive symptoms (Children's Depression Rating Scale-Revised) from baseline to post-treatment follow-up. Lagged mediational analyses did not yield evidence in support of a mediating role for the change in OC symptoms in the effect of ERP on the change in depressive symptoms. In contrast, change in depressive symptoms mediated the effect of ERP treatment on the subsequent change in OC symptoms (95% confidence interval for indirect effect = -0.04 to -0.001), though the effect size was small. Controlling for the prior levels of the depressive symptoms this indirect effect became non-significant. Theoretical and clinical implications of the findings for the youth with OCD and comorbid depression are discussed.",
-    "article_link": "https://pubmed.ncbi.nlm.nih.gov/32822898/",
-    "pmc_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9547150/",
-    "html_available": true,
-    "html_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9547150/",
-    "title_ru": "Что раньше меняется при лечении ОКР у детей: обсессивно-компульсивные или депрессивные симптомы",
-    "patient_plain": "",
-    "patient_use": "Если у ребёнка с ОКР одновременно присутствуют подавленность, потеря интереса или другие депрессивные проявления, стоит сообщить об этом лечащему специалисту и договориться об отслеживании обеих групп симптомов на протяжении психотерапии. Улучшение настроения может сопровождать уменьшение симптомов ОКР, но не гарантирует его и не означает, что депрессия является единственной причиной навязчивостей и ритуалов. Не следует самостоятельно менять последовательность или содержание лечения на основании этого исследования.",
-    "practical_use": "При работе с детьми и подростками с ОКР целесообразно оценивать обсессивно-компульсивные и депрессивные симптомы раздельно в нескольких временных точках, а не ограничиваться общей оценкой состояния до и после терапии. Результаты поддерживают клиническую значимость сопутствующей депрессивной симптоматики, но не обосновывают причинный механизм, при котором её уменьшение обязательно приводит к улучшению ОКР. При интерпретации динамики важно учитывать исходный и предшествующий уровень симптомов: после такой статистической корректировки предполагаемый опосредующий эффект перестал быть значимым.",
-    "summary": "Исследование изучало, как связаны изменения обсессивно-компульсивных и депрессивных симптомов у 142 детей и подростков 7–17 лет с обсессивно-компульсивным расстройством (ОКР), проходивших экспозицию с предотвращением реакций (ERP) — метод когнитивно-поведенческой терапии, при котором пациент постепенно сталкивается с вызывающими тревогу ситуациями и учится не выполнять привычные компульсии. Средний возраст участников составлял 12,39 года, 51,4% были девочками. Лечение проводилось в рамках двухцентрового рандомизированного контролируемого исследования когнитивно-поведенческой терапии с дополнительным применением D-циклосерина или без такого усиления. Симптомы оценивали специалисты с помощью Детской шкалы Йеля — Брауна для обсессивно-компульсивных симптомов и пересмотренной Шкалы оценки депрессии у детей.\n\nВ ходе лечения уменьшались как симптомы ОКР, так и депрессивные симптомы. При анализе временной последовательности изменений не обнаружили подтверждений тому, что уменьшение симптомов ОКР опосредует последующее снижение депрессивных симптомов. В нескорректированной модели уменьшение депрессивных симптомов, напротив, статистически опосредовало улучшение симптомов ОКР, однако этот эффект объяснял лишь 5,2% вариации их изменений. После учёта исходного уровня депрессивных симптомов статистическая значимость эффекта исчезла. Поэтому исследование не подтверждает надёжно, что изменение одного типа симптомов вызывает последующее изменение другого, хотя результаты допускают возможную временную связь между уменьшением депрессивных симптомов и улучшением ОКР.\n\nПрактический вывод состоит в том, что при лечении детского ОКР важно отслеживать оба типа симптомов, особенно если депрессия присутствует одновременно с ОКР. Однако результаты не доказывают, что снижение депрессивных симптомов само по себе усиливает эффект ERP, и не позволяют заключить, что депрессию необходимо лечить первой. Выводы ограничены наблюдательным анализом изменений внутри исследования терапии и чувствительностью результатов к статистическому учёту предыдущих уровней симптомов.",
-    "_reason": "Статья полезна для практики детского ОКР тем, что показывает необходимость наблюдать не только за навязчивостями и компульсиями, но и за депрессивными симптомами во время экспозиции с предотвращением реакций. При этом статистическая связь между улучшением депрессивных симптомов и последующим улучшением ОКР была небольшой и исчезла после учёта предыдущего уровня симптомов, поэтому она не служит основанием для изменения лечебной тактики.",
-    "why_read": "Статью стоит прочитать детским психиатрам, клиническим психологам и психотерапевтам, работающим с ОКР и сопутствующей депрессией у детей и подростков. Она помогает точнее интерпретировать динамику симптомов во время ERP и понять, почему временная последовательность изменений сама по себе ещё не доказывает причинную связь.",
-    "limitations": [
-      "the effect size was small",
-      "Controlling for the prior levels of the depressive symptoms this indirect effect became non-significant.",
-      "Only 5.2% of the variance of the change in obsessive-compulsive symptoms was accounted for by the indirect (mediation) effect."
-    ],
-    "advice_items": [
-      {
-        "quote": "Participants completed clinician-administered assessments of OC symptoms (Children's Yale-Brown Obsessive Compulsive Scale) and depressive symptoms (Children's Depression Rating Scale-Revised) from baseline to post-treatment follow-up.",
-        "advice": "В ходе терапии следует отдельно отслеживать тяжесть обсессивно-компульсивных и депрессивных симптомов с помощью систематической оценки специалистом. Сопоставление динамики двух показателей помогает не пропустить сохранение депрессивных проявлений на фоне улучшения ОКР или обратную ситуацию.",
-        "audience": "врач"
-      },
-      {
-        "quote": "Controlling for the prior levels of the depressive symptoms this indirect effect became non-significant (95% CI [−0.15 to 0.02]; see results for the regression analyses of the adjusted model in Table 2).",
-        "advice": "Не следует трактовать связь между уменьшением депрессивных симптомов и последующим улучшением ОКР как доказанный причинный механизм. При обсуждении результатов лечения нужно учитывать предшествующий уровень симптомов и избегать вывода, что улучшение настроения обязательно обусловливает уменьшение навязчивостей и компульсий.",
-        "audience": "врач"
-      },
-      {
-        "quote": "Thus, we could not replicate the findings of Zandberg et al. who suggested a mediating role for the change in obsessive-compulsive symptoms in adults.",
-        "advice": "При переносе результатов исследований взрослых на детей и подростков следует учитывать, что предполагаемая роль изменений симптомов ОКР в последующем уменьшении депрессии в этой детской выборке не подтвердилась. Объясняя семье ожидаемую динамику терапии, важно не обещать, что уменьшение навязчивостей автоматически приведёт к исчезновению депрессивных симптомов.",
-        "audience": "врач"
-      }
-    ],
-    "importance_stars": 5,
-    "importance_mark": "★★★★★",
-    "take": "keep"
-  },
-  {
-    "id": 458,
+    "id": 452,
     "pmid": "32618275",
     "source": "PubMed",
     "article": "When Science Challenges Our Long-Held Assumptions About the Robustness of Evidence for Standard of Care.",
@@ -28515,7 +28142,7 @@
     "take": "keep"
   },
   {
-    "id": 459,
+    "id": 453,
     "pmid": "32618273",
     "source": "PubMed",
     "article": "Little Doubt That CBT Works for Pediatric OCD.",
@@ -28585,7 +28212,7 @@
     "take": "keep"
   },
   {
-    "id": 460,
+    "id": 454,
     "pmid": "32242450",
     "source": "PubMed",
     "article": "Fluoxetine in acute treatment of children and adolescents with obsessive-compulsive disorder: a systematic review and meta-analysis.",
@@ -28651,7 +28278,7 @@
     "take": "keep"
   },
   {
-    "id": 461,
+    "id": 455,
     "pmid": "31858264",
     "source": "PubMed",
     "article": "Long-term outcome of children and adolescents with obsessive-compulsive disorder: a 7-9-year follow-up of a randomized clinical trial.",
@@ -28712,7 +28339,7 @@
     "take": "keep"
   },
   {
-    "id": 462,
+    "id": 456,
     "pmid": "31800306",
     "source": "PubMed",
     "article": "N-Acetylcysteine for Pediatric Obsessive-Compulsive Disorder: A Small Pilot Study.",
@@ -28777,7 +28404,7 @@
     "take": "keep"
   },
   {
-    "id": 463,
+    "id": 457,
     "pmid": "31240488",
     "source": "PubMed",
     "article": "Family-Based Psychological Treatment for Obsessive Compulsive Disorder in Children and Adolescents: A Meta-analysis and Systematic Review.",
@@ -28826,7 +28453,7 @@
     "take": "keep"
   },
   {
-    "id": 464,
+    "id": 458,
     "pmid": "31778595",
     "source": "PubMed",
     "article": "A meta-analysis of dropout rates from exposure with response prevention and pharmacological treatment for youth with obsessive compulsive disorder.",
@@ -28882,7 +28509,7 @@
     "take": "keep"
   },
   {
-    "id": 465,
+    "id": 459,
     "pmid": "31747935",
     "source": "PubMed",
     "article": "Acceptability, feasibility, and efficacy of Internet cognitive behavioral therapy (iCBT) for pediatric obsessive-compulsive disorder: a systematic review.",
@@ -28945,7 +28572,7 @@
     "take": "keep"
   },
   {
-    "id": 466,
+    "id": 460,
     "pmid": "31682918",
     "source": "PubMed",
     "article": "Antidepressant Tolerability in Pediatric Anxiety and Obsessive-Compulsive Disorders: A Bayesian Hierarchical Modeling Meta-analysis.",
@@ -29008,7 +28635,7 @@
     "take": "keep"
   },
   {
-    "id": 467,
+    "id": 461,
     "pmid": "31622874",
     "source": "PubMed",
     "article": "Is it time to rethink standard dosage of exposure-based cognitive behavioral therapy for pediatric obsessive-compulsive disorder?",
@@ -29073,7 +28700,7 @@
     "take": "keep"
   },
   {
-    "id": 468,
+    "id": 462,
     "pmid": "31589909",
     "source": "PubMed",
     "article": "Systematic Review and Meta-Analysis: Cognitive-Behavioral Therapy for Obsessive-Compulsive Disorder in Children and Adolescents.",
@@ -29150,7 +28777,7 @@
     "take": "keep"
   },
   {
-    "id": 469,
+    "id": 463,
     "pmid": "31447707",
     "source": "PubMed",
     "article": "The Effectiveness of Selective Serotonin Reuptake Inhibitors for Treatment of Obsessive-Compulsive Disorder in Adolescents and Children: A Systematic Review and Meta-Analysis.",
@@ -29219,7 +28846,7 @@
     "take": "keep"
   },
   {
-    "id": 470,
+    "id": 464,
     "pmid": "31516500",
     "source": "PubMed",
     "article": "Family involvement and treatment for young children with Obsessive-Compulsive Disorder: Randomized control study.",
@@ -29282,195 +28909,7 @@
     "take": "keep"
   },
   {
-    "id": 471,
-    "pmid": "31075706",
-    "source": "PubMed",
-    "article": "Improvement in anxiety and depression symptoms following cognitive behavior therapy for pediatric obsessive compulsive disorder.",
-    "authors": [
-      "Rozenman Michelle",
-      "Piacentini John",
-      "O'Neill Joseph",
-      "Bergman R Lindsey",
-      "Chang Susanna",
-      "Peris Tara S"
-    ],
-    "date": "2019-04-19",
-    "journal": "Psychiatry research",
-    "doi": "10.1016/j.psychres.2019.04.021",
-    "topic": "Детское OCD",
-    "topic_key": "ocd",
-    "topic_keys": [
-      "ocd"
-    ],
-    "topics": [
-      "Детское OCD"
-    ],
-    "abstract_en": "Pediatric obsessive-compulsive disorder (OCD) co-occurs frequently with other mental health conditions, adding to the burden of disease and complexity of treatment. Cognitive behavioral therapy (CBT) is efficacious for both OCD and two of its most common comorbid conditions, anxiety and depression. Therefore, treating OCD may yield secondary benefits for anxiety and depressive symptomatology. This study examined whether anxiety and/or depression symptoms declined over the course of OCD treatment and, if so, whether improvements were secondary to reductions in OCD severity, impairment, and/or global treatment response. The sample consisted of 137 youths who received 12 sessions of manualized CBT and were assessed by independent evaluators. Mixed models analysis indicated that youth-reported anxiety and depression symptoms decreased in a linear fashion over the course of CBT, however these changes were not linked to specific improvements in OCD severity or impairment but to global ratings of treatment response. Results indicate that for youth with OCD, CBT may offer benefit for secondary anxiety and depression symptoms distinct from changes in primary symptoms. Understanding the mechanisms underlying carryover in CBT techniques is important for furthering transdiagnostic and/or treatment-sequencing strategies to address co-occurring anxiety and depression symptoms in pediatric OCD.",
-    "article_link": "https://pubmed.ncbi.nlm.nih.gov/31075706/",
-    "pmc_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7197731/",
-    "html_available": true,
-    "html_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7197731/",
-    "title_ru": "Как когнитивно-поведенческая терапия при детском ОКР влияет на тревогу и депрессивные симптомы",
-    "patient_plain": "",
-    "patient_use": "Если у ребёнка с ОКР одновременно наблюдаются тревога или признаки депрессии, стоит обсуждать с лечащим специалистом изменения всех этих симптомов на протяжении КПТ, а не только навязчивостей и ритуалов. Полезно отдельно отмечать, становится ли ребёнку легче справляться со школой, общением и повседневными делами, поскольку уменьшение симптомов ОКР не обязательно означает такое же изменение эмоционального состояния. Если тревога или подавленность сохраняются, несмотря на улучшение ОКР, это повод обсудить с врачом необходимость отдельного внимания к этим проблемам, а не считать их автоматически решёнными.",
-    "practical_use": "При ведении детей с ОКР целесообразно отслеживать тревожные и депрессивные симптомы наряду с тяжестью обсессий и компульсий и функциональными нарушениями, используя раздельные показатели. Результаты исследования позволяют рассматривать изменение сопутствующих симптомов как самостоятельный исход КПТ и оценивать его в связи с общей клинической реакцией на лечение, а не выводить его только из динамики CY-BOCS. При планировании дальнейшей помощи следует учитывать возможность сохранения коморбидной тревоги или депрессии и необходимость изучения последовательности терапевтических вмешательств. Данные не позволяют утверждать, что отдельное лечение тревоги или депрессии не требуется, и не дают оснований прогнозировать сохранение улучшений после завершения курса.",
-    "summary": "В исследовании изучали 137 детей и подростков с обсессивно-компульсивным расстройством (ОКР), прошедших 12 сеансов когнитивно-поведенческой терапии (КПТ) по стандартизированному протоколу. Независимые специалисты оценивали состояние участников, а тревожные и депрессивные симптомы отслеживали в ходе лечения. Для оценки тревоги использовали MASC (многомерную шкалу тревожности для детей), депрессивных симптомов — CDI (опросник депрессии у детей), тяжести ОКР — CY-BOCS (детскую шкалу обсессивно-компульсивных симптомов), а связанных с ОКР нарушений повседневного функционирования — COIS-RC (шкалу функциональных нарушений при ОКР по оценке ребёнка и родителей).\n\nВ среднем тревожные и депрессивные симптомы статистически значимо уменьшались по мере прохождения КПТ. Снижение тревоги составляло примерно 2 балла по MASC за неделю лечения, а депрессивных симптомов — около 1,5 балла по CDI за две недели. Улучшение тревоги и депрессивных симптомов было более выраженным у детей, положительно ответивших на лечение ОКР. При этом динамика тревоги и депрессии не объяснялась непосредственно снижением тяжести ОКР или связанных с ним функциональных нарушений: улучшения были связаны с общей оценкой ответа на лечение.\n\nРезультаты показывают, что КПТ при детском ОКР может приносить дополнительную пользу в отношении сопутствующей тревоги и депрессивных симптомов, даже если их изменения не совпадают напрямую с динамикой основных симптомов ОКР. Однако исследование не устанавливает механизм этого эффекта и не подтверждает, что улучшения сохраняются после завершения терапии. Авторы подчёркивают необходимость изучения долгосрочных результатов и последовательности вмешательств, направленных одновременно на ОКР, тревогу и депрессию.",
-    "_reason": "Статья важна для практики детского ОКР, поскольку показывает, что КПТ может сопровождаться улучшением не только основных симптомов расстройства, но и сопутствующих тревожных и депрессивных проявлений. Особенно полезен вывод о том, что изменения эмоционального состояния не сводятся к уменьшению тяжести ОКР или связанных с ним нарушений функционирования. При этом исследование не доказывает длительность эффекта и не определяет оптимальную схему лечения сочетания ОКР, тревоги и депрессии.",
-    "why_read": "Статью стоит прочитать детским психиатрам, клиническим психологам и психотерапевтам, работающим с детьми и подростками с ОКР и сопутствующей тревогой или депрессией. Она поможет обосновать раздельное наблюдение за основными и сопутствующими симптомами во время КПТ и объяснить семье, почему улучшение эмоционального состояния может идти не строго параллельно уменьшению навязчивостей и ритуалов.",
-    "limitations": [
-      "137 youths who received 12 sessions of manualized CBT",
-      "these changes were not linked to specific improvements in OCD severity or impairment but to global ratings of treatment response",
-      "more research is needed to understand how best to address their co-occurrence",
-      "whether improvements in anxiety and depression symptoms are maintained over time"
-    ],
-    "advice_items": [
-      {
-        "quote": "Youth anxiety and depression symptoms significantly declined during the course of CBT for pediatric OCD (Figure 1).",
-        "advice": "При оценке результата КПТ у ребёнка с ОКР отслеживайте не только навязчивости и ритуалы, но и тревожные и депрессивные симптомы. Их динамику следует фиксировать отдельно, чтобы не пропустить улучшение или сохраняющиеся трудности в эмоциональном состоянии.",
-        "audience": "врач"
-      },
-      {
-        "quote": "The trajectory of anxiety symptom change was not accounted for by the trajectory of CYBOCS change over the course of CBT (F (1, 216.64) = 0.10, p = .75).",
-        "advice": "Не используйте уменьшение тяжести ОКР как единственный показатель изменения тревоги. При контрольных оценках сопоставляйте динамику тревожности с тяжестью ОКР и повседневным функционированием, поскольку эти показатели могут изменяться неодинаково.",
-        "audience": "врач"
-      },
-      {
-        "quote": "At the same time, reductions in anxiety and depression symptoms were not due to improvements in OCD severity or impairment, raising important questions about the mechanisms underlying these treatment gains.",
-        "advice": "Объясняйте семье, что тревога и депрессивные проявления могут уменьшаться в ходе терапии ОКР, но механизм такого улучшения не установлен. Если эмоциональные симптомы сохраняются, оценивайте их самостоятельно, не предполагая, что они обязательно исчезнут вслед за уменьшением навязчивостей и ритуалов.",
-        "audience": "врач"
-      },
-      {
-        "quote": "Future studies might examine treatment-sequencing approaches to target both OCD and comorbid anxiety/depression with the goal of moving youth from functional impairment into wellness, as well as whether improvements in anxiety and depression symptoms are maintained over time and/or track with OCD symptoms longitudinally following treatment.",
-        "advice": "При обсуждении дальнейшей помощи учитывайте, что оптимальная последовательность вмешательств при сочетании детского ОКР, тревоги и депрессии ещё требует изучения. После завершения КПТ важно не считать достигнутое улучшение гарантированно устойчивым, а продолжать наблюдение за эмоциональными симптомами и функционированием ребёнка.",
-        "audience": "врач"
-      }
-    ],
-    "importance_stars": 5,
-    "importance_mark": "★★★★★",
-    "take": "keep"
-  },
-  {
-    "id": 472,
-    "pmid": "31009235",
-    "source": "PubMed",
-    "article": "Patient Satisfaction and Treatments Offered to Swedish Patients with Suspected Pediatric Acute-Onset Neuropsychiatric Syndrome and Pediatric Autoimmune Neuropsychiatric Disorders Associated with Streptococcal Infections.",
-    "authors": [
-      "Hesselmark Eva",
-      "Bejerot Susanne"
-    ],
-    "date": "2019-04-19",
-    "journal": "Journal of child and adolescent psychopharmacology",
-    "doi": "10.1089/cap.2018.0141",
-    "topic": "Детское OCD",
-    "topic_key": "ocd",
-    "topic_keys": [
-      "ocd"
-    ],
-    "topics": [
-      "Детское OCD"
-    ],
-    "abstract_en": "Objectives: Pediatric acute-onset neuropsychiatric syndrome (PANS) and pediatric autoimmune neuropsychiatric disorders associated with streptococcal infections (PANDAS) are subtypes of Obsessive-Compulsive Disorder (OCD) with suggested autoimmune etiology. Immunomodulatory treatments have been introduced as treatment options. A recent systematic review concluded that the evidence for all treatment options for PANS and PANDAS is inconclusive. However, case reports and clinical experience suggest that antibiotics and immunomodulatory treatment may be helpful. Treatment may also affect the patients' satisfaction with health care services offered. This study aims to describe the treatments given to a cohort of Swedish patients with suspected PANS and PANDAS, the patient rated treatment effects, and to establish if any specific treatment predicts higher patient satisfaction. Methods: Fifty-three patients (m = 33, f = 20, median age = 14, age range = 4-36) with suspected PANS or PANDAS were enrolled and assessed for PANS and PANDAS caseness, treatments given, treatment effects, global improvement, and patient satisfaction. Cases with confirmed and suspected PANS or PANDAS were compared regarding the frequency of treatments given and treatment effect. A linear regression model was used to see if treatments given or global improvement predicted patient satisfaction. Results: Twenty-four participants fulfilled criteria for PANS or PANDAS and 29 did not. The most common treatments given were antibiotics (88%), nonsteroidal anti-inflammatory drugs (67%), cognitive behavioral therapy (53%), and selective serotonin reuptake inhibitors (42%). There were no major differences between confirmed and suspected cases regarding what treatments they had received or their effect. Patient satisfaction was predicted by overall clinical improvement at the time of assessment. Antibiotics and intravenous immunoglobulin (IVIG) were rated as the most successful treatments by participants and were associated with higher patient satisfaction. Conclusions: It was more common that patients had received antibiotics than common psychiatric treatments for their psychiatric symptoms. Antibiotics and IVIG were experienced as effective treatments by the patients. Patient satisfaction was on average moderately low, and higher patient satisfaction was associated with global clinical improvement.",
-    "article_link": "https://pubmed.ncbi.nlm.nih.gov/31009235/",
-    "pmc_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6786336/",
-    "html_available": true,
-    "html_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6786336/",
-    "title_ru": "Удовлетворённость лечением детей и взрослых с подозрением на PANS и PANDAS: опыт шведских пациентов",
-    "patient_plain": "",
-    "patient_use": "Если у ребёнка внезапно возникли выраженные обсессивно-компульсивные симптомы и предполагается PANS или PANDAS, полезно обсудить с врачом не только инфекционные и иммунные гипотезы, но и стандартные психиатрические методы, включая КПТ и СИОЗС. Сообщите специалисту, какие изменения состояния происходили на фоне каждого лечения, какие побочные эффекты возникали и насколько улучшилось повседневное функционирование ребёнка. Не воспринимайте положительные отзывы об антибиотиках и внутривенном иммуноглобулине как гарантию результата: в этом исследовании субъективная оценка лечения не доказывает его причинную эффективность.",
-    "practical_use": "При ведении пациентов с предполагаемым или подтверждённым PANS/PANDAS важно документировать исходную тяжесть симптомов, общую клиническую динамику, нежелательные явления и удовлетворённость семьи медицинской помощью. Следует отдельно фиксировать обоснование назначения или отказа от антибиотиков, иммуномодулирующего лечения, КПТ и СИОЗС, поскольку авторы подчёркивают значение объяснения лечебной тактики пациентам и родственникам. Нельзя интерпретировать более высокую удовлетворённость после антибиотиков или IVIG как доказательство их специфического терапевтического преимущества: исследование было наблюдательным и опиралось на оценки пациентов.",
-    "summary": "В исследовании оценивали лечение, субъективную эффективность терапии и удовлетворённость медицинской помощью у 53 пациентов с подозрением на педиатрический нейропсихиатрический синдром с острым началом (PANS) или детские аутоиммунные нейропсихиатрические расстройства, ассоциированные со стрептококковыми инфекциями (PANDAS). Возраст участников составлял от 4 до 36 лет, медиана — 14 лет. Критериям PANS или PANDAS соответствовали 24 человека, у остальных 29 диагноз не был подтверждён. Медианный возраст начала расстройства составлял 7,9 года, а выраженность симптомов на момент обследования была высокой.\n\nЧаще всего пациенты получали антибиотики (88%), нестероидные противовоспалительные препараты (67%), когнитивно-поведенческую терапию (КПТ; 53%) и селективные ингибиторы обратного захвата серотонина (СИОЗС; 42%). В группе с подтверждённым PANS 87% участников получали хотя бы один вид антибиотиков, а 58% — не менее двух видов. Участники оценивали антибиотики и внутривенное введение иммуноглобулина (IVIG) как наиболее успешные методы; их применение было связано с более высокой удовлетворённостью лечением. При этом удовлетворённость в среднем была умеренно низкой, а наиболее устойчиво с ней была связана общая клиническая динамика: пациенты, у которых состояние улучшилось, были более удовлетворены медицинской помощью.\n\nАвторы отмечают, что пациенты могли недостаточно часто получать стандартное психиатрическое лечение, включая КПТ и СИОЗС, несмотря на тяжесть и устойчивость симптомов. Однако исследование описывает опыт пациентов, а не доказывает сравнительную эффективность методов: предшествующий систематический обзор признал доказательства по всем вариантам лечения PANS и PANDAS неопределёнными. Поэтому положительные оценки антибиотиков и IVIG нельзя считать подтверждением их эффективности или основанием для назначения без индивидуальной клинической оценки.",
-    "_reason": "Статья важна для практики при подозрении на PANS/PANDAS, поскольку показывает, что пациенты часто получают антибиотики и противовоспалительные препараты, тогда как стандартные психиатрические вмешательства могут применяться недостаточно часто. Она также подчёркивает связь удовлетворённости не столько с конкретным назначением, сколько с общим улучшением состояния, и необходимость наблюдать за результатами и побочными эффектами. Данные не позволяют установить, какие методы действительно эффективнее, поэтому практическая ценность статьи заключается прежде всего в оценке лечебной тактики, мониторинге и коммуникации с семьёй.",
-    "why_read": "Статью стоит прочитать детским и подростковым психиатрам, педиатрам и другим специалистам, которые ведут пациентов с внезапным началом обсессивно-компульсивных или других выраженных нейропсихиатрических симптомов и подозрением на PANS/PANDAS. Она помогает обсудить разрыв между применяемыми методами и стандартной психиатрической помощью, а также понять, почему информирование семьи и систематическая оценка клинической динамики важны даже при неопределённости доказательств.",
-    "limitations": [
-      "A recent systematic review concluded that the evidence for all treatment options for PANS and PANDAS is inconclusive.",
-      "There were no major differences between the Confirmed PANS group and the Suspected PANS group in regard to the received treatments or patient rated treatment effect.",
-      "Patient satisfaction was on average moderately low, and a higher patient satisfaction was associated with a better global outcome.",
-      "Since there is no strong evidence for any specific treatment in PANS and PANDAS"
-    ],
-    "advice_items": [
-      {
-        "quote": "Therefore, it is important that clinicians carefully monitor and follow treatments with regards to outcomes and side effects.",
-        "advice": "При каждом варианте лечения фиксируйте не только субъективную оценку семьи, но и изменения симптомов, повседневного функционирования и нежелательные явления. Используйте эти наблюдения для повторной оценки соотношения ожидаемой пользы и риска и обсуждения дальнейшей тактики.",
-        "audience": "врач"
-      },
-      {
-        "quote": "We suggest that it may be important for patient satisfaction to carefully offer information and rationale, both when offering and not offering specific treatments.",
-        "advice": "Объясняйте пациенту и семье, почему предлагается конкретный метод или почему от него решено отказаться, включая неопределённость доказательств и возможные риски. Такая коммуникация помогает сформировать реалистичные ожидания и поддерживает совместное принятие решений даже тогда, когда доступные варианты лечения не дают ожидаемого результата.",
-        "audience": "врач"
-      },
-      {
-        "quote": "Patients with PANS and PANDAS may be undertreated with established psychiatric interventions such as SSRIs and CBT, although these treatments are not always experienced as successful.",
-        "advice": "Обсудите с лечащим специалистом, рассматривались ли когнитивно-поведенческая терапия и селективные ингибиторы обратного захвата серотонина наряду с другими подходами. Если ранее эти методы не помогли, важно уточнить, как оценивался результат и какие трудности возникли, а не делать вывод об их бесполезности только на основании общего впечатления.",
-        "audience": "пациент"
-      }
-    ],
-    "importance_stars": 5,
-    "importance_mark": "★★★★★",
-    "take": "keep"
-  },
-  {
-    "id": 473,
-    "pmid": "30893331",
-    "source": "PubMed",
-    "article": "Illness perceptions in people with obsessive-compulsive disorder; A qualitative study.",
-    "authors": [
-      "Pedley Rebecca",
-      "Bee Penny",
-      "Wearden Alison",
-      "Berry Katherine"
-    ],
-    "date": "2019-03-20",
-    "journal": "PloS one",
-    "doi": "10.1371/journal.pone.0213495",
-    "topic": "Детское OCD",
-    "topic_key": "ocd",
-    "topic_keys": [
-      "ocd"
-    ],
-    "topics": [
-      "Детское OCD"
-    ],
-    "abstract_en": "BACKGROUND: Obsessive-compulsive disorder (OCD) is a serious mental health problem that causes significant impairment and reduced quality of life. Though some substantially benefit from psychological therapies, a substantial proportion of people with OCD disengage from treatment or fail to benefit. Theoretical models such as the Common-Sense Model posit that our management of physical illness depends on our perceptions about the condition. Identifying how people with OCD perceive their condition could lead to important insight that would improve treatment of OCD.\n\nOBJECTIVES: To identify and characterise the illness perceptions of people with OCD.\n\nMETHOD: Transcribed semi-structured interviews exploring the illness perceptions of 16 people with OCD were analysed using thematic analysis.\n\nRESULTS: In some cases, identification of symptoms was hindered by a failure to interpret experiences as 'symptoms'. Instead, these individuals interpreted symptoms as a personality quirk, or as evidence that they had become deviant. Perceptions of the condition as 'part' of the self contributed to views of OCD as permanent. Individuals were concerned about the impact of OCD on friends and family and attempted to minimise its consequences, for example by concealing symptoms from their children, who they feared could acquire OCD.\n\nCONCLUSION: Applying a theoretical model of physical health understanding to OCD yielded novel insights, with important implications for support and treatment. To enable early help-seeking and rapid diagnosis, public and professional knowledge about OCD should be extended beyond 'washing and checking' to the less widely known OCD-subtypes, such as fear of causing harm. It may be important to identify and challenge views of OCD as permanent early in the course of treatment to maximise engagement. Management of OCD should also address the burden of living with OCD in a family context. Further research to test whether these perceptions lead to coping responses and outcomes in OCD is now needed.",
-    "article_link": "https://pubmed.ncbi.nlm.nih.gov/30893331/",
-    "pmc_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6426201/",
-    "html_available": true,
-    "html_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6426201/",
-    "title_ru": "Как люди с обсессивно-компульсивным расстройством воспринимают свою болезнь: качественное исследование",
-    "patient_plain": "",
-    "patient_use": "Если навязчивые мысли, страхи или повторяющиеся действия кажутся вам просто чертой характера, это не исключает ОКР: стоит обсудить их с психиатром или психотерапевтом, даже если они не связаны с чистотой и мытьём. На консультации полезно рассказать, как давно появились симптомы, почему они кажутся частью вашей личности и мешают ли они отношениям с близкими. Если вы считаете, что ОКР останется с вами навсегда, обсудите с лечащим специалистом ожидания от терапии и возможные изменения состояния. Необязательно скрывать симптомы от семьи из страха навредить близким: можно вместе со специалистом продумать, как объяснить происходящее и организовать поддержку.",
-    "practical_use": "При первичной оценке ОКР следует уточнять не только наличие проверок и ритуалов загрязнения, но и навязчивые опасения причинить вред, суеверные страхи и другие менее очевидные проявления. Полезно выяснять, считает ли пациент симптомы нормальной частью характера, воспринимает ли расстройство как неизменное и понимает ли связь переживаний с заболеванием, поскольку такие представления могут затруднять обращение за помощью и участие в терапии. Отдельно следует оценивать влияние симптомов на семейные отношения, способы сокрытия ОКР и опасения пациента за близких. Эти направления беседы основаны на качественных наблюдениях и требуют индивидуальной клинической интерпретации, а не использования в качестве доказанных предикторов исхода лечения.",
-    "summary": "Авторы изучили, как люди с обсессивно-компульсивным расстройством (ОКР) понимают свои симптомы, объясняют причины болезни и оценивают её влияние на жизнь. Исследователи провели полуструктурированные интервью с 16 участниками и проанализировали ответы методом тематического анализа. Средний балл по шкале Йеля — Брауна для оценки тяжести ОКР (Y-BOCS) составил 20,2 при диапазоне 7–29, что соответствовало умеренной выраженности расстройства. У 11 участников также были другие длительные физические или психические заболевания; чаще всего встречалась депрессия (6 человек), затем тревожные расстройства (3 человека) и фибромиалгия (2 человека).\n\nНекоторые участники годами не распознавали ОКР, поскольку воспринимали навязчивые мысли и ритуалы как особенности характера, нормальное поведение или признак собственной ненормальности. Представление о том, что ОКР является неотъемлемой частью личности, способствовало убеждению, что состояние постоянно и не изменится. Участники также беспокоились о последствиях болезни для близких и иногда скрывали симптомы от детей, опасаясь, что те тоже могут заболеть. Среди наиболее тяжёлых переживаний упоминались навязчивые мысли об ответственности за причинение вреда себе или другим, страх загрязнения, суеверные опасения, проверки и ритуалы.\n\nАвторы заключили, что информирование населения и специалистов должно охватывать не только широко известные проявления ОКР, связанные с мытьём и проверками, но и менее известные формы, например страх причинить вред. В начале лечения важно обсуждать убеждение, что расстройство навсегда определяет личность, поддерживать надежду на улучшение и учитывать влияние ОКР на семейные отношения. Исследование описывает субъективный опыт небольшой группы участников, но не доказывает, что выявленные представления непосредственно определяют результаты лечения.",
-    "_reason": "Статья полезна для практики работы с ОКР, поскольку показывает, как восприятие симптомов как черты личности и убеждение в неизлечимости состояния могут мешать своевременному обращению за помощью. Она также подчёркивает необходимость обсуждать менее очевидные формы навязчивостей и семейные последствия расстройства. При этом исследование включало только 16 человек и описывало их опыт, поэтому не позволяет количественно оценить влияние этих убеждений на эффективность лечения.",
-    "why_read": "Статья особенно полезна психиатрам, психотерапевтам и специалистам, которые проводят первичную оценку ОКР или сталкиваются с низкой вовлечённостью пациентов в лечение. Её также стоит прочитать специалистам, работающим с семьями пациентов, чтобы лучше понимать страхи, связанные с влиянием симптомов на детей и других близких. Материал помогает расширить представление об ОКР за пределы проверок и загрязнения, но не заменяет исследования эффективности конкретных методов терапии.",
-    "limitations": [
-      "Transcribed semi-structured interviews exploring the illness perceptions of 16 people with OCD were analysed using thematic analysis.",
-      "The mean Y-BOCS score of the included sample was 20.2 (7–29)",
-      "All participants described their ethnicity as either White-British or White-Scottish.",
-      "Future studies are now needed to test whether the perceptions of OCD identified here affect coping and outcome."
-    ],
-    "advice_items": [
-      {
-        "quote": "There is an urgent need to educate the general public and professionals to gain an understanding of the wide and varying presentations of OCD.",
-        "advice": "При расспросе о симптомах не ограничивайтесь мытьём, загрязнением и проверками. Уточняйте наличие навязчивых мыслей о причинении вреда, суеверных страхов и других переживаний, которые пациент может не считать проявлениями расстройства. Это может помочь распознать ОКР у людей, которые долго не обращались за помощью.",
-        "audience": "врач"
-      },
-      {
-        "quote": "People with OCD may benefit from support which disentangles the condition from the 'self' and which provides optimism around treatment.",
-        "advice": "Обсуждайте с пациентом, почему он воспринимает ОКР как неотъемлемую часть личности и считает ли состояние неизменным. Помогайте отделять симптомы расстройства от представления человека о самом себе и реалистично обсуждайте возможность улучшения. Не представляйте результаты этого качественного исследования как доказательство эффективности конкретного способа психологической помощи.",
-        "audience": "врач"
-      },
-      {
-        "quote": "In addition, support for people with OCD should address sufferers' concerns about how the condition affects their family members and the best way to manage its impact on their loved ones.",
-        "advice": "Спросите пациента, как симптомы влияют на отношения с близкими и скрывает ли он их из страха причинить семье беспокойство. Обсудите, какая поддержка необходима и как говорить о расстройстве с родственниками с учётом обстоятельств конкретной семьи. Учитывайте, что некоторые участники исследования скрывали симптомы от детей, опасаясь, что те могут приобрести ОКР.",
-        "audience": "врач"
-      }
-    ],
-    "importance_stars": 5,
-    "importance_mark": "★★★★★",
-    "take": "keep"
-  },
-  {
-    "id": 474,
+    "id": 465,
     "pmid": "30877053",
     "source": "PubMed",
     "article": "Hoarding Symptoms in Children and Adolescents With Obsessive-Compulsive Disorder: Clinical Features and Response to Cognitive-Behavioral Therapy.",
@@ -29541,7 +28980,7 @@
     "take": "keep"
   },
   {
-    "id": 475,
+    "id": 466,
     "pmid": "30768383",
     "source": "PubMed",
     "article": "Treatment Gains Are Sustainable in Pediatric Obsessive-Compulsive Disorder: Three-Year Follow-Up From the NordLOTS.",
@@ -29610,72 +29049,7 @@
     "take": "keep"
   },
   {
-    "id": 476,
-    "pmid": "30644767",
-    "source": "PubMed",
-    "article": "Symptom Dimension Response in Children and Adolescents with Obsessive-Compulsive Disorder.",
-    "authors": [
-      "McGuire Joseph F",
-      "Tan Patricia Z",
-      "Piacentini John"
-    ],
-    "date": "2019-01-15",
-    "journal": "Journal of clinical child and adolescent psychology : the official journal for the Society of Clinical Child and Adolescent Psychology, American Psychological Association, Division 53",
-    "doi": "10.1080/15374416.2018.1540009",
-    "topic": "Детское OCD",
-    "topic_key": "ocd",
-    "topic_keys": [
-      "ocd"
-    ],
-    "topics": [
-      "Детское OCD"
-    ],
-    "abstract_en": "This report examined the nature of obsessive-compulsive disorder (OCD) symptoms nominated for treatment and investigate improvement in OCD symptom dimensions. Youth with OCD (N = 71) participated in a clinical trial that compared exposure-based cognitive behavior therapy (CBT) to psychoeducation plus relaxation training (PRT). Participants completed a baseline assessment to characterize OCD severity. Next, parents and youth collaboratively developed an OCD symptom treatment hierarchy. Afterward, these symptoms were independently reassessed at each session by youth and parents. After 12 sessions, a posttreatment assessment was completed by independent evaluators. A greater incidence of baseline aggressive/checking symptoms predicted a positive CBT treatment response. For parent ratings of youth distress, CBT outperformed PRT across symptom dimensions, but hoarding symptoms exhibited a slower rate of improvement relative to other dimensions across treatments. For youth distress ratings, CBT outperformed PRT across most symptom dimensions. Although symmetry/ordering symptoms exhibited a slower rate of improvement relative to other dimensions across treatments, post hoc tests found no difference in the average distress rating for symmetry/ordering symptoms between treatment groups. Finally, across symptom dimensions, parents reported a linear reduction in youth distress, whereas youth experienced a nonlinear reduction in distress that diminished over treatment. Exposure-based CBT is beneficial for OCD symptoms and remains the principle treatment for pediatric OCD. However, as symmetry/ordering symptoms exhibited improvement from CBT and PRT, there is some shared treatment mechanisms that improves these symptoms. Finally, as youth perceive diminishing distress reduction over time, clinicians are encouraged to employ appropriate reinforcement strategies in treatment.",
-    "article_link": "https://pubmed.ncbi.nlm.nih.gov/30644767/",
-    "pmc_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6754115/",
-    "html_available": true,
-    "html_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6754115/",
-    "title_ru": "Какие симптомы обсессивно-компульсивного расстройства у детей и подростков лучше отвечают на когнитивно-поведенческую терапию",
-    "patient_plain": "",
-    "patient_use": "При обсуждении терапии полезно отдельно рассказать специалисту о навязчивых мыслях агрессивного содержания, повторных проверках, стремлении к симметрии и упорядочиванию, а также о склонности накапливать вещи: разные группы симптомов могут уменьшаться с разной скоростью. Если улучшение сначала заметно, а затем замедляется, это не обязательно означает, что лечение перестало работать; стоит обсудить с терапевтом, как поддерживать участие в занятиях и замечать достигнутый прогресс. При выборе между КПТ с экспозицией и релаксационными методами важно учитывать, что в исследовании преимущество по большинству оценок было на стороне КПТ.",
-    "practical_use": "При планировании КПТ специалисту следует учитывать исходные агрессивные навязчивости и проверки как возможные положительные прогностические признаки, не превращая эту связь в гарантию ответа на лечение. Иерархию симптомов полезно составлять совместно с ребёнком и родителями, а динамику дистресса отслеживать по обеим оценкам, поскольку восприятие улучшения у них различается. При накопительстве стоит заранее предусмотреть более медленный темп изменений, а при симптомах симметрии и упорядочивания — оценивать индивидуальную динамику, не делая вывода о превосходстве релаксации на основании отдельных субъективных оценок.",
-    "summary": "В рандомизированном контролируемом исследовании участвовал 71 ребёнок или подросток с обсессивно-компульсивным расстройством (ОКР). Сравнивали когнитивно-поведенческую терапию с экспозицией (КПТ; постепенным столкновением с пугающими ситуациями или мыслями без выполнения привычных ритуалов) и психообразование в сочетании с тренировкой релаксации (ПРТ). Пациенты и родители совместно составляли иерархию симптомов, которые предстояло прорабатывать, а затем независимо оценивали связанный с ними дистресс на протяжении 12 сеансов. После лечения состояние оценивали независимые специалисты.\n\nБолее выраженные агрессивные навязчивости и симптомы проверки в начале лечения были связаны с большей вероятностью положительного ответа на КПТ. По оценкам родителей, КПТ обеспечивала более быстрое снижение дистресса, чем ПРТ, при разных измерениях симптомов; накопительство улучшалось медленнее остальных симптомов независимо от вида терапии. По самооценкам детей и подростков КПТ превосходила ПРТ по снижению дистресса при большинстве симптоматических измерений. Симптомы симметрии и упорядочивания улучшались медленнее других, причём снижение связанного с ними дистресса наблюдалось при обоих подходах; по оценкам самих пациентов, ПРТ также приносила некоторую пользу в этой области.\n\nРодители отмечали последовательное снижение дистресса на протяжении лечения, тогда как у детей и подростков уменьшение дистресса со временем замедлялось. В целом КПТ с экспозицией остаётся основным психосоциальным методом лечения детского ОКР: отдельные улучшения при ПРТ не означают, что она обеспечивает сопоставимый с КПТ результат. Исследование описывает динамику субъективных оценок симптомов и не доказывает, что исходный тип симптомов сам по себе определяет индивидуальный результат лечения.",
-    "_reason": "Исследование помогает точнее обсуждать ожидания от лечения детского ОКР: КПТ с экспозицией в целом эффективнее релаксационного подхода, но скорость улучшения зависит от симптомов и от того, кто оценивает состояние. Особенно важно учитывать более медленное уменьшение симптомов накопительства и замедление субъективного улучшения у самих детей и подростков.",
-    "why_read": "Статья полезна детским психиатрам, клиническим психологам и психотерапевтам, работающим с детьми и подростками с ОКР, а также родителям, участвующим в планировании лечения. Её стоит прочитать тем, кто выбирает мишени КПТ, оценивает динамику симптомов и хочет объяснить семье, почему разные проявления ОКР могут реагировать на терапию неодинаково.",
-    "limitations": [
-      "Youth with OCD (N = 71) participated in a clinical trial",
-      "After 12 sessions, a posttreatment assessment was completed by independent evaluators.",
-      "no predictive relationship was found between baseline OCD symptom dimensions and treatment response to PRT on the CGI-Improvement",
-      "limited empirical support for PRT"
-    ],
-    "advice_items": [
-      {
-        "quote": "A greater incidence of baseline aggressive/checking symptoms predicted a positive CBT treatment response.",
-        "advice": "При первичной оценке отдельно фиксируйте агрессивные навязчивости и симптомы проверки, поскольку их выраженность была связана с большей вероятностью положительного ответа на КПТ. Используйте этот признак для обсуждения ожиданий и планирования терапии, но не как самостоятельный способ гарантировать результат.",
-        "audience": "врач"
-      },
-      {
-        "quote": "From parents' perspective, hoarding symptoms take longer to improve regardless of treatment condition.",
-        "advice": "При наличии симптомов накопительства заранее обсудите с семьёй, что их уменьшение может идти медленнее, чем улучшение других проявлений ОКР. Отслеживайте динамику отдельно по этой группе симптомов, чтобы более медленный прогресс не воспринимался автоматически как отсутствие эффекта лечения.",
-        "audience": "врач"
-      },
-      {
-        "quote": "Finally, parents perceive a linear reduction in distress during treatment, whereas youth experience diminishing distress reduction over time.",
-        "advice": "Регулярно сопоставляйте оценки дистресса ребёнка и родителей: субъективное ощущение улучшения у них может меняться по-разному. Если ребёнок отмечает, что прогресс замедлился, обсудите способы поддерживать мотивацию и подкреплять участие в лечении, а не полагайтесь только на мнение родителей.",
-        "audience": "врач"
-      },
-      {
-        "quote": "Thus, CBT remains the principle psychosocial treatment for pediatric OCD.",
-        "advice": "При обсуждении вариантов психотерапии объясните семье, что КПТ с экспозицией остаётся основным психосоциальным методом лечения детского ОКР. Релаксационные техники могут приносить некоторое облегчение отдельных симптомов, но по результатам исследования не обеспечивали сопоставимого с КПТ улучшения в целом.",
-        "audience": "пациент"
-      }
-    ],
-    "importance_stars": 5,
-    "importance_mark": "★★★★★",
-    "take": "keep"
-  },
-  {
-    "id": 477,
+    "id": 467,
     "pmid": "30025255",
     "source": "PubMed",
     "article": "Adaptive treatment strategies for children and adolescents with Obsessive-Compulsive Disorder: A sequential multiple assignment randomized trial.",
@@ -29749,202 +29123,7 @@
     "take": "keep"
   },
   {
-    "id": 478,
-    "pmid": "30824248",
-    "source": "PubMed",
-    "article": "Defining Treatment Outcomes in Pediatric Obsessive-Compulsive Disorder Using a Self-Report Scale.",
-    "authors": [
-      "McGuire Joseph F",
-      "Geller Daniel A",
-      "Murphy Tanya K",
-      "Small Brent J",
-      "Unger Arianna",
-      "Wilhelm Sabine",
-      "Storch Eric A"
-    ],
-    "date": "2018-06-22",
-    "journal": "Behavior therapy",
-    "doi": "10.1016/j.beth.2018.06.003",
-    "topic": "Детское OCD",
-    "topic_key": "ocd",
-    "topic_keys": [
-      "ocd"
-    ],
-    "topics": [
-      "Детское OCD"
-    ],
-    "abstract_en": "This study examined benchmarks of treatment response and clinical remission on the Obsessive Compulsive Inventory-Child Version (OCI-CV) for youth with obsessive-compulsive disorder (OCD). Participants were 91 youth who enrolled in a randomized controlled trial that examined the benefit of augmenting cognitive behavior therapy (CBT) with either d-cycloserine or placebo. Youth completed the OCI-CV at baseline, Week 4 (prior to initiating exposure therapy), and posttreatment. Receiver operator curve (ROC) analyses examined optimal benchmarks for treatment response and clinical remission as identified by independent evaluators at the posttreatment assessment using the Clinical Global Impression (CGI) scales of Improvement (CGI-Improvement), Severity (CGI-Severity), and Children's Yale-Brown Obsessive Compulsive Scale (CY-BOCS). Optimal benchmarks for treatment response were a 20%-25% reduction in the OCI-CV total score. Meanwhile, optimal benchmarks for remission were a 55%-65% reduction in the OCI-CV total score and a posttreatment total score ≤6-8. OCI-CV benchmarks exhibited moderate agreement with the CY-BOCS for treatment response and clinical remission. Meanwhile, fair agreement was observed for response and remission with CGI scales. A lower pretreatment OCI-CV total score was associated with less agreement between classification approaches. Findings provide benchmarks for classifying treatment response and clinical remission in an efficient manner. Given the moderate agreement between the CY-BOCS and OCI-CV benchmarks, the OCI-CV may serve as a useful alternative when clinician-rated scales cannot be administered due to limited resources (e.g., time, training). Thus, evidence-based measurement can be incorporated to monitor therapeutic response and remission in clinical practice.",
-    "article_link": "https://pubmed.ncbi.nlm.nih.gov/30824248/",
-    "pmc_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6541025/",
-    "html_available": true,
-    "html_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6541025/",
-    "title_ru": "Как оценивать ответ на лечение и ремиссию обсессивно-компульсивного расстройства у детей по самоотчёту",
-    "patient_plain": "",
-    "patient_use": "При обсуждении результатов КПТ можно попросить специалиста отслеживать не только субъективное ощущение улучшения, но и изменения по OCI-CV. Важно различать заметное уменьшение симптомов и ремиссию: улучшение само по себе не означает, что проявления ОКР достигли минимального уровня. Если результаты опросника расходятся с повседневным самочувствием или оценкой специалиста, стоит обсудить конкретные сохраняющиеся навязчивости и ритуалы, а не делать вывод только по одному баллу.",
-    "practical_use": "OCI-CV можно использовать для повторной количественной оценки симптомов у детей и подростков, когда проведение CY-BOCS или клинического интервью затруднено из-за ограничений времени или подготовки персонала. При интерпретации следует заранее определить, оценивается ли ответ на лечение или ремиссия, и учитывать, что выбранный порог зависит от критерия сравнения. При низком исходном балле OCI-CV согласованность классификации с другими шкалами может быть хуже. Самоотчёт целесообразно сопоставлять с клинической оценкой, особенно когда решение о завершении терапии зависит от подтверждения ремиссии.",
-    "summary": "В исследовании участвовал 91 ребёнок или подросток с обсессивно-компульсивным расстройством (ОКР), включённый в рандомизированное контролируемое исследование когнитивно-поведенческой терапии (КПТ) с дополнительным назначением D-циклосерина или плацебо. Симптомы оценивали с помощью детской версии опросника обсессивно-компульсивных симптомов (OCI-CV) до лечения, на четвёртой неделе перед началом экспозиционной терапии и после завершения лечения. Результаты сопоставляли с оценками клиницистов по шкалам общего клинического впечатления об улучшении и тяжести состояния (CGI-I и CGI-S), а также с детской версией шкалы Йеля — Брауна для оценки ОКР (CY-BOCS). В среднем показатель OCI-CV снизился с 16,14 до 10,21 балла, то есть на 31%. Добавление D-циклосерина не обеспечило значимого преимущества перед плацебо по улучшению симптомов.\n\nДля определения ответа на лечение наиболее подходящим ориентиром оказалось снижение общего балла OCI-CV на 20–25%. Для оценки клинической ремиссии использовали снижение на 55–65% и итоговый балл не выше 6–8, в зависимости от того, с какой внешней оценкой сравнивали результаты. Согласованность классификации ответа и ремиссии между OCI-CV и CY-BOCS была умеренной, а между OCI-CV и шкалами CGI — низкой. Например, при пороге снижения OCI-CV на 20% для выявления ответа на лечение по CY-BOCS доля ложноположительных результатов составляла 38%, а ложноотрицательных — 19%. При использовании снижения на 65% для оценки ремиссии относительно CY-BOCS доли составляли 14% и 57% соответственно.\n\nАвторы заключили, что OCI-CV может быть удобным инструментом для отслеживания динамики симптомов у детей и подростков с ОКР, особенно если у специалиста нет времени или подготовки для регулярного применения клинических шкал. Однако пороговые значения не полностью совпадают с оценками клиницистов, поэтому результат самоотчёта следует интерпретировать как дополнительный показатель, а не как безошибочное подтверждение ответа на лечение или ремиссии.",
-    "_reason": "Статья предлагает конкретные пороги изменения детского опросника OCI-CV, позволяющие более последовательно оценивать результаты лечения ОКР. Практическая ценность состоит в упрощении мониторинга, но умеренная или низкая согласованность с другими шкалами ограничивает возможность принимать решения только по самоотчёту.",
-    "why_read": "Статья полезна детским психиатрам, клиническим психологам и специалистам, проводящим КПТ при ОКР, которым нужен короткий инструмент для отслеживания динамики симптомов. Её также стоит прочитать специалистам, объясняющим семьям разницу между улучшением и ремиссией и интерпретирующим результаты детских опросников.",
-    "limitations": [
-      "A lower pretreatment OCI-CV total score was associated with less agreement between classification approaches.",
-      "OCI-CV benchmarks exhibited moderate agreement with the CY-BOCS for treatment response and clinical remission.",
-      "Meanwhile, fair agreement was observed for response and remission with CGI scales.",
-      "This classified 61 youth (67%) as treatment responders, and produced a false-positive rate of 38% and false-negative rate of 19%.",
-      "This classified 23 youth (25%) as experiencing clinical remission, and produced a false-positive rate of 14% and false-negative rate of 57%."
-    ],
-    "advice_items": [
-      {
-        "quote": "Optimal benchmarks for treatment response were a 20%-25% reduction in the OCI-CV total score.",
-        "advice": "Используйте снижение общего балла OCI-CV примерно на 20–25% как ориентир возможного ответа на лечение, а не как самостоятельное доказательство клинического улучшения. Сопоставляйте динамику с наблюдениями за симптомами и оценкой специалиста.",
-        "audience": "врач"
-      },
-      {
-        "quote": "Meanwhile, optimal benchmarks for remission were a 55%-65% reduction in the OCI-CV total score and a posttreatment total score ≤6-8.",
-        "advice": "При оценке ремиссии учитывайте одновременно относительное снижение симптомов и итоговый балл OCI-CV. Выбор конкретного порога зависит от критерия сравнения, поэтому не следует считать одно универсальное значение достаточным для всех клинических ситуаций.",
-        "audience": "врач"
-      },
-      {
-        "quote": "Thus, evidence-based measurement can be incorporated to monitor therapeutic response and remission in clinical practice.",
-        "advice": "Повторные измерения OCI-CV помогают обсуждать динамику лечения на основании сопоставимых показателей, а не только общего впечатления. Объясните семье, что опросник дополняет клиническую оценку и не заменяет её.",
-        "audience": "врач"
-      },
-      {
-        "quote": "There was no difference in therapeutic improvement on the CY-BOCS total score [t(90) = 1.26 p = .21] or treatment response on the CGI-Improvement (χ2 = 0.39, p = .53) between CBT augmented with d-cycloserine and placebo.",
-        "advice": "При обсуждении этого исследования с семьёй уточните, что добавление D-циклосерина к КПТ не показало преимущества перед плацебо по указанным показателям. Эти результаты сами по себе не являются основанием самостоятельно начинать, отменять или менять назначенное лечение.",
-        "audience": "пациент"
-      }
-    ],
-    "importance_stars": 5,
-    "importance_mark": "★★★★★",
-    "take": "keep"
-  },
-  {
-    "id": 479,
-    "pmid": "29722936",
-    "source": "PubMed",
-    "article": "Antibiotics for PANDAS? Limited Evidence: Review and Putative Mechanisms of Action.",
-    "authors": [
-      "Burchi Elisabetta",
-      "Pallanti Stefano"
-    ],
-    "date": "2018-05-03",
-    "journal": "The primary care companion for CNS disorders",
-    "doi": "10.4088/PCC.17r02232",
-    "topic": "Детское OCD",
-    "topic_key": "ocd",
-    "topic_keys": [
-      "ocd"
-    ],
-    "topics": [
-      "Детское OCD"
-    ],
-    "abstract_en": "OBJECTIVE: Antibiotics have been used extensively by clinicians to treat patients with PANDAS or PANS (pediatric autoimmune neuropsychiatric disorders associated with streptococcal infections and pediatric acute-onset neuropsychiatric syndrome, respectively). This review examines the best-quality evidence supporting the practice-based use of antibiotics in these psychiatric conditions.\n\nDATA SOURCES: PubMed was searched for English-language articles published between January 1994 and July 2017 using the search terms [PANDAS OR PANS OR new-onset pediatric OCD] AND [antibiotics OR macrolides OR beta-lactams].\n\nSTUDY SELECTION: Randomized clinical trials, observational studies, and case reports concerning antibiotic use in PANDAS/PANS were reviewed. Four publications were included in the quantitative synthesis.\n\nDATA EXTRACTION: The evidence was rated using the GRADE (Grading of Recommendations, Assessment, Development, and Evaluation) method.\n\nRESULTS: Although the single studies conveyed no statistically significant results, there is some evidence for efficacy of antibiotic therapy in reducing neuropsychiatric symptoms in the PANDAS/PANS population.\n\nCONCLUSIONS: Whereas the use of eradicating antibiotic therapy during active infections in PANDAS/PANS is well established, there is still a need for studies that improve the quality of evidence supporting use of antibiotics in this population independent of ongoing infections. Studies that compare antibiotics with other therapies, as well as studies that assess safety and efficacy of long-term use of antibiotic therapy in PANDAS/PANS, are still lacking. However, the available research supports evidence of a subgroup in the pediatric OCD population that is sensitive to antibiotic treatment and immunomodulatory therapy, independent of ongoing infectious conditions. Thus, more studies are warranted in the overall OCD spectrum.",
-    "article_link": "https://pubmed.ncbi.nlm.nih.gov/29722936/",
-    "pmc_link": "",
-    "html_available": false,
-    "html_link": "",
-    "title_ru": "Антибиотики при PANDAS и PANS у детей: ограниченные доказательства эффективности и возможные механизмы действия",
-    "patient_plain": "",
-    "patient_use": "Если у ребёнка с внезапно возникшими симптомами ОКР предполагается связь со стрептококковой инфекцией, стоит обсудить с врачом, есть ли признаки активной инфекции и какие обследования действительно необходимы. Важно различать лечение подтверждённой инфекции и попытку уменьшить психиатрические симптомы антибиотиками при отсутствии продолжающейся инфекции: доказательства пользы во втором случае пока ограничены. До начала длительного курса следует отдельно обсудить неопределённость ожидаемого эффекта и возможные риски, поскольку обзор не подтверждает безопасность такого подхода.",
-    "practical_use": "Врачам следует разделять показания к эрадикационной антибиотикотерапии при активной инфекции и применение антибиотиков с целью воздействия на нейропсихиатрические симптомы вне инфекционного эпизода. При обсуждении второго подхода необходимо прямо сообщать семье, что отдельные исследования не показали статистически значимого эффекта, а совокупные данные дают лишь предварительный сигнал возможной пользы. Следует учитывать отсутствие надёжных сравнений с альтернативными методами лечения и недостаточность сведений о длительной терапии; обзор не позволяет вывести универсальную схему назначения.",
-    "summary": "Обзор оценивает эффективность антибиотиков при PANDAS (детских аутоиммунных нейропсихиатрических расстройствах, связанных со стрептококковыми инфекциями) и PANS (детском нейропсихиатрическом синдроме с острым началом). Авторы искали англоязычные публикации в PubMed за период с января 1994 года по июль 2017 года. Они рассмотрели рандомизированные клинические исследования, наблюдательные исследования и описания отдельных случаев; в количественный синтез вошли четыре публикации. Качество доказательств оценивали по системе GRADE (система оценки качества доказательств и силы рекомендаций).\n\nОтдельные исследования не продемонстрировали статистически значимых результатов, однако совокупность имеющихся данных указывает на возможное уменьшение нейропсихиатрических симптомов при применении антибиотиков у детей с PANDAS/PANS. Авторы также отмечают признаки существования подгруппы детей с обсессивно-компульсивным расстройством (ОКР), чувствительной к антибиотикотерапии и иммуномодулирующему лечению даже при отсутствии продолжающейся инфекции. При этом наиболее обоснованным остаётся применение антибиотиков для устранения активной инфекции, тогда как их эффективность против нейропсихиатрических симптомов независимо от инфекции установлена недостаточно.\n\nОбзор не устанавливает оптимальный антибиотик, дозировку или продолжительность курса. Не хватает качественных исследований, непосредственно сравнивающих антибиотики с другими методами лечения, а также данных о безопасности и эффективности длительной антибиотикотерапии при PANDAS/PANS.",
-    "_reason": "Обзор важен для практики детского ОКР, поскольку разграничивает обоснованное лечение активной инфекции и пока недостаточно подтверждённое применение антибиотиков ради уменьшения нейропсихиатрических симптомов. Он помогает избежать представления антибиотикотерапии как доказанного универсального лечения PANDAS/PANS и подчёркивает необходимость осторожной оценки предполагаемой пользы длительного курса.",
-    "why_read": "Статью стоит прочитать детским психиатрам, педиатрам и врачам, наблюдающим детей с внезапным началом ОКР и подозрением на PANDAS/PANS. Она полезна при обсуждении с семьями ожидаемого эффекта антибиотиков, ограничений существующих исследований и различий между лечением активной инфекции и попыткой повлиять на симптомы вне инфекции.",
-    "limitations": [
-      "Although the single studies conveyed no statistically significant results",
-      "there is still a need for studies that improve the quality of evidence supporting use of antibiotics in this population independent of ongoing infections",
-      "Studies that compare antibiotics with other therapies, as well as studies that assess safety and efficacy of long-term use of antibiotic therapy in PANDAS/PANS, are still lacking."
-    ],
-    "advice_items": [
-      {
-        "quote": "Whereas the use of eradicating antibiotic therapy during active infections in PANDAS/PANS is well established, there is still a need for studies that improve the quality of evidence supporting use of antibiotics in this population independent of ongoing infections.",
-        "advice": "Разделяйте назначение антибиотиков для устранения активной инфекции и их применение с целью уменьшения нейропсихиатрических симптомов при отсутствии продолжающейся инфекции. Во втором случае обозначайте неопределённость доказательств и не представляйте такой подход как установленный стандарт лечения.",
-        "audience": "врач"
-      },
-      {
-        "quote": "Studies that compare antibiotics with other therapies, as well as studies that assess safety and efficacy of long-term use of antibiotic therapy in PANDAS/PANS, are still lacking.",
-        "advice": "При обсуждении продолжительной антибиотикотерапии объясняйте семье, что её сравнительная эффективность и долгосрочная безопасность при PANDAS/PANS изучены недостаточно. Не делайте вывод о преимуществе антибиотиков перед другими методами лечения на основании этого обзора.",
-        "audience": "врач"
-      },
-      {
-        "quote": "Thus, more studies are warranted in the overall OCD spectrum.",
-        "advice": "Если у ребёнка появились симптомы ОКР, не следует самостоятельно начинать или продлевать приём антибиотиков, рассчитывая на предполагаемую связь с инфекцией. Обсудите с врачом основания для такого диагноза, необходимость лечения активной инфекции и варианты помощи при самих нейропсихиатрических симптомах.",
-        "audience": "пациент"
-      }
-    ],
-    "importance_stars": 5,
-    "importance_mark": "★★★★★",
-    "take": "keep"
-  },
-  {
-    "id": 480,
-    "pmid": "29677451",
-    "source": "PubMed",
-    "article": "Treatment Features Associated with Youth Cognitive Behavioral Therapy Follow-Up Effects for Internalizing Disorders: A Meta-Analysis.",
-    "authors": [
-      "Sun Michael",
-      "Rith-Najarian Leslie R",
-      "Williamson Timothy J",
-      "Chorpita Bruce F"
-    ],
-    "date": "2018-04-20",
-    "journal": "Journal of clinical child and adolescent psychology : the official journal for the Society of Clinical Child and Adolescent Psychology, American Psychological Association, Division 53",
-    "doi": "10.1080/15374416.2018.1443459",
-    "topic": "Детское OCD",
-    "topic_key": "ocd",
-    "topic_keys": [
-      "ocd"
-    ],
-    "topics": [
-      "Детское OCD"
-    ],
-    "abstract_en": "Our aim was to investigate whether four treatment features (i.e., the inclusion of parental involvement, goal-setting strategies, maintenance/relapse prevention sessions, the addition of booster sessions) were associated with posttreatment and follow-up effect size of youth cognitive behavioral therapies (yCBTs) for anxiety, depression, posttraumatic stress disorder, and obsessive-compulsive disorder in age groups spanning young children to adolescents. We conducted a random-effects meta-analysis of 106 yCBTs tested in 76 randomized clinical trials from the PracticeWise Database to examine average effects of yCBTs posttreatment and at a later follow-up assessment. We coded the use of parental involvement, goal setting, booster sessions, and maintenance/relapse prevention in each yCBT and conducted random-effects meta-regression analyses to investigate whether these treatment features were associated with yCBT effects at posttreatment as well as at follow-up. Overall, yCBTs produced large pre- to posttreatment effects (d = 1.05), 95% confidence interval [0.94, 1.15], and larger pre- to follow-up effects (d = 1.29), 95% confidence interval [1.18, 1.40]. Metaregression results indicated that parental involvement was significantly associated with larger pre- to posttreatment effect sizes as well as pre- to follow-up effect sizes. Booster sessions, goal setting, and maintenance/relapse prevention were not significantly related to effect sizes at posttreatment or follow-up. Parental involvement may be helpful for maximizing long-term effectiveness of yCBT. Future studies should investigate for whom and under what conditions inclusion of yCBT treatment features is related to the durability of treatment gains.",
-    "article_link": "https://pubmed.ncbi.nlm.nih.gov/29677451/",
-    "pmc_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6195852/",
-    "html_available": true,
-    "html_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6195852/",
-    "title_ru": "Какие особенности когнитивно-поведенческой терапии помогают сохранить эффект лечения тревоги, депрессии, посттравматического стресса и ОКР у детей и подростков: метаанализ",
-    "patient_plain": "",
-    "patient_use": "Если ребёнок проходит КПТ по поводу ОКР, полезно обсудить с терапевтом, как родители могут участвовать в процессе: поддерживать выполнение согласованных заданий, помогать применять освоенные навыки и обсуждать трудности между встречами. Уточните, как будет организовано наблюдение после завершения основного курса и что делать при возвращении симптомов, но не считайте дополнительные занятия или профилактические блоки гарантией более стойкого эффекта. Результаты поддерживают важность участия семьи, однако конкретный формат вовлечения родителей должен соответствовать потребностям ребёнка и плану терапии.",
-    "practical_use": "При планировании КПТ у детей и подростков стоит отдельно оценивать возможность содержательного участия родителей и заранее согласовывать их роль в терапии. При обсуждении прогноза полезно объяснить семье, что метаанализ выявил связь родительского участия с лучшими результатами, но не установил причинно-следственный механизм и не определил оптимальный формат такого участия. Постановку целей, поддерживающие занятия и профилактику рецидива следует рассматривать с учётом индивидуальной клинической ситуации, поскольку в этом анализе их наличие само по себе не было связано со статистически значимым увеличением эффекта. При интерпретации динамики важно учитывать выраженную неоднородность результатов исследований и различия между расстройствами.",
-    "summary": "Метаанализ 76 рандомизированных клинических исследований, включавших 106 групп детской и подростковой когнитивно-поведенческой терапии (КПТ), оценивал результаты лечения тревожных расстройств, депрессии, посттравматического стрессового расстройства и обсессивно-компульсивного расстройства (ОКР). Авторы изучили четыре особенности терапии: участие родителей, постановку целей, поддерживающие занятия для закрепления результата и профилактику рецидива. Средняя продолжительность лечения в исследованиях, где она была указана, составляла около 80 дней, а последующее наблюдение продолжалось от 1 до 89 месяцев после завершения терапии.\n\nВ целом КПТ показала выраженное улучшение состояния от начала лечения до его завершения (d = 1,05; 95% доверительный интервал 0,94–1,15), а эффект от начала лечения до последующего наблюдения был ещё больше (d = 1,29; 95% доверительный интервал 1,18–1,40). Эти показатели характеризуют средний эффект по разным исследованиям и не означают, что у каждого ребёнка улучшение будет одинаковым. Участие родителей статистически значимо связывалось с более выраженным улучшением как после лечения, так и при последующем наблюдении.\n\nПостановка целей, дополнительные поддерживающие занятия и специальные занятия по поддержанию результата и профилактике рецидива не показали статистически значимой связи с величиной эффекта ни сразу после терапии, ни при последующем наблюдении. При этом исследования существенно различались по результатам, составу участников и методам оценки. ОКР и депрессия демонстрировали более выраженные эффекты после лечения по сравнению с тревожными расстройствами. Выводы относятся к совокупности исследований разных расстройств, а не исключительно к детям с ОКР; обнаруженная связь с участием родителей также не доказывает, что именно оно стало причиной лучшего результата.",
-    "_reason": "Статья полезна для практики детской и подростковой психотерапии, поскольку показывает связь участия родителей с более выраженными результатами КПТ не только после завершения лечения, но и при последующем наблюдении. Вместе с тем это метаанализ разных расстройств, и его результаты нельзя напрямую трактовать как доказательство эффективности конкретной семейной стратегии именно при ОКР.",
-    "why_read": "Статью стоит прочитать детским и подростковым психологам, психотерапевтам и психиатрам, работающим с ОКР и другими эмоциональными расстройствами, а также специалистам, которые объясняют семьям роль родителей в лечении. Она помогает обосновать обсуждение семейного участия и реалистичных ожиданий от поддерживающих занятий, одновременно показывая ограничения обобщённых результатов.",
-    "limitations": [
-      "Future studies should investigate for whom and under what conditions inclusion of yCBT treatment features is related to the durability of treatment gains.",
-      "Ten studies failed to report the treatment duration, and for the purposes of meta-analysis their data was mean substituted.",
-      "Very few yCBTs targeted young children under 6 (3.77%).",
-      "An intercept-only (null) model, reflected a significant amount of potentially explainable between-group variance at post-treatment",
-      "An intercept-only (null) model, reflected a significant amount of potentially explainable between-group variance at follow-up"
-    ],
-    "advice_items": [
-      {
-        "quote": "Meta-regression revealed significant between-group variance explained by treatment characteristics when simultaneously tested as independent variables on pre- to post-treatment effect sizes (R2 analog = 0.17, F(8, 97) = 2.56, p = .01).",
-        "advice": "При интерпретации результата КПТ учитывайте не только диагноз, но и особенности организации терапии: метаанализ показал, что характеристики лечения в совокупности объясняли часть различий между исследованиями. Однако эта модель не позволяет определить, какая именно комбинация компонентов оптимальна для конкретного ребёнка.",
-        "audience": "врач"
-      },
-      {
-        "quote": "Parental involvement was significantly associated with larger pre- to posttreatment effect sizes as well as pre- to follow-up effect sizes.",
-        "advice": "Обсудите с семьёй возможные формы участия родителей и согласуйте их с терапевтом, чтобы поддержка ребёнка соответствовала целям терапии. Представляйте этот результат как статистическую связь, а не как доказательство того, что любое участие родителей обязательно улучшит исход.",
-        "audience": "врач"
-      },
-      {
-        "quote": "Booster sessions, goal setting, and maintenance/relapse prevention were not significantly related to effect sizes at posttreatment or follow-up.",
-        "advice": "Не следует обещать семье, что дополнительные поддерживающие встречи, постановка целей или отдельные занятия по профилактике рецидива сами по себе обеспечат более выраженный эффект. Их необходимость лучше обсуждать с учётом симптомов ребёнка, его прогресса и клинического плана, поскольку отсутствие статистически значимой связи в метаанализе не означает, что эти компоненты бесполезны для каждого пациента.",
-        "audience": "врач"
-      },
-      {
-        "quote": "Future studies should investigate for whom and under what conditions inclusion of yCBT treatment features is related to the durability of treatment gains.",
-        "advice": "При обсуждении прогноза объясните семье, что пока не определено, каким детям и при каких условиях отдельные компоненты КПТ помогают лучше сохранять результат. Полезно заранее договориться о наблюдении после завершения лечения и о способе обсуждать возможное возвращение симптомов, не представляя конкретный формат сопровождения как гарантированно эффективный.",
-        "audience": "пациент"
-      }
-    ],
-    "importance_stars": 5,
-    "importance_mark": "★★★★★",
-    "take": "keep"
-  },
-  {
-    "id": 481,
+    "id": 468,
     "pmid": "29971153",
     "source": "PubMed",
     "article": "Internet-delivered cognitive behavioural therapy for young children with obsessive-compulsive disorder: development and initial evaluation of the BIP OCD Junior programme.",
@@ -30005,7 +29184,7 @@
     "take": "keep"
   },
   {
-    "id": 482,
+    "id": 469,
     "pmid": "29502315",
     "source": "PubMed",
     "article": "A solid majority remit following evidence-based OCD treatments: a 3-year naturalistic outcome study in pediatric OCD.",
@@ -30078,7 +29257,7 @@
     "take": "keep"
   },
   {
-    "id": 483,
+    "id": 470,
     "pmid": "29309797",
     "source": "PubMed",
     "article": "Treatment of PANDAS and PANS: a systematic review.",
@@ -30137,7 +29316,7 @@
     "take": "keep"
   },
   {
-    "id": 484,
+    "id": 471,
     "pmid": "28707590",
     "source": "PubMed",
     "article": "Combining Drug and Psychological Treatments for Obsessive- Compulsive Disorder: What is the Evidence, When and for Whom.",
@@ -30194,7 +29373,7 @@
     "take": "keep"
   },
   {
-    "id": 485,
+    "id": 472,
     "pmid": "29045303",
     "source": "PubMed",
     "article": "Riluzole Serum Concentration in Pediatric Patients Treated for Obsessive-Compulsive Disorder.",
@@ -30256,7 +29435,7 @@
     "take": "keep"
   },
   {
-    "id": 486,
+    "id": 473,
     "pmid": "29119300",
     "source": "PubMed",
     "article": "Longitudinal outcomes of children with pediatric autoimmune neuropsychiatric disorder associated with streptococcal infections (PANDAS).",
@@ -30324,7 +29503,7 @@
     "take": "keep"
   },
   {
-    "id": 487,
+    "id": 474,
     "pmid": "29173737",
     "source": "PubMed",
     "article": "Targeted Family Intervention for Complex Cases of Pediatric Obsessive-Compulsive Disorder: A Randomized Controlled Trial.",
@@ -30397,7 +29576,7 @@
     "take": "keep"
   },
   {
-    "id": 488,
+    "id": 475,
     "pmid": "28854296",
     "source": "PubMed",
     "article": "Efficacy and Safety of Selective Serotonin Reuptake Inhibitors, Serotonin-Norepinephrine Reuptake Inhibitors, and Placebo for Common Psychiatric Disorders Among Children and Adolescents: A Systematic Review and Meta-analysis.",
@@ -30457,7 +29636,7 @@
     "take": "keep"
   },
   {
-    "id": 489,
+    "id": 476,
     "pmid": "28714753",
     "source": "PubMed",
     "article": "Pediatric Acute-Onset Neuropsychiatric Syndrome Response to Oral Corticosteroid Bursts: An Observational Study of Patients in an Academic Community-Based PANS Clinic.",
@@ -30513,7 +29692,7 @@
     "take": "keep"
   },
   {
-    "id": 490,
+    "id": 477,
     "pmid": "28696786",
     "source": "PubMed",
     "article": "Effect of Early and Prophylactic Nonsteroidal Anti-Inflammatory Drugs on Flare Duration in Pediatric Acute-Onset Neuropsychiatric Syndrome: An Observational Study of Patients Followed by an Academic Community-Based Pediatric Acute-Onset Neuropsychiatric Syndrome Clinic.",
@@ -30572,7 +29751,7 @@
     "take": "keep"
   },
   {
-    "id": 491,
+    "id": 478,
     "pmid": "28696783",
     "source": "PubMed",
     "article": "Course of Neuropsychiatric Symptoms After Introduction and Removal of Nonsteroidal Anti-Inflammatory Drugs: A Pediatric Observational Study.",
@@ -30632,7 +29811,7 @@
     "take": "keep"
   },
   {
-    "id": 492,
+    "id": 479,
     "pmid": "28412602",
     "source": "PubMed",
     "article": "Secondary outcomes from the pediatric obsessive compulsive disorder treatment study II.",
@@ -30703,7 +29882,7 @@
     "take": "keep"
   },
   {
-    "id": 493,
+    "id": 480,
     "pmid": "28431305",
     "source": "PubMed",
     "article": "Cognitive-behavioral high parental involvement treatments for pediatric obsessive-compulsive disorder: A meta-analysis.",
@@ -30759,76 +29938,7 @@
     "take": "keep"
   },
   {
-    "id": 494,
-    "pmid": "28409563",
-    "source": "PubMed",
-    "article": "Glutamate in Pediatric Obsessive-Compulsive Disorder and Response to Cognitive-Behavioral Therapy: Randomized Clinical Trial.",
-    "authors": [
-      "O'Neill Joseph",
-      "Piacentini John",
-      "Chang Susanna",
-      "Ly Ronald",
-      "Lai Tsz M",
-      "Armstrong Casey C",
-      "Bergman Lindsey",
-      "Rozenman Michelle",
-      "Peris Tara",
-      "Vreeland Allison",
-      "Mudgway Ross",
-      "Levitt Jennifer G",
-      "Salamon Noriko",
-      "Posse Stefan",
-      "Hellemann Gerhard S",
-      "Alger Jeffry R",
-      "McCracken James T",
-      "Nurmi Erika L"
-    ],
-    "date": "2017-04-04",
-    "journal": "Neuropsychopharmacology : official publication of the American College of Neuropsychopharmacology",
-    "doi": "10.1038/npp.2017.77",
-    "topic": "Детское OCD",
-    "topic_key": "ocd",
-    "topic_keys": [
-      "ocd"
-    ],
-    "topics": [
-      "Детское OCD"
-    ],
-    "abstract_en": "Cognitive-behavioral therapy (CBT) is effective for pediatric obsessive-compulsive disorder (OCD), but non-response is common. Brain glutamate (Glu) signaling may contribute to OCD pathophysiology and moderate CBT outcomes. We assessed whether Glu measured with magnetic resonance spectroscopy (MRS) was associated with OCD and/or CBT response. Youths aged 7-17 years with DSM-IV OCD and typically developing controls underwent 3 T proton echo-planar spectroscopic imaging (PEPSI) MRS scans of pregenual anterior cingulate cortex (pACC) and ventral posterior cingulate cortex (vPCC)-regions possibly affected by OCD-at baseline. Controls returned for re-scan after 8 weeks. OCD youth-in a randomized rater-blinded trial-were re-scanned after 12-14 weeks of CBT or after 8 weeks of minimal-contact waitlist; waitlist participants underwent a third scan after crossover to 12-14 weeks of CBT. Forty-nine children with OCD (mean age 12.2±2.9 years) and 29 controls (13.2±2.2 years) provided at least one MRS scan. At baseline, Glu did not differ significantly between OCD and controls in pACC or vPCC. Within controls, Glu was stable from scan-to-scan. Within OCD subjects, a treatment-by-scan interaction (p=0.034) was observed, driven by pACC Glu dropping 19.5% from scan-to-scan for patients randomized to CBT, with minor increases (3.8%) for waitlist participants. The combined OCD participants (CBT-only plus waitlist-CBT) also showed a 16.2% (p=0.004) post-CBT decrease in pACC Glu. In the combined OCD group, within vPCC, lower pre-CBT Glu predicted greater post-CBT improvement in symptoms (CY-BOCS; r=0.81, p=0.00025). Glu may be involved in the pathophysiology of OCD and may moderate response to CBT.",
-    "article_link": "https://pubmed.ncbi.nlm.nih.gov/28409563/",
-    "pmc_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5645751/",
-    "html_available": true,
-    "html_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5645751/",
-    "title_ru": "Уровень глутамата в мозге у детей с ОКР и его связь с ответом на когнитивно-поведенческую терапию",
-    "patient_plain": "",
-    "patient_use": "Если ребёнок проходит КПТ по поводу ОКР, результаты исследования поддерживают интерес к терапии как к методу, связанному с изменениями в работе мозга, но не позволяют заранее определить, поможет ли она конкретному пациенту. Обсудите с лечащим специалистом, как отслеживать изменения симптомов и что делать, если улучшение недостаточное. Измерение глутамата с помощью МРС в этом исследовании было исследовательским методом, а не установленным способом выбора лечения.",
-    "practical_use": "Врачам и специалистам, проводящим КПТ, стоит учитывать, что биологические изменения после терапии и исходная выраженность симптомов могут быть связаны с особенностями ответа на лечение, однако МРС пока не обоснована здесь как рутинный инструмент прогноза. При обсуждении результатов важно разделять изменение глутамата после терапии и его способность предсказывать клиническое улучшение: связь с ответом обнаружена для исходного уровня в vPCC, а снижение после лечения — для pACC. Для оценки эффективности лечения следует ориентироваться на динамику симптомов, а не на предполагаемые изменения нейрохимических показателей.",
-    "summary": "В рандомизированном исследовании изучали, связан ли уровень глутамата (Glu) в определённых областях мозга с обсессивно-компульсивным расстройством (ОКР) у детей и результатами когнитивно-поведенческой терапии (КПТ). В исследовании участвовали 49 детей с ОКР в возрасте 7–17 лет и 29 детей без расстройства. С помощью магнитно-резонансной спектроскопии (МРС) измеряли уровень глутамата в передней поясной коре (pACC) и вентральной задней поясной коре (vPCC). Детей с ОКР распределяли в группы КПТ продолжительностью 12–14 недель или минимального контакта с ожиданием лечения в течение 8 недель; участники группы ожидания затем также проходили КПТ.\n\nДо лечения уровень глутамата в обеих областях мозга существенно не различался у детей с ОКР и контрольной группы. После КПТ уровень глутамата в передней поясной коре снизился на 19,5% у детей, сразу получавших терапию, и на 16,2% в объединённой группе участников после КПТ. У детей, ожидавших лечения, наблюдалось небольшое повышение на 3,8%, а у детей без ОКР показатели оставались стабильными.\n\nВ объединённой группе детей с ОКР более низкий исходный уровень глутамата в вентральной задней поясной коре был связан с более выраженным уменьшением симптомов после КПТ по шкале тяжести ОКР у детей (CY-BOCS): r=0,81; p=0,00025. Результаты указывают на возможную связь глутаматной сигнализации с механизмами ОКР и ответом на терапию, но не доказывают, что изменение глутамата само по себе вызывает улучшение или позволяет надёжно предсказать результат лечения у отдельного ребёнка.",
-    "_reason": "Исследование показывает, что у детей с ОКР после КПТ меняется уровень глутамата в передней поясной коре, а исходный показатель в другой области мозга связан с выраженностью последующего улучшения. Это помогает изучать возможные механизмы терапии, но пока не даёт готового анализа или биомаркера для выбора лечения конкретному ребёнку.",
-    "why_read": "Статья полезна детским психиатрам, клиническим психологам и специалистам, работающим с детьми с ОКР, которые хотят понимать биологические корреляты ответа на КПТ. Она также подходит для знакомства с исследованиями нейровизуализации, связывающими исходные показатели мозга с изменением симптомов после психотерапии.",
-    "limitations": [
-      "non-response is common",
-      "regions possibly affected by OCD",
-      "Glu may be involved in the pathophysiology of OCD and may moderate response to CBT"
-    ],
-    "advice_items": [
-      {
-        "quote": "At baseline, Glu did not differ significantly between OCD and controls in pACC or vPCC.",
-        "advice": "Не следует считать повышенный или пониженный уровень глутамата установленным отличительным признаком детского ОКР на основании этого исследования. При обсуждении результатов нейровизуализации отделяйте исследовательские гипотезы о механизмах расстройства от диагностических критериев, применяемых в клинической практике.",
-        "audience": "врач"
-      },
-      {
-        "quote": "In the combined OCD group, within vPCC, lower pre-CBT Glu predicted greater post-CBT improvement in symptoms (CY-BOCS; r=0.81, p=0.00025).",
-        "advice": "При интерпретации результата учитывайте, что связь исходного уровня глутамата в vPCC с последующим улучшением выявлена на уровне группы, а не представлена как проверенный индивидуальный прогноз. Не используйте этот показатель для решения о целесообразности КПТ у конкретного ребёнка без дополнительной клинической валидации.",
-        "audience": "врач"
-      }
-    ],
-    "importance_stars": 5,
-    "importance_mark": "★★★★★",
-    "take": "keep"
-  },
-  {
-    "id": 495,
+    "id": 481,
     "pmid": "28659986",
     "source": "PubMed",
     "article": "Efficacy of N-Acetylcysteine Augmentation on Obsessive Compulsive Disorder: A Multicenter Randomized Double Blind Placebo Controlled Clinical Trial.",
@@ -30895,7 +30005,7 @@
     "take": "keep"
   },
   {
-    "id": 496,
+    "id": 482,
     "pmid": "28358599",
     "source": "PubMed",
     "article": "A Double-Blind Randomized Placebo-Controlled Pilot Study of Azithromycin in Youth with Acute-Onset Obsessive-Compulsive Disorder.",
@@ -30965,7 +30075,7 @@
     "take": "keep"
   },
   {
-    "id": 497,
+    "id": 483,
     "pmid": "28137316",
     "source": "PubMed",
     "article": "A pilot randomized controlled trial of time-intensive cognitive-behaviour therapy for postpartum obsessive-compulsive disorder: effects on maternal symptoms, mother-infant interactions and attachment.",
@@ -31023,67 +30133,7 @@
     "take": "keep"
   },
   {
-    "id": 498,
-    "pmid": "28966908",
-    "source": "PubMed",
-    "article": "The link between ADHD-like inattention and obsessions and compulsions during treatment of youth with OCD.",
-    "authors": [
-      "Guzick Andrew G",
-      "McNamara Joseph P H",
-      "Reid Adam M",
-      "Balkhi Amanda M",
-      "Storch Eric A",
-      "Murphy Tanya K",
-      "Goodman Wayne K",
-      "Bussing Regina",
-      "Geffken Gary R"
-    ],
-    "date": "2016-11-23",
-    "journal": "Journal of obsessive-compulsive and related disorders",
-    "doi": "10.1016/j.jocrd.2016.11.004",
-    "topic": "Детское OCD",
-    "topic_key": "ocd",
-    "topic_keys": [
-      "ocd"
-    ],
-    "topics": [
-      "Детское OCD"
-    ],
-    "abstract_en": "Attention-deficit/hyperactivity disorder (ADHD) has been found to be highly comorbid in children and adolescents with obsessive-compulsive disorder (OCD). Some have proposed, however, that obsessive anxiety may cause inattention and executive dysfunction, leading to inappropriate ADHD diagnoses in those with OCD. If this were the case, these symptoms would be expected to decrease following successful OCD treatment. The present study tested this hypothesis and evaluated whether ADHD symptoms at baseline predicted OCD treatment response. Obsessive-compulsive and ADHD symptoms were assessed in 50 youth enrolled in a randomized controlled trial investigating selective serotonin reuptake inhibitor and cognitive behavioral treatment. Repeated-measures analysis of variance (RMANOVA) revealed that ADHD symptoms at baseline do not significantly predict treatment outcome. A multivariate RMANOVA found that OCD treatment response moderated change in inattention; participants who showed greater reduction in OCD severity experienced greater reduction in ADHD-inattentive symptoms, while those with less substantial reduction in obsessions and compulsions showed less change. These findings suggest that children and adolescents with OCD and inattention may experience meaningful improvements in attention problems following OCD treatment. Thus, in many youth with OCD, inattention may be inherently tied to obsessions and compulsions. Clinicians may consider addressing OCD in treatment before targeting inattentive-type ADHD.",
-    "article_link": "https://pubmed.ncbi.nlm.nih.gov/28966908/",
-    "pmc_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5619255/",
-    "html_available": true,
-    "html_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5619255/",
-    "title_ru": "Связь невнимательности, похожей на СДВГ, с обсессиями и компульсиями у детей и подростков во время лечения ОКР",
-    "patient_plain": "",
-    "patient_use": "Если у ребёнка с ОКР есть рассеянность, забывчивость или трудности с выполнением школьных заданий, обсудите с врачом, могут ли эти проявления усиливаться из-за навязчивых мыслей и ритуалов. Полезно отслеживать, меняется ли внимание по мере уменьшения симптомов ОКР, а не оценивать его трудности изолированно от основного расстройства. Не следует автоматически считать невнимательность отдельным СДВГ, но и списывать все симптомы на ОКР без оценки специалиста тоже не стоит.",
-    "practical_use": "При диагностике СДВГ у ребёнка с ОКР важно различать самостоятельные симптомы нейроразвитийного расстройства и вторичные трудности внимания, связанные с обсессивной нагрузкой. На фоне лечения следует сопоставлять динамику невнимательности с изменениями тяжести ОКР, используя повторные оценки обоих наборов симптомов. Если невнимательность сохраняется несмотря на улучшение ОКР, это служит основанием для отдельной клинической оценки возможного сопутствующего СДВГ. При этом предложенная авторами последовательность лечения является клиническим ориентиром, а не доказательством необходимости откладывать помощь при СДВГ во всех случаях.",
-    "summary": "У детей и подростков с обсессивно-компульсивным расстройством (ОКР) нередко выявляют симптомы синдрома дефицита внимания и гиперактивности (СДВГ). По данным обзора 42 исследований, распространённость СДВГ среди детей и подростков с основным диагнозом ОКР составляла в среднем 19%. Однако невнимательность, забывчивость и трудности с планированием могут быть связаны не только с самостоятельным СДВГ, но и с истощением ресурсов внимания из-за постоянных попыток контролировать навязчивые мысли.\n\nВ исследовании участвовали 50 детей и подростков с ОКР, включённых в рандомизированное контролируемое исследование лекарственной терапии селективными ингибиторами обратного захвата серотонина и когнитивно-поведенческой терапии. Исследователи оценивали симптомы ОКР и СДВГ до лечения и отслеживали их изменения. Исходная выраженность симптомов СДВГ не позволяла статистически значимо предсказать результат лечения ОКР. При этом у участников, у которых симптомы ОКР уменьшились сильнее, заметнее снижалась и невнимательность; при менее выраженном улучшении ОКР изменения внимания были меньше.\n\nРезультаты указывают, что у части детей и подростков невнимательность может быть тесно связана с обсессиями и компульсиями и уменьшаться при успешном лечении ОКР. Авторы предлагают рассмотреть возможность приоритетного лечения ОКР перед целенаправленной терапией невнимательности, характерной для СДВГ. Однако результаты не доказывают, что невнимательность во всех случаях вызвана ОКР: семейные и клинические данные также указывают на возможность независимого сосуществования обоих расстройств.",
-    "_reason": "Статья помогает избежать поспешной диагностики СДВГ у детей с ОКР, поскольку часть проблем с вниманием может уменьшаться вместе с обсессиями и компульсиями. Практическая значимость ограничена небольшой выборкой из 50 участников и тем, что результаты не исключают независимого сосуществования двух расстройств.",
-    "why_read": "Статья особенно полезна детским психиатрам, клиническим психологам и специалистам, которые оценивают внимание и школьное функционирование у детей с ОКР. Её стоит прочитать при выборе последовательности лечения и интерпретации изменений невнимательности на фоне терапии ОКР.",
-    "limitations": [
-      "Obsessive-compulsive and ADHD symptoms were assessed in 50 youth",
-      "ADHD symptoms at baseline do not significantly predict treatment outcome",
-      "there are independent familial risk factors for developing ADHD and OCD"
-    ],
-    "advice_items": [
-      {
-        "quote": "participants who showed greater reduction in OCD severity experienced greater reduction in ADHD-inattentive symptoms, while those with less substantial reduction in obsessions and compulsions showed less change.",
-        "advice": "При наблюдении за ребёнком оценивайте изменения невнимательности параллельно с динамикой обсессий и компульсий. Если оба набора симптомов уменьшаются одновременно, учитывайте возможную связь между ними, но не делайте вывод об отсутствии самостоятельного СДВГ только на этом основании.",
-        "audience": "врач"
-      },
-      {
-        "quote": "Clinicians may consider addressing OCD in treatment before targeting inattentive-type ADHD.",
-        "advice": "Обсудите с лечащим специалистом, целесообразно ли сначала оценить эффект лечения ОКР на внимание ребёнка. Последовательность вмешательств следует определять индивидуально, поскольку статья не устанавливает, что такой подход подходит всем детям с обоими расстройствами.",
-        "audience": "пациент"
-      }
-    ],
-    "importance_stars": 5,
-    "importance_mark": "★★★★★",
-    "take": "keep"
-  },
-  {
-    "id": 499,
+    "id": 484,
     "pmid": "27869451",
     "source": "PubMed",
     "article": "Internet-delivered, family-based treatment for early-onset OCD: A pilot randomized trial.",
@@ -31151,7 +30201,7 @@
     "take": "keep"
   },
   {
-    "id": 500,
+    "id": 485,
     "pmid": "28012531",
     "source": "PubMed",
     "article": "Improvement of psychiatric symptoms in youth following resolution of sinusitis.",
@@ -31211,7 +30261,7 @@
     "take": "keep"
   },
   {
-    "id": 501,
+    "id": 486,
     "pmid": "27993223",
     "source": "PubMed",
     "article": "Therapist-Guided, Internet-Delivered Cognitive-Behavioral Therapy for Adolescents With Obsessive-Compulsive Disorder: A Randomized Controlled Trial.",
@@ -31276,7 +30326,7 @@
     "take": "keep"
   },
   {
-    "id": 502,
+    "id": 487,
     "pmid": "27711249",
     "source": "PubMed",
     "article": "\"On My Own, but Not Alone\" - Adolescents' Experiences of Internet-Delivered Cognitive Behavior Therapy for Obsessive-Compulsive Disorder.",
@@ -31337,7 +30387,7 @@
     "take": "keep"
   },
   {
-    "id": 503,
+    "id": 488,
     "pmid": "27632568",
     "source": "PubMed",
     "article": "Cognitive behavioral and pharmacological treatments of OCD in children: A systematic review and meta-analysis.",
@@ -31391,7 +30441,7 @@
     "take": "keep"
   },
   {
-    "id": 504,
+    "id": 489,
     "pmid": "27663940",
     "source": "PubMed",
     "article": "Systematic Review and Meta-Analysis: Early Treatment Responses of Selective Serotonin Reuptake Inhibitors and Clomipramine in Pediatric Obsessive-Compulsive Disorder.",
@@ -31452,7 +30502,7 @@
     "take": "keep"
   },
   {
-    "id": 505,
+    "id": 490,
     "pmid": "27663941",
     "source": "PubMed",
     "article": "Randomized, Controlled Trial of Intravenous Immunoglobulin for Pediatric Autoimmune Neuropsychiatric Disorders Associated With Streptococcal Infections.",
@@ -31515,7 +30565,7 @@
     "take": "keep"
   },
   {
-    "id": 506,
+    "id": 491,
     "pmid": "27367832",
     "source": "PubMed",
     "article": "Efficacy of Augmentation of Cognitive Behavior Therapy With Weight-Adjusted d-Cycloserine vs Placebo in Pediatric Obsessive-Compulsive Disorder: A Randomized Clinical Trial.",
@@ -31578,7 +30628,7 @@
     "take": "keep"
   },
   {
-    "id": 507,
+    "id": 492,
     "pmid": "27209422",
     "source": "PubMed",
     "article": "Defining cognitive-behavior therapy response and remission in pediatric OCD: a signal detection analysis of the Children's Yale-Brown Obsessive Compulsive Scale.",
@@ -31640,7 +30690,7 @@
     "take": "keep"
   },
   {
-    "id": 508,
+    "id": 493,
     "pmid": "27182928",
     "source": "PubMed",
     "article": "Efficacy of Cognitive-Behavioral Therapy in Pediatric Obsessive-Compulsive Disorder: A Meta-Analysis.",
@@ -31700,7 +30750,7 @@
     "take": "keep"
   },
   {
-    "id": 509,
+    "id": 494,
     "pmid": "27058836",
     "source": "PubMed",
     "article": "[Effectiveness of cognitive-behavioral therapy in children and adolescents with obsessive-compulsive disorders treated in an outpatient clinic].",
@@ -31762,7 +30812,7 @@
     "take": "keep"
   },
   {
-    "id": 510,
+    "id": 495,
     "pmid": "27197125",
     "source": "PubMed",
     "article": "[A Review and Recommendations of Evidence-Based Treatments for Pediatric Obsessive-Compulsive Disorder].",
@@ -31816,7 +30866,7 @@
     "take": "keep"
   },
   {
-    "id": 511,
+    "id": 496,
     "pmid": "26629962",
     "source": "PubMed",
     "article": "What Future Role Might N-Acetyl-Cysteine Have in the Treatment of Obsessive Compulsive and Grooming Disorders?: A Systematic Review.",
@@ -31871,7 +30921,7 @@
     "take": "keep"
   },
   {
-    "id": 512,
+    "id": 497,
     "pmid": "26495770",
     "source": "PubMed",
     "article": "Side-effects of SSRIs disrupt multimodal treatment for pediatric OCD in a randomized-controlled trial.",
@@ -31931,7 +30981,7 @@
     "take": "keep"
   },
   {
-    "id": 513,
+    "id": 498,
     "pmid": "26348088",
     "source": "PubMed",
     "article": "Sertraline Treatment of Nonresponders to Extended Cognitive-Behavior Therapy in Pediatric Obsessive-Compulsive Disorder.",
@@ -31985,7 +31035,7 @@
     "take": "keep"
   },
   {
-    "id": 514,
+    "id": 499,
     "pmid": "26375768",
     "source": "PubMed",
     "article": "A Promising Preliminary Study of Aripiprazole for Treatment-Resistant Childhood Obsessive-Compulsive Disorder.",
@@ -32041,7 +31091,7 @@
     "take": "keep"
   },
   {
-    "id": 515,
+    "id": 500,
     "pmid": "26308588",
     "source": "PubMed",
     "article": "Residential treatment outcomes for adolescents with obsessive-compulsive disorder.",
@@ -32107,64 +31157,7 @@
     "take": "keep"
   },
   {
-    "id": 516,
-    "pmid": "26216164",
-    "source": "PubMed",
-    "article": "Child-focused treatment of pediatric OCD affects parental behavior and family environment.",
-    "authors": [
-      "Gorenstein Gabriela",
-      "Gorenstein Clarice",
-      "de Oliveira Melaine Cristina",
-      "Asbahr Fernando Ramos",
-      "Shavitt Roseli Gedanke"
-    ],
-    "date": "2015-07-17",
-    "journal": "Psychiatry research",
-    "doi": "10.1016/j.psychres.2015.07.050",
-    "topic": "Детское OCD",
-    "topic_key": "ocd",
-    "topic_keys": [
-      "ocd"
-    ],
-    "topics": [
-      "Детское OCD"
-    ],
-    "abstract_en": "This study aimed to investigate the impact of child-focused pediatric OCD treatment on parental anxiety, family accommodation and family environment. Forty-three parents (72.1% female, mean age±SD=43.1±5.6 years) were evaluated at baseline and after their children's (n=33, 54.5% female, mean age±SD=12.9±2.7 years) randomized treatment with Group Cognitive-Behavioral Therapy or fluoxetine for 14 weeks. Validated instruments were administered by trained clinicians. Parents were assessed with the State-Trait Anxiety Inventory (STAI), the Family Accommodation Scale (FAS) and the Family Environment Scale (FES). The Yale-Brown Obsessive-Compulsive Scale was administered to children. Significant findings after the children's treatment include decreased family accommodation levels (participation, modification and distress/consequences domains); increased cohesion and active-recreational components of the family environment. In addition, changes in the FAS distress/consequences and the FES cohesion subscores were correlated with the children's clinical improvement. These results suggest that child-focused OCD treatment may have a positive impact on family accommodation and family environment. Future studies should further clarify the reciprocal influences of pediatric OCD treatment and family factors.",
-    "article_link": "https://pubmed.ncbi.nlm.nih.gov/26216164/",
-    "pmc_link": "",
-    "html_available": false,
-    "html_link": "",
-    "title_ru": "Как лечение детского ОКР влияет на поведение родителей и семейную атмосферу",
-    "patient_plain": "",
-    "patient_use": "При обсуждении лечения ребёнка стоит оценивать не только выраженность навязчивостей и ритуалов, но и то, насколько семья участвует в них, меняет распорядок дня и ограничивает совместную деятельность. Полезно спросить специалиста, как поддерживать ребёнка, не закрепляя симптомы постоянными уступками, проверками или участием в ритуалах. Улучшение семейной атмосферы может сопровождать лечение, но не гарантировано и не означает, что родители виноваты в развитии ОКР.",
-    "practical_use": "При оценке результатов детского лечения специалисту стоит отдельно отслеживать семейную адаптацию к симптомам, сплочённость и совместную досуговую активность, а не ограничиваться изменением баллов по шкале ОКР. Для этого в исследовании использовались шкала семейной адаптации к ОКР (FAS) и шкала семейного окружения (FES), заполняемые в рамках оценки до и после лечения. Корреляция семейных изменений с клиническим улучшением обосновывает включение семейных показателей в мониторинг, но сама по себе не доказывает причинную связь. Результаты не позволяют утверждать, что один из двух изученных методов лечения лучше другого по влиянию на семью.",
-    "summary": "В исследовании оценивали, как лечение обсессивно-компульсивного расстройства (ОКР) у детей влияет на тревожность родителей, их участие в ритуалах и семейную атмосферу. В исследовании участвовали 33 ребёнка со средним возрастом 12,9 ± 2,7 года и 43 родителя, средний возраст которых составлял 43,1 ± 5,6 года. Дети в течение 14 недель получали групповую когнитивно-поведенческую терапию (КПТ) или флуоксетин. Состояние детей оценивали по шкале Йеля — Брауна для обсессивно-компульсивных симптомов, а родителей — по шкале тревожности Спилбергера, шкале семейной адаптации к ОКР и шкале семейного окружения.\n\nПосле лечения снизилась семейная адаптация к ОКР: родители реже участвовали в симптоматическом поведении детей, изменяли повседневную жизнь с учётом симптомов и испытывали меньше связанных с этим переживаний и последствий. Одновременно повысились сплочённость семьи и выраженность совместной активной досуговой деятельности. Улучшение показателей переживаний и последствий семейной адаптации, а также сплочённости семьи коррелировало с клиническим улучшением состояния детей.\n\nРезультаты показывают, что лечение, направленное непосредственно на ребёнка, может сопровождаться благоприятными изменениями семейного поведения и атмосферы. Однако исследование не позволяет установить, какие изменения были вызваны именно КПТ или флуоксетином, и не подтверждает, что тревожность родителей обязательно снижается: в абстракте значимые результаты по этому показателю не приведены. Авторы подчёркивают необходимость дальнейшего изучения взаимного влияния лечения ОКР и семейных факторов.",
-    "_reason": "Статья важна для практики детского ОКР, поскольку показывает, что после лечения могут уменьшаться участие семьи в симптомах и связанные с этим трудности, а семейная сплочённость может возрастать. Это помогает рассматривать семейные процессы как значимую часть оценки результатов, хотя исследование не устанавливает причинность и не позволяет сравнить влияние КПТ и флуоксетина на семью.",
-    "why_read": "Статья полезна детским психиатрам, психотерапевтам и специалистам, работающим с семьями детей с ОКР. Её стоит прочитать тем, кто оценивает эффект лечения по изменению симптомов ребёнка и хочет дополнительно учитывать семейную адаптацию, сплочённость и совместную активность.",
-    "limitations": [
-      "Forty-three parents",
-      "children's (n=33",
-      "for 14 weeks",
-      "Future studies should further clarify the reciprocal influences of pediatric OCD treatment and family factors."
-    ],
-    "advice_items": [
-      {
-        "quote": "Significant findings after the children's treatment include decreased family accommodation levels (participation, modification and distress/consequences domains); increased cohesion and active-recreational components of the family environment.",
-        "advice": "При оценке динамики детского ОКР отдельно выясняйте, участвуют ли родители в ритуалах, перестраивают ли семейный распорядок под симптомы и насколько тяжело семье переносить связанные с ними последствия. Дополнительно оценивайте сплочённость семьи и совместную активную деятельность. Эти показатели могут отражать изменения, которые не полностью описываются выраженностью симптомов ребёнка.",
-        "audience": "врач"
-      },
-      {
-        "quote": "In addition, changes in the FAS distress/consequences and the FES cohesion subscores were correlated with the children's clinical improvement.",
-        "advice": "Обсуждайте с семьёй динамику её повседневной жизни параллельно с клиническими изменениями у ребёнка. Если состояние ребёнка улучшается, но семейные уступки и связанные с симптомами переживания сохраняются, это стоит учитывать при дальнейшем планировании психологической помощи. Корреляцию нельзя трактовать как доказательство того, что семейные изменения непосредственно вызывают улучшение ОКР или являются его обязательным следствием.",
-        "audience": "врач"
-      }
-    ],
-    "importance_stars": 5,
-    "importance_mark": "★★★★★",
-    "take": "keep"
-  },
-  {
-    "id": 517,
+    "id": 501,
     "pmid": "26130211",
     "source": "PubMed",
     "article": "A META-ANALYSIS OF COGNITIVE BEHAVIOR THERAPY AND MEDICATION FOR CHILD OBSESSIVE-COMPULSIVE DISORDER: MODERATORS OF TREATMENT EFFICACY, RESPONSE, AND REMISSION.",
@@ -32227,7 +31220,7 @@
     "take": "keep"
   },
   {
-    "id": 518,
+    "id": 502,
     "pmid": "26046809",
     "source": "PubMed",
     "article": "Obsessive compulsive disorder in children and adolescents: duration of maintenance drug treatment.",
@@ -32280,7 +31273,7 @@
     "take": "skim"
   },
   {
-    "id": 519,
+    "id": 503,
     "pmid": "26091197",
     "source": "PubMed",
     "article": "Tics Moderate Sertraline, but Not Cognitive-Behavior Therapy Response in Pediatric Obsessive-Compulsive Disorder Patients Who Do Not Respond to Cognitive-Behavior Therapy.",
@@ -32345,7 +31338,7 @@
     "take": "keep"
   },
   {
-    "id": 520,
+    "id": 504,
     "pmid": "25957940",
     "source": "PubMed",
     "article": "Augmentation of cognitive and behavioural therapies (CBT) with d-cycloserine for anxiety and related disorders.",
@@ -32405,7 +31398,7 @@
     "take": "keep"
   },
   {
-    "id": 521,
+    "id": 505,
     "pmid": "25912534",
     "source": "PubMed",
     "article": "N-acetyl cysteine in the treatment of obsessive compulsive and related disorders: a systematic review.",
@@ -32466,7 +31459,7 @@
     "take": "keep"
   },
   {
-    "id": 522,
+    "id": 506,
     "pmid": "25901842",
     "source": "PubMed",
     "article": "Psychological treatment of obsessive-compulsive disorder in children and adolescents: a meta-analysis.",
@@ -32519,124 +31512,7 @@
     "take": "keep"
   },
   {
-    "id": 523,
-    "pmid": "25052626",
-    "source": "PubMed",
-    "article": "Exposure and response prevention process predicts treatment outcome in youth with OCD.",
-    "authors": [
-      "Kircanski Katharina",
-      "Peris Tara S"
-    ],
-    "date": "2015-04-01",
-    "journal": "Journal of abnormal child psychology",
-    "doi": "10.1007/s10802-014-9917-2",
-    "topic": "Детское OCD",
-    "topic_key": "ocd",
-    "topic_keys": [
-      "ocd"
-    ],
-    "topics": [
-      "Детское OCD"
-    ],
-    "abstract_en": "Recent research on the treatment of adults with anxiety disorders suggests that aspects of the in-session exposure therapy process are relevant to clinical outcomes. However, few comprehensive studies have been conducted with children and adolescents. In the present study, 35 youth diagnosed with primary obsessive-compulsive disorder (OCD; M age = 12.9 years, 49% male, 63% Caucasian) completed 12 sessions of exposure and response prevention (ERP) in one of two treatment conditions as part of a pilot randomized controlled testing of a family focused intervention for OCD. Key exposure process variables, including youth self-reported distress during ERP and the quantity and quality of ERP completed, were computed. These variables were examined as predictors of treatment outcomes assessed at mid-treatment, post-treatment, and three-month follow-up, partialing treatment condition. In general, greater variability of distress during ERP and completing a greater proportion of combined exposures (i.e., exposures targeting more than one OC symptom at once) were predictive of better outcomes. Conversely, greater distress at the end of treatment was generally predictive of poorer outcomes. Finally, several variables, including within- and between-session decreases in distress during ERP, were not consistently predictive of outcomes. Findings signal potentially important facets of exposure for youth with OCD and have implications for treatment. A number of results also parallel recent findings in the adult literature, suggesting that there may be some continuity in exposure processes from child to adult development. Future work should examine additional measures of exposure process, such as psychophysiological arousal during exposure, in youth.",
-    "article_link": "https://pubmed.ncbi.nlm.nih.gov/25052626/",
-    "pmc_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4305046/",
-    "html_available": true,
-    "html_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4305046/",
-    "title_ru": "Какие особенности экспозиционной терапии предсказывают результат лечения обсессивно-компульсивного расстройства у детей и подростков",
-    "patient_plain": "",
-    "patient_use": "При обсуждении терапии стоит уточнить, включает ли план упражнения, затрагивающие несколько связанных симптомов ОКР, и как специалист оценивает их пользу. Не следует считать, что успешное лечение обязательно требует быстрого снижения тревоги в каждом упражнении: в этом исследовании её колебания сами по себе не означали плохого результата. Если к концу курса тревога остаётся высокой, полезно обсудить с терапевтом общую динамику симптомов и необходимость пересмотра плана, а не оценивать лечение только по субъективным ощущениям во время отдельных упражнений.",
-    "practical_use": "При проведении экспозиции с предотвращением реакций полезно отслеживать не только тревогу до и после упражнения, но и её вариабельность, максимальные значения между сеансами, состав заданий и клиническую динамику. Комбинированные экспозиции можно рассматривать как потенциально значимый компонент работы с несколькими симптомами ОКР, индивидуально оценивая их уместность и выполнимость. Высокую тревогу в конце курса следует сопоставлять с изменениями симптомов и повседневного функционирования, не трактуя её как самостоятельное доказательство неэффективности. Результаты следует применять осторожно из-за небольшой выборки и пилотного характера исследования.",
-    "summary": "В исследовании участвовали 35 детей и подростков с обсессивно-компульсивным расстройством (ОКР), средний возраст которых составлял 12,9 года; 49% участников были мальчиками. Все прошли 12 сеансов экспозиции с предотвращением реакций (ERP) в рамках пилотного рандомизированного контролируемого исследования семейно-ориентированного вмешательства. Авторы оценивали выраженность тревоги во время упражнений, её изменения в пределах одного сеанса и между сеансами, количество и продолжительность упражнений, а также долю комбинированных экспозиций, направленных одновременно на несколько симптомов ОКР. Результаты лечения оценивали в середине курса, после его завершения и через три месяца.\n\nБолее высокая доля комбинированных экспозиций предсказывала лучшие результаты в середине курса и после лечения по отдельным показателям тяжести симптомов и общего функционирования. Через три месяца большая вариабельность тревоги во время экспозиций была связана с лучшими результатами по шкале тяжести симптомов ОКР и общей клинической тяжести. Более выраженная тревога в конце лечения, напротив, предсказывала менее благоприятный результат в середине курса и после его завершения. На промежуточном этапе снижение максимальной тревоги между сеансами также было связано с улучшением по отдельным показателям. При этом снижение тревоги в ходе одного сеанса и между сеансами не демонстрировало устойчивой связи с результатами во всех временных точках.\n\nИсследование показывает, что результат терапии может зависеть не только от факта проведения экспозиций, но и от характера упражнений и динамики тревоги. Однако это небольшое пилотное исследование, в котором изучались предикторы результата, а не сравнивалась эффективность разных способов проведения экспозиций. Выявленные связи не доказывают причинность и не позволяют считать усиление тревоги или комбинирование симптомов универсальной целью лечения.",
-    "_reason": "Статья помогает уточнить, какие характеристики экспозиционной терапии могут быть связаны с результатом лечения ОКР у детей и подростков. Особенно полезны наблюдения о комбинированных упражнениях, вариабельности тревоги и высокой тревоге в конце курса, однако небольшая выборка не позволяет превращать эти связи в универсальные правила проведения терапии.",
-    "why_read": "Статья полезна детским и подростковым психотерапевтам, клиническим психологам и специалистам, работающим с ОКР методом экспозиции с предотвращением реакций. Её стоит прочитать тем, кто хочет лучше понимать, какие параметры упражнений и изменения тревоги отслеживать в ходе лечения и при оценке результата через несколько месяцев.",
-    "limitations": [
-      "35 youth diagnosed with primary obsessive-compulsive disorder",
-      "completed 12 sessions of exposure and response prevention (ERP)",
-      "as part of a pilot randomized controlled testing of a family focused intervention for OCD",
-      "several variables, including within- and between-session decreases in distress during ERP, were not consistently predictive of outcomes",
-      "Future work should examine additional measures of exposure process, such as psychophysiological arousal during exposure, in youth."
-    ],
-    "advice_items": [
-      {
-        "quote": "a greater proportion of ERP tasks per session that were combined exposures predicted greater improvement through post-treatment on the CGI-I",
-        "advice": "При планировании и разборе экспозиционных упражнений отмечайте, направлено ли задание на один симптом или одновременно на несколько симптомов ОКР. Оценивайте уместность комбинированных упражнений с учётом индивидуальной формулировки случая и отслеживайте клинический результат, не предполагая, что такой формат подходит каждому пациенту.",
-        "audience": "врач"
-      },
-      {
-        "quote": "Conversely, higher final distress predicted lesser improvement through post-treatment on the CGI-I",
-        "advice": "При оценке лечения сопоставляйте тревогу в конце курса с изменениями симптомов и общего функционирования. Высокая остаточная тревога может указывать на менее благоприятную динамику, но сама по себе не заменяет комплексную клиническую оценку и не доказывает неэффективность терапии.",
-        "audience": "врач"
-      },
-      {
-        "quote": "greater variability in distress predicted greater improvement through three-month follow-up on the CY-BOCS",
-        "advice": "При наблюдении за пациентом фиксируйте не только средний уровень тревоги, но и её колебания во время экспозиций. Интерпретируйте эти данные совместно с изменениями выраженности симптомов ОКР при последующем наблюдении, поскольку связь вариабельности тревоги с результатом не означает, что её следует намеренно усиливать.",
-        "audience": "врач"
-      }
-    ],
-    "importance_stars": 5,
-    "importance_mark": "★★★★★",
-    "take": "keep"
-  },
-  {
-    "id": 524,
-    "pmid": "25783756",
-    "source": "PubMed",
-    "article": "Overactive Performance Monitoring as an Endophenotype for Obsessive-Compulsive Disorder: Evidence From a Treatment Study.",
-    "authors": [
-      "Riesel Anja",
-      "Endrass Tanja",
-      "Auerbach Lea Antonia",
-      "Kathmann Norbert"
-    ],
-    "date": "2015-03-17",
-    "journal": "The American journal of psychiatry",
-    "doi": "10.1176/appi.ajp.2014.14070886",
-    "topic": "Детское OCD",
-    "topic_key": "ocd",
-    "topic_keys": [
-      "ocd"
-    ],
-    "topics": [
-      "Детское OCD"
-    ],
-    "abstract_en": "OBJECTIVE: Overactive performance monitoring, as measured by the error-related negativity in the event-related brain potential, represents one of the most robust psychophysiological alterations in obsessive-compulsive disorder (OCD). It has been proposed as an endophenotype for OCD because it is heritable and more prevalent in families of OCD patients. Consistent with this notion, it is also independent of symptom profile and symptom severity in cross-sectional studies. Longitudinally, it has been shown to be state independent in pediatric patients with OCD. The purpose of the present study was to investigate the state dependency of error monitoring by examining adult OCD patients before and after symptom reduction through cognitive-behavioral therapy (CBT).\n\nMETHOD: Error-related and correct-related negativity as electrophysiological indicators of performance monitoring were recorded from 45 OCD patients and 39 healthy comparison subjects while performing a flanker task. Patients were assessed before starting and after completing a standard 30-session CBT, including exposure and response prevention, and healthy comparison subjects were tested after a comparable time interval.\n\nRESULTS: Pretreatment, patients with OCD were characterized by enhanced error-related and correct-related negativity compared with healthy comparison subjects. This difference persisted after treatment when symptoms were substantially reduced. There was no significant correlation between symptom improvement and changes in performance monitoring and no difference in performance monitoring between treatment responders and nonresponders.\n\nCONCLUSIONS: This is the first longitudinal study in adult OCD patients showing stability of enhanced error monitoring following successful symptom reduction through CBT. It supports the hypothesis that overactive performance monitoring is an endophenotype that indicates vulnerability for OCD.",
-    "article_link": "https://pubmed.ncbi.nlm.nih.gov/25783756/",
-    "pmc_link": "",
-    "html_available": false,
-    "html_link": "",
-    "title_ru": "Повышенный мониторинг ошибок как маркер уязвимости к обсессивно-компульсивному расстройству: изменения после когнитивно-поведенческой терапии",
-    "patient_plain": "",
-    "patient_use": "После уменьшения навязчивостей и компульсий не обязательно исчезают все особенности обработки ошибок мозгом, и это само по себе не означает, что психотерапия не сработала. Обсуждая результаты лечения с врачом, полезно отдельно оценивать изменения симптомов и повседневного функционирования, а не ожидать, что все нейрофизиологические особенности нормализуются одновременно. Исследование не показывает, что для оценки результата лечения необходимо проходить регистрацию мозговых реакций.",
-    "practical_use": "При оценке ответа на КПТ следует разделять клиническое улучшение и устойчивые нейрофизиологические особенности: в этом исследовании показатели мониторинга ошибок не различали пациентов, ответивших и не ответивших на терапию. Электрофизиологические реакции на ошибки и правильные ответы можно рассматривать как исследовательские маркеры предрасположенности, но не как валидированный индивидуальный прогностический инструмент. При обсуждении результатов важно учитывать, что наблюдение проводилось до и после курса из 30 сеансов и не устанавливает долгосрочную прогностическую ценность этих показателей.",
-    "summary": "В исследовании проверяли, зависит ли повышенный мониторинг ошибок при обсессивно-компульсивном расстройстве (ОКР) от выраженности симптомов или сохраняется даже после улучшения состояния. Участвовали 45 взрослых пациентов с ОКР и 39 здоровых участников контрольной группы. Электрофизиологические показатели мониторинга ошибок и правильных ответов регистрировали во время выполнения задания с фланкерным конфликтом. Пациенты прошли стандартный курс когнитивно-поведенческой терапии (КПТ) из 30 сеансов, включавший экспозицию с предотвращением ритуалов и реакций избегания.\n\nДо лечения у пациентов с ОКР наблюдались более выраженные реакции мозга на ошибки и правильные ответы, чем у здоровых участников. После терапии, несмотря на существенное уменьшение симптомов, это различие сохранялось. Изменения мониторинга ошибок не были значимо связаны с улучшением симптомов, а показатели пациентов, ответивших на лечение, не отличались от показателей тех, кто не ответил на него.\n\nРезультаты поддерживают гипотезу, что усиленный мониторинг ошибок является эндофенотипом ОКР — относительно устойчивой особенностью, связанной с предрасположенностью к расстройству, а не только с текущей выраженностью симптомов. Исследование проведено у взрослых, поэтому его результаты нельзя напрямую считать подтверждением аналогичных изменений у детей или использовать этот показатель как самостоятельный диагностический тест.",
-    "_reason": "Исследование помогает объяснить, почему нейрофизиологические особенности, связанные с ОКР, могут сохраняться даже после существенного уменьшения симптомов. Для практики важно не путать устойчивый маркер уязвимости с показателем неэффективности лечения: мониторинг ошибок не отражал степень клинического улучшения и не позволял различить ответивших и не ответивших на КПТ.",
-    "why_read": "Статья полезна специалистам, работающим со взрослыми пациентами с ОКР, и исследователям нейрофизиологических маркеров расстройства. Её стоит прочитать тем, кто изучает механизмы КПТ, эндофенотипы ОКР и различия между клиническим ответом на лечение и устойчивыми особенностями работы мозга.",
-    "limitations": [
-      "45 OCD patients and 39 healthy comparison subjects",
-      "a standard 30-session CBT, including exposure and response prevention",
-      "no significant correlation between symptom improvement and changes in performance monitoring",
-      "no difference in performance monitoring between treatment responders and nonresponders",
-      "This is the first longitudinal study in adult OCD patients"
-    ],
-    "advice_items": [
-      {
-        "quote": "This difference persisted after treatment when symptoms were substantially reduced.",
-        "advice": "При разборе результатов КПТ объясняйте, что существенное уменьшение симптомов не обязательно сопровождается нормализацией всех нейрофизиологических показателей. Не трактуйте сохранение усиленного мониторинга ошибок как самостоятельное свидетельство неудачи лечения. Ориентируйтесь на клинические изменения, а не на предполагаемое исчезновение этого экспериментального маркера.",
-        "audience": "врач"
-      },
-      {
-        "quote": "There was no significant correlation between symptom improvement and changes in performance monitoring and no difference in performance monitoring between treatment responders and nonresponders.",
-        "advice": "Не используйте изменения мониторинга ошибок для оценки индивидуального ответа на КПТ: в исследовании они не были связаны с улучшением симптомов и не различали ответивших и не ответивших на терапию. При обсуждении нейрофизиологических результатов отдельно обозначайте их исследовательский статус и не подменяйте ими оценку клинической динамики.",
-        "audience": "врач"
-      }
-    ],
-    "importance_stars": 5,
-    "importance_mark": "★★★★★",
-    "take": "keep"
-  },
-  {
-    "id": 525,
+    "id": 507,
     "pmid": "25771752",
     "source": "PubMed",
     "article": "Cognitive-behavioral therapy for pediatric obsessive-compulsive disorder: Empirical review and clinical recommendations.",
@@ -32696,7 +31572,7 @@
     "take": "keep"
   },
   {
-    "id": 526,
+    "id": 508,
     "pmid": "25724385",
     "source": "PubMed",
     "article": "Augmentation of Treatment As Usual with online Cognitive Bias Modification of Interpretation training in adolescents with Obsessive Compulsive Disorder: A pilot study.",
@@ -32749,7 +31625,7 @@
     "take": "keep"
   },
   {
-    "id": 527,
+    "id": 509,
     "pmid": "25791142",
     "source": "PubMed",
     "article": "Assessment and management of treatment-refractory obsessive-compulsive disorder in children.",
@@ -32822,7 +31698,7 @@
     "take": "keep"
   },
   {
-    "id": 528,
+    "id": 510,
     "pmid": "25769521",
     "source": "PubMed",
     "article": "The place of and evidence for serotonin reuptake inhibitors (SRIs) for obsessive compulsive disorder (OCD) in children and adolescents: Views based on a systematic review and meta-analysis.",
@@ -32889,124 +31765,7 @@
     "take": "keep"
   },
   {
-    "id": 529,
-    "pmid": "25591044",
-    "source": "PubMed",
-    "article": "Sleep problems and cognitive behavior therapy in pediatric obsessive-compulsive disorder have bidirectional effects.",
-    "authors": [
-      "Ivarsson Tord",
-      "Skarphedinsson Gudmundur"
-    ],
-    "date": "2014-12-30",
-    "journal": "Journal of anxiety disorders",
-    "doi": "10.1016/j.janxdis.2014.12.009",
-    "topic": "Детское OCD",
-    "topic_key": "ocd",
-    "topic_keys": [
-      "ocd"
-    ],
-    "topics": [
-      "Детское OCD"
-    ],
-    "abstract_en": "OBJECTIVES: To investigate the presence of sleep problems and their reaction to CBT in pediatric obsessive compulsive disorder (OCD). Moreover, we investigated whether sleep problems predict the outcome of CBT on OCD-symptoms.\n\nMETHODS: 269 children and adolescents, age 7-17 years, with DSM-IV primary OCD that took part in the first step of a stepwise treatment trial, were assessed with regard to both individual sleep problems and a sleep composite score (SCS) using the Child Behavior Checklist (CBCL). Their OCD symptoms were rated using the Children Yale-Brown Obsessive Compulsive Scale (CY-BOCS).\n\nRESULTS: We found elevated symptoms of sleep deprivation and nightmares before treatment. However most sleep problems (e.g. nightmares (p=.03), too little sleep (p<.001), trouble sleeping (p<.001) and parasomnias p=.03)) as well as being over-tired (p<.001) reduced during CBT treatment. Co-morbidities had no effect on the reduction of SCS. Moreover, elevated levels of sleep problems using the SCS (p<.001), as well as any sleep problem at baseline (p<.001) predicted less effect of CBT on the OCD symptoms.\n\nCONCLUSION: Sleep problems in paediatric OCD are frequent and interfere with treatment outcome. They need to be assessed using better methods in future trials. Moreover, lack of resolution of sleep problems need to be recognized and treated as it seems probable that continued sleep problems may have a negative impact on CBT efficacy.",
-    "article_link": "https://pubmed.ncbi.nlm.nih.gov/25591044/",
-    "pmc_link": "",
-    "html_available": false,
-    "html_link": "",
-    "title_ru": "Проблемы со сном и когнитивно-поведенческая терапия при обсессивно-компульсивном расстройстве у детей: двусторонняя связь",
-    "patient_plain": "",
-    "patient_use": "Если ребёнок проходит КПТ по поводу ОКР, важно сообщить специалисту не только о навязчивых мыслях и ритуалах, но и о ночных кошмарах, недостатке сна, трудностях с засыпанием и дневной усталости. Стоит обсуждать изменения сна по ходу лечения, даже если симптомы ОКР постепенно уменьшаются. Если нарушения сна сохраняются, следует отдельно обсудить их оценку и необходимость помощи, поскольку они могут ограничивать результат психотерапии.",
-    "practical_use": "При первичной оценке ребёнка с ОКР целесообразно систематически фиксировать нарушения сна и учитывать их при интерпретации последующей динамики по CY-BOCS. В ходе КПТ следует повторно оценивать сон, различая общее улучшение и сохраняющиеся отдельные проблемы, включая парасомнии и ночные кошмары. Отсутствие улучшения симптомов ОКР при продолжающихся нарушениях сна — основание пересмотреть клиническую картину и отдельно оценить необходимость коррекции проблем со сном, а не автоматически считать КПТ неэффективной.",
-    "summary": "В исследовании участвовали 269 детей и подростков в возрасте 7–17 лет с обсессивно-компульсивным расстройством (ОКР). Авторы изучали, как проблемы со сном связаны с результатами когнитивно-поведенческой терапии (КПТ). Сон оценивали с помощью Опросника поведения ребёнка (Child Behavior Checklist, CBCL), включая отдельные нарушения и суммарный показатель проблем со сном (Sleep Composite Score, SCS). Выраженность симптомов ОКР измеряли по Детской шкале обсессивно-компульсивных симптомов Йеля — Брауна (Children's Yale-Brown Obsessive Compulsive Scale, CY-BOCS).\n\nДо начала лечения у детей часто отмечались недостаток сна и ночные кошмары. Во время КПТ уменьшились частота кошмаров (p=0,03), недостаточная продолжительность сна (p<0,001), трудности с засыпанием или сном (p<0,001), парасомнии (p=0,03) и повышенная утомляемость (p<0,001). Сопутствующие заболевания не влияли на снижение суммарного показателя проблем со сном.\n\nПри этом исходные нарушения сна были связаны с менее выраженным улучшением симптомов ОКР на фоне КПТ. Это относилось как к повышенному суммарному показателю проблем со сном (p<0,001), так и к наличию любой проблемы со сном до лечения (p<0,001). Таким образом, сон может улучшаться в ходе психотерапии, а сохраняющиеся нарушения сна могут мешать достижению терапевтического эффекта. Ограничение исследования состоит в том, что авторы указывают на необходимость более совершенных методов оценки сна в будущих исследованиях.",
-    "_reason": "Исследование показывает, что нарушения сна у детей с ОКР не только распространены, но и связаны с менее благоприятным ответом на КПТ. Для практики важно учитывать сон как отдельную область наблюдения: его улучшение может сопровождать лечение, а сохраняющиеся проблемы могут препятствовать достижению результата.",
-    "why_read": "Статья полезна детским психиатрам, клиническим психологам и специалистам, проводящим КПТ при ОКР у детей и подростков. Её стоит прочитать тем, кто оценивает недостаточный ответ на психотерапию или планирует мониторинг состояния ребёнка в ходе лечения.",
-    "limitations": [
-      "They need to be assessed using better methods in future trials.",
-      "continued sleep problems may have a negative impact on CBT efficacy."
-    ],
-    "advice_items": [
-      {
-        "quote": "Moreover, lack of resolution of sleep problems need to be recognized and treated as it seems probable that continued sleep problems may have a negative impact on CBT efficacy.",
-        "advice": "При наблюдении ребёнка с ОКР оценивайте, уменьшаются ли нарушения сна в ходе КПТ, а не только меняется ли выраженность обсессивно-компульсивных симптомов. Если проблемы со сном сохраняются, проведите отдельную клиническую оценку и определите необходимость помощи с учётом состояния ребёнка. При интерпретации результата терапии учитывайте, что продолжающиеся нарушения сна могут быть связаны с меньшим эффектом КПТ.",
-        "audience": "врач"
-      },
-      {
-        "quote": "Moreover, elevated levels of sleep problems using the SCS (p<.001), as well as any sleep problem at baseline (p<.001) predicted less effect of CBT on the OCD symptoms.",
-        "advice": "До начала КПТ фиксируйте наличие проблем со сном и, по возможности, используйте систематическую оценку их выраженности. Учитывайте исходные нарушения сна при обсуждении ожидаемого ответа на терапию и при последующей оценке динамики симптомов ОКР. Результаты исследования указывают на связь, но сами по себе не доказывают, что нарушения сна являются причиной недостаточного эффекта лечения.",
-        "audience": "врач"
-      }
-    ],
-    "importance_stars": 5,
-    "importance_mark": "★★★★★",
-    "take": "keep"
-  },
-  {
-    "id": 530,
-    "pmid": "25535011",
-    "source": "PubMed",
-    "article": "A pilot study of actigraphy as an objective measure of SSRI activation symptoms: results from a randomized placebo controlled psychopharmacological treatment study.",
-    "authors": [
-      "Bussing Regina",
-      "Reid Adam M",
-      "McNamara Joseph P H",
-      "Meyer Johanna M",
-      "Guzick Andrew G",
-      "Mason Dana M",
-      "Storch Eric A",
-      "Murphy Tanya K"
-    ],
-    "date": "2014-12-10",
-    "journal": "Psychiatry research",
-    "doi": "10.1016/j.psychres.2014.11.070",
-    "topic": "Детское OCD",
-    "topic_key": "ocd",
-    "topic_keys": [
-      "ocd"
-    ],
-    "topics": [
-      "Детское OCD"
-    ],
-    "abstract_en": "Selective serotonin reuptake inhibitors (SSRIs) are an efficacious and effective treatment for pediatric obsessive-compulsive disorder (OCD) but have received scrutiny due to a potential side effect constellation called activation syndrome. While recent research introduced a subjective measure of activation syndrome, objective measures have not been tested. This pilot study, using data from a larger randomized-controlled trial, investigated the potential of actigraphy to provide an objective measure of activation symptoms in 44 youths with OCD beginning an SSRI medication regimen. Data were collected over the first four weeks of a multi-site, parallel, double-blind, randomized, placebo controlled psychopharmacological treatment study and statistical modeling was utilized to test how activation syndrome severity predicts daily and nightly activity levels. Results indicated that youths with higher activation symptoms had lower daytime activity levels when treatment averages were analyzed; in contrast youths who experienced onset of activation symptoms one week were more likely to have higher day-time and night-time activity ratings that week. Results support actigraphy as a potential objective measure of activation symptoms. Subsequent studies are needed to confirm these findings and test clinical applications for use by clinicians to monitor activation syndrome during SSRI treatment. National Institutes of Health (5UO1 MH078594-01); NCT00382291.",
-    "article_link": "https://pubmed.ncbi.nlm.nih.gov/25535011/",
-    "pmc_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4428142/",
-    "html_available": true,
-    "html_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4428142/",
-    "title_ru": "Актиграфия для объективного выявления синдрома активации у детей и подростков с ОКР, начинающих лечение СИОЗС: пилотное рандомизированное плацебо-контролируемое исследование",
-    "patient_plain": "",
-    "patient_use": "Если ребёнок начинает принимать СИОЗС, стоит обсудить с лечащим врачом, какие изменения поведения и сна необходимо отслеживать, включая тревогу, раздражительность, бессонницу, импульсивность и необычное двигательное беспокойство. Актиграфия может помочь дополнить наблюдения за поведением объективными данными о движении и активности в течение дня и ночи, но сама по себе не определяет наличие синдрома активации. При появлении выраженного возбуждения, агрессивности, маниакальных симптомов или мыслей о самоповреждении важно оперативно связаться с лечащим специалистом.",
-    "practical_use": "Врачам, назначающим СИОЗС детям и подросткам с ОКР, важно различать средний уровень активности за период лечения и изменения, возникающие в конкретную неделю: в исследовании эти показатели имели противоположные связи с выраженностью симптомов активации. Актиграфию целесообразно рассматривать как исследовательский дополнительный показатель наряду с клинической оценкой и родительским опросником TEASAP, а не как самостоятельный диагностический тест. При интерпретации необходимо учитывать, что двигательная активность неспецифична, а пилотные результаты ещё требуют подтверждения в последующих исследованиях.",
-    "summary": "Исследование посвящено использованию актиграфии для объективной оценки синдрома активации у детей и подростков с обсессивно-компульсивным расстройством (ОКР), начинающих лечение селективными ингибиторами обратного захвата серотонина (СИОЗС). Синдром активации — это комплекс возможных поведенческих побочных эффектов, включающий тревогу, возбуждение, раздражительность, импульсивность, бессонницу, двигательное беспокойство, расторможенность, гипоманию и манию. Для его оценки ранее применяли, в частности, TEASAP (Treatment Emergent Activation Syndrome Assessment Profile) — опросник для родителей, охватывающий пять групп симптомов: раздражительность, двигательное беспокойство, расторможенность, маниакальные симптомы и самоповреждающее поведение.\n\nВ пилотном исследовании проанализировали данные 44 детей и подростков с ОКР, участвовавших в более крупном многоцентровом двойном слепом рандомизированном плацебо-контролируемом исследовании. В течение первых четырёх недель лечения оценивали связь выраженности симптомов активации с дневной и ночной двигательной активностью, измеряемой носимым на запястье устройством. При анализе средних показателей за период лечения участники с более выраженными симптомами активации демонстрировали более низкую дневную активность. Однако в отдельные недели, когда симптомы активации впервые возникали, активность в течение дня и ночи, напротив, чаще была повышенной.\n\nРезультаты указывают на потенциальную ценность актиграфии как объективного дополнения к оценке синдрома активации, но не подтверждают её готовность к самостоятельному клиническому применению. Связь между симптомами и движением зависела от способа анализа данных, а авторы подчёркивают необходимость дальнейших исследований для подтверждения результатов и определения возможностей мониторинга при лечении СИОЗС.",
-    "_reason": "Статья рассматривает практически значимую проблему безопасности СИОЗС у детей и подростков с ОКР и предлагает измеримый способ дополнить оценку поведенческих побочных эффектов. Однако противоположные результаты для средних и недельных показателей активности не позволяют использовать актиграфию как самостоятельный критерий синдрома активации.",
-    "why_read": "Статья полезна детским психиатрам и специалистам, наблюдающим детей с ОКР в начале терапии СИОЗС, особенно при оценке возбуждения, беспокойства и нарушений сна. Её также стоит прочитать исследователям, изучающим объективный мониторинг психофармакологических побочных эффектов и сочетание носимых датчиков с клиническими шкалами.",
-    "limitations": [
-      "pilot study",
-      "44 youths with OCD",
-      "Data were collected over the first four weeks",
-      "Subsequent studies are needed to confirm these findings and test clinical applications"
-    ],
-    "advice_items": [
-      {
-        "quote": "Since restlessness, behavioral disinhibition and increased energy are all associated with activation syndrome (Sinclair et al., 2009), actigraphy may be a plausible assessment tool warranting further investigation.",
-        "advice": "При оценке возможного синдрома активации можно рассматривать актиграфию как дополнительный способ отслеживания двигательного беспокойства и изменений активности. Не следует интерпретировать показания устройства изолированно от клинической картины и сведений о поведении ребёнка.",
-        "audience": "врач"
-      },
-      {
-        "quote": "Subsequent studies are needed to confirm these findings and test clinical applications for use by clinicians to monitor activation syndrome during SSRI treatment.",
-        "advice": "При обсуждении актиграфии с семьёй следует пояснять, что её применение для мониторинга синдрома активации пока находится на стадии исследования. Основой наблюдения остаётся клиническая оценка изменений поведения, сна и эмоционального состояния во время лечения.",
-        "audience": "врач"
-      },
-      {
-        "quote": "The FDA described a symptom set consisting of anxiety, agitation, panic attacks, insomnia, irritability, hostility (aggressiveness), impulsivity, akathisia (psychomotor restlessness), hypomania, and mania that might be linked to worsening depression and suicidal ideation development (FDA, 2010).",
-        "advice": "Родителям полезно заранее обсудить с лечащим специалистом, какие новые или усилившиеся симптомы требуют обращения за помощью. Особое внимание следует уделять выраженному возбуждению, агрессивности, резким изменениям сна и поведения, а также признакам мании или мыслям о самоповреждении.",
-        "audience": "пациент"
-      }
-    ],
-    "importance_stars": 5,
-    "importance_mark": "★★★★★",
-    "take": "keep"
-  },
-  {
-    "id": 531,
+    "id": 511,
     "pmid": "25299463",
     "source": "PubMed",
     "article": "Cefdinir for recent-onset pediatric neuropsychiatric disorders: a pilot randomized trial.",
@@ -33063,7 +31822,7 @@
     "take": "keep"
   },
   {
-    "id": 532,
+    "id": 512,
     "pmid": "25239489",
     "source": "PubMed",
     "article": "Continued cognitive-behavior therapy versus sertraline for children and adolescents with obsessive-compulsive disorder that were non-responders to cognitive-behavior therapy: a randomized controlled trial.",
@@ -33133,7 +31892,7 @@
     "take": "keep"
   },
   {
-    "id": 533,
+    "id": 513,
     "pmid": "25142430",
     "source": "PubMed",
     "article": "Standard individual cognitive behaviour therapy for paediatric obsessive-compulsive disorder: a systematic review of effect estimates across comparisons.",
