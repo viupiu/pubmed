@@ -526,7 +526,7 @@ function renderCard(a){
     ${topicTagsHtml(a)}
     <h4>${esc(getTitle(a))}</h4>
     <div class="original-title">${esc(a.article||"")}</div>
-    <div class="source">${esc(fmtDate(a.date))} · ${esc(a.journal||"PubMed")}</div>
+    <div class="source">${esc(fmtDate(a.date)||"—")}${a.pmid?` · PMID ${esc(a.pmid)}`:""} · ${esc(a.journal||"PubMed")}</div>
     <div class="summary">${esc(a.summary||"")}</div>
     <div class="card-foot"><span class="score">${esc(a.importance_mark?starsOnly(a.importance_mark):"★".repeat(stars))}</span><span>Подробнее →</span></div>
   </article>`;
