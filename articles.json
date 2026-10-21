@@ -17050,6 +17050,335 @@
   },
   {
     "id": 284,
+    "pmid": "30595642",
+    "source": "PubMed",
+    "article": "Pilot Open Case Series of Voice over Internet Protocol-delivered Assessment and Behavior Therapy for Chronic Tic Disorders.",
+    "authors": [
+      "Ricketts Emily J",
+      "Bauer Christopher C",
+      "Ran Dagong",
+      "Himle Michael B",
+      "Woods Douglas W"
+    ],
+    "date": "2014-10-16",
+    "journal": "Cognitive and behavioral practice",
+    "doi": "10.1016/j.cbpra.2014.09.003",
+    "topic": "Детское OCD",
+    "topic_key": "ocd",
+    "topic_keys": [
+      "ocd"
+    ],
+    "topics": [
+      "Детское OCD"
+    ],
+    "abstract_en": "Comprehensive Behavioral Intervention for Tics (CBIT) is an efficacious treatment for children with Chronic Tic Disorders (CTDs). Nevertheless, many families of children with CTDs are unable to access CBIT due to a lack of adequately trained treatment providers, time commitment, and travel distance. This study established the interrater reliability between in-person and VoIP administrations of the Yale Global Tic Severity Scale (YGTSS), and examined the preliminary efficacy, feasibility, and acceptability of Voice over Internet Protocol (VoIP)-delivered CBIT for reducing tics in children with CTDs in an open case series. Across in-person and VoIP administrations of the YGTSS, results showed mean agreement of 91%, 96%, and 95% for motor, phonic, and total tic severity subscales. In the pilot feasibility study, four children received 8-weekly sessions of CBIT via VoIP and were assessed at pre- and post-treatment by an independent evaluator. Results showed a 29.44% decrease in clinician-rated tic severity from pre to post-assessment on the YGTSS. Two of the four patients were considered treatment responders at post treatment, using Clinical Global Impressions-Improvement ratings. Therapeutic alliance, parent and child treatment satisfaction and videoconferencing satisfaction ratings were high. CBIT was considered feasible to implement via VoIP, although further testing is recommended.",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/30595642/",
+    "pmc_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6309412/",
+    "html_available": true,
+    "html_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6309412/",
+    "title_ru": "Поведенческая терапия тиков у детей по видеосвязи",
+    "patient_plain": "",
+    "patient_use": "CBIT по видеосвязи может быть вариантом, если очная терапия недоступна, но улучшение гарантировать нельзя. Спросите специалиста, обученного CBIT, подходит ли ребёнку дистанционный формат с учётом его симптомов и возможности регулярно выполнять домашние задания.",
+    "practical_use": "Оценивайте тяжесть тиков и связанные с ними нарушения до и после лечения по Йельской шкале тяжести тиков (YGTSS). Заранее проверьте техническую готовность семьи и согласуйте участие родителей: словесные подсказки могут раздражать ребёнка, а невербальные в описанном случае оказались удобнее.",
+    "summary": "В пилотном исследовании четыре ребёнка с хроническими тиками получали комплексную поведенческую терапию тиков (CBIT) по видеосвязи: еженедельные сеансы в течение восьми недель. У двух детей из четырёх состояние улучшилось по общей клинической оценке; у одного симптомы усилились, у другого лечение прервалось после четвёртого сеанса. Удовлетворённость лечением была высокой.\nИсследование небольшое, без контрольной группы; результаты не позволяют надёжно оценить эффективность дистанционной терапии.",
+    "_reason": "Дистанционная CBIT выглядит осуществимой, но данные об эффективности основаны всего на четырёх детях.",
+    "why_read": "Полезно для организации дистанционных сеансов CBIT и выявления препятствий выполнению домашних заданий.",
+    "limitations": [
+      "open case series",
+      "four children received 8-weekly sessions of CBIT via VoIP",
+      "further testing is recommended"
+    ],
+    "advice_items": [
+      {
+        "quote": "This was temporarily resolved when his mother used non-verbal prompts instead.",
+        "advice": "Если словесные напоминания о конкурирующей реакции раздражают ребёнка, попробуйте согласованные с терапевтом невербальные сигналы.",
+        "audience": "родитель"
+      },
+      {
+        "quote": "Treatment ended after the fourth session, as it was disrupted due to a virus on the family computer.",
+        "advice": "До начала дистанционной терапии проверьте компьютер, камеру и видеосвязь, чтобы технические проблемы не прервали курс.",
+        "audience": "родитель"
+      }
+    ],
+    "importance_stars": 4,
+    "importance_mark": "★★★★☆",
+    "take": "skim"
+  },
+  {
+    "id": 285,
+    "pmid": "26169350",
+    "source": "PubMed",
+    "article": "A randomized waitlist-controlled pilot trial of voice over Internet protocol-delivered behavior therapy for youth with chronic tic disorders.",
+    "authors": [
+      "Ricketts Emily J",
+      "Goetz Amy R",
+      "Capriotti Matthew R",
+      "Bauer Christopher C",
+      "Brei Natalie G",
+      "Himle Michael B",
+      "Espil Flint M",
+      "Snorrason Ívar",
+      "Ran Dagong",
+      "Woods Douglas W"
+    ],
+    "date": "2015-07-13",
+    "journal": "Journal of telemedicine and telecare",
+    "doi": "10.1177/1357633X15593192",
+    "topic": "Детское OCD",
+    "topic_key": "ocd",
+    "topic_keys": [
+      "ocd"
+    ],
+    "topics": [
+      "Детское OCD"
+    ],
+    "abstract_en": "INTRODUCTION: Comprehensive Behavioral Intervention for Tics (CBIT) has been shown to be efficacious for chronic tic disorders (CTDs), but utilization is limited by a lack of treatment providers and perceived financial and time burden of commuting to treatment. A promising alternative to in-person delivery is voice over Internet protocol (VoIP), allowing for remote, real-time treatment delivery to patients' homes. However, little is known about the effectiveness of VoIP for CTDs. Therefore, the present study examined the preliminary efficacy, feasibility, and acceptability of VoIP-delivered CBIT (CBIT-VoIP).\n\nMETHODS: Twenty youth (8-16 years) with CTDs participated in a randomized, waitlist-controlled pilot trial of CBIT-VoIP. The main outcome was pre- to post-treatment change in clinician-rated tic severity (Yale Global Tic Severity Scale). The secondary outcome was clinical responder rate (Clinical Global Impressions - Improvement Scale), assessed using ratings of 'very much improved' or 'much improved' indicating positive treatment response.\n\nRESULTS: Intention-to-treat analyses with the last observation carried forward were performed. At post-treatment (10-weeks), significantly greater reductions in clinician-rated, (F(1,18) = 3.05, p < 0.05, partial η(2 )= 0.15), and parent-reported tic severity, (F(1,18) = 6.37, p < 0.05, partial η(2 )= 0.26) were found in CBIT-VoIP relative to waitlist. One-third (n = 4) of those in CBIT-VoIP were considered treatment responders. Treatment satisfaction and therapeutic alliance were high.\n\nDISCUSSION: CBIT can be delivered via VoIP with high patient satisfaction, using accessible, low-cost equipment. CBIT-VoIP was generally feasible to implement, with some audio and visual challenges. Modifications to enhance treatment delivery are suggested.",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/26169350/",
+    "pmc_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6033263/",
+    "html_available": true,
+    "html_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6033263/",
+    "title_ru": "Поведенческая терапия тиков у детей по видеосвязи",
+    "patient_plain": "",
+    "patient_use": "CBIT можно проходить по видеосвязи, если очные визиты затруднены: в небольшом исследовании у детей уменьшилась выраженность тиков. Спросите специалиста по поведенческой терапии тиков, доступен ли дистанционный курс из восьми сеансов; статья не позволяет утверждать, что он равноценен очному лечению.",
+    "practical_use": "При дистанционном проведении CBIT оценивайте выраженность тиков до и после курса по шкале Йельской глобальной тяжести тиков (YGTSS) и отдельно отслеживайте функциональные нарушения. Заранее проверьте качество аудио- и видеосвязи: технические трудности возникали даже при высокой удовлетворённости лечением.",
+    "summary": "В пилотном рандомизированном контролируемом исследовании 20 детей и подростков 8–16 лет с хроническими тиковыми расстройствами получали комплексную поведенческую терапию тиков (CBIT) по видеосвязи через интернет-протокол VoIP или ожидали лечения. За 10 недель дистанционная терапия сильнее уменьшила выраженность тиков по оценкам специалистов и родителей; 4 из 12 участников лечебной группы достигли выраженного клинического улучшения. Большинство участников завершили все восемь сеансов, удовлетворённость лечением была высокой.\nИсследование было небольшим и не сравнивало дистанционную терапию непосредственно с очной, поэтому их эффективность по этим данным сопоставить нельзя.",
+    "_reason": "Показывает предварительную эффективность и выполнимость дистанционной CBIT, но не устанавливает её равнозначность очной терапии.",
+    "why_read": "Полезно семьям, которым трудно регулярно ездить на очные сеансы поведенческой терапии тиков.",
+    "limitations": [
+      "a larger sample size is needed to assess VoIP-delivery of CBIT relative to in-person treatment",
+      "inclusion of both short- and long-term follow-up assessments is needed to assess maintenance of gains",
+      "some audio and visual challenges"
+    ],
+    "advice_items": [
+      {
+        "quote": "Ten participants in the CBIT-VoIP group (83.3%) received all 8 treatment sessions",
+        "advice": "При выборе дистанционного формата ориентируйтесь на полный курс: в исследовании программа обычно включала восемь сеансов, большинство участников лечебной группы завершили их все.",
+        "audience": "руководитель"
+      },
+      {
+        "quote": "Furthermore, inclusion of both short- and long-term follow-up assessments is needed to assess maintenance of gains.",
+        "advice": "После курса предусмотрите повторную оценку тиков: исследование не установило, насколько долго сохраняется улучшение.",
+        "audience": "CV-разработчик"
+      }
+    ],
+    "importance_stars": 4,
+    "importance_mark": "★★★★☆",
+    "take": "keep"
+  },
+  {
+    "id": 286,
+    "pmid": "26271790",
+    "source": "PubMed",
+    "article": "Pilot Testing Behavior Therapy for Chronic Tic Disorders in Neurology and Developmental Pediatrics Clinics.",
+    "authors": [
+      "Ricketts Emily J",
+      "Gilbert Donald L",
+      "Zinner Samuel H",
+      "Mink Jonathan W",
+      "Lipps Tara D",
+      "Wiegand Geoffrey A",
+      "Vierhile Amy E",
+      "Ely Laura J",
+      "Piacentini John",
+      "Walkup John T",
+      "Woods Douglas W"
+    ],
+    "date": "2015-08-13",
+    "journal": "Journal of child neurology",
+    "doi": "10.1177/0883073815599257",
+    "topic": "Детское OCD",
+    "topic_key": "ocd",
+    "topic_keys": [
+      "ocd"
+    ],
+    "topics": [
+      "Детское OCD"
+    ],
+    "abstract_en": "Comprehensive Behavioral Intervention for Tics (CBIT) is an efficacious treatment with limited regional availability. As neurology and pediatric clinics are often the first point of therapeutic contact for individuals with tics, the present study assessed preliminary treatment response, acceptability, and feasibility of an abbreviated version, modified for child neurology and developmental pediatrics clinics. Fourteen youth (9-17) with Tourette disorder across 2 child neurology clinics and one developmental pediatrics clinic participated in a small case series. Clinician-rated tic severity (Yale Global Tic Severity Scale) decreased from pre- to posttreatment, z = -2.0, P < .05, r = -.48, as did tic-related impairment, z = -2.4, P < .05, r = -.57. Five of the 9 completers (56%) were classified as treatment responders. Satisfaction ratings were high, and therapeutic alliance ratings were moderately high. Results provide guidance for refinement of this modified CBIT protocol.",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/26271790/",
+    "pmc_link": "",
+    "html_available": false,
+    "html_link": "",
+    "title_ru": "Укороченная поведенческая терапия тиков в детских неврологических клиниках",
+    "patient_plain": "",
+    "patient_use": "Сокращённая CBIT может быть вариантом поведенческого лечения тиков у детей с синдромом Туретта, если полноценная программа недоступна. Спросите детского невролога, предлагает ли клиника такой курс и как будет оцениваться изменение тиков; конкретные упражнения и длительность курса в статье не описаны.",
+    "practical_use": "Пилотный протокол можно рассматривать как модель внедрения поведенческой помощи в неврологических и педиатрических клиниках. При оценке результата отдельно отслеживайте тяжесть тиков и обусловленные ими ограничения повседневной деятельности.",
+    "summary": "В пилотном исследовании 14 детей и подростков 9–17 лет с синдромом Туретта проходили сокращённый вариант комплексной поведенческой терапии тиков (CBIT), адаптированный для неврологических и педиатрических клиник. У 9 завершивших лечение оценили результат: у 5 (56%) отмечен ответ на терапию; тяжесть тиков и связанные с ними нарушения уменьшились. Удовлетворённость лечением была высокой.\nИсследование представляло собой небольшую серию случаев без контрольной группы, поэтому эффективность сокращённого протокола нельзя надёжно сравнить с полноценной CBIT.",
+    "_reason": "Практическая ценность — предварительная проверка сокращённой CBIT в клиниках, где дети с тиками впервые получают помощь.",
+    "why_read": "Полезно для оценки возможности организовать поведенческое лечение тиков вне специализированных центров.",
+    "limitations": [
+      "a small case series",
+      "Five of the 9 completers (56%) were classified as treatment responders."
+    ],
+    "advice_items": [],
+    "importance_stars": 4,
+    "importance_mark": "★★★★☆",
+    "take": "skim"
+  },
+  {
+    "id": 287,
+    "pmid": "26583455",
+    "source": "PubMed",
+    "article": "Habit reversal training in children and adolescents with chronic tic disorders: an Italian randomized, single-blind pilot study.",
+    "authors": [
+      "Seragni Giorgio",
+      "Chiappedi Matteo",
+      "Bettinardi Barbara",
+      "Zibordi Federica",
+      "Colombo Timna",
+      "Reina Caterina",
+      "Angelini Lucia"
+    ],
+    "date": "2015-11-19",
+    "journal": "Minerva pediatrica",
+    "doi": "10.23736/S0026-4946.16.04344-9",
+    "topic": "Детское OCD",
+    "topic_key": "ocd",
+    "topic_keys": [
+      "ocd"
+    ],
+    "topics": [
+      "Детское OCD"
+    ],
+    "abstract_en": "BACKGROUND: The aim of the present study was to test the possibility to apply habit reversal training (HRT) in Italy and to evaluate the effectiveness of HRT in reducing tic severity compared with the \"usual care\" (UC) in Italian children and adolescents with Tourette Syndrome.\n\nMETHODS: We performed a single blind, randomized, pilot study comparing HRT (active treatment) and UC (usual treatment). Out of 69 patients seen during the study period, we were able to enroll 21 patients (11 randomized to HRT e 10 to UC). Assessment included in-depth neurological and psychiatric examination, K-SADS-PL, YGTSS, KIDSCREEN, GTS-QOL, CGI and C-GAS. All these evaluations but the K-SADS-PL were used for baseline assessment but also one week after the end of treatment (T1) and then 3, 6 and 9 months later (respectively T2, T3, and T4).\n\nRESULTS: The sample was largely composed of patients of relevant clinical severity (CGI≥3: 85%). OCD and ADHD were the most frequent comorbidities (30% each). Only minor differences in terms of treatment effectiveness were found, although the HRT group turned out to include patients with more tics and a more compromised general functioning despite randomization.\n\nCONCLUSIONS: We had a high number of patients who refused to be randomized (23 out of 69) and a high number of drop outs (27% in the HRT group, 50% in the UC group). There was an improvement in terms of reduced tics and improved global functioning in both groups, without significant changes in terms of Quality of Life.",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/26583455/",
+    "pmc_link": "",
+    "html_available": false,
+    "html_link": "",
+    "title_ru": "Тренинг изменения привычек при тиках у детей: сравнение с обычным лечением",
+    "patient_plain": "",
+    "patient_use": "Тренинг изменения привычек может быть одним из вариантов психологического лечения тиков, но это исследование не показало его явного преимущества перед обычным лечением. Если тики мешают повседневной жизни, спросите специалиста о поведенческой терапии тиков, включая HRT; конкретные упражнения и порядок занятий в статье не описаны.",
+    "practical_use": "При оценке результата раздельно отслеживайте выраженность тиков, общее функционирование и качество жизни: улучшение первых двух показателей не обязательно сопровождается улучшением третьего.",
+    "summary": "В пилотном рандомизированном исследовании сравнили тренинг изменения привычек (HRT) и обычное лечение у 21 ребёнка или подростка с синдромом Туретта. В обеих группах тики уменьшились, а общее функционирование улучшилось; значимых изменений качества жизни не обнаружили. Существенное ограничение — малая выборка и частые выбывания из исследования.",
+    "_reason": "Исследование не установило явного превосходства HRT над обычным лечением.",
+    "why_read": "Помогает понять, какие именно результаты улучшились после лечения тиков и какие нет.",
+    "limitations": [
+      "Only minor differences in terms of treatment effectiveness were found",
+      "high number of drop outs (27% in the HRT group, 50% in the UC group)",
+      "without significant changes in terms of Quality of Life"
+    ],
+    "advice_items": [],
+    "importance_stars": 4,
+    "importance_mark": "★★★★☆",
+    "take": "skim"
+  },
+  {
+    "id": 288,
+    "pmid": "27037483",
+    "source": "PubMed",
+    "article": "Habit reversal training and educational group treatments for children with tourette syndrome: A preliminary randomised controlled trial.",
+    "authors": [
+      "Yates Rachel",
+      "Edwards Katie",
+      "King John",
+      "Luzon Olga",
+      "Evangeli Michael",
+      "Stark Daniel",
+      "McFarlane Fiona",
+      "Heyman Isobel",
+      "İnce Başak",
+      "Kodric Jana",
+      "Murphy Tara"
+    ],
+    "date": "2016-03-23",
+    "journal": "Behaviour research and therapy",
+    "doi": "10.1016/j.brat.2016.03.003",
+    "topic": "Детское OCD",
+    "topic_key": "ocd",
+    "topic_keys": [
+      "ocd"
+    ],
+    "topics": [
+      "Детское OCD"
+    ],
+    "abstract_en": "Quality of life of children with Tourette Syndrome (TS) is impacted greatly by its symptoms and their social consequences. Habit Reversal Training (HRT) is effective but has not, until now, been empirically evaluated in groups. This randomised controlled trial evaluated feasibility and preliminary efficacy of eight HRT group sessions compared to eight Education group sessions. Thirty-three children aged 9-13 years with TS or Chronic Tic Disorder took part. Outcomes evaluated were tic severity and quality of life (QoL). Tic severity improvements were found in both groups. Motor tic severity (Yale Global Tic Severity Scale) showed greatest improvements in the HRT group. Both groups showed a strong tendency toward improvements in patient reported QoL. In conclusion, group-based treatments for TS are feasible and exposure to other children with tics did not increase tic expression. HRT led to greater reductions in tic severity than Education. Implications, such as cost-effectiveness of treatment delivery, are discussed.",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/27037483/",
+    "pmc_link": "",
+    "html_available": false,
+    "html_link": "",
+    "title_ru": "Обучение обращению с тиками в группе эффективнее образовательных занятий",
+    "patient_plain": "",
+    "patient_use": "Для уменьшения тиков у детей можно рассмотреть групповую HRT вместо одних только образовательных занятий: в исследовании она сильнее уменьшала двигательные тики. Спросите специалиста по поведенческой терапии тиков, доступен ли ребёнку курс из восьми групповых занятий HRT.",
+    "practical_use": "При выборе лечения детских тиков можно предложить групповую HRT и отдельно отслеживать выраженность двигательных тиков и качество жизни. Не представляйте образовательные занятия как бесполезные: в контрольной группе выраженность тиков тоже снижалась.",
+    "summary": "В рандомизированном контролируемом исследовании (РКИ) 33 ребёнка 9–13 лет с синдромом Туретта или хроническим тиковым расстройством прошли восемь групповых занятий по тренировке обращения с привычками (Habit Reversal Training, HRT) либо восемь образовательных занятий. Тики уменьшились в обеих группах, но двигательные тики сильнее снизились после HRT; качество жизни также имело тенденцию к улучшению в обеих группах.\nИсследование было предварительным и включало небольшое число детей.",
+    "_reason": "Исследование сравнивает конкретный восьмисессионный формат поведенческой терапии с образовательной группой.",
+    "why_read": "Полезно для выбора группового формата лечения тиков у детей.",
+    "limitations": [
+      "preliminary randomised controlled trial",
+      "Thirty-three children aged 9-13 years"
+    ],
+    "advice_items": [],
+    "importance_stars": 4,
+    "importance_mark": "★★★★☆",
+    "take": "keep"
+  },
+  {
+    "id": 289,
+    "pmid": "27132945",
+    "source": "PubMed",
+    "article": "Practitioner Review: Treatments for Tourette syndrome in children and young people - a systematic review.",
+    "authors": [
+      "Whittington Craig",
+      "Pennant Mary",
+      "Kendall Tim",
+      "Glazebrook Cristine",
+      "Trayner Penny",
+      "Groom Madeleine",
+      "Hedderly Tammy",
+      "Heyman Isobel",
+      "Jackson Georgina",
+      "Jackson Stephen",
+      "Murphy Tara",
+      "Rickards Hugh",
+      "Robertson Mary",
+      "Stern Jeremy",
+      "Hollis Chris"
+    ],
+    "date": "2016-05-02",
+    "journal": "Journal of child psychology and psychiatry, and allied disciplines",
+    "doi": "10.1111/jcpp.12556",
+    "topic": "Детское OCD",
+    "topic_key": "ocd",
+    "topic_keys": [
+      "ocd"
+    ],
+    "topics": [
+      "Детское OCD"
+    ],
+    "abstract_en": "BACKGROUND: Tourette syndrome (TS) and chronic tic disorder (CTD) affect 1-2% of children and young people, but the most effective treatment is unclear. To establish the current evidence base, we conducted a systematic review of interventions for children and young people.\n\nMETHODS: Databases were searched from inception to 1 October 2014 for placebo-controlled trials of pharmacological, behavioural, physical or alternative interventions for tics in children and young people with TS or CTD. Certainty in the evidence was assessed with the GRADE approach.\n\nRESULTS: Forty trials were included [pharmacological (32), behavioural (5), physical (2), dietary (1)]. For tics/global score there was evidence favouring the intervention from four trials of α2-adrenergic receptor agonists [clonidine and guanfacine, standardised mean difference (SMD) = -0.71; 95% CI -1.03, -0.40; N = 164] and two trials of habit reversal training (HRT)/comprehensive behavioural intervention (CBIT) (SMD = -0.64; 95% CI -0.99, -0.29; N = 133). Certainty in the effect estimates was moderate. A post hoc analysis combining oral clonidine/guanfacine trials with a clonidine patch trial continued to demonstrate benefit (SMD = -0.54; 95% CI -0.92, -0.16), but statistical heterogeneity was high. Evidence from four trials suggested that antipsychotic drugs improved tic scores (SMD = -0.74; 95% CI -1.08, -0.40; N = 76), but certainty in the effect estimate was low. The evidence for other interventions was categorised as low or very low quality, or showed no conclusive benefit.\n\nCONCLUSIONS: When medication is considered appropriate for the treatment of tics, the balance of clinical benefits to harm favours α2-adrenergic receptor agonists (clonidine and guanfacine) as first-line agents. Antipsychotics are likely to be useful but carry the risk of harm and so should be reserved for when α2-adrenergic receptor agonists are either ineffective or poorly tolerated. There is evidence that HRT/CBIT is effective, but there is no evidence for HRT/CBIT alone relative to combining medication and HRT/CBIT. There is currently no evidence to suggest that the physical and dietary interventions reviewed are sufficiently effective and safe to be considered as treatments.",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/27132945/",
+    "pmc_link": "",
+    "html_available": false,
+    "html_link": "",
+    "title_ru": "Лечение тиков у детей: поведенческая терапия и лекарства",
+    "patient_plain": "",
+    "patient_use": "При мешающих повседневной жизни тиках у ребёнка можно рассмотреть HRT/CBIT; если требуется лекарство, врач может выбрать клонидин или гуанфацин, а антипсихотики оставить для случаев неэффективности или плохой переносимости этих средств. Попросите детского специалиста оценить выраженность тиков и подобрать поведенческое лечение или препарат с учётом возможного вреда.",
+    "practical_use": "При выборе медикаментозной терапии сопоставляйте ожидаемое уменьшение тиков с риском нежелательных эффектов: доказательства для клонидина и гуанфацина умеренной определённости, для антипсихотиков — низкой. Не представляйте физические и диетические вмешательства как доказанные методы лечения тиков.",
+    "summary": "Систематический обзор 40 плацебо-контролируемых исследований синдрома Туретта и хронических тиковых расстройств у детей и подростков. Уменьшение тиков показали тренинг изменения привычек (HRT) и комплексное поведенческое вмешательство при тиках (CBIT), а также препараты клонидин и гуанфацин; антипсихотики тоже снижали выраженность тиков, но доказательства были менее надёжными. При необходимости лекарственного лечения авторы рекомендуют клонидин или гуанфацин как первую линию, а антипсихотики — если эти препараты неэффективны или плохо переносятся.\nОбзор включал исследования, опубликованные до октября 2014 года; эффективность сочетания поведенческой терапии с лекарствами по сравнению с одной поведенческой терапией установить не удалось.",
+    "_reason": "Обзор даёт практическую последовательность выбора лечения: HRT/CBIT или α2-адренергические агонисты, затем при необходимости антипсихотик.",
+    "why_read": "Помогает выбрать между поведенческой терапией и лекарствами, не переоценивая доказательства для антипсихотиков.",
+    "limitations": [
+      "there is no evidence for HRT/CBIT alone relative to combining medication and HRT/CBIT",
+      "The evidence for other interventions was categorised as low or very low quality, or showed no conclusive benefit."
+    ],
+    "advice_items": [
+      {
+        "quote": "When medication is considered appropriate for the treatment of tics, the balance of clinical benefits to harm favours α2-adrenergic receptor agonists (clonidine and guanfacine) as first-line agents.",
+        "advice": "Если тики требуют медикаментозного лечения, обсудите с врачом клонидин или гуанфацин как варианты первой линии. Конкретный препарат и режим приёма должен определить врач.",
+        "audience": "врач"
+      },
+      {
+        "quote": "Antipsychotics are likely to be useful but carry the risk of harm and so should be reserved for when α2-adrenergic receptor agonists are either ineffective or poorly tolerated.",
+        "advice": "Рассматривайте антипсихотики, если клонидин или гуанфацин не помогают либо плохо переносятся, предварительно оценив риски лечения.",
+        "audience": "врач"
+      }
+    ],
+    "importance_stars": 5,
+    "importance_mark": "★★★★★",
+    "take": "keep"
+  },
+  {
+    "id": 290,
     "pmid": "27365937",
     "source": "PubMed",
     "article": "Cheek Plumper: An Innovative Anti-cheek Biting Appliance.",
@@ -17103,7 +17432,47 @@
     "take": "keep"
   },
   {
-    "id": 285,
+    "id": 291,
+    "pmid": "27673435",
+    "source": "PubMed",
+    "article": "Behavior Therapy for Youth With Tourette Disorder.",
+    "authors": [
+      "McGuire Joseph F"
+    ],
+    "date": "2016-09-27",
+    "journal": "Journal of clinical psychology",
+    "doi": "10.1002/jclp.22398",
+    "topic": "Детское OCD",
+    "topic_key": "ocd",
+    "topic_keys": [
+      "ocd"
+    ],
+    "topics": [
+      "Детское OCD"
+    ],
+    "abstract_en": "Persistent tic disorders and Tourette disorder (TD) are neuropsychiatric conditions that commonly co-occur among youth with obsessive-compulsive disorder. Although historically managed with pharmacological agents such as antipsychotics and alpha-2 agonists, behavioral interventions like habit reversal training (HRT) and the comprehensive behavioral intervention for tics have demonstrated considerable efficacy in reducing tic symptom severity. This case study illustrates the implementation of behavior therapy in reducing tic symptom severity of an adolescent with TD. Arlene was a 14-year-old girl with TD who presented with moderate tic symptom severity that caused her physical, academic, and social impairment. In addition to concurrent pharmacotherapy, Arlene completed a 20-session weekly course of HRT, and experienced a clinically meaningful reduction in tic symptom severity and tic-related impairment. This example provides further evidence of the benefit of behavior therapy in reducing tic symptom severity and highlights key considerations for treatment of youth with TD.",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/27673435/",
+    "pmc_link": "",
+    "html_available": false,
+    "html_link": "",
+    "title_ru": "Поведенческая терапия тиков при синдроме Туретта у подростков",
+    "patient_plain": "",
+    "patient_use": "HRT можно рассмотреть как дополнение к лекарственному лечению тиков у подростка. Обратитесь к специалисту по поведенческой терапии, чтобы оценить возможность курса HRT; в описанном случае он включал 20 еженедельных сеансов.",
+    "practical_use": "При оценке результата отслеживайте не только выраженность тиков, но и связанные с ними физические, учебные и социальные нарушения. В этом случае улучшение наблюдалось на фоне сочетания HRT с фармакотерапией, поэтому отдельный вклад каждого компонента установить нельзя.",
+    "summary": "В описании одного случая 14-летняя девочка с синдромом Туретта прошла 20 еженедельных сеансов тренинга по изменению привычек (HRT, Habit Reversal Training) на фоне медикаментозного лечения. Выраженность тиков и связанные с ними нарушения повседневной жизни клинически значимо уменьшились.\nОграничение: описан только один случай, поэтому нельзя оценить эффект метода у других подростков.",
+    "_reason": "Практический ориентир по продолжительности HRT у подростка с синдромом Туретта.",
+    "why_read": "В статье описан конкретный курс поведенческой терапии с клинически значимым улучшением.",
+    "limitations": [
+      "This case study illustrates the implementation of behavior therapy in reducing tic symptom severity of an adolescent with TD.",
+      "This example provides further evidence of the benefit of behavior therapy in reducing tic symptom severity"
+    ],
+    "advice_items": [],
+    "importance_stars": 4,
+    "importance_mark": "★★★★☆",
+    "take": "skim"
+  },
+  {
+    "id": 292,
     "pmid": "27701731",
     "source": "PubMed",
     "article": "Treating Trichotillomania (Hair-Pulling Disorder) in a Child.",
@@ -17146,7 +17515,7 @@
     "take": "skim"
   },
   {
-    "id": 286,
+    "id": 293,
     "pmid": "28005403",
     "source": "PubMed",
     "article": "Preliminary Randomized Controlled Trial of Habit Reversal Training for Treatment of Hair Pulling in Youth.",
@@ -17190,7 +17559,57 @@
     "take": "keep"
   },
   {
-    "id": 287,
+    "id": 294,
+    "pmid": "29636706",
+    "source": "PubMed",
+    "article": "A Randomized Controlled Trial Comparing Behavioral, Educational, and Pharmacological Treatments in Youths With Chronic Tic Disorder or Tourette Syndrome.",
+    "authors": [
+      "Rizzo Renata",
+      "Pellico Alessandra",
+      "Silvestri Paola Rosaria",
+      "Chiarotti Flavia",
+      "Cardona Francesco"
+    ],
+    "date": "2018-03-27",
+    "journal": "Frontiers in psychiatry",
+    "doi": "10.3389/fpsyt.2018.00100",
+    "topic": "Детское OCD",
+    "topic_key": "ocd",
+    "topic_keys": [
+      "ocd"
+    ],
+    "topics": [
+      "Детское OCD"
+    ],
+    "abstract_en": "CONTEXT: The existing literature on the treatment of pediatric chronic tic disorder (CTD) and Tourette syndrome (TS) indicates that both behavioral therapy (BT) and pharmacotherapy (PT) are effective for reducing symptoms.\n\nOBJECTIVE: To evaluate the efficacy of BT compared to psychoeducation (PE) or PT for reducing tics and co-occurring symptoms and for improving quality of life (QoL) in a sample of youths with CTD and TS.\n\nDESIGN: A 10 weeks, 2 sites (Catania, Rome) randomized controlled trial. Participants were randomized to receive one of the following treatments: BT, PE, or PT.\n\nPARTICIPANTS: 110 outpatients aged between 8 and 17 years affected by CTD or TS.\n\nRESULTS: Patients in the BT and PT groups showed a significant reduction in the severity of tic symptoms, while the PE group did not show any improvement. PT was more effective for reducing obsessive compulsive symptoms than BT, while PE group did not show any improvement. Both BT and PT groups showed an improvement in most QoL domains, whereas no differences were found in the PE group.\n\nCONCLUSIONS: BT is as effective as pharmacological therapy in the treatment of tic disorders in children and adolescents, thus offering an alternative to medications for CTD and TS.",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/29636706/",
+    "pmc_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5880916/",
+    "html_available": true,
+    "html_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5880916/",
+    "title_ru": "Поведенческая терапия или лекарства при тиках у детей",
+    "patient_plain": "",
+    "patient_use": "При лёгких и умеренных тиках у ребёнка поведенческую терапию стоит рассматривать как вариант первой линии, если она доступна: в исследовании она помогала не хуже лекарств. Попросите врача подобрать поведенческую терапию, направленную на тики; если у ребёнка также есть симптомы ОКР, отдельно оцените необходимость лечения именно этих симптомов.",
+    "practical_use": "Отслеживайте динамику тиков по шкале тяжести тиков Йеля (YGTSS), симптомы ОКР — по детской шкале Йеля—Брауна (CY-BOCS), а качество жизни — отдельно по оценкам ребёнка и родителей. При выборе лечения учитывайте сопутствующие симптомы: в этом исследовании медикаментозная терапия дала более выраженное улучшение показателей ОКР.",
+    "summary": "В рандомизированном контролируемом исследовании (РКИ) 110 детей и подростков 8–17 лет с хроническими тиками или синдромом Туретта в течение 10 недель получали поведенческую терапию, психообразование или медикаментозное лечение. Поведенческая терапия и лекарства одинаково уменьшали выраженность тиков и улучшали большинство показателей качества жизни; психообразование само по себе такого эффекта не дало. Лекарства сильнее уменьшали симптомы обсессивно-компульсивного расстройства (ОКР), чем поведенческая терапия.\nВ статье не приведены подробности протокола поведенческой терапии и конкретные схемы медикаментозного лечения.",
+    "_reason": "Практически значимый результат: поведенческая терапия может быть альтернативой лекарствам при лёгких и умеренных тиках у детей.",
+    "why_read": "Помогает обосновать выбор поведенческой терапии вместо немедленного назначения лекарств при детских тиках.",
+    "limitations": [
+      "a 10 weeks, 2 sites (Catania, Rome) randomized controlled trial",
+      "Participants were 110 outpatients aged between 8 and 17 years"
+    ],
+    "advice_items": [
+      {
+        "quote": "When available, BT should be offered as a first-line treatment in children and adolescents with mild to moderate tic symptoms.",
+        "advice": "При лёгких и умеренных тиках предложите поведенческую терапию как один из первых вариантов лечения, если она доступна.",
+        "audience": "врач"
+      }
+    ],
+    "importance_stars": 5,
+    "importance_mark": "★★★★★",
+    "take": "keep"
+  },
+  {
+    "id": 295,
     "pmid": "29956034",
     "source": "PubMed",
     "article": "Combined habit reversal training and exposure response prevention in a group setting compared to individual training: a randomized controlled clinical trial.",
@@ -17235,7 +17654,146 @@
     "take": "keep"
   },
   {
-    "id": 288,
+    "id": 296,
+    "pmid": "30146896",
+    "source": "PubMed",
+    "article": "Efficacy of Habit Reversal Training in Children With Chronic Tic Disorders: A Within-Subject Analysis.",
+    "authors": [
+      "Viefhaus Paula",
+      "Feldhausen Marion",
+      "Görtz-Dorten Anja",
+      "Volk Helene",
+      "Döpfner Manfred",
+      "Woitecki Katrin"
+    ],
+    "date": "2018-08-27",
+    "journal": "Behavior modification",
+    "doi": "10.1177/0145445518796203",
+    "topic": "Детское OCD",
+    "topic_key": "ocd",
+    "topic_keys": [
+      "ocd"
+    ],
+    "topics": [
+      "Детское OCD"
+    ],
+    "abstract_en": "The aim of this study is to evaluate a cognitive-behavioral treatment for children and adolescents with tic disorder including habit reversal training (HRT) in a sample of children and adolescents (n = 27). Multiple outcome measures were used to assess the effects of the treatment on tic symptoms. In addition, impairment/subjective burden ratings and the self-efficacy to control tics were assessed. A within-subject design with two phases (8 weeks diagnostic; 16 sessions treatment) was analyzed using multilevel modeling (MLM). During the treatment phase, significant improvements in tic symptoms, impairment, and self-efficacy to control tics were found on most outcome measures. Treatment effects were found on the clinical rating of tic symptoms (Yale Global Tic Severity Scale [YGTSS]), the self-efficacy to control tics, and the video-observed motor tic frequency by comparing the improvements during treatment with the course of the outcome measures during the preceding diagnostic phase.",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/30146896/",
+    "pmc_link": "",
+    "html_available": false,
+    "html_link": "",
+    "title_ru": "Тренинг формирования привычек при хронических тиках у детей",
+    "patient_plain": "",
+    "patient_use": "HRT — вариант поведенческой терапии, который может уменьшить тики и облегчить повседневную жизнь ребёнка. Обратитесь к специалисту по поведенческой терапии тиков и уточните возможность курса, подобного изученному: 16 сессий.",
+    "practical_use": "При оценке эффекта отслеживайте не только выраженность тиков по Yale Global Tic Severity Scale (шкале общей тяжести тиков Йеля), но и повседневные ограничения, субъективную нагрузку и уверенность ребёнка в контроле симптомов. В исследовании улучшения сопоставляли с динамикой этих показателей за диагностический период до лечения.",
+    "summary": "У 27 детей и подростков с тиковым расстройством оценивали поведенческую терапию с использованием HRT (тренинга формирования привычек). После 16 терапевтических сессий уменьшились выраженность тиков и связанное с ними нарушение повседневной жизни, а детям стало легче контролировать тики. Улучшения по клинической оценке симптомов, уверенности в контроле тиков и частоте моторных тиков на видео были значимее, чем изменения за предшествующие 8 недель наблюдения.\nИсследование небольшое; контрольной группы не было.",
+    "_reason": "Небольшое исследование показывает улучшение при HRT, но не позволяет уверенно отделить эффект лечения от других причин изменений.",
+    "why_read": "Полезно для выбора поведенческой терапии при хронических тиках, хотя подробности упражнений в доступном тексте не описаны.",
+    "limitations": [
+      "in a sample of children and adolescents (n = 27)",
+      "A within-subject design with two phases (8 weeks diagnostic; 16 sessions treatment)"
+    ],
+    "advice_items": [],
+    "importance_stars": 5,
+    "importance_mark": "★★★★★",
+    "take": "keep"
+  },
+  {
+    "id": 297,
+    "pmid": "30772854",
+    "source": "PubMed",
+    "article": "Therapist-guided and parent-guided internet-delivered behaviour therapy for paediatric Tourette's disorder: a pilot randomised controlled trial with long-term follow-up.",
+    "authors": [
+      "Andrén Per",
+      "Aspvall Kristina",
+      "Fernández de la Cruz Lorena",
+      "Wiktor Paulina",
+      "Romano Sofia",
+      "Andersson Erik",
+      "Murphy Tara",
+      "Isomura Kayoko",
+      "Serlachius Eva",
+      "Mataix-Cols David"
+    ],
+    "date": "2019-02-15",
+    "journal": "BMJ open",
+    "doi": "10.1136/bmjopen-2018-024685",
+    "topic": "Детское OCD",
+    "topic_key": "ocd",
+    "topic_keys": [
+      "ocd"
+    ],
+    "topics": [
+      "Детское OCD"
+    ],
+    "abstract_en": "OBJECTIVE: Behaviour therapy (BT) for Tourette's disorder (TD) and persistent (chronic) motor or vocal tic disorder (PTD) is rarely available. We evaluated the feasibility of adapting two existing BT protocols for TD/PTD (habit reversal training (HRT) and exposure and response prevention (ERP)) into a therapist-guided and parent-guided online self-help format.\n\nDESIGN: A pilot, single-blind, parallel group randomised controlled trial.\n\nSETTING: A specialist outpatient clinic in Sweden.\n\nPARTICIPANTS: Twenty-three young people with TD/PTD, aged 8-16.\n\nINTERVENTIONS: Two 10-week therapist-guided and parent-guided internet-delivered programmes (called BIP TIC HRT and BIP TIC ERP).\n\nOUTCOME: The primary outcome measure was the Yale Global Tic Severity Scale. Blinded evaluators rated symptoms at baseline, post-treatment and 3-month follow-up (primary endpoint). All participants were naturalistically followed up to 12 months after treatment.\n\nRESULTS: Patients and parents rated the interventions as highly acceptable, credible and satisfactory. While both interventions resulted in reduced tic-related impairment, parent-rated tic severity and improved quality of life, only BIP TIC ERP resulted in a significant improvement on the primary outcome measure. Within-group effect sizes and responder rates were, respectively: d=1.12 and 75% for BIP TIC ERP, and d=0.50 and 55% for BIP TIC HRT. The therapeutic gains were maintained up to 12 months after the end of the treatment. Adverse events were rare in both groups. The average therapist support time was around 25 min per participant per week.\n\nCONCLUSIONS: Internet-delivered BT has the potential to greatly increase access to evidence-based treatment for young people with TD/PTD. Further evaluation of the efficacy and cost-effectiveness of this treatment modality is warranted.\n\nTRIAL REGISTRATION NUMBER: NCT02864589; Pre-results.",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/30772854/",
+    "pmc_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6398666/",
+    "html_available": true,
+    "html_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6398666/",
+    "title_ru": "Онлайн-терапия тиков у детей: ERP и тренинг смены привычки",
+    "patient_plain": "",
+    "patient_use": "Для ребёнка с тиками можно рассмотреть структурированную онлайн-программу ERP с поддержкой терапевта и участием родителя: в этом исследовании только она дала значимое улучшение по основной шкале тяжести тиков. Обратитесь к специалисту по поведенческой терапии тиков, чтобы выяснить, доступна ли такая программа; статья не описывает достаточно подробно упражнения для самостоятельного проведения лечения.",
+    "practical_use": "При оценке результата отслеживайте общую тяжесть тиков по YGTSS (Йельской шкале тяжести тиков), отдельно учитывая двигательную и вокальную симптоматику, нарушения повседневного функционирования и качество жизни. В пилотной выборке ERP показала более выраженный эффект по основному показателю, чем HRT, но прямое преимущество между методами не установлено окончательным сравнительным исследованием.",
+    "summary": "В пилотном рандомизированном исследовании 23 детей 8–16 лет с синдромом Туретта или хроническими двигательными и вокальными тиками сравнили две 10-недельные интернет-программы: ERP (экспозиция с предотвращением реакций) и HRT (тренинг смены привычки). Через 3 месяца выраженность тиков по основной шкале значимо снизилась только после ERP; улучшения сохранялись до 12 месяцев.\nИсследование небольшое, без контрольной группы вне этих двух методов, поэтому эффективность онлайн-программ пока предварительная.",
+    "_reason": "Практически значимый результат: 10-недельная онлайн-программа ERP показала предварительную эффективность при детских тиках.",
+    "why_read": "Помогает оценить возможность дистанционной поведенческой терапии, когда очное лечение трудно получить.",
+    "limitations": [
+      "a pilot, single-blind, parallel group randomised controlled trial",
+      "Further evaluation of the efficacy and cost-effectiveness of this treatment modality is warranted."
+    ],
+    "advice_items": [],
+    "importance_stars": 4,
+    "importance_mark": "★★★★☆",
+    "take": "keep"
+  },
+  {
+    "id": 298,
+    "pmid": "31295410",
+    "source": "PubMed",
+    "article": "Evidence-based treatment of Tourette's disorder and chronic tic disorders.",
+    "authors": [
+      "Essoe Joey Ka-Yee",
+      "Grados Marco A",
+      "Singer Harvey S",
+      "Myers Nicholas S",
+      "McGuire Joseph F"
+    ],
+    "date": "2019-07-17",
+    "journal": "Expert review of neurotherapeutics",
+    "doi": "10.1080/14737175.2019.1643236",
+    "topic": "Детское OCD",
+    "topic_key": "ocd",
+    "topic_keys": [
+      "ocd"
+    ],
+    "topics": [
+      "Детское OCD"
+    ],
+    "abstract_en": "Introduction: Chronic Tic Disorders and Tourette's Disorder (collectively referred to as TD) are characterized by sudden, rapid, and repetitive motor movements or vocalizations called tics. Children, adolescents, and adults with TD often experience co-occurring psychiatric symptoms and impairments in multiple domains. As a result of tics and other symptoms, patients with TD can develop negative self-views, require considerable accommodations, and experience a poor quality of life. Therefore, the efficient and effective management of TD bears considerable importance. Areas covered: This expert review evaluated the empirical support for behavioral and pharmacological interventions based on the results of randomized controlled trials (RCTs). Behavioral interventions evaluated include habit reversal training (HRT), comprehensive behavioral intervention for tics (CBIT), and exposure response prevention (ERP). Reviewed pharmacological interventions included alpha-2 agonists, antipsychotics, and anticonvulsants. Expert opinion: This review identified several efficacious behavioral and pharmacological interventions for TD. However, several gaps in the management of TD include: (1) the access/availability of behavioral interventions, (2) novel and more efficacious treatment approaches, and (3) the development of more comprehensive interventions to manage TD. In order to advance the treatment of TD, additional research is necessary to efficiently, effectively, and comprehensively develop and evaluate new treatments for patients with TD.",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/31295410/",
+    "pmc_link": "",
+    "html_available": false,
+    "html_link": "",
+    "title_ru": "Лечение синдрома Туретта и хронических тиков: поведенческая терапия и лекарства",
+    "patient_plain": "",
+    "patient_use": "Для уменьшения тиков существуют поведенческие методы и лекарственная терапия, но по этому обзору нельзя определить, какой метод лучше подойдёт конкретному ребёнку. Обратитесь к врачу, чтобы оценить возможность HRT или CBIT и необходимость медикаментозного лечения; конкретную схему по этой статье выбрать нельзя.",
+    "practical_use": "При выборе лечения разграничивайте поведенческие вмешательства и фармакотерапию, оценивая доступность поведенческой помощи. Не выбирайте препарат или дозировку по этому обзору: в предоставленном тексте нет сравнительных данных, достаточных для такого решения.",
+    "summary": "Обзор исследований с рандомизированными контролируемыми испытаниями (РКИ) оценил методы лечения синдрома Туретта и хронических тиков у детей и взрослых. К эффективным подходам отнесены тренинг изменения привычек (HRT), комплексное поведенческое вмешательство при тиках (CBIT), экспозиция с предотвращением реакции (ERP), а также некоторые препараты: агонисты альфа-2-адренорецепторов, антипсихотики и противосудорожные средства.\n\nОбзор не приводит в доступном тексте конкретных схем терапии, дозировок лекарств или сравнительных оценок эффективности отдельных методов.",
+    "_reason": "Обзор подтверждает наличие нескольких эффективных подходов, но не даёт конкретного алгоритма выбора лечения.",
+    "why_read": "Полезен как обзор вариантов лечения тиков, но не как практическая инструкция по проведению терапии или назначению препаратов.",
+    "limitations": [
+      "the access/availability of behavioral interventions",
+      "novel and more efficacious treatment approaches",
+      "the development of more comprehensive interventions to manage TD"
+    ],
+    "advice_items": [],
+    "importance_stars": 5,
+    "importance_mark": "★★★★★",
+    "take": "skim"
+  },
+  {
+    "id": 299,
     "pmid": "32586437",
     "source": "PubMed",
     "article": "Development and Open Trial of a Psychosocial Intervention for Young Children With Chronic Tics: The CBIT-JR Study.",
@@ -17282,7 +17840,745 @@
     "take": "keep"
   },
   {
-    "id": 289,
+    "id": 300,
+    "pmid": "31782167",
+    "source": "PubMed",
+    "article": "Effectiveness of a modified comprehensive behavioral intervention for tics for children and adolescents with tourette's syndrome: A randomized controlled trial.",
+    "authors": [
+      "Chen Chia-Wen",
+      "Wang Huei-Shyong",
+      "Chang Hsiu-Ju",
+      "Hsueh Chang-Wei"
+    ],
+    "date": "2020-01-13",
+    "journal": "Journal of advanced nursing",
+    "doi": "10.1111/jan.14279",
+    "topic": "Детское OCD",
+    "topic_key": "ocd",
+    "topic_keys": [
+      "ocd"
+    ],
+    "topics": [
+      "Детское OCD"
+    ],
+    "abstract_en": "AIM: To evaluate the effectiveness of a modified four-session Comprehensive Behavioral Intervention for Tics programme for decreasing tics in children and adolescents with Tourette's syndrome.\n\nBACKGROUND: Comprehensive Behavioral Intervention for Tics programme has been shown to decrease tic severity. However, the lack of behaviour therapists in countries, such as in Taiwan, may preclude application of the standard eight-session, 10-week programme.\n\nDESIGN: Randomized controlled study.\n\nMETHODS: Participants aged 6-18 years diagnosed with Tourette's syndrome or chronic tic disorder were recruited from February 2015 through September 2016. Participants in the control and intervention groups (N = 23 each) received the routine care (daily pyridoxine [50 mg] and psychoeducation). The intervention group received additional four behavioural intervention sessions over a 3-month period that included psychoeducation, habit reversal training, relaxation training, and education on tic relapse prevention. The outcome measures, Yale Global Tic Severity Scale scores, were assessed at before and after the completion of programme for both groups and again at 3 months follow-up for the intervention group. The effect of the intervention on severity scores was assessed using a generalized estimated equation.\n\nRESULTS: Comparison of scores before and after intervention showed that the intervention significantly decreased the severity of total motor tics (B = -3.28, p < .01) and total tics (B = -5.86, p < .01) as compared with control treatment. YGTSS scores for the intervention group were lower at 3-month follow-up as compared with before treatment or immediately after treatment completion (total tics, p < .001).\n\nCONCLUSION: The modified four-session Comprehensive Behavioral Intervention for Tics programme was more effective than routine care for decreasing tic severity in our cohort of 6- to 18-year olds. This improvement was maintained 3 months after intervention.\n\nIMPACT: Healthcare providers, including nurses, in countries currently not adopting Comprehensive Behavioral Intervention for Tics programme should be made aware of the positive effects of this modified intervention for Tourette's syndrome.",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/31782167/",
+    "pmc_link": "",
+    "html_available": false,
+    "html_link": "",
+    "title_ru": "Тики у детей: сокращённая поведенческая программа из четырёх сеансов",
+    "patient_plain": "",
+    "patient_use": "Для ребёнка с тиками стоит узнать, доступна ли сокращённая поведенческая программа из четырёх сеансов: в исследовании она помогала лучше обычной помощи. Попросите врача найти специалиста, обученного тренировке обратного замещения привычки и другим компонентам комплексного поведенческого вмешательства при тиках.",
+    "practical_use": "При оценке эффекта отслеживайте выраженность двигательных тиков и тиков в целом по Йельской глобальной шкале тяжести тиков (YGTSS), а не только субъективное впечатление семьи. В исследовании обе группы получали психообразование и пиридоксин 50 мг ежедневно, поэтому эффект дополнительной поведенческой программы оценивали на фоне этой помощи.",
+    "summary": "В рандомизированном контролируемом исследовании 46 детей и подростков 6–18 лет с синдромом Туретта или хроническим тикозным расстройством сравнили обычную помощь с той же помощью плюс четыре сеанса комплексного поведенческого вмешательства при тиках. Программа включала психообразование, тренировку обратного замещения привычки, релаксацию и профилактику рецидивов. Дополнительное вмешательство сильнее уменьшало выраженность двигательных тиков и тиков в целом; улучшение сохранялось через три месяца.\nОграничение: результаты получены на небольшой выборке; контрольное наблюдение через три месяца проводили только в группе вмешательства.",
+    "_reason": "Рандомизированное исследование показывает пользу конкретной четырёхсеансовой поведенческой программы для детей с тиками.",
+    "why_read": "Полезно, если стандартный десятинедельный курс из восьми сеансов недоступен и требуется более короткий вариант поведенческого лечения.",
+    "limitations": [
+      "Participants in the control and intervention groups (N = 23 each)",
+      "again at 3 months follow-up for the intervention group"
+    ],
+    "advice_items": [
+      {
+        "quote": "The intervention group received additional four behavioural intervention sessions over a 3-month period that included psychoeducation, habit reversal training, relaxation training, and education on tic relapse prevention.",
+        "advice": "Уточните у лечащего специалиста возможность пройти сокращённую программу из четырёх сеансов в течение трёх месяцев. В неё входят психообразование, тренировка обратного замещения привычки, релаксация и обучение профилактике возвращения тиков.",
+        "audience": "родитель"
+      }
+    ],
+    "importance_stars": 5,
+    "importance_mark": "★★★★★",
+    "take": "keep"
+  },
+  {
+    "id": 301,
+    "pmid": "32163785",
+    "source": "PubMed",
+    "article": "Interventions for tic disorders: An updated overview of systematic reviews and meta analyses.",
+    "authors": [
+      "Yang Chunsong",
+      "Cheng Xiao",
+      "Zhang Qiyunrui",
+      "Yu Dan",
+      "Li Jiayuan",
+      "Zhang Lingli"
+    ],
+    "date": "2020-03-01",
+    "journal": "Psychiatry research",
+    "doi": "10.1016/j.psychres.2020.112905",
+    "topic": "Детское OCD",
+    "topic_key": "ocd",
+    "topic_keys": [
+      "ocd"
+    ],
+    "topics": [
+      "Детское OCD"
+    ],
+    "abstract_en": "To conduct an updated overview of systematic reviews (SRs) summarizing the efficacy and safety of various strategies used to treat tic disorders (TDs) in children. We searched the Cochrane Library, PubMed, EMBASE, and relevant reference lists for articles published between the search deadline from our last overview and April 2019 and included 16 SRs. The results presented that antipsychotics, a2-adrenergic receptor agonists, and HRT/CBIT still appeared to be the most robust evidence-based options for the treatment of TDs. Compared with our last overview, more robust evidence showed that aripiprazole and acupuncture was effective treatment in treating children TDs, and DBS for medication-refractory and severely affected patients. In addition, physical activity or exercise may be promising treatments, and the clonidine adhesive patch is an effective, safe, and convenient treatment option for TDs. Moreover, methylphenidate, guanfacine, and desipramine appeared to reduce ADHD symptoms in children with tics. However, no research studies have examined HRT/CBIT alone compared with HRT/CBIT in combination with medication. More high-quality clinical trials comparing different interventions for TDs including economic evaluations should be encouraged.",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/32163785/",
+    "pmc_link": "",
+    "html_available": false,
+    "html_link": "",
+    "title_ru": "Лечение тиков у детей: поведенческая терапия и лекарства",
+    "patient_plain": "",
+    "patient_use": "При мешающих повседневной жизни тиках стоит спросить детского психиатра или невролога о HRT/CBIT и о том, нужны ли лекарства с учётом тяжести симптомов и сопутствующего СДВГ. При тяжёлых тиках, не поддающихся лекарственному лечению, в специализированном центре могут оценить возможность глубокой стимуляции мозга; самостоятельно выбирать препарат или процедуру по этому обзору нельзя.",
+    "practical_use": "При выборе лечения сопоставляйте выраженность тиков, переносимость препаратов и наличие СДВГ: обзор выделяет антипсихотики и агонисты α2-адренорецепторов как лекарственные варианты, а HRT/CBIT — как поведенческие. Не трактуйте данные об уменьшении симптомов СДВГ на метилфенидате, гуанфацине или дезипрамине как доказательство их одинаковой эффективности против самих тиков.",
+    "summary": "Обзор 16 систематических обзоров показал, что наиболее обоснованные варианты лечения тиков у детей — антипсихотики, агонисты α2-адренорецепторов и HRT/CBIT (терапия изменения привычек и комплексная поведенческая интервенция при тиках). Среди отдельных методов отмечены арипипразол, пластырь с клонидином и глубокая стимуляция мозга при тяжёлых тиках, устойчивых к лекарствам; физические упражнения и акупунктура также показали перспективные результаты. Метилфенидат, гуанфацин и дезипрамин могут уменьшать симптомы синдрома дефицита внимания и гиперактивности (СДВГ) у детей с тиками.\nОбзор основан на опубликованных систематических обзорах, а не на прямом сравнении всех методов; не изучалось, эффективнее ли сочетание HRT/CBIT с лекарствами, чем одна поведенческая терапия.",
+    "_reason": "Обзор помогает выбрать основные направления лечения детских тиков, но не даёт индивидуальных схем назначения.",
+    "why_read": "Полезен для первичного выбора между поведенческой терапией и лекарственным лечением, включая случаи с сопутствующим СДВГ.",
+    "limitations": [
+      "no research studies have examined HRT/CBIT alone compared with HRT/CBIT in combination with medication",
+      "More high-quality clinical trials comparing different interventions for TDs including economic evaluations should be encouraged."
+    ],
+    "advice_items": [],
+    "importance_stars": 5,
+    "importance_mark": "★★★★★",
+    "take": "keep"
+  },
+  {
+    "id": 302,
+    "pmid": "32443993",
+    "source": "PubMed",
+    "article": "Pediatric Prevention: Tic Disorders.",
+    "authors": [
+      "Stiede Jordan T",
+      "Woods Douglas W"
+    ],
+    "date": "2020-04-23",
+    "journal": "Pediatric clinics of North America",
+    "doi": "10.1016/j.pcl.2020.02.009",
+    "topic": "Детское OCD",
+    "topic_key": "ocd",
+    "topic_keys": [
+      "ocd"
+    ],
+    "topics": [
+      "Детское OCD"
+    ],
+    "abstract_en": "It is not clear whether the development of tics can be prevented. Contextual variables can impact tic expression; therefore, shifting attention to behaviors that reduce tics is an important part of decreasing tic severity. Several medications are effective in reducing tic severity, but side effects restrict their use. Behavioral treatment is the gold standard psychotherapy intervention for tic disorders, with Comprehensive Behavioral Intervention for Tics being the most well-supported nonpharmacological treatment. Although children may be unable to prevent the development of tics, they can still use several strategies to reduce tic severity and impairment.",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/32443993/",
+    "pmc_link": "",
+    "html_available": false,
+    "html_link": "",
+    "title_ru": "Тики у детей: поведенческое лечение и снижение выраженности симптомов",
+    "patient_plain": "",
+    "patient_use": "Не ставьте целью полностью предотвратить появление тиков: сосредоточьтесь на уменьшении их выраженности и влияния на повседневную жизнь ребёнка. Обратитесь к специалисту по поведенческому лечению тиков, чтобы узнать о CBIT; конкретные упражнения по этому абстракту определить нельзя.",
+    "practical_use": "При выборе лечения рассматривайте CBIT как основной немедикаментозный подход. Лекарственную терапию оценивайте с учётом возможного уменьшения выраженности тиков и побочных эффектов.",
+    "summary": "Обзор профилактики тиков у детей. Предотвратить само появление тиков пока не удаётся; их выраженность можно уменьшать с помощью поведенческих методов и некоторых лекарств. Наиболее обоснованный немедикаментозный подход — Comprehensive Behavioral Intervention for Tics (комплексное поведенческое вмешательство при тиках, CBIT).\nТекст доступен только в виде абстракта, без описания конкретных упражнений, длительности курса и схем применения препаратов.",
+    "_reason": "Обзор называет CBIT наиболее обоснованным немедикаментозным методом лечения тиков у детей.",
+    "why_read": "Помогает выбрать направление лечения, но не содержит протокола занятий или схемы медикаментозной терапии.",
+    "limitations": [
+      "It is not clear whether the development of tics can be prevented.",
+      "Several medications are effective in reducing tic severity, but side effects restrict their use."
+    ],
+    "advice_items": [],
+    "importance_stars": 5,
+    "importance_mark": "★★★★★",
+    "take": "skim"
+  },
+  {
+    "id": 303,
+    "pmid": "32851356",
+    "source": "PubMed",
+    "article": "Review of habit reversal training for tic disorders.",
+    "authors": [
+      "Liu Shijie",
+      "Li Ying",
+      "Cui Yonghua"
+    ],
+    "date": "2020-06-24",
+    "journal": "Pediatric investigation",
+    "doi": "10.1002/ped4.12190",
+    "topic": "Детское OCD",
+    "topic_key": "ocd",
+    "topic_keys": [
+      "ocd"
+    ],
+    "topics": [
+      "Детское OCD"
+    ],
+    "abstract_en": "Tic disorders (TD) is a neurodevelopmental disorder that is often first recognized in children and adolescents and is characterized mainly by motor and phonic tics. Drug treatment of TD has been criticized because of serious side effects, and TD treatment emphasizes behavioral psychotherapy. This study reviewed the most common behavioral psychotherapy for TD: habit reversal training (HRT). We examined the contents, variation, curative effects, and premonitory urge control of HRT and other behavioral psychotherapies. The findings suggest that current understanding of HRT is insufficient and further studies are needed. First, studies of online guidance training are needed to implement technology that can help more patients. Second, the future integration of HRT and other technologies is important. Third, imaging techniques could be used to further explore the brain mechanisms underlying HRT. Research on HRT for TD in China is insufficient. We call on more Chinese researchers to study, investigate, and develop technology to promote the development of behavioral psychotherapy for TD in China.",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/32851356/",
+    "pmc_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7331356/",
+    "html_available": true,
+    "html_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7331356/",
+    "title_ru": "Поведенческая терапия тиков: тренировка замены привычки и комплексная программа CBIT",
+    "patient_plain": "",
+    "patient_use": "При хронических или мешающих повседневной жизни тиках стоит рассмотреть CBIT как поведенческий метод лечения, в том числе вместо немедленного перехода к лекарствам, если клиническая ситуация это позволяет. Обратитесь к специалисту по поведенческой терапии тиков и уточните, доступен ли курс из 8 занятий за 10 недель с тренировкой конкурирующих реакций и работой с провоцирующими ситуациями.",
+    "practical_use": "При оценке ребёнка уточняйте выраженность тиков, предшествующие им ощущения и ситуации, в которых симптомы усиливаются. В CBIT сочетайте обучение распознаванию тиков и конкурирующим реакциям с расслаблением, психообразованием и коррекцией провоцирующих факторов; для детей младшего возраста учитывайте ограниченность доказательной базы.",
+    "summary": "Обзор описывает тренировку замены привычки (HRT) и комплексное поведенческое вмешательство при тиках (CBIT) у детей и подростков. CBIT включает распознавание позывов перед тиком, освоение конкурирующей реакции, расслабление и изменение условий, усиливающих тики. В рандомизированном исследовании 122 пациентов после 10 недель CBIT уменьшение выраженности тиков сохранялось через 6 месяцев у 80% участников против 25% после психообразования и поддерживающей терапии.\n\nЭто обзор исследований, а не единый протокол для всех детей; доказательств эффективности CBIT у маленьких детей недостаточно.",
+    "_reason": "Обзор описывает конкретную структуру HRT и CBIT и приводит сравнительные данные об устойчивости эффекта CBIT.",
+    "why_read": "Полезен для выбора поведенческого лечения тиков и понимания того, из чего состоит курс CBIT.",
+    "limitations": [
+      "there is still a lack of evidence-based medical support",
+      "current understanding of HRT is insufficient and further studies are needed"
+    ],
+    "advice_items": [
+      {
+        "quote": "The standard therapy is to complete eight treatments in 10 weeks; treatments can be personalized according to the specific needs of patients.",
+        "advice": "При выборе лечения уточните возможность пройти структурированный курс CBIT из восьми занятий за 10 недель с адаптацией под симптомы ребёнка.",
+        "audience": "CV-разработчик"
+      },
+      {
+        "quote": "The method consists of three parts: the first part familiarizes patients with their own tic symptoms and premonitory urges; the second part teaches patients competing responses that can be used when premonitory urges or tic symptoms occur (similar to HRT); the third step consists of adjustment of daily activities, especially those that aggravate or induce tic symptoms (for example, tic symptoms are usually aggravated when children encounter stressful situations), thereby reducing the likelihood of tic symptoms.",
+        "advice": "При проведении CBIT обучайте ребёнка распознавать тик и предшествующий позыв, применять подобранную конкурирующую реакцию и выявлять повседневные ситуации, усиливающие симптомы.",
+        "audience": "CV-разработчик"
+      },
+      {
+        "quote": "The first session introduces the basic process, familiarizes patients with reversal training, and introduces the methods and procedures.",
+        "advice": "На первом занятии объясните ребёнку общий ход тренировки замены привычки и познакомьте его с используемыми процедурами.",
+        "audience": "CV-разработчик"
+      }
+    ],
+    "importance_stars": 5,
+    "importance_mark": "★★★★★",
+    "take": "keep"
+  },
+  {
+    "id": 304,
+    "pmid": "34349312",
+    "source": "PubMed",
+    "article": "Behavior Therapy for the Treatment of Tourette's Disorder in India: A Patient Series from an Indian General Hospital Psychiatric Unit.",
+    "authors": [
+      "Varadharajan Natarajan",
+      "Chakrabarti Subho",
+      "Sahoo Swapnajeet",
+      "Balachander Srinivas"
+    ],
+    "date": "2020-07-13",
+    "journal": "Indian journal of psychological medicine",
+    "doi": "10.1177/0253717620927932",
+    "topic": "Детское OCD",
+    "topic_key": "ocd",
+    "topic_keys": [
+      "ocd"
+    ],
+    "topics": [
+      "Детское OCD"
+    ],
+    "abstract_en": "Reports on behavioral interventions for the treatment of Tourette's disorder (TD) from India are limited. This patient series describes the usefulness and feasibility of conducting behavioral interventions for patients with TD from an Indian general hospital psychiatric unit. Behavioral treatments in these seven consecutively treated adult/adolescent patients with TD included all components of habit reversal treatment, comprehensive behavioral intervention for tics, and exposure with response prevention in some patients. Patients were predominantly male, with adolescent-onset severe TD, typical features and psychiatric comorbidities, and poor response to multiple medications prior to the institution of behavior therapy. In addition to long delays in diagnosis, none of the patients or their caregivers had been informed by the doctors they had consulted earlier about TD or the need for behavioral treatments before attending our center. Institution of behavioral treatments along with medications led to a 75% reduction in the severity of tics and reduction in comorbid symptoms. Patients and caregivers also reported similar rates of improvement as well as reductions in subjective distress and caregiver burden. Five patients have been followed up for seven months to seven years; apart from one patient, all others have had only minor exacerbations of tics during this period. This limited experience suggests that behavior therapies for TD can be successfully implemented in low-resource, non-specialized Indian settings. They are effective, and gains from such treatment are usually enduring.",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/34349312/",
+    "pmc_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8295570/",
+    "html_available": true,
+    "html_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8295570/",
+    "title_ru": "Поведенческая терапия синдрома Туретта при слабом ответе на лекарства",
+    "patient_plain": "",
+    "patient_use": "Если тики остаются тяжёлыми несмотря на лекарства, стоит искать специалиста, обученного HRT/CBIT, а не ограничиваться сменой препаратов. Попросите врача оценить возможность добавить поведенческую терапию к текущему лечению; статья не позволяет определить оптимальное число сеансов для конкретного пациента.",
+    "practical_use": "При недостаточном ответе на фармакотерапию направляйте пациента на HRT/CBIT и оценивайте динамику тиков, сопутствующих психических симптомов и субъективного дистресса. В серии число сеансов различалось, но подробный протокол отдельных компонентов в доступном фрагменте не приведён.",
+    "summary": "В серии из 7 подростков и взрослых с синдромом Туретта поведенческую терапию — тренировку обращения привычки (HRT), комплексное поведенческое вмешательство при тиках (CBIT), а у части пациентов экспозицию с предотвращением реакций (ERP) — добавляли к медикаментозному лечению после недостаточного эффекта лекарств. После лечения тяжесть тиков снизилась в среднем на 75%; пациенты и близкие также отмечали уменьшение дистресса и нагрузки на ухаживающих. У большинства из 5 пациентов с длительным наблюдением сохранялось улучшение, хотя при стрессе возникали обострения.\n\nЭто неконтролируемая серия всего из 7 пациентов, поэтому нельзя отделить эффект поведенческой терапии от действия лекарств.",
+    "_reason": "Практически значимый сигнал в пользу добавления поведенческой терапии при тяжёлых тиках, сохраняющихся на фоне лекарств.",
+    "why_read": "Показывает, что поведенческое лечение можно организовать даже в неспециализированном психиатрическом отделении с ограниченными ресурсами.",
+    "limitations": [
+      "uncontrolled data from a very small number of patients",
+      "only a few tentative conclusions can be made"
+    ],
+    "advice_items": [],
+    "importance_stars": 4,
+    "importance_mark": "★★★★☆",
+    "take": "keep"
+  },
+  {
+    "id": 305,
+    "pmid": "33095180",
+    "source": "PubMed",
+    "article": "Therapist-Supported Online Interventions for Children and Young People With Tic Disorders: Lessons Learned From a Randomized Controlled Trial and Considerations for Future Practice.",
+    "authors": [
+      "Chamberlain Liam R",
+      "Hall Charlotte L",
+      "Andrén Per",
+      "Davies E Bethan",
+      "Kilgariff Joseph",
+      "Kouzoupi Natalia",
+      "Murphy Tara",
+      "Hollis Chris"
+    ],
+    "date": "2020-10-23",
+    "journal": "JMIR mental health",
+    "doi": "10.2196/19600",
+    "topic": "Детское OCD",
+    "topic_key": "ocd",
+    "topic_keys": [
+      "ocd"
+    ],
+    "topics": [
+      "Детское OCD"
+    ],
+    "abstract_en": "In recent years, research into internet-based cognitive behavioral therapy (iCBT) has suggested that therapist-guided digital interventions have greater engagement, adherence, and effectiveness than self-directed digital therapies. While research has focused on the effectiveness of, and adherence to, these interventions, less attention has been paid to their implementation in practice and what aspects of the therapist role support success. An understanding of the key factors related to the therapist role and intervention delivery is required if these iCBTs are to be applied in routine clinical care and outcomes optimized. In light of the coronavirus disease 2019 (COVID-19) pandemic, there is greater emphasis on allowing patients access to remote therapies. We report the experiences and reflections of 4 therapists and their 2 supervisors in delivering an online, therapist-supported intervention in a randomized controlled trial for children and young people with tic disorders (the Online Remote Behavioural Intervention for Tics [ORBIT] trial). Themes discussed include the importance of training, supervision, creating support documents/manuals, and record keeping. Alongside this are communication strategies used by therapists to encourage patient adherence and treatment effectiveness. These include rapport building, treatment personalization, and suggestions for overcoming non-engagement. These reflections offer important considerations for the delivery of iCBTs as well as implications associated with the implementation of these interventions in existing services and future research studies. We share thoughts on where iCBTs may sit in a stepped care model, how services may deal with comorbid conditions, and the potential role of iCBTs in collecting clinical data.",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/33095180/",
+    "pmc_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7647804/",
+    "html_available": true,
+    "html_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7647804/",
+    "title_ru": "Онлайн-терапия тиков у детей: как поддержка терапевта помогает проходить лечение",
+    "patient_plain": "",
+    "patient_use": "При онлайн-терапии тиков важно не оставаться один на один с программой: сопровождение терапевта помогает сохранять мотивацию и возвращаться к занятиям. При выборе дистанционного лечения спросите, как часто терапевт связывается с ребёнком и что происходит, если тот перестаёт выполнять задания.",
+    "practical_use": "При организации интернет-КПТ предусмотрите единые руководства для терапевтов, регулярную супервизию и последовательный порядок контактов с семьями. Если ребёнок теряет интерес или задаёт вопросы за пределами программы, адаптируйте коммуникацию и определите маршрут дальнейшей клинической помощи.",
+    "summary": "Статья описывает опыт четырёх терапевтов и двух супервизоров, сопровождавших интернет-терапию поведенческих нарушений при тиках в исследовании ORBIT. Для поддержания вовлечённости использовали обучение терапевтов работе с платформой, еженедельную клиническую супервизию, единые инструкции, персонализированное общение и постепенное обращение к пациентам, которые переставали участвовать.\nЭто описание опыта команды, а не проверка эффективности отдельных приёмов; клинические и экономические результаты исследования на момент публикации ещё ожидались.",
+    "_reason": "Практическое руководство по сопровождению онлайн-терапии тиков, но не доказательство её клинической эффективности.",
+    "why_read": "Полезно для настройки дистанционной помощи детям, особенно при риске прекращения занятий.",
+    "limitations": [
+      "delivered within the context of a randomized controlled trial delivered at specialist centers",
+      "The findings of this trial are required to understand the clinical and cost-effectiveness of this approach and feasibility and acceptability among patients."
+    ],
+    "advice_items": [
+      {
+        "quote": "To promote adherence to a therapy, therapists should balance between patients feeling supported (ie, not alone) and empowering the individual to take action (ie, not passive).",
+        "advice": "Сочетайте регулярную поддержку с самостоятельной работой ребёнка: помогайте ему сохранять контакт с терапией, но не подменяйте его собственные действия.",
+        "audience": "CV-разработчик"
+      }
+    ],
+    "importance_stars": 4,
+    "importance_mark": "★★★★☆",
+    "take": "skim"
+  },
+  {
+    "id": 306,
+    "pmid": "33231786",
+    "source": "PubMed",
+    "article": "Internet-based guided self-help comprehensive behavioral intervention for tics (ICBIT) for youth with tic disorders: a feasibility and effectiveness study with 6 month-follow-up.",
+    "authors": [
+      "Rachamim Lilach",
+      "Zimmerman-Brenner Sharon",
+      "Rachamim Osnat",
+      "Mualem Hila",
+      "Zingboim Netanel",
+      "Rotstein Michael"
+    ],
+    "date": "2020-11-24",
+    "journal": "European child & adolescent psychiatry",
+    "doi": "10.1007/s00787-020-01686-2",
+    "topic": "Детское OCD",
+    "topic_key": "ocd",
+    "topic_keys": [
+      "ocd"
+    ],
+    "topics": [
+      "Детское OCD"
+    ],
+    "abstract_en": "Practice guidelines endorse comprehensive behavioral intervention for tics (CBIT) as first-line treatment for tic disorders (TD) in youth. Nevertheless, CBIT is rarely available due to various barriers. This study evaluated the feasibility and potential effectiveness of an Internet-based, self-help CBIT program (ICBIT) guided by parents with minimal therapist support delivered via telepsychotherapy. Forty-one youths, aged 7-18 years, were randomly assigned to receive either ICBIT (n = 25) or a wait-list (WL) condition (n = 16) in a crossover design. ICBIT was feasible to implement and at post-treatment, 64% of the participants have improved significantly. Results demonstrated clinically meaningful reductions in tic severity and improved youth global impairment and functioning. Gains were maintained over a 6-month follow-up period. The effect size for the primary outcome measure (Yale Global Tic Severity Scale) ranged between large effect size (Cohen\"s d = 0.91) at post-intervention to very large effect size (Cohen's d = 2.25) 6 months after the end of the acute intervention. These were comparable to face-to-face delivery treatment trials for TD. Participants rated the intervention as highly acceptable and satisfactory. Youth receiving ICBIT experienced improvement in self-esteem and comorbidity. Finally, during the COVID-19 pandemic, the ICBIT program enabled the delivery of the intervention consecutively without interruption. The results observed provide preliminary evidence of the feasibility and effectiveness of this innovative modality to assist youth with TD and remove various barriers to treatment, including those during a public crisis, such as the COVID-19 pandemic. Larger studies with an active control group are warranted.Trial registration URL: http://clinicaltrials.gov, ClinicalTrials.gov Identifier: NCT04087616.",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/33231786/",
+    "pmc_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7683326/",
+    "html_available": true,
+    "html_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7683326/",
+    "title_ru": "Онлайн-поведенческая терапия тиков у детей с поддержкой родителей",
+    "patient_plain": "",
+    "patient_use": "Для детей и подростков с тиками можно рассмотреть интернет-программу CBIT с участием родителей, если очная терапия недоступна. Обратитесь к специалисту по тикам, чтобы выяснить, доступна ли такая программа и подходит ли она ребёнку; статья не описывает достаточно подробно упражнения, чтобы самостоятельно воспроизвести лечебный курс.",
+    "practical_use": "При оценке эффекта отдельно отслеживайте выраженность моторных и вокальных тиков, суммарную тяжесть симптомов, связанное с тиками нарушение функционирования и общую адаптацию ребёнка. При интерпретации результатов учитывайте малую выборку и отсутствие активного контроля.",
+    "summary": "В рандомизированном исследовании 41 ребёнок и подросток 7–18 лет с синдромом Туретта или хроническим тиковым расстройством получали интернет-программу комплексного поведенческого вмешательства при тиках (CBIT) с поддержкой родителей и минимальной помощью терапевта либо находились в листе ожидания. После девяти еженедельных модулей выраженность тиков и связанное с ними нарушение повседневного функционирования уменьшились; улучшения сохранялись через шесть месяцев. Все модули завершили 23 из 25 семей.\nИсследование небольшое, контрольной группе не предоставляли альтернативного активного лечения.",
+    "_reason": "Практически значимый вариант дистанционного доступа к CBIT для детей с тиками, когда очная терапия затруднена.",
+    "why_read": "Помогает оценить перспективность девятинедельной программы с поддержкой родителей и сохранение эффекта в течение шести месяцев.",
+    "limitations": [
+      "Larger studies with an active control group are warranted."
+    ],
+    "advice_items": [],
+    "importance_stars": 4,
+    "importance_mark": "★★★★☆",
+    "take": "keep"
+  },
+  {
+    "id": 307,
+    "pmid": "33315190",
+    "source": "PubMed",
+    "article": "Effectiveness of Behaviour Therapy for Children and Adolescents with Tourette Syndrome and Chronic Tic Disorder in a Naturalistic Setting.",
+    "authors": [
+      "Andrén Per",
+      "Wachtmeister Vera",
+      "Franzé Julia",
+      "Speiner Caroline",
+      "Fernández de la Cruz Lorena",
+      "Andersson Erik",
+      "de Schipper Elles",
+      "Rautio Daniel",
+      "Silverberg-Mörse Maria",
+      "Serlachius Eva",
+      "Mataix-Cols David"
+    ],
+    "date": "2020-12-14",
+    "journal": "Child psychiatry and human development",
+    "doi": "10.1007/s10578-020-01098-y",
+    "topic": "Детское OCD",
+    "topic_key": "ocd",
+    "topic_keys": [
+      "ocd"
+    ],
+    "topics": [
+      "Детское OCD"
+    ],
+    "abstract_en": "It is unclear if the results of randomised controlled trials (RCTs) of behaviour therapy (BT) for Tourette syndrome (TS) and chronic tic disorder (CTD) can be generalised to naturalistic clinical settings and are durable long-term. In this naturalistic study, 74 young people with TS/CTD received BT at a specialist clinic. Data were collected at baseline, post-treatment, and at 3-, 6-, and 12-month follow-ups. Measures included the Yale Global Tic Severity Scale (YGTSS) and the Clinical Global Impression-Improvement scale (CGI-I), amongst others. Tic severity and tic-related impairment improved after treatment, with large within-group effect sizes. At post-treatment, 57% of the participants were classified as treatment responders according to the CGI-I. Tic severity and tic-related impairment improved further through the follow-up, with 75% treatment responders at the 12-month follow-up. BT is an effective and durable treatment for young people with TS/CTD in a naturalistic specialist clinical setting, with comparable effects to RCTs.",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/33315190/",
+    "pmc_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8238753/",
+    "html_available": true,
+    "html_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8238753/",
+    "title_ru": "Поведенческая терапия тиков у детей и подростков: эффект сохраняется до года",
+    "patient_plain": "",
+    "patient_use": "Поведенческую терапию стоит рассматривать как один из основных вариантов помощи ребёнку с хроническими тиками или синдромом Туретта. Обратитесь к специалисту, который работает с тиками у детей, и спросите, подходит ли ребёнку ERP или HRT; конкретные упражнения и порядок их проведения в доступном фрагменте не описаны.",
+    "practical_use": "В специализированной клинике применяли психообразование с ERP у 46 пациентов, с HRT у 14 и другие варианты поведенческой терапии у 14; в среднем лечение занимало около семи сеансов. При оценке динамики полезно отдельно отслеживать выраженность тиков и связанное с ними нарушение повседневного функционирования.",
+    "summary": "В клиническом исследовании 74 детей и подростков с синдромом Туретта или хроническим тиковым расстройством оценивали поведенческую терапию: психообразование с ERP (экспозицией с предотвращением реакции), с HRT (тренингом обращения привычки) или их сочетанием. После лечения выраженность тиков и связанные с ними нарушения уменьшились; доля пациентов с улучшением по общей клинической оценке выросла с 57% после лечения до 75% через 12 месяцев.\nИсследование проводилось в обычной практике специализированной клиники без контрольной группы, поэтому нельзя уверенно отделить эффект терапии от других причин улучшения.",
+    "_reason": "Исследование подтверждает применимость поведенческой терапии в клинической практике, но не позволяет определить превосходство ERP над HRT.",
+    "why_read": "Помогает оценить ожидаемую длительность лечения и сохранение улучшения в течение года.",
+    "limitations": [
+      "this naturalistic study",
+      "with large within-group effect sizes"
+    ],
+    "advice_items": [],
+    "importance_stars": 5,
+    "importance_mark": "★★★★★",
+    "take": "keep"
+  },
+  {
+    "id": 308,
+    "pmid": "33415472",
+    "source": "PubMed",
+    "article": "Group behavioral interventions for tics and comorbid symptoms in children with chronic tic disorders.",
+    "authors": [
+      "Zimmerman-Brenner Sharon",
+      "Pilowsky-Peleg Tammy",
+      "Rachamim Lilach",
+      "Ben-Zvi Amit",
+      "Gur Noa",
+      "Murphy Tara",
+      "Fattal-Valevski Aviva",
+      "Rotstein Michael"
+    ],
+    "date": "2021-01-07",
+    "journal": "European child & adolescent psychiatry",
+    "doi": "10.1007/s00787-020-01702-5",
+    "topic": "Детское OCD",
+    "topic_key": "ocd",
+    "topic_keys": [
+      "ocd"
+    ],
+    "topics": [
+      "Детское OCD"
+    ],
+    "abstract_en": "Exposure and Response Prevention (ERP), Habit Reversal Training (HRT) and Comprehensive Behavioral Intervention for Tics (CBIT) are effective in reducing tic severity. ERP and HRT have recently gained primary support in a group setting, while CBIT has not been examined similarly. We compared the efficacy of group-CBIT to group-Educational Intervention for Tics (group-EIT) for tics and comorbid symptoms. Children with Tourette Syndrome (TS) or Chronic Tic Disorder (CTD) were randomized to group-CBIT or group-EIT. Tics and comorbid symptoms were assessed in forty-six children pre- and postintervention, and 3-month later. Yale Global Tic Severity Scale (YGTSS) Motor tic severity decreased following both interventions, and was maintained at follow-up for group-CBIT only. The Parent Tic Questionnaire (PTQ) showed significant decrease in total and motor tic severity following group-CBIT only, a gain maintained three months later. YGTSS impairment score decreased following both interventions and was maintained at follow-up. YGTSS vocal tic severity score increased following both interventions, and then decreased significantly at follow up. Co-morbid symptoms including anxiety, behavioral problems, and aggressive behavior decreased following both interventions. Children with behavioral problems benefitted less while children with higher intellectual ability benefit more from intervention. Both group interventions showed efficacy in reducing tic impairment and comorbid symptoms. Group-CBIT was superior to group-EIT in reducing motor tic severity at 3-month follow-up, showing an advantage for tic-focused treatment. Based on the PTQ, group-CBIT was superior to group-EIT in reducing motor, vocal, and total tic scores, a gain maintained three months later. Clinical trial registry information-Group Intervention for Children with Chronic Tics Syndrome: CBIT vs Psychoeducational Intervention URL: http://clinicaltrials.gov , Identifier: NCT02407951, http://www.controlled-trials.com ).",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/33415472/",
+    "pmc_link": "",
+    "html_available": false,
+    "html_link": "",
+    "title_ru": "Групповая поведенческая терапия тиков у детей: CBIT эффективнее психообразования",
+    "patient_plain": "",
+    "patient_use": "Для ребёнка с хроническими тиками стоит рассмотреть групповую CBIT, а не ограничиваться психообразованием: в исследовании она лучше уменьшала выраженность тиков. Спросите специалиста по поведенческому лечению тиков, доступна ли эта программа для вашего ребёнка.",
+    "practical_use": "Оценивайте отдельно двигательную и вокальную выраженность тиков, их влияние на повседневную жизнь и сопутствующие симптомы до лечения и после него. Не трактуйте увеличение вокальных тиков сразу после вмешательства как окончательный результат: в обеих группах к трёхмесячному наблюдению показатель снизился.",
+    "summary": "В рандомизированном контролируемом исследовании 46 детей с синдромом Туретта или хроническим тикозным расстройством сравнили групповое комплексное поведенческое вмешательство при тиках (CBIT) с групповым психообразованием о тиках (EIT). Обе программы уменьшали влияние тиков на повседневную жизнь и сопутствующие тревожные и поведенческие симптомы. CBIT сильнее снижала выраженность тиков по оценке родителей; преимущество сохранялось через три месяца. По клинической шкале снижение выраженности двигательных тиков через три месяца сохранялось только после CBIT.\nНаблюдение ограничено 46 детьми и периодом в три месяца.",
+    "_reason": "CBIT показала преимущество перед психообразованием по снижению выраженности тиков, включая сохранение эффекта через три месяца.",
+    "why_read": "Помогает выбрать между групповой поведенческой терапией тиков и психообразовательной программой.",
+    "limitations": [
+      "forty-six children",
+      "3-month later"
+    ],
+    "advice_items": [],
+    "importance_stars": 4,
+    "importance_mark": "★★★★☆",
+    "take": "keep"
+  },
+  {
+    "id": 309,
+    "pmid": "33610169",
+    "source": "PubMed",
+    "article": "One-year outcome of manualised behavior therapy of chronic tic disorders in children and adolescents.",
+    "authors": [
+      "Nissen J B",
+      "Carlsen A H",
+      "Thomsen P H"
+    ],
+    "date": "2021-02-20",
+    "journal": "Child and adolescent psychiatry and mental health",
+    "doi": "10.1186/s13034-021-00362-w",
+    "topic": "Детское OCD",
+    "topic_key": "ocd",
+    "topic_keys": [
+      "ocd"
+    ],
+    "topics": [
+      "Детское OCD"
+    ],
+    "abstract_en": "BACKGROUND: Chronic tic disorders are neurodevelopmental disorders that can be treated with Habit Reversal Training (HRT) and Exposure Response Prevention (ERP). Intermediate and long-term effects have been examined after individual treatment with HRT, whereas evaluation of long-term outcome after an initial treatment with ERP, or a combination of HRT and ERP is lacking. The present study examines the long-term effect after a combined treatment with HRT and ERP delivered in an individual or a group setting METHODS: Fifty-nine children and adolescents diagnosed with a chronic tic disorder were randomised to manualised treatment combining HRT and ERP as individual or group training. Forty-seven were re-examined 1 year after acute outcome. Outcome measures included Total Tic Severity score (TTS) measured by the Yale Global Tic Severity Scale (YGTSS) and Beliefs About Tics Scale (BATS) RESULTS: In a mixed model, it was shown that the initial improvement with both individual and group treatment was maintained throughout the follow-up period. There were no significant differences between the two methods of treatment delivery. Of all participants completing the 12 months evaluation, 74.4% were considered responders. There was a significant positive association between the reduction of TTS and the reduction in BATS. In a latent class post-treatment trajectory analysis, two classes were identified, where high baseline severity increased the likelihood of being in the lesser responder class. Similar, but only as a trend, having ADHD, planning difficulties or hypersensitivity increased the risk of a lesser response.\n\nCONCLUSIONS: The present study compares the efficacy in individualised and group treatment of providing manualised therapy for child and adolescent tic disorders using two behavioural methods (combined HRT and ERP) both of which have been shown to have acute benefits but only one of which has been validated for longer term effectiveness. In the present study, both individualised and group treatments showed benefit throughout a 1-year follow-up period with several potential confounds affecting outcomes, while the relative benefits of either HRT and ERP were not addressed. Trial registration NCT04594044, 1-10-72-216-15, registered 19th October 2020, retrospectively registered, https://register.clinicaltrials.gov/prs/app/template/Home.vm?uid=U0005BW2&ts=9&sid=S000ABEY&cx=-wlx7vb The study is approved by the National Ethical Committee (1-10-72-216-15) and the Danish Data Protection Agency (1-16-02-490-15), registered 12 October 2015.",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/33610169/",
+    "pmc_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7897385/",
+    "html_available": true,
+    "html_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7897385/",
+    "title_ru": "Поведенческая терапия хронических тиков: эффект сохраняется через год",
+    "patient_plain": "",
+    "patient_use": "Сочетание HRT и ERP может уменьшать хронические тики, причём терапию можно проводить индивидуально или в группе. Обратитесь к специалисту по поведенческой терапии тиков, чтобы оценить возможность такого курса для ребёнка.",
+    "practical_use": "До начала лечения зафиксируйте исходную выраженность тиков и оцените сопутствующие СДВГ, трудности планирования и повышенную чувствительность; отслеживайте раннюю динамику. Учитывайте мысли и убеждения ребёнка о тиках: их изменение было связано с уменьшением выраженности симптомов.",
+    "summary": "У 59 детей и подростков с хроническими тиками сравнили индивидуальную и групповую терапию по руководству, сочетавшую HRT (тренинг обращения с привычкой) и ERP (экспозицию с предотвращением реакции). Улучшение сохранялось в течение года; среди 47 участников, прошедших годовую оценку, у 74,4% выраженность тиков снизилась более чем на 25%. Существенного преимущества индивидуального или группового формата не выявили.\nДанные ограничены небольшим числом участников и выбыванием части детей; отдельно вклад HRT и ERP не оценивали.",
+    "_reason": "Практически полезное сравнение форматов HRT и ERP с наблюдением результатов в течение года.",
+    "why_read": "Помогает выбрать индивидуальный или групповой формат поведенческой терапии без выявленного различия в результатах.",
+    "limitations": [
+      "the relative benefits of either HRT and ERP were not addressed",
+      "with several potential confounds affecting outcomes"
+    ],
+    "advice_items": [],
+    "importance_stars": 4,
+    "importance_mark": "★★★★☆",
+    "take": "keep"
+  },
+  {
+    "id": 310,
+    "pmid": "34480868",
+    "source": "PubMed",
+    "article": "Therapist-supported online remote behavioural intervention for tics in children and adolescents in England (ORBIT): a multicentre, parallel group, single-blind, randomised controlled trial.",
+    "authors": [
+      "Hollis Chris",
+      "Hall Charlotte L",
+      "Jones Rebecca",
+      "Marston Louise",
+      "Novere Marie Le",
+      "Hunter Rachael",
+      "Brown Beverley J",
+      "Sanderson Charlotte",
+      "Andrén Per",
+      "Bennett Sophie D",
+      "Chamberlain Liam R",
+      "Davies E Bethan",
+      "Evans Amber",
+      "Kouzoupi Natalia",
+      "McKenzie Caitlin",
+      "Heyman Isobel",
+      "Khan Kareem",
+      "Kilgariff Joseph",
+      "Glazebrook Cristine",
+      "Mataix-Cols David",
+      "Murphy Tara",
+      "Serlachius Eva",
+      "Murray Elizabeth"
+    ],
+    "date": "2021-09-01",
+    "journal": "The lancet. Psychiatry",
+    "doi": "10.1016/S2215-0366(21)00235-2",
+    "topic": "Детское OCD",
+    "topic_key": "ocd",
+    "topic_keys": [
+      "ocd"
+    ],
+    "topics": [
+      "Детское OCD"
+    ],
+    "abstract_en": "BACKGROUND: Exposure and Response Prevention (ERP) is a form of behavioural therapy for tics; however, its effectiveness remains uncertain. We aimed to evaluate the effectiveness of internet-delivered, therapist-supported, and parent-assisted ERP for treatment of tics in children and young people with Tourette syndrome or chronic tic disorder.\n\nMETHODS: This multicentre, parallel group, single-blind, randomised controlled trial was conducted across two study sites in England. Participants were recruited via 16 patient identification centres, two study sites in England (Nottingham and London), or online self-referral. Eligible participants were aged 9-17 years, had Tourette syndrome or chronic tic disorder, had not received behavioural therapy for tics in the past 12 months or were about to start, and had a Yale Global Tic Severity Scale (YGTSS) Total Tic Severity Score (TTSS) of more than 15 or more than 10 if they had only motor or vocal tics. Patients were excluded if they had started or stopped medication for tics within the past 2 months; had current alcohol or substance dependence, psychosis, suicidality, anorexia nervosa, or suspected moderate to severe intellectual disability; or presented an immediate risk to self or others; or the parent or carer was unable to speak, read, or write in English. Eligible patients were randomly assigned (1:1) by masked outcome assessors to receive 10 weeks of online, remotely delivered, therapist-supported ERP or psychoeducation (active control). Outcome assessors, statisticians, health economists, the trial manager, and the chief investigator were masked to group allocation. Patients were not directly informed of their allocation, but this could be established from the content once treatment commenced and the patients were not, therefore, considered masked to treatment. The primary outcome was YGTSS-TTSS 3 months after randomisation, and analysis was done in all randomised patients for whom data were available for each timepoint and outcome. Safety analysis was by intention to treat. Longer term follow-up is ongoing. This trial is registered with ISRCTN (ISRCTN70758207) and ClinicalTrials.gov (NCT03483493).\n\nFINDINGS: Between May 8, 2018, and Sept 30, 2019, we assessed 445 candidates for inclusion in the study. 221 potential participants were excluded (90 did not meet inclusion criteria, 84 declined to participate, and 47 unable to contact family). 224 participants were enrolled and randomly assigned to ERP (n=112) or psychoeducation (n=112). The enrolled patients were mostly male (n=177; 79%) and of White ethnicity (n=195; 87%). 11 patients were lost to follow-up 3 months after randomisation in the ERP group, compared with 12 patients in the psychoeducation group. Mean YGTSS-TTSS at 3 months after randomisation was 23·9 (SD 8·2) in the ERP group and 26·8 (7·3) in the psychoeducation group. The mean total decrease in YGTSS-TTSS at 3 months was 4·5 (16%, SD 1·1) in the ERP group versus 1·6 (6%, 1·0) in the psychoeducation group. The estimated mean difference in YGTSS-TTSS change between the groups adjusted for baseline and site was -2·29 points (95% CI -3·86 to -0·71) in favour of ERP, with an effect size of -0·31 (95% CI -0·52 to -0·10). Two serious adverse events occurred (one collapse and one tic attack), both in the psychoeducation group, neither of which were related to study treatment.\n\nINTERPRETATION: ERP is an effective behavioural therapy for tics. Remotely delivered, online ERP with minimal therapist contact time represents an efficient public mental health approach to improve access to behavioural therapy for tics in children and adolescents.\n\nFUNDING: National Institute for Health Research and Health and Technology Assessment.",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/34480868/",
+    "pmc_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8460453/",
+    "html_available": true,
+    "html_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8460453/",
+    "title_ru": "Онлайн-терапия тиков у детей: экспозиция с предотвращением реакции",
+    "patient_plain": "",
+    "patient_use": "Для ребёнка 9–17 лет с хроническими тиками или синдромом Туретта можно рассмотреть онлайн-ERP с поддержкой терапевта: в исследовании она уменьшала выраженность тиков сильнее, чем психообразование. Обратитесь к специалисту по поведенческой терапии тиков и спросите, доступна ли такая программа для вашего ребёнка.",
+    "practical_use": "При оценке эффекта отслеживайте выраженность тиков по YGTSS до начала лечения и после курса. Онлайн-ERP можно рассматривать как способ расширить доступ к поведенческой терапии при ограниченной доступности очных услуг.",
+    "summary": "В рандомизированном контролируемом исследовании 224 детей и подростков 9–17 лет с синдромом Туретта или хроническим тикозным расстройством сравнили 10-недельную онлайн-терапию ERP (экспозиция с предотвращением реакции), поддерживаемую терапевтом и родителями, с психообразованием. Через 3 месяца выраженность тиков снизилась сильнее при ERP: среднее уменьшение составило 4,5 против 1,6 балла по шкале YGTSS; межгрупповой эффект был небольшим.\nИсследование проведено в Англии, большинство участников были мальчиками европейского происхождения; долгосрочные результаты на момент публикации ещё изучались.",
+    "_reason": "Онлайн-ERP дала небольшое, но статистически значимое преимущество перед психообразованием через 3 месяца.",
+    "why_read": "Полезно для выбора дистанционной поведенческой терапии тиков у детей и подростков.",
+    "limitations": [
+      "Longer term follow-up is ongoing.",
+      "The enrolled patients were mostly male (n=177; 79%) and of White ethnicity (n=195; 87%)."
+    ],
+    "advice_items": [],
+    "importance_stars": 4,
+    "importance_mark": "★★★★☆",
+    "take": "keep"
+  },
+  {
+    "id": 311,
+    "pmid": "34508805",
+    "source": "PubMed",
+    "article": "Long-term Outcomes of Behavior Therapy for Youth With Tourette Disorder.",
+    "authors": [
+      "Espil Flint M",
+      "Woods Douglas W",
+      "Specht Matthew W",
+      "Bennett Shannon M",
+      "Walkup John T",
+      "Ricketts Emily J",
+      "McGuire Joseph F",
+      "Stiede Jordan T",
+      "Schild Jennifer S",
+      "Chang Susanna W",
+      "Peterson Alan L",
+      "Scahill Lawrence",
+      "Wilhelm Sabine",
+      "Piacentini John C"
+    ],
+    "date": "2021-09-08",
+    "journal": "Journal of the American Academy of Child and Adolescent Psychiatry",
+    "doi": "10.1016/j.jaac.2021.08.022",
+    "topic": "Детское OCD",
+    "topic_key": "ocd",
+    "topic_keys": [
+      "ocd"
+    ],
+    "topics": [
+      "Детское OCD"
+    ],
+    "abstract_en": "OBJECTIVE: To determine the long-term durability of behavior therapy for tics among youth with Tourette disorder and persistent (chronic) motor or vocal tic disorders.\n\nMETHOD: Of the 126 youth who participated in a randomized controlled trial of behavior therapy 11 years prior, 80 were recruited for this longitudinal follow-up. Consenting participants were interviewed in person or remotely (Web-based video) by trained evaluators to determine the course of tics, current tic severity, and tic-related impairment. Recruitment and data collection occurred between 2014 and 2019, with an average follow-up duration of 11.2 years.\n\nRESULTS: Treatment responders to both conditions in the original trial achieved partial, but not full, tic remission. Tic severity also decreased significantly across the sample, with 40% reporting partial remission. Behavior therapy responders (n = 21) in the original trial were more likely (67%) to achieve remission at follow-up (Total Tic Score = 12.52, SD = 10.75) compared to psychoeducation/supportive therapy responders (n = 6, 0%) at follow-up (Total Tic Score = 20.67, SD = 6.92) on the Yale Global Tic Severity Scale. Tic-related impairment decreased across the sample, with no significant differences between treatment groups or responders.\n\nCONCLUSION: Despite limitations of unmeasured variables and veracity of self-report at follow-up, this study supports guidelines recommending behavior therapy as the first-line intervention for tics. Further investigation of behavior therapy as an early preventive intervention also merits attention.",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/34508805/",
+    "pmc_link": "",
+    "html_available": false,
+    "html_link": "",
+    "title_ru": "Поведенческая терапия тиков: сохраняется ли эффект через 11 лет",
+    "patient_plain": "",
+    "patient_use": "Поведенческую терапию стоит рассматривать как первый вариант лечения тиков: у детей, которым она помогла изначально, улучшение могло сохраняться спустя годы. Если тики мешают повседневной жизни, попросите врача подобрать поведенческую терапию, направленную на уменьшение тиков.",
+    "practical_use": "При выборе лечения ориентируйтесь на поведенческую терапию как на первую линию и отдельно оценивайте выраженность тиков и связанное с ними нарушение функционирования. Длительное наблюдение показывает преимущество первоначального ответа на поведенческую терапию по ремиссии, но не выявляет межгрупповых различий по функциональным нарушениям.",
+    "summary": "В наблюдение через 11 лет после рандомизированного контролируемого исследования (РКИ) включили 80 из 126 детей и подростков с синдромом Туретта или хроническими двигательными либо вокальными тиками. Среди ответивших на первоначальную поведенческую терапию у 67% отмечена ремиссия тиков при повторной оценке; среди ответивших на психообразование и поддерживающую терапию — у 0%. В обеих группах улучшение было неполным, а связанные с тиками нарушения повседневной жизни уменьшились без значимых различий между группами.\nОграничения: выбывание части участников, неучтённые факторы и зависимость от самоотчётов при длительном наблюдении.",
+    "_reason": "Данные длительного наблюдения подкрепляют выбор поведенческой терапии в качестве первой линии лечения тиков.",
+    "why_read": "Помогает оценить, насколько долго может сохраняться эффект поведенческой терапии при тиках.",
+    "limitations": [
+      "unmeasured variables",
+      "veracity of self-report at follow-up"
+    ],
+    "advice_items": [],
+    "importance_stars": 5,
+    "importance_mark": "★★★★★",
+    "take": "keep"
+  },
+  {
+    "id": 312,
+    "pmid": "34887819",
+    "source": "PubMed",
+    "article": "Implementation and Evaluation of Therapeutic Online Coaching Using Habit Reversal Training in Children With Tourette's Disorder - A Pilot Study.",
+    "authors": [
+      "Viefhaus Paula",
+      "Adam Julia",
+      "Goletz Hildegard",
+      "Woitecki Katrin",
+      "Döpfner Manfred"
+    ],
+    "date": "2021-11-23",
+    "journal": "Frontiers in psychology",
+    "doi": "10.3389/fpsyg.2021.780539",
+    "topic": "Детское OCD",
+    "topic_key": "ocd",
+    "topic_keys": [
+      "ocd"
+    ],
+    "topics": [
+      "Детское OCD"
+    ],
+    "abstract_en": "Cognitive-behavioral interventions can be difficult to implement in daily routine, which is often essential for generalizing treatment effects to natural settings. Furthermore, there is a lack of adequate care options concerning habit reversal training for children with Tourette's disorder. The objective of this study is to evaluate therapeutic online coaching via videoconferencing in the natural environment of children with Tourette's disorder in addition to face-to-face therapy (blended therapy). Online coaching took place twice a week for a maximum of 12 weeks. In a single-case study (n = 5; patients aged 8-11 years), the first results were obtained for exploratory purposes, especially with regard to the feasibility and reduction of symptoms and impairment. Various outcome measures were assessed (severity of symptoms, impairment, practical implementation, and satisfaction). Despite some principal limitations, the findings provide first hints that blended therapy is feasible and improves symptoms in some children with tics. Clinical Trial Registration: [https://clinicaltrials.gov/], identifier [DRKS00017199].",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/34887819/",
+    "pmc_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8649795/",
+    "html_available": true,
+    "html_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8649795/",
+    "title_ru": "Онлайн-сопровождение тренировки обратной реакции при синдроме Туретта у детей",
+    "patient_plain": "",
+    "patient_use": "Онлайн-сопровождение может помочь ребёнку применять освоенные поведенческие навыки дома, но улучшение не гарантировано. Если тики мешают повседневной жизни, спросите специалиста о тренировке обратной реакции (Habit Reversal Training, HRT) и возможности дополнить очные занятия видеосессиями; конкретный план упражнений должен подбираться под тип тиков.",
+    "practical_use": "При оценке динамики отслеживайте не только выраженность тиков по шкале YGTSS, но и функциональные нарушения, субъективное бремя и ощущение неконтролируемости. Учитывайте естественные колебания симптомов: у одного ребёнка во время онлайн-сопровождения появились новые частые тяжёлые тики, поэтому отдельное ухудшение не следует автоматически приписывать формату терапии.",
+    "summary": "В пилотном исследовании пяти детей 8–11 лет с синдромом Туретта очную поведенческую терапию дополняли видеосессиями дважды в неделю на протяжении максимум 12 недель. При тренировке обратного ответа ребёнок учился замечать позыв к тику и выполнять несовместимое с ним действие: например, при вокальных тиках — контролируемое дыхание, при двигательных — мягкое напряжение мышц-антагонистов. У большинства детей выраженность тиков, нарушения повседневного функционирования или субъективное бремя оставались стабильными либо уменьшались, но результаты различались между участниками.\nЭто исследование осуществимости на пяти детях без контрольной группы; оно не позволяет установить эффективность метода в сравнении с одной очной терапией.",
+    "_reason": "Практический интерес — описание конкретных конкурирующих реакций и возможности наблюдать их выполнение по видеосвязи.",
+    "why_read": "Полезно для понимания того, как организовать дистанционную поддержку HRT в естественной обстановке ребёнка.",
+    "limitations": [
+      "a single-case study (n = 5)",
+      "first results were obtained for exploratory purposes",
+      "No patients were receiving medication for tics or comorbid disorders."
+    ],
+    "advice_items": [
+      {
+        "quote": "For vocal tics with the mouth (coughing, throat clearing, and noise), the mouth was closed as soon as the urge to tic was recognized and a deep and relaxed breathing through the nose was conducted (breathing out for a little longer than breathing in).",
+        "advice": "В исследовании при вокальных тиках, связанных с ртом, ребёнок закрывал рот при распознавании позыва и дышал через нос спокойно и глубоко, делая выдох немного длиннее вдоха. Это описание использованной реакции, а не универсальная инструкция для любого тика.",
+        "audience": "CV-разработчик"
+      },
+      {
+        "quote": "The competing responses for motor tics were to strengthen the antagonist muscles.",
+        "advice": "Для двигательных тиков подбирали мягкое напряжение мышц-антагонистов, несовместимое с конкретным тиком. Реакцию нужно индивидуально согласовать с терапевтом, а не переносить один пример на все движения.",
+        "audience": "CV-разработчик"
+      }
+    ],
+    "importance_stars": 4,
+    "importance_mark": "★★★★☆",
+    "take": "skim"
+  },
+  {
+    "id": 313,
+    "pmid": "36608977",
+    "source": "PubMed",
+    "article": "Modified Comprehensive Behavioral Intervention for Tics: Treating Children With Tic Disorders, Co-Occurring ADHD, and Psychosocial Impairment.",
+    "authors": [
+      "Greenberg Erica",
+      "Albright Caroline",
+      "Hall Margaret",
+      "Hoeppner Susanne",
+      "Miller Sarah",
+      "Farley Alyssa",
+      "Silverman Michelle",
+      "Braddick Valerie",
+      "Sprich Susan",
+      "Wilhelm Sabine"
+    ],
+    "date": "2022-07-20",
+    "journal": "Behavior therapy",
+    "doi": "10.1016/j.beth.2022.07.007",
+    "topic": "Детское OCD",
+    "topic_key": "ocd",
+    "topic_keys": [
+      "ocd"
+    ],
+    "topics": [
+      "Детское OCD"
+    ],
+    "abstract_en": "Our objective was to evaluate the feasibility and acceptability, and preliminary efficacy of a modified comprehensive behavioral intervention for tics (MCBIT) therapy for youth with chronic tic disorders (CTDs), co-occurring attention-deficit hyperactivity disorder (ADHD), and associated psychosocial impairment. Seventeen youth ages 10-17 with CTD and co-occurring ADHD were randomly assigned to the MCBIT group (n = 9) or to a control group where they received traditional comprehensive behavioral intervention for tics (CBIT) therapy (n = 8). Both groups received ten 55-minute weekly treatment sessions, and two 55-minute biweekly relapse prevention sessions. Sixteen of the 17 participants completed the study, and acceptability ratings in both treatment groups were high with no significant differences in expectation of improvement. The MCBIT and CBIT groups in combination showed significant improvement in tic severity, ADHD symptom severity, and tic-related impairment. Group differences were not significant. The results indicate that MCBIT treatment is feasible and acceptable for youth with CTD and ADHD, and is similarly well tolerated relative to traditional CBIT. Results were not sufficiently superior to recommend MCBIT over CBIT for this population. However, given the demonstrated benefit of behavioral treatments that target co-occurring conditions concurrently, continuing to examine novel behavioral approaches that can target tics and related conditions simultaneously and successfully is recommended.",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/36608977/",
+    "pmc_link": "",
+    "html_available": false,
+    "html_link": "",
+    "title_ru": "Поведенческая терапия тиков у детей с СДВГ",
+    "patient_plain": "",
+    "patient_use": "При сочетании тиков и СДВГ можно рассматривать стандартную CBIT: в этом исследовании она помогла уменьшить симптомы и связанные с тиками нарушения. Не выбирайте модифицированную MCBIT вместо CBIT только на основании этого исследования — её дополнительная польза не доказана.",
+    "practical_use": "При оценке результата поведенческой терапии отслеживайте отдельно выраженность тиков, симптомы СДВГ и функциональные нарушения. Исследование не позволяет утверждать, что модификация CBIT эффективнее стандартного протокола.",
+    "summary": "В рандомизированном контролируемом исследовании (РКИ) 17 детей и подростков 10–17 лет с хроническими тиковыми расстройствами и синдромом дефицита внимания и гиперактивности (СДВГ) получали стандартную комплексную поведенческую терапию тиков (CBIT) или её модификацию (MCBIT). В обеих группах провели 10 еженедельных сеансов по 55 минут и два поддерживающих сеанса профилактики рецидива по 55 минут с интервалом в две недели.\nВ обеих группах уменьшились выраженность тиков, симптомы СДВГ и связанные с тиками нарушения повседневной жизни. Преимущество MCBIT перед стандартной CBIT не выявлено. Исследование небольшое: его завершили 16 участников.",
+    "_reason": "Практически применимый ориентир по выбору поведенческой терапии при сочетании хронических тиков и СДВГ.",
+    "why_read": "Описаны продолжительность курса CBIT и MCBIT и результаты по трём клиническим показателям.",
+    "limitations": [
+      "Seventeen youth ages 10-17",
+      "Group differences were not significant.",
+      "Results were not sufficiently superior to recommend MCBIT over CBIT for this population."
+    ],
+    "advice_items": [],
+    "importance_stars": 4,
+    "importance_mark": "★★★★☆",
+    "take": "keep"
+  },
+  {
+    "id": 314,
+    "pmid": "36440399",
+    "source": "PubMed",
+    "article": "A preliminary study of comprehensive behavioral intervention for tics in Chinese children with chronic tic disorder or Tourette syndrome.",
+    "authors": [
+      "Xu Wen",
+      "Ding Qiang",
+      "Zhao Ying",
+      "Jiang Wenqing",
+      "Han Jingjing",
+      "Sun Jinhua"
+    ],
+    "date": "2022-11-11",
+    "journal": "Frontiers in psychiatry",
+    "doi": "10.3389/fpsyt.2022.997174",
+    "topic": "Детское OCD",
+    "topic_key": "ocd",
+    "topic_keys": [
+      "ocd"
+    ],
+    "topics": [
+      "Детское OCD"
+    ],
+    "abstract_en": "OBJECTIVE: To investigate the adaptability of Comprehensive Behavioral Intervention for Tics (CBIT) for a Chinese population, and evaluate the efficacy of combined CBIT and pharmacotherapy (CBIT + PT) compared to CBIT or pharmacotherapy (PT) alone for reducing tics and for improving the quality of life (QoL) in a sample of Chinese children with chronic tic disorders (CTD) and Tourette syndrome (TS).\n\nMATERIALS AND METHODS: In this 10-week randomized controlled pilot trial, 37 outpatients aged between 6 and 16 years affected by TS and CTD were randomly assigned to receive CBIT (n = 22) or PT alone (n = 15). Considering the feasibility, the patients allocated to the CBIT treatment group could further choose whether to simultaneously take medicine voluntarily, resulting in a CBIT alone group (n = 12) and a CBIT + PT group (n = 10).\n\nRESULTS: At baseline, no significant difference was found between the three groups in the demographic and clinical characteristics (p > 0.05). All three groups showed a significant reduction in tic severity after treatment assessed by the Yale Global Tic Severity Scale (YGTSS) severity score [F (2,33) = 35.05, p < 0.001, η p  2 = 0.51], the score of the Clinical Global Impression scale for Improvement (CGI-I) [F (1,34) = 13.87, p = 0.001, η p  2 = 0.29], and YGTSS impairment score [F (2,33) = 31.71, p < 0.001, η p  2 = 0.48]. Significant interactions were found between the time-point and group in emotional functioning [F (2,29) = 4.39, p = 0.02, η p  2 = 0.23], psychosocial functioning [F (2,29) = 5.93, p = 0.007, η p  2 = 0.29], and total QoL score [F (1,34) = 3.72, p = 0.04, η p  2 = 0.20] of Pediatric Quality of Life Inventory (PedsQL 4.0) for children suggesting a significantly larger improvement in emotional functioning, psychosocial functioning, and total QoL score of the life quality in the CBIT group for children self-report. PedsQL for proxy report only showed a significant main effect of time-point in physical functioning [F (1,33) = 8.35, p = 0.01, η p  2 = 0.2], emotional functioning [F (1,33) = 10.75, p = 0.002, η p  2 = 0.25], psychosocial functioning [F (1,34) = 11.38, p = 0.002, η p  2 = 0.26], and total Qol score [F (1,34) = 13.21, p = 0.001, η p  2 = 0.29].\n\nCONCLUSION: CBIT is probably effective in reducing tic severity in Chinese children with tic disorders. CBIT + PT may not be superior to CBIT alone in reducing tic severity and improving quality of life. CBIT alone showed advantages in improving quality of life over CBIT + PT and PT alone. CBIT might be an appropriate treatment option for patients with tic disorder in Chinese mainland.",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/36440399/",
+    "pmc_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9691679/",
+    "html_available": true,
+    "html_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9691679/",
+    "title_ru": "Поведенческая терапия тиков у детей: сравнение с лекарственным лечением",
+    "patient_plain": "",
+    "patient_use": "CBIT — вариант лечения детских тиков, особенно при лёгких и умеренных симптомах; добавление лекарств не показало явного преимущества перед одной поведенческой терапией. Попросите детского специалиста по тикам оценить возможность курса CBIT до добавления препаратов, если состояние позволяет.",
+    "practical_use": "При выборе лечения оценивайте отдельно выраженность тиков, связанное с ними нарушение повседневной жизни и качество жизни по оценке самого ребёнка. Не трактуйте отсутствие преимущества комбинации как доказательство её бесполезности: выбор лекарств в группе CBIT не был рандомизирован.",
+    "summary": "В пилотном рандомизированном исследовании 37 детей 6–16 лет с синдромом Туретта или хроническими тиковыми расстройствами наблюдали в течение 10 недель. Комплексная поведенческая интервенция при тиках (CBIT) уменьшала выраженность тиков; у детей, получавших только CBIT, также сильнее улучшилось самооценённое качество жизни, чем при лекарственном лечении или сочетании методов.\nИсследование небольшое; решение о приёме лекарств в группе CBIT участники принимали самостоятельно, поэтому сравнение комбинированного лечения с одной CBIT ограничено.",
+    "_reason": "CBIT показала улучшение выраженности тиков и самооценённого качества жизни у детей.",
+    "why_read": "Помогает обосновать рассмотрение CBIT как самостоятельного варианта первой линии при лёгких и умеренных тиках у детей.",
+    "limitations": [
+      "a preliminary study",
+      "The sample size was relatively small"
+    ],
+    "advice_items": [],
+    "importance_stars": 4,
+    "importance_mark": "★★★★☆",
+    "take": "keep"
+  },
+  {
+    "id": 315,
     "pmid": "38418047",
     "source": "PubMed",
     "article": "Body-Focused Repetitive Behavior Disorders in Children and Adolescents: Clinical Characteristics and Treatment Outcomes in a Naturalistic Setting.",
@@ -17327,7 +18623,118 @@
     "take": "keep"
   },
   {
-    "id": 290,
+    "id": 316,
+    "pmid": "37545359",
+    "source": "PubMed",
+    "article": "Evaluating the feasibility, acceptability, and preliminary effectiveness of tele-comprehensive behavior therapy for tics (teleCBIT) for Tourette syndrome in youth and adults.",
+    "authors": [
+      "Capriotti Matthew R",
+      "Wellen Brianna Cm",
+      "Young Brianna N",
+      "Himle Michael B",
+      "Conelea Christine A",
+      "Espil Flint M",
+      "Simpson Heather",
+      "Mathews Carol A"
+    ],
+    "date": "2023-08-07",
+    "journal": "Journal of telemedicine and telecare",
+    "doi": "10.1177/1357633X231189305",
+    "topic": "Детское OCD",
+    "topic_key": "ocd",
+    "topic_keys": [
+      "ocd"
+    ],
+    "topics": [
+      "Детское OCD"
+    ],
+    "abstract_en": "IntroductionComprehensive behavioral intervention for tics (CBIT) is an efficacious, first-line treatment for Tourette syndrome (TS) and other chronic or persistent tic disorders. However, CBIT's public health impact has been limited by suboptimal treatment access. Preliminary research has shown that providing CBIT over videoconference (teleCBIT) is a promising delivery method for patients who cannot access in-person care. However, extant studies have been small efficacy trials focused only on pediatric patients. Replication of these studies is needed in additional treatment settings and across a wider age range of patients, especially in light of advances in telehealth technology and increasing telehealth adoption among practitioners.MethodsWe conducted a single-arm trial to evaluate the feasibility, acceptability, and effectiveness of teleCBIT embedded in comprehensive, medical tic specialty clinics. From October 2016 to September 2018, patients were offered teleCBIT at their usual care appointments. Those who were interested and met inclusion/exclusion criteria received 8 sessions of CBIT guided by a manualized protocol. An independent evaluator, masked to treatment progress, administered assessments at baseline, post-treatment, and 3 and 6 months after treatment.ResultsTwenty-five percent of patients who were offered treatment initiated teleCBIT through the study, and all treatment initiators completed treatment. From pre- to post-treatment, decreases in Yale Global Tic Severity Scale (YGTSS) total tic severity scores showed a large effect size among pediatric patients (n = 19; t = 5.72, P < 0.001, d = 1.31) and a medium-to-large effect size for adult patients (n = 10, t = 1.41, P = 0.096, d = 0.664). Thirteen of 19 pediatric patients (68%) and 6 of 10 adult patients (60%) had a positive global treatment response at post-treatment. Patients rated the treatment as highly satisfactory. Ninety-three percent of sessions were free of substantial technical problems.DiscussionWithin the context of medical tic specialty clinics, teleCBIT demonstrated strong evidence of feasibility, acceptability, and preliminary effectiveness comparable to in-person treatment for both pediatric and adult patients. TeleCBIT warrants study in future research on enhancing care systems for patients with TS.Trial registryhttps://clinicaltrials.gov/ct2/keydates/NCT04007913.",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/37545359/",
+    "pmc_link": "",
+    "html_available": false,
+    "html_link": "",
+    "title_ru": "Онлайн-терапия тиков при синдроме Туретта: 8 сеансов CBIT",
+    "patient_plain": "",
+    "patient_use": "Если очная поведенческая терапия тиков недоступна, стоит искать специалиста, проводящего CBIT по видеосвязи: в исследовании дети и взрослые смогли завершить восьмисеансовый курс, у многих тики уменьшились. Спросите врача, доступна ли вам такая программа и подходит ли она с учётом возраста и симптомов.",
+    "practical_use": "При направлении на teleCBIT ориентируйтесь на программу из 8 сеансов и оценивайте динамику выраженности тиков по Yale Global Tic Severity Scale (YGTSS) до и после курса. У взрослых статистически значимое снижение выраженности тиков в этой небольшой выборке не подтверждено (p = 0,096), несмотря на положительную оценку величины эффекта.",
+    "summary": "В одноцентровом по формату лечения, но многоцентровом клиническом контексте исследовании без контрольной группы оценивали CBIT (комплексное поведенческое вмешательство при тиках) по видеосвязи у детей и взрослых с синдромом Туретта. После 8 сеансов выраженность тиков снизилась; положительный общий ответ на лечение отмечен у 68% детей и 60% взрослых. Все начавшие терапию завершили курс, а 93% сеансов прошли без существенных технических проблем.\nИсследование было небольшим и не имело контрольной группы, поэтому оно не доказывает эффективность онлайн-формата в сравнении с очной терапией.",
+    "_reason": "Исследование поддерживает применение восьмисеансовой CBIT по видеосвязи как доступной альтернативы при затруднённом доступе к очной помощи.",
+    "why_read": "Показывает результаты онлайн-CBIT не только у детей, но и у взрослых в условиях специализированных клиник.",
+    "limitations": [
+      "single-arm trial",
+      "preliminary effectiveness",
+      "Twenty-five percent of patients who were offered treatment initiated teleCBIT through the study"
+    ],
+    "advice_items": [],
+    "importance_stars": 4,
+    "importance_mark": "★★★★☆",
+    "take": "keep"
+  },
+  {
+    "id": 317,
+    "pmid": "37924247",
+    "source": "PubMed",
+    "article": "Online remote behavioural intervention for tics in 9- to 17-year-olds: the ORBIT RCT with embedded process and economic evaluation.",
+    "authors": [
+      "Hollis Chris",
+      "Hall Charlotte L",
+      "Khan Kareem",
+      "Le Novere Marie",
+      "Marston Louise",
+      "Jones Rebecca",
+      "Hunter Rachael",
+      "Brown Beverley J",
+      "Sanderson Charlotte",
+      "Andrén Per",
+      "Bennett Sophie D",
+      "Chamberlain Liam R",
+      "Davies E Bethan",
+      "Evans Amber",
+      "Kouzoupi Natalia",
+      "McKenzie Caitlin",
+      "Heyman Isobel",
+      "Kilgariff Joseph",
+      "Glazebrook Cristine",
+      "Mataix-Cols David",
+      "Serlachius Eva",
+      "Murray Elizabeth",
+      "Murphy Tara"
+    ],
+    "date": "2023-10-01",
+    "journal": "Health technology assessment (Winchester, England)",
+    "doi": "10.3310/CPMS3211",
+    "topic": "Детское OCD",
+    "topic_key": "ocd",
+    "topic_keys": [
+      "ocd"
+    ],
+    "topics": [
+      "Детское OCD"
+    ],
+    "abstract_en": "BACKGROUND: Behavioural therapy for tics is difficult to access, and little is known about its effectiveness when delivered online.\n\nOBJECTIVE: To investigate the clinical and cost-effectiveness of an online-delivered, therapist- and parent-supported therapy for young people with tic disorders.\n\nDESIGN: Single-blind, parallel-group, randomised controlled trial, with 3-month (primary end point) and 6-month post-randomisation follow-up. Participants were individually randomised (1 : 1), using on online system, with block randomisations, stratified by site. Naturalistic follow-up was conducted at 12 and 18 months post-randomisation when participants were free to access non-trial interventions. A subset of participants participated in a process evaluation.\n\nSETTING: Two hospitals (London and Nottingham) in England also accepting referrals from patient identification centres and online self-referrals.\n\nPARTICIPANTS: Children aged 9-17 years (1) with Tourette syndrome or chronic tic disorder, (2) with a Yale Global Tic Severity Scale-total tic severity score of 15 or more (or > 10 with only motor or vocal tics) and (3) having not received behavioural therapy for tics in the past 12 months or started/stopped medication for tics within the past 2 months.\n\nINTERVENTIONS: Either 10 weeks of online, remotely delivered, therapist-supported exposure and response prevention therapy (intervention group) or online psychoeducation (control).\n\nOUTCOME: Primary outcome: Yale Global Tic Severity Scale-total tic severity score 3 months post-randomisation; analysis done in all randomised patients for whom data were available. Secondary outcomes included low mood, anxiety, treatment satisfaction and health resource use. Quality-adjusted life-years are derived from parent-completed quality-of-life measures. All trial staff, statisticians and the chief investigator were masked to group allocation.\n\nRESULTS: Two hundred and twenty-four participants were randomised to the intervention (n = 112) or control (n = 112) group. Participants were mostly male (n = 177; 79%), with a mean age of 12 years. At 3 months the estimated mean difference in Yale Global Tic Severity Scale-total tic severity score between the groups adjusted for baseline and site was -2.29 points (95% confidence interval -3.86 to -0.71) in favour of therapy (effect size -0.31, 95% confidence interval -0.52 to -0.10). This effect was sustained throughout to the final follow-up at 18 months (-2.01 points, 95% confidence interval -3.86 to -0.15; effect size -0.27, 95% confidence interval -0.52 to -0.02). At 18 months the mean incremental cost per participant of the intervention compared to the control was £662 (95% confidence interval -£59 to £1384), with a mean incremental quality-adjusted life-year of 0.040 (95% confidence interval -0.004 to 0.083) per participant. The mean incremental cost per quality-adjusted life-year gained was £16,708. The intervention was acceptable and delivered with high fidelity. Parental engagement predicted child engagement and more positive clinical outcomes.\n\nHARMS: Two serious, unrelated adverse events occurred in the control group.\n\nLIMITATIONS: We cannot separate the effects of digital online delivery and the therapy itself. The sample was predominately white and British, limiting generalisability. The design did not compare to face-to-face services.\n\nCONCLUSION: Online, therapist-supported behavioural therapy for young people with tic disorders is clinically and cost-effective in reducing tics, with durable benefits extending up to 18 months.\n\nFUTURE WORK: Future work should compare online to face-to-face therapy and explore how to embed the intervention in clinical practice.\n\nTRIAL REGISTRATION: This trial is registered as ISRCTN70758207; ClinicalTrials.gov (NCT03483493). The trial is now complete.\n\nFUNDING: This project was funded by the National Institute for Health and Care Research (NIHR) Health and Technology Assessment programme (project number 16/19/02) and will be published in full in Health and Technology Assessment; Vol. 27, No. 18. See the NIHR Journals Library website for further project information.",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/37924247/",
+    "pmc_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10641713/",
+    "html_available": true,
+    "html_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10641713/",
+    "title_ru": "Онлайн-терапия тиков у детей: эффект сохраняется до 18 месяцев",
+    "patient_plain": "",
+    "patient_use": "Для детей 9–17 лет с выраженными хроническими тиками можно рассматривать 10-недельную онлайн-ERP с поддержкой терапевта и участием родителей: в исследовании она уменьшала тики сильнее, чем одно психообразование, с сохранением эффекта до 18 месяцев. При поиске лечения спросите специалиста, доступна ли структурированная онлайн-ERP для тиков с сопровождением семьи.",
+    "practical_use": "Оценивайте динамику по шкале Yale Global Tic Severity Scale, а не только по общему впечатлению семьи: среднее преимущество терапии через 3 месяца составило 2,29 балла. Вовлечение родителей связано с лучшей вовлечённостью ребёнка и более благоприятными результатами.",
+    "summary": "В рандомизированном контролируемом исследовании (РКИ) 224 детям 9–17 лет с синдромом Туретта или хроническим тикозным расстройством назначили 10-недельную онлайн-терапию ERP (экспозиция с предотвращением реакции) с поддержкой терапевта и родителей либо онлайн-психообразование. Терапия дала большее снижение выраженности тиков через 3 месяца; преимущество сохранялось до 18 месяцев. Средняя дополнительная стоимость составила £16 708 на один приобретённый год качественной жизни (QALY).\nНельзя отделить эффект онлайн-формата от эффекта самой терапии; выборка преимущественно состояла из белых детей из Великобритании, а сравнения с очной терапией не проводили.",
+    "_reason": "РКИ подтверждает умеренное и длительное преимущество 10-недельной онлайн-ERP перед психообразованием у детей с тикозными расстройствами.",
+    "why_read": "Полезно для выбора дистанционного поведенческого лечения, когда очная помощь труднодоступна.",
+    "limitations": [
+      "We cannot separate the effects of digital online delivery and the therapy itself.",
+      "The sample was predominately white and British, limiting generalisability.",
+      "The design did not compare to face-to-face services."
+    ],
+    "advice_items": [],
+    "importance_stars": 5,
+    "importance_mark": "★★★★★",
+    "take": "keep"
+  },
+  {
+    "id": 318,
     "pmid": "39235304",
     "source": "PubMed",
     "article": "Efficacy and Safety of Low-Fluence 730-nm Picosecond Laser in the Treatment of Melasma in Chinese Patients.",
@@ -17392,7 +18799,7 @@
     "take": "keep"
   },
   {
-    "id": 291,
+    "id": 319,
     "pmid": "39282999",
     "source": "PubMed",
     "article": "Modulation of Melanocyte in Melasma Patients After Picosecond Laser Treatment.",
@@ -17457,7 +18864,108 @@
     "take": "keep"
   },
   {
-    "id": 292,
+    "id": 320,
+    "pmid": "39311713",
+    "source": "PubMed",
+    "article": "Description, Implementation, and Efficacy of the Comprehensive Behavioral Intervention for Tics as First-Line Treatment for Tourette and Other Tic Disorders.",
+    "authors": [
+      "Kohler Kelly",
+      "Rosen Nicole",
+      "Piacentini John"
+    ],
+    "date": "2024-09-23",
+    "journal": "Journal of child and adolescent psychopharmacology",
+    "doi": "10.1089/cap.2024.0023",
+    "topic": "Детское OCD",
+    "topic_key": "ocd",
+    "topic_keys": [
+      "ocd"
+    ],
+    "topics": [
+      "Детское OCD"
+    ],
+    "abstract_en": "Objective: To provide an evidence-based review of the Comprehensive Behavioral Intervention for Tic (CBIT) disorders. Results: For close to a century, behavioral interventions for managing tics associated with Tourette and other tic disorders (TDs) were incorrectly considered ineffective and dangerous by the professional community, due, in large part, to unfounded fears that efforts to suppress tics would lead to a host of negative psychological, and even physical, outcomes (e.g., symptom substitution, tic rebound). Spurred by a growing body of research to the contrary, the Comprehensive Behavioral Treatment for Tics (CBIT) was developed to provide a tolerable and effective nonpharmacological treatment option, alone or in combination with medication, for youth and adults with tics associated with Tourette or other TDs. CBIT combines two evidence-based practices, habit reversal training (HRT) to address the urge-tic relationship and a functional intervention to identify and neutralize tic-related environmental factors. Based on positive findings from two large-scale randomized controlled trials that involved a total of 248 8-69-year olds with Tourette or chronic TD, CBIT has been designated as a first-line treatment, when available, for treating tics by the American Academy of Neurology and the European and Canadian medical academies. Conclusions: CBIT has demonstrated acute and durable efficacy when delivered alone or in combination with medication, in person, or via telehealth, and in the presence or absence of common comorbid conditions. Additional research is needed to develop and test treatment guidelines for the use of CBIT in combination with pharmacologic, neuromodulatory, and other intervention modalities.",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/39311713/",
+    "pmc_link": "",
+    "html_available": false,
+    "html_link": "",
+    "title_ru": "CBIT — поведенческая терапия тиков первой линии при синдроме Туретта",
+    "patient_plain": "",
+    "patient_use": "При мешающих повседневной жизни тиках стоит рассмотреть CBIT до начала медикаментозного лечения, если квалифицированная терапия доступна: это признанный метод первой линии, а не опасная попытка подавлять тики. Спросите врача, где пройти CBIT очно или дистанционно; конкретные упражнения и длительность курса по этому обзору определить нельзя.",
+    "practical_use": "При выборе лечения тиков предлагайте CBIT как самостоятельный вариант или дополнение к лекарствам, в том числе пациентам с распространёнными сопутствующими расстройствами. Не представляйте поведенческое вмешательство как заведомо неэффективное или опасное из-за предполагаемого усиления тиков.",
+    "summary": "Обзор исследований комплексного поведенческого вмешательства при тиках (CBIT) у детей и взрослых с синдромом Туретта и хроническими тиковыми расстройствами. Метод сочетает тренировку обратного формирования привычки (HRT), направленную на связь между позывом и тиком, и функциональный анализ факторов окружающей среды, влияющих на тики. Два рандомизированных контролируемых исследования (РКИ) с участием 248 человек в возрасте 8–69 лет показали эффективность метода; эффект сохранялся после лечения. CBIT рекомендована как терапия первой линии, когда она доступна, и может проводиться очно или дистанционно, самостоятельно или вместе с лекарствами.\nОбзор не устанавливает конкретную схему сочетания CBIT с медикаментами и другими методами лечения.",
+    "_reason": "Обзор подтверждает CBIT как метод первой линии, но не описывает пошаговый протокол занятий.",
+    "why_read": "Помогает обосновать направление на CBIT вместо автоматического перехода к лекарственной терапии.",
+    "limitations": [
+      "Additional research is needed to develop and test treatment guidelines for the use of CBIT in combination with pharmacologic, neuromodulatory, and other intervention modalities."
+    ],
+    "advice_items": [],
+    "importance_stars": 5,
+    "importance_mark": "★★★★★",
+    "take": "keep"
+  },
+  {
+    "id": 321,
+    "pmid": "39880517",
+    "source": "PubMed",
+    "article": "Evidence-Based Behavior Therapy for Tourette Syndrome.",
+    "authors": [
+      "Katato Hala",
+      "Muniz Jonathan A",
+      "Lopez-Arvizu Carmen",
+      "McGuire Joseph F"
+    ],
+    "date": "2024-10-09",
+    "journal": "The Psychiatric clinics of North America",
+    "doi": "10.1016/j.psc.2024.08.007",
+    "topic": "Детское OCD",
+    "topic_key": "ocd",
+    "topic_keys": [
+      "ocd"
+    ],
+    "topics": [
+      "Детское OCD"
+    ],
+    "abstract_en": "This article provides an overview of evidence-based behavior therapy for Tourette syndrome (TS) in children, adolescents, and adults. First, this article describes evidence-based behavioral therapies for TS, examines their efficacy in randomized controlled trials, and identifies extant limitations. Second, based on the identified limitations, this article presents future directions for further research on behavioral therapies for TS. Finally, the article concludes with general recommendations for providing evidence-based behavior therapy for children, adolescents, and adults with TS.",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/39880517/",
+    "pmc_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11780254/",
+    "html_available": true,
+    "html_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11780254/",
+    "title_ru": "Поведенческая терапия синдрома Туретта: методы и практические рекомендации",
+    "patient_plain": "",
+    "patient_use": "При тиках у ребёнка или взрослого стоит рассматривать поведенческую терапию как первый вариант лечения, а не автоматически начинать с лекарств. При HRT пациент учится замечать тик и предшествующий позыв, затем использовать несовместимое с тиком движение; попросите специалиста оценить возможность такого обучения и определить, нужна ли дополнительная помощь при сопутствующих симптомах.",
+    "practical_use": "При HRT обучайте пациента распознавать сам тик и ранние признаки, подбирать физически несовместимую с ним конкурирующую реакцию и регулярно практиковать её; при необходимости подключайте близких для напоминаний и конкретной похвалы. Сессии обычно длятся до 60 минут и проходят еженедельно, но продолжительность курса адаптируют к клинической картине и тяжести тиков.",
+    "summary": "Обзор доказательных методов поведенческой терапии синдрома Туретта у детей, подростков и взрослых. Тренинг обращения привычки (HRT) включает распознавание тиков и предшествующих позывов, освоение несовместимого с тиком движения и поддержку близких. Комплексное поведенческое вмешательство при тиках (CBIT) и экспозиция с предотвращением реакции (ERP) также относятся к доказательным подходам; ни один метод не показал клинического превосходства над остальными.\nПоведенческую терапию рекомендуют как лечение первой линии для уменьшения выраженности тиков. Она не устраняет напрямую другие психические симптомы и связанные с ними трудности; для комплексной помощи могут потребоваться дополнительные вмешательства.",
+    "_reason": "Обзор даёт конкретные компоненты HRT и подтверждает приоритет поведенческой терапии при тиках.",
+    "why_read": "Полезен для выбора первой линии лечения и понимания того, чему именно учат пациента на HRT.",
+    "limitations": [
+      "No specific behavioral therapy has demonstrated clinical superiority over the other",
+      "behavioral treatments do not directly confer benefits beyond reductions in tic severity and tic-related impairment",
+      "the duration of treatment and its delivery can vary greatly based on the clinical presentation and tic severity of the patient"
+    ],
+    "advice_items": [
+      {
+        "quote": "Awareness training involves increasing awareness of tic occurrence.",
+        "advice": "Научите пациента замечать, когда возникает тик, и распознавать ранние движения или предшествующий позыв. Это первый компонент тренинга обращения привычки (HRT).",
+        "audience": "врач"
+      },
+      {
+        "quote": "Competing responses are voluntary behaviors that are physically incompatible with the targeted tic (e.g., subtly squinting eyes for eye widening tics), which are implemented contingent upon tic awareness by the patient.",
+        "advice": "Подберите вместе с пациентом произвольное движение, физически несовместимое с конкретным тиком, и отрабатывайте его после распознавания тика или предшествующего позыва. Например, при тике с расширением глаз авторы приводят в качестве конкурирующей реакции лёгкое прищуривание.",
+        "audience": "врач"
+      },
+      {
+        "quote": "Specific praises and reminders to reinforce the use of these skills is often utilized based on the developmental level of the patient.",
+        "advice": "Подключайте родителей или других близких к практике навыков: используйте конкретную похвалу и напоминания с учётом возраста и развития пациента.",
+        "audience": "разметчик"
+      }
+    ],
+    "importance_stars": 5,
+    "importance_mark": "★★★★★",
+    "take": "keep"
+  },
+  {
+    "id": 322,
     "pmid": "39410770",
     "source": "PubMed",
     "article": "Melasma Revisited: National Survey Reveals How Dermatologists Diagnose and Treat This Complex Skin Condition.",
@@ -17524,7 +19032,7 @@
     "take": "keep"
   },
   {
-    "id": 293,
+    "id": 323,
     "pmid": "39414648",
     "source": "PubMed",
     "article": "Efficacy of Microneedle as an Assisted Therapy for Melasma: A Meta-analysis and Systematic Review of Randomized Controlled Trials.",
@@ -17603,7 +19111,7 @@
     "take": "keep"
   },
   {
-    "id": 294,
+    "id": 324,
     "pmid": "39462248",
     "source": "PubMed",
     "article": "Efficacy of Subdermal Poly-d,l-Lactic Acid Injections for the Treatment of Melasma.",
@@ -17661,7 +19169,7 @@
     "take": "keep"
   },
   {
-    "id": 295,
+    "id": 325,
     "pmid": "39555866",
     "source": "PubMed",
     "article": "The Efficacy of Topical Cosmetic Containing Alpha-Arbutin 5% and Kojic Acid 2% Compared With Triple Combination Cream for the Treatment of Melasma: A Split-Face, Evaluator-Blinded Randomized Pilot Study.",
@@ -17727,7 +19235,7 @@
     "take": "keep"
   },
   {
-    "id": 296,
+    "id": 326,
     "pmid": "39574359",
     "source": "PubMed",
     "article": "Intradermal Injection of Tranexamic Acid for the Treatment of Adult Melasma: A Systematic Review and Meta-Analysis of Randomized Controlled Trials.",
@@ -17788,7 +19296,7 @@
     "take": "keep"
   },
   {
-    "id": 297,
+    "id": 327,
     "pmid": "39574411",
     "source": "PubMed",
     "article": "Efficacy and Safety of Combination Therapy of Microneedling Radiofrequency, In-Office and Home-Based Topical Cysteamine in Refractory Melasma: A Split Face, Vehicle-Control, Randomized Control Trial.",
@@ -17860,7 +19368,7 @@
     "take": "keep"
   },
   {
-    "id": 298,
+    "id": 328,
     "pmid": "39614963",
     "source": "PubMed",
     "article": "The Skin-Lightening Power of Tirbanibulin 1% Ointment.",
@@ -17916,7 +19424,49 @@
     "take": "keep"
   },
   {
-    "id": 299,
+    "id": 329,
+    "pmid": "39725402",
+    "source": "PubMed",
+    "article": "[Advances in the application of comprehensive behavioral intervention in tic disorder].",
+    "authors": [
+      "Fu Sai",
+      "Song Qian",
+      "He Xiang-Jun",
+      "Tian Xiao-Yu"
+    ],
+    "date": "2024-12-15",
+    "journal": "Zhongguo dang dai er ke za zhi = Chinese journal of contemporary pediatrics",
+    "doi": "10.7499/j.issn.1008-8830.2407171",
+    "topic": "Детское OCD",
+    "topic_key": "ocd",
+    "topic_keys": [
+      "ocd"
+    ],
+    "topics": [
+      "Детское OCD"
+    ],
+    "abstract_en": "Tic disorder is a neurodevelopmental disorder that occurs in children or adolescents, often attracting the attention of others due to involuntary, repetitive, and non-rhythmic tics, and drug therapy often causes negative emotions in children and their families due to its significant adverse reactions, poor compliance, and tendency of recurrence after drug withdrawal. In recent years, comprehensive behavioral intervention has shown great potential as a safe and effective treatment modality for tic disorders, with few adverse reactions. This article reviews the advances in the application of comprehensive behavioral intervention for tic disorder in China and abroad in the past 5 years, in order to provide a reference for clinical application.",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/39725402/",
+    "pmc_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11684835/",
+    "html_available": true,
+    "html_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11684835/",
+    "title_ru": "Комплексная поведенческая терапия тиков у детей",
+    "patient_plain": "",
+    "patient_use": "Поведенческую терапию стоит рассмотреть как вариант лечения тиков, особенно если лекарства вызывают нежелательные эффекты. Попросите детского невролога оценить возможность комплексного поведенческого вмешательства; по этому обзору нельзя определить конкретную схему занятий.",
+    "practical_use": "При выборе лечения сопоставляйте переносимость медикаментов с возможностью поведенческой терапии. Абстракт не позволяет установить, какие компоненты вмешательства, длительность курса или критерии ответа наиболее эффективны.",
+    "summary": "Обзор исследований за последние пять лет о комплексном поведенческом вмешательстве при тиковых расстройствах у детей и подростков. Авторы рассматривают его как перспективный метод с небольшим числом побочных реакций на фоне ограничений медикаментозного лечения.\n\nДоступен только абстракт: конкретные протоколы терапии, длительность лечения и результаты отдельных исследований не приведены.",
+    "_reason": "Обзор посвящён поведенческому лечению тиков, но доступный текст не содержит конкретного протокола для семьи.",
+    "why_read": "Помогает рассмотреть поведенческое вмешательство как альтернативу при проблемах с переносимостью лекарств.",
+    "limitations": [
+      "This article reviews the advances in the application of comprehensive behavioral intervention for tic disorder in China and abroad in the past 5 years"
+    ],
+    "advice_items": [],
+    "importance_stars": 4,
+    "importance_mark": "★★★★☆",
+    "take": "skim"
+  },
+  {
+    "id": 330,
     "pmid": "39699049",
     "source": "PubMed",
     "article": "Preliminary Evaluation of Improvements in Melasma and Photoaging With Laser-Driven Microjet Injection of Poly- d , l -Lactic Acid.",
@@ -17979,7 +19529,7 @@
     "take": "keep"
   },
   {
-    "id": 300,
+    "id": 331,
     "pmid": "39731267",
     "source": "PubMed",
     "article": "Review of Applications of Microneedling in Melasma.",
@@ -18039,7 +19589,7 @@
     "take": "keep"
   },
   {
-    "id": 301,
+    "id": 332,
     "pmid": "40453387",
     "source": "PubMed",
     "article": "Evaluation of the Efficiency of Microneedling with PRP Versus Microneedling with Tranexamic Acid in the Treatment of Melisma.",
@@ -18104,7 +19654,7 @@
     "take": "keep"
   },
   {
-    "id": 302,
+    "id": 333,
     "pmid": "41172315",
     "source": "PubMed",
     "article": "[Experience of using teledermatology for elderly patients: a study in the Republic of Bashkortostan.].",
@@ -18166,7 +19716,7 @@
     "take": "keep"
   },
   {
-    "id": 303,
+    "id": 334,
     "pmid": "39843829",
     "source": "PubMed",
     "article": "Comparative efficacy and safety of the novel Picosecond Alexandrite Laser and the traditional combined Q-switched and long-pulse Nd: YAG lasers in melasma treatment: a randomized evaluator-blinded trial.",
@@ -18235,7 +19785,7 @@
     "take": "keep"
   },
   {
-    "id": 304,
+    "id": 335,
     "pmid": "39854075",
     "source": "PubMed",
     "article": "Non-Ablative Fractional 1940-nm Diode Laser for Skin Resurfacing and Treatment of Benign Pigmented Lesions.",
@@ -18296,7 +19846,7 @@
     "take": "keep"
   },
   {
-    "id": 305,
+    "id": 336,
     "pmid": "39918262",
     "source": "PubMed",
     "article": "Effectiveness and Safety of Combined Use of Home-Based Radiofrequency Device and Arbutin Cream in Melasma and Facial Rejuvenation.",
@@ -18363,7 +19913,7 @@
     "take": "keep"
   },
   {
-    "id": 306,
+    "id": 337,
     "pmid": "39927593",
     "source": "PubMed",
     "article": "Low-Fluence Q-Switch 1064 Nm Laser Combined With Oral Tranexamic Acid: A Quicker Treatment for Laser-Induced Postinflammatory Hyperpigmentation.",
@@ -18428,7 +19978,7 @@
     "take": "keep"
   },
   {
-    "id": 307,
+    "id": 338,
     "pmid": "39943675",
     "source": "PubMed",
     "article": "Efficacy and Safety of a Topical Formulation Containing Trihydroxybenzoic Acid Glucoside and α-Arbutin, Applied Along With a Sunscreen: A Noncomparative, Prospective, Interventional Study in Indian Females With Facial Melasma or Dark Spots.",
@@ -18496,7 +20046,7 @@
     "take": "keep"
   },
   {
-    "id": 308,
+    "id": 339,
     "pmid": "40078863",
     "source": "PubMed",
     "article": "Successful Treatment of Recalcitrant Melasma with Picolaser and Isobionicamide-Cysteamine Combination.",
@@ -18558,7 +20108,7 @@
     "take": "keep"
   },
   {
-    "id": 309,
+    "id": 340,
     "pmid": "39895335",
     "source": "PubMed",
     "article": "A 675 nm Laser in the Treatment of Facial Melasma in Dark Skin Types.",
@@ -18623,7 +20173,7 @@
     "take": "keep"
   },
   {
-    "id": 310,
+    "id": 341,
     "pmid": "40028437",
     "source": "PubMed",
     "article": "Treatment of Melasma With Q-Switched Laser in Combination With Tranexamic Acid.",
@@ -18676,7 +20226,7 @@
     "take": "keep"
   },
   {
-    "id": 311,
+    "id": 342,
     "pmid": "39921709",
     "source": "PubMed",
     "article": "Efficacy of formulations for treating hyperpigmentation: a systematic review and meta-analysis.",
@@ -18734,7 +20284,7 @@
     "take": "keep"
   },
   {
-    "id": 312,
+    "id": 343,
     "pmid": "39951164",
     "source": "PubMed",
     "article": "Assessment of clinical efficacy in melasma treatment with picosecond laser combined with Shumin Star.",
@@ -18793,7 +20343,7 @@
     "take": "keep"
   },
   {
-    "id": 313,
+    "id": 344,
     "pmid": "40125051",
     "source": "PubMed",
     "article": "Efficacy and Safety of Cysteamine in Melasma in Patients of Skin of Colour: A Brief Report.",
@@ -18862,7 +20412,7 @@
     "take": "keep"
   },
   {
-    "id": 314,
+    "id": 345,
     "pmid": "40162353",
     "source": "PubMed",
     "article": "Comparison of the Efficacy of Intradermal Tranexamic Acid and Topical Triple Combination Modification in Decreasing the Severity Score of Melasma: A Meta-analysis.",
@@ -18926,7 +20476,7 @@
     "take": "keep"
   },
   {
-    "id": 315,
+    "id": 346,
     "pmid": "40062688",
     "source": "PubMed",
     "article": "Evaluation of the Efficacy of a Serum Containing Niacinamide, Tranexamic Acid, Vitamin C, and Hydroxy Acid Compared to 4% Hydroquinone in the Management of Melasma.",
@@ -18994,7 +20544,7 @@
     "take": "keep"
   },
   {
-    "id": 316,
+    "id": 347,
     "pmid": "40127492",
     "source": "PubMed",
     "article": "Efficacy of overnight leave-on sandwich therapy with 5% cysteamine and ectoine cream compared to hydroquinone 4% cream for treatment of melasma: a double-blind randomized controlled trial.",
@@ -19056,7 +20606,7 @@
     "take": "keep"
   },
   {
-    "id": 317,
+    "id": 348,
     "pmid": "40225974",
     "source": "PubMed",
     "article": "Value of Q-switched 755-nm alexandrite laser combined with topical tranexamic acid in the treatment of melasma.",
@@ -19119,7 +20669,55 @@
     "take": "keep"
   },
   {
-    "id": 318,
+    "id": 349,
+    "pmid": "40109998",
+    "source": "PubMed",
+    "article": "Integrating behavioral interventions for Tourette's syndrome: Current status and prospective.",
+    "authors": [
+      "Chen Xiao-Man",
+      "Zhang Shuo",
+      "Xu Michael"
+    ],
+    "date": "2025-03-19",
+    "journal": "World journal of psychiatry",
+    "doi": "10.5498/wjp.v15.i3.99045",
+    "topic": "Детское OCD",
+    "topic_key": "ocd",
+    "topic_keys": [
+      "ocd"
+    ],
+    "topics": [
+      "Детское OCD"
+    ],
+    "abstract_en": "In the evolving landscape of Tourette's syndrome (TS) treatment, behavioral therapies have emerged as essential to address the comorbid psychological issues, as well as motor and vocal tics. This editorial comments on the study by Wang et al, which showed that cognitive-behavioral therapy (CBT) combined with habit reversal training significantly improved anxiety and tic severity in children with TS. We highlight the current status and future perspectives of behavioral interventions such as CBT, and comprehensive behavioral intervention for tics, demonstrating their efficacy in alleviating TS symptoms and improving patients' quality of life. Recognizing the multifaceted nature of TS, our discussion integrates empirical evidence from various studies to provide a comprehensive perspective on the role of behavioral therapy in the management of this complex condition. This editorial concludes by emphasizing the need for innovative strategies that may address the limitations of existing treatments and advocates a multidisciplinary approach that combines behavioral, pharmacological, and neurobiological interventions to improve outcomes for patients with TS.",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/40109998/",
+    "pmc_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11886317/",
+    "html_available": true,
+    "html_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11886317/",
+    "title_ru": "Поведенческая терапия синдрома Туретта: КПТ в сочетании с тренировкой замещения тиков",
+    "patient_plain": "",
+    "patient_use": "Для уменьшения тиков и сопутствующей тревоги стоит рассмотреть комплексное поведенческое вмешательство при тиках (CBIT), включающее тренировку формирования конкурирующей реакции. Спросите специалиста, обученного поведенческой терапии тиков, подходит ли ребёнку такая программа; статья не описывает достаточно подробно её продолжительность и порядок занятий, чтобы самостоятельно воспроизвести лечение.",
+    "practical_use": "При оценке результата раздельно отслеживайте выраженность моторных и вокальных тиков и тревогу: улучшение одного показателя не заменяет оценки другого. При сопутствующих психологических трудностях план лечения должен учитывать их наряду с тиками.",
+    "summary": "Редакционная статья рассматривает данные о сочетании когнитивно-поведенческой терапии (КПТ) с тренировкой формирования конкурирующей реакции (HRT) у детей с синдромом Туретта. В исследовании Wang et al. сочетание методов сопровождалось уменьшением тревоги и выраженности тиков; HRT включает обучение распознаванию тиков и освоение конкурирующей реакции вместо них.\nЭто редакционный обзор чужих результатов, а не самостоятельное клиническое испытание; долгосрочная эффективность комбинации в статье не установлена.",
+    "_reason": "Практическая ценность ограничена описанием методов и пересказом результатов другого исследования без подробного протокола лечения.",
+    "why_read": "Помогает понять, почему при синдроме Туретта поведенческую терапию направляют одновременно на тики и сопутствующую тревогу.",
+    "limitations": [
+      "limitations of the study type",
+      "long-term efficacy and applicability across diverse populations"
+    ],
+    "advice_items": [
+      {
+        "quote": "HRT has emerged as a cornerstone of CBIT for treating TS, offering a structured approach to managing tics through awareness training and competing response training[2].",
+        "advice": "При выборе поведенческого лечения уточните, включает ли программа обучение распознаванию тика и освоение конкурирующей реакции. Именно эти компоненты описаны как основа тренировки формирования конкурирующей реакции.",
+        "audience": "родитель"
+      }
+    ],
+    "importance_stars": 4,
+    "importance_mark": "★★★★☆",
+    "take": "skim"
+  },
+  {
+    "id": 350,
     "pmid": "40256059",
     "source": "PubMed",
     "article": "Efficacy, safety, and cost-effectiveness of glycolic acid vs. azelaic acid in melasma.",
@@ -19183,7 +20781,7 @@
     "take": "keep"
   },
   {
-    "id": 319,
+    "id": 351,
     "pmid": "40296942",
     "source": "PubMed",
     "article": "Comparison of the Effectiveness and Safety of 5% Cysteamine and 2% Kojic Acid Creams in the Treatment of Melasma in Indian Adult Females.",
@@ -19251,7 +20849,7 @@
     "take": "keep"
   },
   {
-    "id": 320,
+    "id": 352,
     "pmid": "38934336",
     "source": "PubMed",
     "article": "Therapeutic efficiency and safety assessment of intradermal platelet-rich plasma combined with oral tranexamic acid in patients with facial melasma.",
@@ -19317,7 +20915,7 @@
     "take": "keep"
   },
   {
-    "id": 321,
+    "id": 353,
     "pmid": "40135653",
     "source": "PubMed",
     "article": "Clinical Efficacy of CGF Combined With Periodic Supramolecular Salicylic Acid in the Treatment of Chloasma.",
@@ -19377,7 +20975,7 @@
     "take": "keep"
   },
   {
-    "id": 322,
+    "id": 354,
     "pmid": "40145274",
     "source": "PubMed",
     "article": "Treatment of Solar Lentigines: A Systematic Review of Clinical Trials.",
@@ -19439,7 +21037,7 @@
     "take": "keep"
   },
   {
-    "id": 323,
+    "id": 355,
     "pmid": "40167772",
     "source": "PubMed",
     "article": "Comparison of The efficacy and safety of fractional erbium: YAG laser in combination with Tranexamic acid delivery by different methods versus Tranexamic acid alone: A systematic review and meta-analysis.",
@@ -19506,7 +21104,7 @@
     "take": "keep"
   },
   {
-    "id": 324,
+    "id": 356,
     "pmid": "40263972",
     "source": "PubMed",
     "article": "Photoaging and Cosmetic Result with Artificial Daylight Photo-dynamic Therapy Using Methyl Aminolevulinate.",
@@ -19584,7 +21182,7 @@
     "take": "keep"
   },
   {
-    "id": 325,
+    "id": 357,
     "pmid": "40296512",
     "source": "PubMed",
     "article": "Efficacy and Safety of Generic Fluocinolone Acetonide, Hydroquinone, and Tretinoin Cream Compared With TRI-LUMA for the Treatment of Moderate-To-Severe Melasma in Chinese Patients: A Randomized, Single-Center, Placebo-Controlled Trial.",
@@ -19655,7 +21253,7 @@
     "take": "keep"
   },
   {
-    "id": 326,
+    "id": 358,
     "pmid": "40391727",
     "source": "PubMed",
     "article": "Dual Benefits of Oral Tranexamic Acid: Reducing Melasma Severity and Inflammation.",
@@ -19716,7 +21314,7 @@
     "take": "keep"
   },
   {
-    "id": 327,
+    "id": 359,
     "pmid": "40396558",
     "source": "PubMed",
     "article": "Efficacy of Platelet Rich Plasma Therapy in Melasma Using Microinjections and Microneedling Techniques.",
@@ -19776,7 +21374,7 @@
     "take": "keep"
   },
   {
-    "id": 328,
+    "id": 360,
     "pmid": "40337888",
     "source": "PubMed",
     "article": "Mottled hyperpigmentation caused by mesotherapy: successful treatment with a picosecond 1064 nm Nd:YAG laser.",
@@ -19833,7 +21431,7 @@
     "take": "keep"
   },
   {
-    "id": 329,
+    "id": 361,
     "pmid": "40487492",
     "source": "PubMed",
     "article": "80% Lactic Acid Peel Versus 50% Glycolic Acid Peel for Melasma: A Randomised Clinical Trial.",
@@ -19893,7 +21491,7 @@
     "take": "keep"
   },
   {
-    "id": 330,
+    "id": 362,
     "pmid": "40419099",
     "source": "PubMed",
     "article": "Activated melanocytes and senescent collagen fibers predict laser-treated melasma outcomes: An optical biopsy-based prospective cohort study.",
@@ -19959,7 +21557,7 @@
     "take": "keep"
   },
   {
-    "id": 331,
+    "id": 363,
     "pmid": "40537979",
     "source": "PubMed",
     "article": "Clinical Analysis of PRP Combined With Hyaluronic Acid Mesotherapy in the Treatment of Facial Chloasma.",
@@ -20023,7 +21621,7 @@
     "take": "keep"
   },
   {
-    "id": 332,
+    "id": 364,
     "pmid": "40586253",
     "source": "PubMed",
     "article": "Topical Tranexamic Acid-mediated with Non-insulated Microneedling Radiofrequency for the Treatment of Melasma.",
@@ -20083,7 +21681,7 @@
     "take": "keep"
   },
   {
-    "id": 333,
+    "id": 365,
     "pmid": "40527791",
     "source": "PubMed",
     "article": "Oral tranexamic acid, low-fluence intense pulsed light, and glycolic acid for the treatment of mixed melasma: An observational study.",
@@ -20149,7 +21747,7 @@
     "take": "keep"
   },
   {
-    "id": 334,
+    "id": 366,
     "pmid": "40522526",
     "source": "PubMed",
     "article": "Fractional carbon dioxide laser assisted delivery of tranexamic acid versus ascorbic acid in the treatment of melasma: a split face comparative study with digital skin analysis.",
@@ -20207,7 +21805,7 @@
     "take": "keep"
   },
   {
-    "id": 335,
+    "id": 367,
     "pmid": "40688117",
     "source": "PubMed",
     "article": "Comparative Evaluation of Therapeutic Efficacy and Safety of 90% Lactic Acid Peel Versus 40% Pyruvic Acid Peel in Epidermal Melasma.",
@@ -20275,7 +21873,7 @@
     "take": "keep"
   },
   {
-    "id": 336,
+    "id": 368,
     "pmid": "40655803",
     "source": "PubMed",
     "article": "Comparative Efficacy of Tranexamic Acid and Vitamin C with Microneedling: A Split-Face Study in Melasma Management.",
@@ -20337,7 +21935,7 @@
     "take": "keep"
   },
   {
-    "id": 337,
+    "id": 369,
     "pmid": "40555739",
     "source": "PubMed",
     "article": "Combining Microneedling and Tranexamic Acid for Melasma: A Systematic Review and Meta-Analysis.",
@@ -20402,7 +22000,7 @@
     "take": "keep"
   },
   {
-    "id": 338,
+    "id": 370,
     "pmid": "40576817",
     "source": "PubMed",
     "article": "Effectiveness of 675 nm Laser in Melasma Treatment: 1-Year Follow-Up.",
@@ -20464,7 +22062,7 @@
     "take": "keep"
   },
   {
-    "id": 339,
+    "id": 371,
     "pmid": "40586974",
     "source": "PubMed",
     "article": "Efficacy and Tolerability of a New Facial 2-Mercaptonicotinoyl Glycine-Containing Depigmenting Serum Versus Hydroquinone 4% over 3-Month Treatment of Facial Melasma.",
@@ -20541,7 +22139,7 @@
     "take": "keep"
   },
   {
-    "id": 340,
+    "id": 372,
     "pmid": "40627587",
     "source": "PubMed",
     "article": "Photoprotection Efficacy of Sun Protection Factor and Iron Oxide Formulations in Diverse Skin With Melasma and Photodamage.",
@@ -20611,7 +22209,7 @@
     "take": "keep"
   },
   {
-    "id": 341,
+    "id": 373,
     "pmid": "40778014",
     "source": "PubMed",
     "article": "Effectiveness and Safety of Intradermal Tranexamic Acid Injection as an Adjunctive Treatment for Melasma in Skin Type IV-V: A Double-blind Randomized Controlled Trial.",
@@ -20668,7 +22266,7 @@
     "take": "keep"
   },
   {
-    "id": 342,
+    "id": 374,
     "pmid": "40620441",
     "source": "PubMed",
     "article": "The effects and safety of sequential high concentration glycolic acid and trichloroacetic acid chemical peels in skin photo-type IV-VI, a retrospective cross-sectional monocentric review.",
@@ -20732,7 +22330,7 @@
     "take": "keep"
   },
   {
-    "id": 343,
+    "id": 375,
     "pmid": "40616673",
     "source": "PubMed",
     "article": "730-nm, 532-nm and 694-nm laser in the treatment of freckles and solar lentigines (A randomized clinical trial).",
@@ -20801,7 +22399,7 @@
     "take": "keep"
   },
   {
-    "id": 344,
+    "id": 376,
     "pmid": "40634656",
     "source": "PubMed",
     "article": "Novel melasma therapy using combined low fluence and microsecond pulse Q switched 1064 nm neodymium doped yttrium aluminium garnet laser.",
@@ -20865,7 +22463,7 @@
     "take": "keep"
   },
   {
-    "id": 345,
+    "id": 377,
     "pmid": "40809618",
     "source": "PubMed",
     "article": "Comparison of the Efficacy of Intralesional Ascorbic Acid Mesotherapy and Intralesional Tranexamic Acid in Treating Melasma in the Skin of Colour Population.",
@@ -20930,7 +22528,7 @@
     "take": "keep"
   },
   {
-    "id": 346,
+    "id": 378,
     "pmid": "40707570",
     "source": "PubMed",
     "article": "Comparative efficacy of topical interventions for facial photoaging: a network meta-analysis.",
@@ -21010,7 +22608,7 @@
     "take": "keep"
   },
   {
-    "id": 347,
+    "id": 379,
     "pmid": "40747731",
     "source": "PubMed",
     "article": "Fractional and Non-Fractional Picosecond Nd:YAG Lasers Combined With Fractional Picosecond KTP Laser for the Treatment of Melasma in Female Chinese.",
@@ -21073,7 +22671,7 @@
     "take": "keep"
   },
   {
-    "id": 348,
+    "id": 380,
     "pmid": "40755428",
     "source": "PubMed",
     "article": "Knowledge, Perceptions, and Practices of Skin-Lightening Products Among Female Medical Students: A Cross-Sectional Study.",
@@ -21138,7 +22736,7 @@
     "take": "keep"
   },
   {
-    "id": 349,
+    "id": 381,
     "pmid": "40776769",
     "source": "PubMed",
     "article": "Efficacy of Non-Ablative Fractional Laser Combined With Tranexamic Acid in Melasma Treatment: A Randomized Split-Face Trial.",
@@ -21210,7 +22808,7 @@
     "take": "keep"
   },
   {
-    "id": 350,
+    "id": 382,
     "pmid": "40785838",
     "source": "PubMed",
     "article": "Exploring Melasma Patients' Needs Through Social Media: A Qualitative Study.",
@@ -21284,7 +22882,7 @@
     "take": "keep"
   },
   {
-    "id": 351,
+    "id": 383,
     "pmid": "40800678",
     "source": "PubMed",
     "article": "Combination of Three Treatment Modes of 1064 nm Nd: YAG Laser in the Treatment of Melasma: A Retrospective Observational Study.",
@@ -21352,7 +22950,7 @@
     "take": "keep"
   },
   {
-    "id": 352,
+    "id": 384,
     "pmid": "40832456",
     "source": "PubMed",
     "article": "Low-Level Laser Therapy as an Effective Intervention for Facial Pigmentation: A Case Report of Ephelides and Lentigines in Syrian Women.",
@@ -21415,7 +23013,7 @@
     "take": "keep"
   },
   {
-    "id": 353,
+    "id": 385,
     "pmid": "40802269",
     "source": "PubMed",
     "article": "In Vivo Evaluation of Melasma Pathologic Features and Treatment Response by 2-Photon Microscopy.",
@@ -21482,7 +23080,7 @@
     "take": "keep"
   },
   {
-    "id": 354,
+    "id": 386,
     "pmid": "40590795",
     "source": "PubMed",
     "article": "Comparative Efficacy and Safety of Injectable Tranexamic Acid Combination Therapies for Melasma: A Network Meta-analysis of Randomized Controlled Trials.",
@@ -21546,7 +23144,7 @@
     "take": "keep"
   },
   {
-    "id": 355,
+    "id": 387,
     "pmid": "40826371",
     "source": "PubMed",
     "article": "Microneedling-assisted delivery of metformin versus tranexamic acid in treating melasma: a randomized controlled study.",
@@ -21612,7 +23210,7 @@
     "take": "keep"
   },
   {
-    "id": 356,
+    "id": 388,
     "pmid": "40835769",
     "source": "PubMed",
     "article": "Nerve Block-Assisted Intradermal Injection of Tranexamic Acid, Vitamin C, and Glutathione for Melasma: A Split-Face Comparative Study.",
@@ -21672,7 +23270,7 @@
     "take": "keep"
   },
   {
-    "id": 357,
+    "id": 389,
     "pmid": "40847672",
     "source": "PubMed",
     "article": "Thiamidol in Melasma in Patients of Skin of Color: A Preliminary Report of Efficacy and Safety.",
@@ -21736,7 +23334,7 @@
     "take": "keep"
   },
   {
-    "id": 358,
+    "id": 390,
     "pmid": "40923777",
     "source": "PubMed",
     "article": "Randomized Clinical Trial on the Efficacy of Oral Tranexamic Acid Versus Topical Tranexamic Acid in Treatment of Melasma.",
@@ -21804,7 +23402,7 @@
     "take": "keep"
   },
   {
-    "id": 359,
+    "id": 391,
     "pmid": "40891760",
     "source": "PubMed",
     "article": "Clinical features, safety, and efficacy of combining Q-switched Nd:YAG laser and FOB® Tri-White Serum in melasma treatment.",
@@ -21872,7 +23470,7 @@
     "take": "keep"
   },
   {
-    "id": 360,
+    "id": 392,
     "pmid": "40926406",
     "source": "PubMed",
     "article": "A Core-Shell Structured Microneedle Patch With Adjustable Release of Kinetically for the Treatment of Melasma.",
@@ -21935,7 +23533,7 @@
     "take": "keep"
   },
   {
-    "id": 361,
+    "id": 393,
     "pmid": "40932145",
     "source": "PubMed",
     "article": "Treatment of Melasma Using Low-Fluence QS Nd: YAG (1064 nm) Laser: A Blind, Randomized, Placebo-Controlled Trial.",
@@ -21999,7 +23597,7 @@
     "take": "keep"
   },
   {
-    "id": 362,
+    "id": 394,
     "pmid": "40960154",
     "source": "PubMed",
     "article": "Efficacy and safety of the triple combination cream in Chinese patients with moderate to severe melasma: A multi-center, randomized, double-blind, three-arm, parallel-group, placebo-controlled clinical trial.",
@@ -22077,7 +23675,7 @@
     "take": "keep"
   },
   {
-    "id": 363,
+    "id": 395,
     "pmid": "40970768",
     "source": "PubMed",
     "article": "Comparative Efficacy of 35 % Glycolic Acid Peel versus 4 % Retinol Peel in Melasma.",
@@ -22137,7 +23735,7 @@
     "take": "keep"
   },
   {
-    "id": 364,
+    "id": 396,
     "pmid": "40970991",
     "source": "PubMed",
     "article": "Clinical study on the effectiveness of laser combined with topical tranexamic acid in the treatment of melasma.",
@@ -22200,7 +23798,7 @@
     "take": "keep"
   },
   {
-    "id": 365,
+    "id": 397,
     "pmid": "41255724",
     "source": "PubMed",
     "article": "Combining Fractional 1927 nm Thulium Laser and Subdermal 1470 nm Diode Laser for Facial Aesthetic Procedures: Two Case Reports.",
@@ -22262,7 +23860,7 @@
     "take": "skim"
   },
   {
-    "id": 366,
+    "id": 398,
     "pmid": "40996222",
     "source": "PubMed",
     "article": "Delphi consensus on melasma management by international experts and pigmentary disorders society.",
@@ -22357,7 +23955,7 @@
     "take": "keep"
   },
   {
-    "id": 367,
+    "id": 399,
     "pmid": "41149049",
     "source": "PubMed",
     "article": "Efficacy and Safety of Different Treatments for Melasma: Network Meta-Analysis of Updated Data.",
@@ -22427,7 +24025,7 @@
     "take": "keep"
   },
   {
-    "id": 368,
+    "id": 400,
     "pmid": "41003821",
     "source": "PubMed",
     "article": "Efficacy and safety of low-fluence 1064 nm picosecond laser with/without micro-lens arrays for melasma treatment: a randomized, split-face controlled study.",
@@ -22495,7 +24093,7 @@
     "take": "keep"
   },
   {
-    "id": 369,
+    "id": 401,
     "pmid": "41020517",
     "source": "PubMed",
     "article": "Laser and Light-Based Therapies for Treating Melasma: An In-Depth Review.",
@@ -22562,7 +24160,7 @@
     "take": "keep"
   },
   {
-    "id": 370,
+    "id": 402,
     "pmid": "41014037",
     "source": "PubMed",
     "article": "Comparison of Visible Light-Protective Tinted Sunscreen to Untinted Sunscreen to Protect Melasma Patients During Summer: A Prospective Randomized Investigator-Blinded Study.",
@@ -22630,7 +24228,7 @@
     "take": "keep"
   },
   {
-    "id": 371,
+    "id": 403,
     "pmid": "41036635",
     "source": "PubMed",
     "article": "A Novel Dermocosmetic Routine Containing Vitamin B3 and 2-Mercaptonicotinyl Glycine Significantly Improves Melasma After 3 Months of Daily Use.",
@@ -22701,7 +24299,7 @@
     "take": "keep"
   },
   {
-    "id": 372,
+    "id": 404,
     "pmid": "41049232",
     "source": "PubMed",
     "article": "Adult-Onset Partial Unilateral Lentiginosis: A Rare Pigmentary Mosaicism With Clinical Response to Tranexamic Acid.",
@@ -22774,7 +24372,7 @@
     "take": "keep"
   },
   {
-    "id": 373,
+    "id": 405,
     "pmid": "41044286",
     "source": "PubMed",
     "article": "A pilot randomized split-face trial comparing fractional Q-Switched ruby laser and 1064-nm Q-Switched nd: YAG laser in Chinese women with melasma running titile: fQSRL vs. QSNY in melasma.",
@@ -22836,7 +24434,7 @@
     "take": "keep"
   },
   {
-    "id": 374,
+    "id": 406,
     "pmid": "41091230",
     "source": "PubMed",
     "article": "Fractional non ablative 675 nm diode laser versus low fluence high frequency Q- switched 1064 nm nd: YAG laser in the treatment of melasma: a comparative split face trial.",
@@ -22901,7 +24499,7 @@
     "take": "keep"
   },
   {
-    "id": 375,
+    "id": 407,
     "pmid": "41146901",
     "source": "PubMed",
     "article": "Non-Insulated Microneedle Radiofrequency for the Treatment of Hydroquinone-Induced Exogenous Ochronosis: A Case Report and Literature Review.",
@@ -22972,7 +24570,7 @@
     "take": "keep"
   },
   {
-    "id": 376,
+    "id": 408,
     "pmid": "41243347",
     "source": "PubMed",
     "article": "Hypopigmentation Following Picosecond Laser Treatment for Melasma: A Case Series.",
@@ -23029,7 +24627,7 @@
     "take": "keep"
   },
   {
-    "id": 377,
+    "id": 409,
     "pmid": "41321592",
     "source": "PubMed",
     "article": "Efficacy and Safety Evaluation of Microneedling Combined with Tranexamic Acid-Arbutin Liquid Excipients in the Treatment of Melasma: A Retrospective Study.",
@@ -23092,7 +24690,7 @@
     "take": "keep"
   },
   {
-    "id": 378,
+    "id": 410,
     "pmid": "41315336",
     "source": "PubMed",
     "article": "Safety and efficacy of niosomal and conventional tranexamic acid/niacinamide vs. hydroquinone creams in melasma: A randomized, double-blind, case-controlled clinical trial.",
@@ -23154,7 +24752,7 @@
     "take": "keep"
   },
   {
-    "id": 379,
+    "id": 411,
     "pmid": "41329151",
     "source": "PubMed",
     "article": "Clinical Evaluation of Thiamidol-Containing Formulations for the Visual Management of Facial Hyperpigmentation.",
@@ -23213,7 +24811,7 @@
     "take": "keep"
   },
   {
-    "id": 380,
+    "id": 412,
     "pmid": "41347603",
     "source": "PubMed",
     "article": "Efficacy of the Combination Therapy of Intense Pulsed Light and Microneedling With a Postbiotic Formulation for Melasma.",
@@ -23312,7 +24910,7 @@
     "take": "keep"
   },
   {
-    "id": 381,
+    "id": 413,
     "pmid": "41363060",
     "source": "PubMed",
     "article": "The Quality and Reliability of Short Videos About Melasma on TikTok and Bilibili: A Cross-Sectional Study.",
@@ -23368,7 +24966,7 @@
     "take": "keep"
   },
   {
-    "id": 382,
+    "id": 414,
     "pmid": "41378674",
     "source": "PubMed",
     "article": "The Efficacy of Laser Therapy in Melasma Treatment: A Systematic Review and Meta-Analysis.",
@@ -23438,7 +25036,7 @@
     "take": "keep"
   },
   {
-    "id": 383,
+    "id": 415,
     "pmid": "41420622",
     "source": "PubMed",
     "article": "The efficacy of cysteamine as a melasma therapy: a systematic review of trial studies.",
@@ -23499,7 +25097,7 @@
     "take": "keep"
   },
   {
-    "id": 384,
+    "id": 416,
     "pmid": "41510434",
     "source": "PubMed",
     "article": "High Resolution Ultrasound for the Assessment of Melasma: Experience With 1064 nm Q-Switched Nd:YAG Laser.",
@@ -23561,7 +25159,7 @@
     "take": "keep"
   },
   {
-    "id": 385,
+    "id": 417,
     "pmid": "41372602",
     "source": "PubMed",
     "article": "Efficacy and Safety of 675-nm Laser Monotherapy for Melasma in Fitzpatrick Skin Types III-V: A Prospective Pre-Post Intervention Study.",
@@ -23630,7 +25228,7 @@
     "take": "keep"
   },
   {
-    "id": 386,
+    "id": 418,
     "pmid": "41523529",
     "source": "PubMed",
     "article": "A Comparative Study of the Efficacy of Chemical Peels and Microneedling in the Treatment of Moderate to Severe Melasma.",
@@ -23692,7 +25290,7 @@
     "take": "keep"
   },
   {
-    "id": 387,
+    "id": 419,
     "pmid": "41471132",
     "source": "PubMed",
     "article": "Systematic Review and Meta-Analysis of Treatments on Melasma Area Severity Index and Quality of Life.",
@@ -23760,7 +25358,7 @@
     "take": "keep"
   },
   {
-    "id": 388,
+    "id": 420,
     "pmid": "41490183",
     "source": "PubMed",
     "article": "A Case of Severe Skin Adverse Reactions Caused by Cetuximab.",
@@ -23836,7 +25434,7 @@
     "take": "keep"
   },
   {
-    "id": 389,
+    "id": 421,
     "pmid": "41585833",
     "source": "PubMed",
     "article": "Efficacy of Intense Pulsed Light Treatment in Melasma.",
@@ -23904,7 +25502,7 @@
     "take": "keep"
   },
   {
-    "id": 390,
+    "id": 422,
     "pmid": "41493251",
     "source": "PubMed",
     "article": "A Randomized, Controlled, Split-Face, Double-Blind Study Comparing Topical Malassezin to Hydroquinone 4% for Melasma.",
@@ -23971,7 +25569,7 @@
     "take": "keep"
   },
   {
-    "id": 391,
+    "id": 423,
     "pmid": "41493252",
     "source": "PubMed",
     "article": "Clinical Evaluation of a Thiamidol-Based Regimen With SPF Compared With SPF Alone for Facial Hyperpigmentation.",
@@ -24023,7 +25621,7 @@
     "take": "keep"
   },
   {
-    "id": 392,
+    "id": 424,
     "pmid": "41493255",
     "source": "PubMed",
     "article": "Evaluation of an Advanced, Multimodal Skin Tone Correcting Serum in Participants With Mild-to-Severe Dyschromia and Hyperpigmentation.",
@@ -24081,7 +25679,7 @@
     "take": "keep"
   },
   {
-    "id": 393,
+    "id": 425,
     "pmid": "41493259",
     "source": "PubMed",
     "article": "A Novel Topical Agent for the Management of Hyperpigmentation, Including Melasma and Age Spots.",
@@ -24151,7 +25749,7 @@
     "take": "keep"
   },
   {
-    "id": 394,
+    "id": 426,
     "pmid": "42047123",
     "source": "PubMed",
     "article": "Efficacy of Alexandrite picosecond laser therapy with and without dermal polyrevitalisation (NCTF® 135 HA) in patients with melasma: A Randomised Controlled Trial.",
@@ -24217,7 +25815,7 @@
     "take": "keep"
   },
   {
-    "id": 395,
+    "id": 427,
     "pmid": "41485124",
     "source": "PubMed",
     "article": "Comparative Study of a 1064 nm Fractional Picosecond Laser Versus Intense Pulsed Light in Facial Rejuvenation: A Prospective Randomized Trial.",
@@ -24282,7 +25880,7 @@
     "take": "keep"
   },
   {
-    "id": 396,
+    "id": 428,
     "pmid": "41517728",
     "source": "PubMed",
     "article": "Laser and light-based therapies combined with topical agents for melasma: A systematic review and meta-analysis.",
@@ -24349,7 +25947,7 @@
     "take": "keep"
   },
   {
-    "id": 397,
+    "id": 429,
     "pmid": "41532844",
     "source": "PubMed",
     "article": "Therapist-Delivered Video Therapy Habit Reversal Training for Body-Focused Repetitive Behaviors: Clinical Outcomes From a Large Real-World Sample of Youth and Adults.",
@@ -24405,7 +26003,7 @@
     "take": "keep"
   },
   {
-    "id": 398,
+    "id": 430,
     "pmid": "41566113",
     "source": "PubMed",
     "article": "Efficacy and Tolerability of 0.2% Thiamidol Cream for Facial Hyperpigmentation: A Randomized, Double-Blind, and Vehicle-Controlled Study.",
@@ -24470,7 +26068,7 @@
     "take": "keep"
   },
   {
-    "id": 399,
+    "id": 431,
     "pmid": "41589005",
     "source": "PubMed",
     "article": "Assessing the Safety and Efficacy of Picosecond Alexandrite Lasers in the Management of Melasma: A Systematic Review and Meta-Analysis of Randomised Control Trials.",
@@ -24542,7 +26140,7 @@
     "take": "keep"
   },
   {
-    "id": 400,
+    "id": 432,
     "pmid": "41720017",
     "source": "PubMed",
     "article": "Analysis of the efficacy of intense pulsed light combined with collagen wound dressings for treating facial postburn hyperpigmentation.",
@@ -24612,7 +26210,7 @@
     "take": "keep"
   },
   {
-    "id": 401,
+    "id": 433,
     "pmid": "41601401",
     "source": "PubMed",
     "article": "Tranexamic Acid for Hyperpigmentation Disorders: A Literature Review on Efficacy and Safety in Melasma and PIH.",
@@ -24675,7 +26273,7 @@
     "take": "keep"
   },
   {
-    "id": 402,
+    "id": 434,
     "pmid": "41607139",
     "source": "PubMed",
     "article": "A Pilot Study on the Use of Topical Gold and Diamond Suspension Combined With 1,064 nm Picosecond Nd:YAG Laser for the Treatment of Facial Melasma.",
@@ -24740,7 +26338,7 @@
     "take": "keep"
   },
   {
-    "id": 403,
+    "id": 435,
     "pmid": "41656621",
     "source": "PubMed",
     "article": "A 50+ Sunscreen Containing Polypodium Leucotomos Extract, Ellagic Acid, and Niacinamide in Facial Melasma and Photoaging-Related Hyperpigmentation: A Pilot Observational Study Using Line-Field Confocal Optical Coherence Tomography.",
@@ -24809,7 +26407,7 @@
     "take": "keep"
   },
   {
-    "id": 404,
+    "id": 436,
     "pmid": "41675240",
     "source": "PubMed",
     "article": "Factors Associated With Quality of Life and Treatment Practice Among Melasma Patients in Nepal.",
@@ -24876,7 +26474,7 @@
     "take": "keep"
   },
   {
-    "id": 405,
+    "id": 437,
     "pmid": "41668543",
     "source": "PubMed",
     "article": "Dual 1550-nm Erbium Glass Fiber and 1927-nm Thulium Fiber Non-ablative Fractional Laser System Treatment in Patients With Skin of Color: A Review of Clinical Studies and Unmet Needs.",
@@ -24948,7 +26546,7 @@
     "take": "keep"
   },
   {
-    "id": 406,
+    "id": 438,
     "pmid": "41767513",
     "source": "PubMed",
     "article": "Efficacy and safety of Q-switched laser combined with intense pulsed light in treating melasma: a meta-analysis.",
@@ -25011,7 +26609,7 @@
     "take": "keep"
   },
   {
-    "id": 407,
+    "id": 439,
     "pmid": "41908499",
     "source": "PubMed",
     "article": "Drug-Induced Melasma in Patients on 5-Alpha Reductase Inhibitors: A Case Report.",
@@ -25075,7 +26673,7 @@
     "take": "keep"
   },
   {
-    "id": 408,
+    "id": 440,
     "pmid": "41869255",
     "source": "PubMed",
     "article": "Laser-Based Management of Occupational Photodamage in a Young Adult: A Case Report.",
@@ -25145,7 +26743,7 @@
     "take": "keep"
   },
   {
-    "id": 409,
+    "id": 441,
     "pmid": "41743904",
     "source": "PubMed",
     "article": "Correlation Between Improvements in Melasma Quality of Life (MELASQoL-INA) and Modified Melasma Area and Severity Index (mMASI) Following Triple Combination Therapy.",
@@ -25207,7 +26805,7 @@
     "take": "keep"
   },
   {
-    "id": 410,
+    "id": 442,
     "pmid": "41884735",
     "source": "PubMed",
     "article": "Efficacy of Tranexamic acid Microneedling versus Intradermal Injection of Tranexamic Acid in the Treatment of Melasma - A Randomised Controlled Trial.",
@@ -25273,7 +26871,7 @@
     "take": "keep"
   },
   {
-    "id": 411,
+    "id": 443,
     "pmid": "41725026",
     "source": "PubMed",
     "article": "Exploring the Effectiveness, Tolerability, and Safety of the Adjunctive Use of Microneedling With Tranexamic Acid in the Treatment of Melasma.",
@@ -25343,7 +26941,7 @@
     "take": "keep"
   },
   {
-    "id": 412,
+    "id": 444,
     "pmid": "42605306",
     "source": "PubMed",
     "article": "Safety and Efficacy of Laser Versus Cryotherapy in the Treatment of Lentigines: A Systematic Review and Meta-analysis of Randomized Controlled Trials : Short title: Safety and Efficacy of Laser Versus Cryotherapy in the Treatment of Lentigines.",
@@ -25406,7 +27004,7 @@
     "take": "keep"
   },
   {
-    "id": 413,
+    "id": 445,
     "pmid": "41782066",
     "source": "PubMed",
     "article": "Comparing the efficacy and safety of a 730-nm picosecond laser with a 532-nm Q-switched Nd:YAG laser for facial pigmented disorders: a retrospective comparative study.",
@@ -25470,7 +27068,7 @@
     "take": "keep"
   },
   {
-    "id": 414,
+    "id": 446,
     "pmid": "41959968",
     "source": "PubMed",
     "article": "Topical Steroid and Fairness Cream Abuse in Facial Dermatoses: A Cross-Sectional Study at a Tertiary Care Center in Western Uttar Pradesh.",
@@ -25541,7 +27139,7 @@
     "take": "keep"
   },
   {
-    "id": 415,
+    "id": 447,
     "pmid": "41824827",
     "source": "PubMed",
     "article": "Improved clinical efficacy of melasma with combination therapy of intense pulsed light and tranexamic acid: A retrospective analysis.",
@@ -25604,7 +27202,7 @@
     "take": "keep"
   },
   {
-    "id": 416,
+    "id": 448,
     "pmid": "41832625",
     "source": "PubMed",
     "article": "Microneedle-based Transdermal Patch: A Novel Strategy for Hyperpigmentation Treatment.",
@@ -25663,7 +27261,7 @@
     "take": "keep"
   },
   {
-    "id": 417,
+    "id": 449,
     "pmid": "41841366",
     "source": "PubMed",
     "article": "Comparison of efficacy and safety of fractional 1064 nm picosecond laser and low-fluence Q-switched Nd:YAG laser in the treatment of melasma.",
@@ -25724,7 +27322,7 @@
     "take": "keep"
   },
   {
-    "id": 418,
+    "id": 450,
     "pmid": "41870519",
     "source": "PubMed",
     "article": "Efficacy and Safety of a Topical Nicotinamide Adenine Dinucleotide Skinbooster for the Treatment of Melasma.",
@@ -25789,7 +27387,7 @@
     "take": "keep"
   },
   {
-    "id": 419,
+    "id": 451,
     "pmid": "42064496",
     "source": "PubMed",
     "article": "Efficacy and Safety of Laser-Based Therapies for Melasma: A Systematic Review and Meta-Analysis.",
@@ -25872,7 +27470,7 @@
     "take": "keep"
   },
   {
-    "id": 420,
+    "id": 452,
     "pmid": "41945421",
     "source": "PubMed",
     "article": "Effectiveness of Using the AOPT-LTL Technique for the Treatment of Melasma: A Clinical Study.",
@@ -25941,7 +27539,7 @@
     "take": "keep"
   },
   {
-    "id": 421,
+    "id": 453,
     "pmid": "41947475",
     "source": "PubMed",
     "article": "Prospective, Randomized, Double-Blind, Placebo-Controlled Study of an Oral Antioxidant-Rich Synbiotic Supplement on Skin Health and Photoaging.",
@@ -26007,7 +27605,7 @@
     "take": "skim"
   },
   {
-    "id": 422,
+    "id": 454,
     "pmid": "42025113",
     "source": "PubMed",
     "article": "Histopathological evaluation of facial melasma treated with oral tranexamic acid alone and in combination with ketotifen.",
@@ -26080,7 +27678,7 @@
     "take": "keep"
   },
   {
-    "id": 423,
+    "id": 455,
     "pmid": "42028100",
     "source": "PubMed",
     "article": "Efficacy and Safety of Picosecond Laser Combined With Sodium Hyaluronate for Melasma.",
@@ -26144,7 +27742,7 @@
     "take": "keep"
   },
   {
-    "id": 424,
+    "id": 456,
     "pmid": "42109558",
     "source": "PubMed",
     "article": "Facial Melanosis: A Comprehensive Review of Uncommon and Common Presentations with Personal Experience.",
@@ -26213,7 +27811,7 @@
     "take": "keep"
   },
   {
-    "id": 425,
+    "id": 457,
     "pmid": "42081634",
     "source": "PubMed",
     "article": "Efficacy and Safety of Topical Metformin vs Kligman Formula in the Treatment of Melasma: A Split-Face Study.",
@@ -26282,7 +27880,7 @@
     "take": "keep"
   },
   {
-    "id": 426,
+    "id": 458,
     "pmid": "42094857",
     "source": "PubMed",
     "article": "A Retrospective Analysis of Radiofrequency Microneedling for Melasma Management in the Japanese Population.",
@@ -26342,7 +27940,7 @@
     "take": "keep"
   },
   {
-    "id": 427,
+    "id": 459,
     "pmid": "42281676",
     "source": "PubMed",
     "article": "Partial Unilateral Lentiginosis: A Systematic Review of 159 Reported Cases and Diagnostic Considerations.",
@@ -26416,7 +28014,7 @@
     "take": "keep"
   },
   {
-    "id": 428,
+    "id": 460,
     "pmid": "42453254",
     "source": "PubMed",
     "article": "Awareness, knowledge, attitude, and behaviors related to topical corticosteroid use among population in Hail, Saudi Arabia: A cross-sectional study.",
@@ -26496,7 +28094,7 @@
     "take": "keep"
   },
   {
-    "id": 429,
+    "id": 461,
     "pmid": "42228070",
     "source": "PubMed",
     "article": "The Efficacy and Safety of Platelet-Rich Plasma in the Treatment of Melasma: A Systematic Review and Meta-analysis.",
@@ -26561,7 +28159,7 @@
     "take": "keep"
   },
   {
-    "id": 430,
+    "id": 462,
     "pmid": "42482855",
     "source": "PubMed",
     "article": "Combination Approach to Hyperpigmentation: Unveiling Enhanced Aesthetic Results With Microneedling and Pigment-Correcting Peel.",
@@ -26619,7 +28217,7 @@
     "take": "keep"
   },
   {
-    "id": 431,
+    "id": 463,
     "pmid": "42602406",
     "source": "PubMed",
     "article": "Efficacy and safety of microneedling with tranexamic acid versus microneedling with vitamin C in the treatment of melasma: a systematic review and meta-analysis.",
@@ -26691,7 +28289,7 @@
     "take": "keep"
   },
   {
-    "id": 432,
+    "id": 464,
     "pmid": "42266765",
     "source": "PubMed",
     "article": "Subtype-Specific Response to Fractional-Mode Q-Switched Ruby Laser in Melasma: A Prospective Single-Blind Clinical Study Using Clinical and Noninvasive Imaging Assessments.",
@@ -26754,7 +28352,7 @@
     "take": "keep"
   },
   {
-    "id": 433,
+    "id": 465,
     "pmid": "42499700",
     "source": "PubMed",
     "article": "High-Potency Depigmenting Mask Delivered via 1,927-nm Fractional Laser in Refractory Melasma: A Pilot Case Series.",
@@ -26820,7 +28418,7 @@
     "take": "keep"
   },
   {
-    "id": 434,
+    "id": 466,
     "pmid": "42267621",
     "source": "PubMed",
     "article": "Exploring the mechanism of differential responses to combination therapy in melasma: pigmentary versus mixed pigmentary-vascular types-a clinical study based on interaction analysis.",
@@ -26885,7 +28483,7 @@
     "take": "keep"
   },
   {
-    "id": 435,
+    "id": 467,
     "pmid": "42298161",
     "source": "PubMed",
     "article": "The Effects of Tranexamic Acid Injections on Surgical Scars: A Retrospective Study.",
@@ -26946,7 +28544,7 @@
     "take": "keep"
   },
   {
-    "id": 436,
+    "id": 468,
     "pmid": "42460183",
     "source": "PubMed",
     "article": "Melasma Flaring and Unmasking After Treatment With a 1,927-nm Non-ablative Fractional Thulium Fiber Laser.",
@@ -27008,7 +28606,7 @@
     "take": "keep"
   },
   {
-    "id": 437,
+    "id": 469,
     "pmid": "42333209",
     "source": "PubMed",
     "article": "Q-Switched 1064 nm Fractional Laser with Intradermal Tranexamic Acid for Melasma: A Retrospective Propensity Score-Matched Study.",
@@ -27074,7 +28672,7 @@
     "take": "keep"
   },
   {
-    "id": 438,
+    "id": 470,
     "pmid": "42449739",
     "source": "PubMed",
     "article": "Retrospective Analysis of the Therapeutic Outcomes of Microneedle Radiofrequency on Melasma by Optical Coherence Tomography: A Observational Pilot Study.",
@@ -27145,7 +28743,7 @@
     "take": "keep"
   },
   {
-    "id": 439,
+    "id": 471,
     "pmid": "41705282",
     "source": "PubMed",
     "article": "The efficacy of tranexamic acid in prevention and treatment of post-inflammatory hyperpigmentation: a pilot study.",
@@ -27210,7 +28808,7 @@
     "take": "keep"
   },
   {
-    "id": 440,
+    "id": 472,
     "pmid": "42406361",
     "source": "PubMed",
     "article": "Efficacy and Tolerability of a Topical Pigment-Correcting Serum in Melasma and Postinflammatory Hyperpigmentation.",
@@ -27275,7 +28873,7 @@
     "take": "keep"
   },
   {
-    "id": 441,
+    "id": 473,
     "pmid": "42582527",
     "source": "PubMed",
     "article": "Clinical Effects and Safety of Radiofrequency Microneedling for the Management of Melasma: A Retrospective Study.",
@@ -27339,7 +28937,7 @@
     "take": "keep"
   },
   {
-    "id": 442,
+    "id": 474,
     "pmid": "42426967",
     "source": "PubMed",
     "article": "Real-world evidence for the efficacy and tolerability of an isobutylamido-thiazolyl-resorcinol (Thiamidol)-containing skincare regimen on facial hyperpigmentation and overall skin appearance: A multi-centre study in 11 European countries.",
@@ -27408,7 +29006,7 @@
     "take": "keep"
   },
   {
-    "id": 443,
+    "id": 475,
     "pmid": "42598733",
     "source": "PubMed",
     "article": "Treatment of Refractory Centrofacial Melasma in a 64-Year-Old Female Using the NewMelan Depigmentation System: A Case Report.",
@@ -27466,7 +29064,7 @@
     "take": "keep"
   },
   {
-    "id": 444,
+    "id": 476,
     "pmid": "42701669",
     "source": "PubMed",
     "article": "A Prospective Study of Cutaneous Adverse Effects Among Patients With Topical Corticosteroid Abuse in a Tertiary Care Center.",
@@ -27531,7 +29129,7 @@
     "take": "keep"
   },
   {
-    "id": 445,
+    "id": 477,
     "pmid": "42670306",
     "source": "PubMed",
     "article": "Fractional CO2 (FxCO2) Laser Therapy Combined with Erythromycin Ophthalmic Ointment-Based Moist Wound Healing for Facial Pigmented Scars: A Retrospective Observational Study.",
@@ -27592,7 +29190,7 @@
     "take": "keep"
   },
   {
-    "id": 446,
+    "id": 478,
     "pmid": "42665953",
     "source": "PubMed",
     "article": "Efficacy and Safety of 755-nm Picosecond Alexandrite Laser for Acquired Bilateral Naevus of Ota-Like Macules (Hori Naevus): A Systematic Review and Meta-Analysis.",
@@ -27664,7 +29262,7 @@
     "take": "keep"
   },
   {
-    "id": 447,
+    "id": 479,
     "pmid": "42740895",
     "source": "PubMed",
     "article": "Comparison of the efficacy and safety of 755-nm picosecond alexandrite laser with diffractive lens array vs. fractional microneedle radiofrequency for the treatment of facial photoaging: a retrospective study.",
@@ -27735,7 +29333,7 @@
     "take": "keep"
   },
   {
-    "id": 448,
+    "id": 480,
     "pmid": "42827665",
     "source": "PubMed",
     "article": "Knowledge, attitudes, and practices regarding melasma among female patients.",
@@ -27793,7 +29391,7 @@
     "take": "keep"
   },
   {
-    "id": 449,
+    "id": 481,
     "pmid": "42888572",
     "source": "PubMed",
     "article": "Hyaluronic acid-based skin booster with glutathione combined with 1064-nm Nd:YAG laser and oral tranexamic acid for melasma: A prospective comparative study.",
