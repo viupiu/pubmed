@@ -28196,68 +28196,6 @@
   },
   {
     "id": 454,
-    "pmid": "33601717",
-    "source": "PubMed",
-    "article": "Age moderated-anxiety mediation for multimodal treatment outcome among children with obsessive-compulsive disorder: An evaluation with correspondence analysis.",
-    "authors": [
-      "Kim Se-Kang",
-      "McKay Dean",
-      "Murphy Tanya K",
-      "Bussing Regina",
-      "McNamara Joseph P",
-      "Goodman Wayne K",
-      "Storch Eric A"
-    ],
-    "date": "2021-01-03",
-    "journal": "Journal of affective disorders",
-    "doi": "10.1016/j.jad.2020.12.198",
-    "topic": "Детское OCD",
-    "topic_key": "ocd",
-    "topic_keys": [
-      "ocd"
-    ],
-    "topics": [
-      "Детское OCD"
-    ],
-    "abstract_en": "INTRODUCTION: Anxiety expression varies by age in youth, and evaluation of putative mechanisms in treatment must consider both conjointly. Accordingly, age would moderate the mediation effect of anxiety in a youth obsessive-compulsive disorder (OCD) treatment trial.\n\nMETHODS: Fifty-six children ages 7 - 17 participated in an RCT comparing three treatments: CBT with standard dosing of sertraline, CBT with slow dosing of sertraline, and CBT with placebo. To examine the moderated-mediation effects for OCD symptom improvement, we discretized the continuous anxiety and OCD measures into three symptom outcome categories, \"improved\", \"unchanged\", and \"deteriorated\". To evaluate the moderating effect of age, we further examined the association of age and anxiety with the \"improved\" OCD category. For analysis, the age groups used as rows were cross tabulated with discretized anxiety and OCD measures. To estimate category associations with correlations, we adopted correspondence analysis.\n\nRESULTS: The correlational results indicate that for all treatment conditions, age was a moderator of the mediation effect of physical anxiety symptoms for the improved OCD measures (outcomes). Specifically, age suppressed correlations with OCD outcomes, with Physical Symptoms as a mediator for the outcome measures. This moderated mediation effect was most evident for ages 8-10 in the CBT with placebo group.\n\nLIMITATIONS: The moderated mediation effect manifest in this single RCT-based study should be validated in other studies.\n\nDISCUSSION: Future research investigating a wider range of ages as a potential moderator of other symptom and emotion mediators of outcome is warranted, particularly in relation to individual symptom profiles of OCD.",
-    "article_link": "https://pubmed.ncbi.nlm.nih.gov/33601717/",
-    "pmc_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9555304/",
-    "html_available": true,
-    "html_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9555304/",
-    "title_ru": "Как возраст и физические симптомы тревоги связаны с результатами лечения обсессивно-компульсивного расстройства у детей",
-    "patient_plain": "",
-    "patient_use": "Родителям полезно обсуждать со специалистом не только частоту навязчивых мыслей и ритуалов, но и физические проявления тревоги, а также то, насколько симптомы мешают ребёнку дома и в школе. При оценке прогресса стоит учитывать возраст ребёнка и изменения в повседневном функционировании, а не ориентироваться только на один показатель ОКР. Результаты исследования не означают, что сертралин следует исключать из лечения детей 8–10 лет: выбор между КПТ и сочетанием КПТ с лекарством должен учитывать индивидуальную клиническую картину.",
-    "practical_use": "Врачам и детским психотерапевтам исследование напоминает о необходимости раздельно оценивать тяжесть ОКР, физические проявления тревоги и функциональные нарушения, используя по возможности информацию и от ребёнка, и от родителей. При интерпретации динамики следует учитывать возраст и не переносить обнаруженную закономерность для детей 8–10 лет на остальные возрастные группы. Результаты можно использовать как основание для более внимательного анализа индивидуального профиля симптомов, но не как доказательство превосходства одного из трёх вариантов лечения.",
-    "summary": "В исследовании изучали, как возраст и физические симптомы тревоги связаны с результатами лечения обсессивно-компульсивного расстройства (ОКР) у 56 детей в возрасте 7–17 лет. В рандомизированном контролируемом исследовании (РКИ) сравнивали три варианта лечения: когнитивно-поведенческую терапию (КПТ) в сочетании со стандартным режимом приёма сертралина, КПТ с медленным введением сертралина и КПТ с плацебо. Изменения оценивали по трём показателям тяжести ОКР: CY-BOCS (шкала оценки обсессивно-компульсивных симптомов), COIS-C (оценка функциональных нарушений, связанных с ОКР, по версии ребёнка) и COIS-P (оценка таких нарушений по версии родителей). Тревогу оценивали по показателям MASC, включая физические симптомы, социальную тревогу и избегание вреда.\n\nВо всех трёх группах после лечения наблюдалось статистически значимое снижение исходных показателей симптомов при уровне значимости α = 0,05. Возраст влиял на связь между физическими симптомами тревоги и улучшением ОКР. Наиболее выраженной эта зависимость оказалась у детей 8–10 лет, получавших КПТ с плацебо: в этой группе физические симптомы тревоги выступали посредником связи между возрастом и улучшением показателей ОКР. В заключении авторы также указывают на улучшение по всем трём показателям ОКР у детей 8–10 лет в группе КПТ без сертралина. Этот результат не распространялся на другие возрастные группы.\n\nИсследование предполагает, что при оценке результатов лечения ОКР у детей важно учитывать возраст, выраженность тревоги и индивидуальные проявления симптомов. Однако выводы основаны на одном исследовании с 56 участниками, а обнаруженные закономерности не доказывают, что КПТ без сертралина предпочтительнее комбинированного лечения для детей определённого возраста. Авторы подчёркивают необходимость проверки результатов в других исследованиях и изучения дополнительных возрастных групп и посредников лечебного эффекта.",
-    "_reason": "Статья важна для практики детского ОКР, поскольку показывает, что связь между тревогой и улучшением симптомов может зависеть от возраста, а физические проявления тревоги заслуживают отдельной оценки. При этом небольшая выборка и отсутствие независимого подтверждения не позволяют использовать результаты для выбора лечения исключительно по возрасту ребёнка.",
-    "why_read": "Статья будет полезна детским психиатрам, клиническим психологам и психотерапевтам, работающим с ОКР, особенно при оценке тревоги и результатов когнитивно-поведенческой терапии. Её стоит прочитать специалистам, которые хотят точнее интерпретировать различия в динамике симптомов у детей разного возраста, сохраняя осторожность при выборе между КПТ отдельно и КПТ в сочетании с сертралином.",
-    "limitations": [
-      "The moderated mediation effect manifest in this single RCT-based study should be validated in other studies.",
-      "This effect was not present for other age groups."
-    ],
-    "advice_items": [
-      {
-        "quote": "treating OCD symptom and anxiety severity, while also considering specific age groups could be a promising approach",
-        "advice": "При планировании и оценке лечения рассматривайте выраженность симптомов ОКР и тревоги совместно с возрастом ребёнка. Не делайте вывод об эффективности терапии только по изменению одного показателя, если доступны данные о других проявлениях симптомов и повседневном функционировании.",
-        "audience": "врач"
-      },
-      {
-        "quote": "children aged 8, 9, and 10 in the CBT–alone treatment condition had the greatest improvement in all three OCD measures (CY-BOCS, COIS-C, and COIS-P) included in the present study",
-        "advice": "Учитывайте это наблюдение при обсуждении возрастных различий в ответе на лечение, но не трактуйте его как доказательство того, что детям 8–10 лет следует назначать только КПТ. Сопоставляйте результаты оценки симптомов ОКР с функциональными нарушениями по данным ребёнка и родителей и принимайте решение с учётом индивидуальной клинической картины.",
-        "audience": "врач"
-      },
-      {
-        "quote": "Future research investigating a wider range of ages as a potential moderator of other symptom and emotion mediators of outcome is warranted, particularly in relation to individual symptom profiles of OCD.",
-        "advice": "При обсуждении прогноза объясняйте родителям, что возраст и профиль симптомов могут быть связаны с динамикой лечения, но выявленные закономерности пока требуют подтверждения. Используйте наблюдения за физическими проявлениями тревоги как часть общей оценки состояния ребёнка, а не как самостоятельный критерий выбора терапии.",
-        "audience": "врач"
-      }
-    ],
-    "importance_stars": 5,
-    "importance_mark": "★★★★★",
-    "take": "keep"
-  },
-  {
-    "id": 455,
     "pmid": "33624254",
     "source": "PubMed",
     "article": "Inflammation, Obsessive-Compulsive Disorder, and Related Disorders.",
@@ -28314,7 +28252,7 @@
     "take": "keep"
   },
   {
-    "id": 456,
+    "id": 455,
     "pmid": "33590457",
     "source": "PubMed",
     "article": "Innovations in the Delivery of Exposure and Response Prevention for Obsessive-Compulsive Disorder.",
@@ -28385,7 +28323,7 @@
     "take": "keep"
   },
   {
-    "id": 457,
+    "id": 456,
     "pmid": "34134828",
     "source": "PubMed",
     "article": "Irritability in Children and Adolescents With OCD.",
@@ -28447,7 +28385,7 @@
     "take": "keep"
   },
   {
-    "id": 458,
+    "id": 457,
     "pmid": "34134822",
     "source": "PubMed",
     "article": "Improving Delivery Behaviors During Exposure for Pediatric OCD: A Multiple Baseline Training Trial With Community Therapists.",
@@ -28521,7 +28459,7 @@
     "take": "keep"
   },
   {
-    "id": 459,
+    "id": 458,
     "pmid": "33186776",
     "source": "PubMed",
     "article": "Cognitive behavior therapy for internalizing disorders in children and adolescents in routine clinical care: A systematic review and meta-analysis.",
@@ -28584,7 +28522,7 @@
     "take": "keep"
   },
   {
-    "id": 460,
+    "id": 459,
     "pmid": "33043148",
     "source": "PubMed",
     "article": "Long-term outcomes of therapist-guided Internet-delivered cognitive behavior therapy for pediatric obsessive-compulsive disorder.",
@@ -28652,7 +28590,7 @@
     "take": "keep"
   },
   {
-    "id": 461,
+    "id": 460,
     "pmid": "32982805",
     "source": "PubMed",
     "article": "Antidepressants in Children and Adolescents: Meta-Review of Efficacy, Tolerability and Suicidality in Acute Treatment.",
@@ -28714,7 +28652,7 @@
     "take": "keep"
   },
   {
-    "id": 462,
+    "id": 461,
     "pmid": "32854533",
     "source": "PubMed",
     "article": "Treatment-Specific Associations Between Brain Activation and Symptom Reduction in OCD Following CBT: A Randomized fMRI Trial.",
@@ -28784,7 +28722,7 @@
     "take": "keep"
   },
   {
-    "id": 463,
+    "id": 462,
     "pmid": "32822898",
     "source": "PubMed",
     "article": "Temporal precedence of the change in obsessive-compulsive symptoms and change in depressive symptoms during exposure and response prevention for pediatric obsessive-compulsive disorders.",
@@ -28850,7 +28788,7 @@
     "take": "keep"
   },
   {
-    "id": 464,
+    "id": 463,
     "pmid": "32706265",
     "source": "PubMed",
     "article": "Moderators of Psychosocial Treatment for Pediatric Obsessive-Compulsive Disorder: Summary and Recommendations for Future Directions.",
@@ -28912,7 +28850,7 @@
     "take": "keep"
   },
   {
-    "id": 465,
+    "id": 464,
     "pmid": "33990231",
     "source": "PubMed",
     "article": "Therapist Behavior During Exposure Tasks Predicts Habituation and Clinical Outcome in Three Randomized Controlled Trials for Pediatric OCD.",
@@ -28988,7 +28926,7 @@
     "take": "keep"
   },
   {
-    "id": 466,
+    "id": 465,
     "pmid": "32618275",
     "source": "PubMed",
     "article": "When Science Challenges Our Long-Held Assumptions About the Robustness of Evidence for Standard of Care.",
@@ -29046,7 +28984,7 @@
     "take": "keep"
   },
   {
-    "id": 467,
+    "id": 466,
     "pmid": "32618273",
     "source": "PubMed",
     "article": "Little Doubt That CBT Works for Pediatric OCD.",
@@ -29116,7 +29054,7 @@
     "take": "keep"
   },
   {
-    "id": 468,
+    "id": 467,
     "pmid": "32361032",
     "source": "PubMed",
     "article": "Ethnicity moderates outcome in family focused treatment for pediatric obsessive compulsive disorder.",
@@ -29174,7 +29112,7 @@
     "take": "keep"
   },
   {
-    "id": 469,
+    "id": 468,
     "pmid": "32242450",
     "source": "PubMed",
     "article": "Fluoxetine in acute treatment of children and adolescents with obsessive-compulsive disorder: a systematic review and meta-analysis.",
@@ -29240,7 +29178,7 @@
     "take": "keep"
   },
   {
-    "id": 470,
+    "id": 469,
     "pmid": "31889307",
     "source": "PubMed",
     "article": "Structural neural markers of response to cognitive behavioral therapy in pediatric obsessive-compulsive disorder.",
@@ -29311,7 +29249,7 @@
     "take": "keep"
   },
   {
-    "id": 471,
+    "id": 470,
     "pmid": "31858264",
     "source": "PubMed",
     "article": "Long-term outcome of children and adolescents with obsessive-compulsive disorder: a 7-9-year follow-up of a randomized clinical trial.",
@@ -29372,7 +29310,7 @@
     "take": "keep"
   },
   {
-    "id": 472,
+    "id": 471,
     "pmid": "31800306",
     "source": "PubMed",
     "article": "N-Acetylcysteine for Pediatric Obsessive-Compulsive Disorder: A Small Pilot Study.",
@@ -29437,7 +29375,7 @@
     "take": "keep"
   },
   {
-    "id": 473,
+    "id": 472,
     "pmid": "31240488",
     "source": "PubMed",
     "article": "Family-Based Psychological Treatment for Obsessive Compulsive Disorder in Children and Adolescents: A Meta-analysis and Systematic Review.",
@@ -29486,7 +29424,7 @@
     "take": "keep"
   },
   {
-    "id": 474,
+    "id": 473,
     "pmid": "31778595",
     "source": "PubMed",
     "article": "A meta-analysis of dropout rates from exposure with response prevention and pharmacological treatment for youth with obsessive compulsive disorder.",
@@ -29542,7 +29480,7 @@
     "take": "keep"
   },
   {
-    "id": 475,
+    "id": 474,
     "pmid": "31747935",
     "source": "PubMed",
     "article": "Acceptability, feasibility, and efficacy of Internet cognitive behavioral therapy (iCBT) for pediatric obsessive-compulsive disorder: a systematic review.",
@@ -29605,7 +29543,7 @@
     "take": "keep"
   },
   {
-    "id": 476,
+    "id": 475,
     "pmid": "31736082",
     "source": "PubMed",
     "article": "Distinct trajectories of long-term symptom severity in pediatric obsessive-compulsive disorder during and after stepped-care treatment.",
@@ -29677,7 +29615,7 @@
     "take": "keep"
   },
   {
-    "id": 477,
+    "id": 476,
     "pmid": "31682918",
     "source": "PubMed",
     "article": "Antidepressant Tolerability in Pediatric Anxiety and Obsessive-Compulsive Disorders: A Bayesian Hierarchical Modeling Meta-analysis.",
@@ -29740,7 +29678,7 @@
     "take": "keep"
   },
   {
-    "id": 478,
+    "id": 477,
     "pmid": "31864218",
     "source": "PubMed",
     "article": "Cost-Effectiveness of Treatment Alternatives for Treatment-Refractory Pediatric Obsessive-Compulsive Disorder.",
@@ -29800,7 +29738,7 @@
     "take": "keep"
   },
   {
-    "id": 479,
+    "id": 478,
     "pmid": "31622874",
     "source": "PubMed",
     "article": "Is it time to rethink standard dosage of exposure-based cognitive behavioral therapy for pediatric obsessive-compulsive disorder?",
@@ -29865,7 +29803,7 @@
     "take": "keep"
   },
   {
-    "id": 480,
+    "id": 479,
     "pmid": "31589909",
     "source": "PubMed",
     "article": "Systematic Review and Meta-Analysis: Cognitive-Behavioral Therapy for Obsessive-Compulsive Disorder in Children and Adolescents.",
@@ -29942,7 +29880,7 @@
     "take": "keep"
   },
   {
-    "id": 481,
+    "id": 480,
     "pmid": "31447707",
     "source": "PubMed",
     "article": "The Effectiveness of Selective Serotonin Reuptake Inhibitors for Treatment of Obsessive-Compulsive Disorder in Adolescents and Children: A Systematic Review and Meta-Analysis.",
@@ -30011,7 +29949,7 @@
     "take": "keep"
   },
   {
-    "id": 482,
+    "id": 481,
     "pmid": "31516500",
     "source": "PubMed",
     "article": "Family involvement and treatment for young children with Obsessive-Compulsive Disorder: Randomized control study.",
@@ -30074,7 +30012,7 @@
     "take": "keep"
   },
   {
-    "id": 483,
+    "id": 482,
     "pmid": "31075706",
     "source": "PubMed",
     "article": "Improvement in anxiety and depression symptoms following cognitive behavior therapy for pediatric obsessive compulsive disorder.",
@@ -30142,7 +30080,7 @@
     "take": "keep"
   },
   {
-    "id": 484,
+    "id": 483,
     "pmid": "31009235",
     "source": "PubMed",
     "article": "Patient Satisfaction and Treatments Offered to Swedish Patients with Suspected Pediatric Acute-Onset Neuropsychiatric Syndrome and Pediatric Autoimmune Neuropsychiatric Disorders Associated with Streptococcal Infections.",
@@ -30201,7 +30139,7 @@
     "take": "keep"
   },
   {
-    "id": 485,
+    "id": 484,
     "pmid": "30893331",
     "source": "PubMed",
     "article": "Illness perceptions in people with obsessive-compulsive disorder; A qualitative study.",
@@ -30262,7 +30200,7 @@
     "take": "keep"
   },
   {
-    "id": 486,
+    "id": 485,
     "pmid": "30877053",
     "source": "PubMed",
     "article": "Hoarding Symptoms in Children and Adolescents With Obsessive-Compulsive Disorder: Clinical Features and Response to Cognitive-Behavioral Therapy.",
@@ -30333,7 +30271,7 @@
     "take": "keep"
   },
   {
-    "id": 487,
+    "id": 486,
     "pmid": "30877851",
     "source": "PubMed",
     "article": "Sudden gains in cognitive behavioral therapy among children and adolescents with obsessive compulsive disorder.",
@@ -30403,7 +30341,7 @@
     "take": "keep"
   },
   {
-    "id": 488,
+    "id": 487,
     "pmid": "30852257",
     "source": "PubMed",
     "article": "Fear extinction learning as a predictor of response to cognitive behavioral therapy for pediatric obsessive compulsive disorder.",
@@ -30474,7 +30412,7 @@
     "take": "keep"
   },
   {
-    "id": 489,
+    "id": 488,
     "pmid": "30768383",
     "source": "PubMed",
     "article": "Treatment Gains Are Sustainable in Pediatric Obsessive-Compulsive Disorder: Three-Year Follow-Up From the NordLOTS.",
@@ -30543,7 +30481,7 @@
     "take": "keep"
   },
   {
-    "id": 490,
+    "id": 489,
     "pmid": "30644767",
     "source": "PubMed",
     "article": "Symptom Dimension Response in Children and Adolescents with Obsessive-Compulsive Disorder.",
@@ -30608,7 +30546,7 @@
     "take": "keep"
   },
   {
-    "id": 491,
+    "id": 490,
     "pmid": "30762502",
     "source": "PubMed",
     "article": "Cost-effectiveness analysis of telephone cognitive-behaviour therapy for adolescents with obsessive-compulsive disorder.",
@@ -30674,7 +30612,7 @@
     "take": "keep"
   },
   {
-    "id": 492,
+    "id": 491,
     "pmid": "30768407",
     "source": "PubMed",
     "article": "Sertraline Effects on Striatal Resting-State Functional Connectivity in Youth With Obsessive-Compulsive Disorder: A Pilot Study.",
@@ -30737,7 +30675,7 @@
     "take": "keep"
   },
   {
-    "id": 493,
+    "id": 492,
     "pmid": "30221589",
     "source": "PubMed",
     "article": "Moderators and predictors of outcomes in telephone delivered compared to face-to-face cognitive behaviour therapy for paediatric obsessive-compulsive disorder: preliminary evidence from a non-inferiority RCT.",
@@ -30804,7 +30742,7 @@
     "take": "keep"
   },
   {
-    "id": 494,
+    "id": 493,
     "pmid": "30071984",
     "source": "PubMed",
     "article": "Symptom Insight in Pediatric Obsessive-Compulsive Disorder: Outcomes of an International Aggregated Cross-Sectional Sample.",
@@ -30891,7 +30829,7 @@
     "take": "keep"
   },
   {
-    "id": 495,
+    "id": 494,
     "pmid": "30149332",
     "source": "PubMed",
     "article": "D-Cycloserine augmentation of cognitive behavior therapy for pediatric OCD: Predictors and moderators of outcome.",
@@ -30957,7 +30895,7 @@
     "take": "keep"
   },
   {
-    "id": 496,
+    "id": 495,
     "pmid": "30025255",
     "source": "PubMed",
     "article": "Adaptive treatment strategies for children and adolescents with Obsessive-Compulsive Disorder: A sequential multiple assignment randomized trial.",
@@ -31031,7 +30969,7 @@
     "take": "keep"
   },
   {
-    "id": 497,
+    "id": 496,
     "pmid": "29939055",
     "source": "PubMed",
     "article": "Measuring fear change within exposures: Functionally-defined habituation predicts outcome in three randomized controlled trials for pediatric OCD.",
@@ -31104,7 +31042,7 @@
     "take": "keep"
   },
   {
-    "id": 498,
+    "id": 497,
     "pmid": "30824248",
     "source": "PubMed",
     "article": "Defining Treatment Outcomes in Pediatric Obsessive-Compulsive Disorder Using a Self-Report Scale.",
@@ -31174,7 +31112,7 @@
     "take": "keep"
   },
   {
-    "id": 499,
+    "id": 498,
     "pmid": "29722936",
     "source": "PubMed",
     "article": "Antibiotics for PANDAS? Limited Evidence: Review and Putative Mechanisms of Action.",
@@ -31232,7 +31170,7 @@
     "take": "keep"
   },
   {
-    "id": 500,
+    "id": 499,
     "pmid": "29677451",
     "source": "PubMed",
     "article": "Treatment Features Associated with Youth Cognitive Behavioral Therapy Follow-Up Effects for Internalizing Disorders: A Meta-Analysis.",
@@ -31299,7 +31237,7 @@
     "take": "keep"
   },
   {
-    "id": 501,
+    "id": 500,
     "pmid": "29971153",
     "source": "PubMed",
     "article": "Internet-delivered cognitive behavioural therapy for young children with obsessive-compulsive disorder: development and initial evaluation of the BIP OCD Junior programme.",
@@ -31360,7 +31298,7 @@
     "take": "keep"
   },
   {
-    "id": 502,
+    "id": 501,
     "pmid": "29502315",
     "source": "PubMed",
     "article": "A solid majority remit following evidence-based OCD treatments: a 3-year naturalistic outcome study in pediatric OCD.",
@@ -31433,7 +31371,7 @@
     "take": "keep"
   },
   {
-    "id": 503,
+    "id": 502,
     "pmid": "29309797",
     "source": "PubMed",
     "article": "Treatment of PANDAS and PANS: a systematic review.",
@@ -31492,7 +31430,7 @@
     "take": "keep"
   },
   {
-    "id": 504,
+    "id": 503,
     "pmid": "28707590",
     "source": "PubMed",
     "article": "Combining Drug and Psychological Treatments for Obsessive- Compulsive Disorder: What is the Evidence, When and for Whom.",
@@ -31549,7 +31487,7 @@
     "take": "keep"
   },
   {
-    "id": 505,
+    "id": 504,
     "pmid": "29287236",
     "source": "PubMed",
     "article": "Moderators and predictors of response to cognitive behaviour therapy for pediatric obsessive-compulsive disorder: A systematic review.",
@@ -31608,7 +31546,7 @@
     "take": "keep"
   },
   {
-    "id": 506,
+    "id": 505,
     "pmid": "29045303",
     "source": "PubMed",
     "article": "Riluzole Serum Concentration in Pediatric Patients Treated for Obsessive-Compulsive Disorder.",
@@ -31670,7 +31608,7 @@
     "take": "keep"
   },
   {
-    "id": 507,
+    "id": 506,
     "pmid": "29119300",
     "source": "PubMed",
     "article": "Longitudinal outcomes of children with pediatric autoimmune neuropsychiatric disorder associated with streptococcal infections (PANDAS).",
@@ -31738,7 +31676,7 @@
     "take": "keep"
   },
   {
-    "id": 508,
+    "id": 507,
     "pmid": "29173737",
     "source": "PubMed",
     "article": "Targeted Family Intervention for Complex Cases of Pediatric Obsessive-Compulsive Disorder: A Randomized Controlled Trial.",
@@ -31811,7 +31749,7 @@
     "take": "keep"
   },
   {
-    "id": 509,
+    "id": 508,
     "pmid": "28854296",
     "source": "PubMed",
     "article": "Efficacy and Safety of Selective Serotonin Reuptake Inhibitors, Serotonin-Norepinephrine Reuptake Inhibitors, and Placebo for Common Psychiatric Disorders Among Children and Adolescents: A Systematic Review and Meta-analysis.",
@@ -31871,7 +31809,7 @@
     "take": "keep"
   },
   {
-    "id": 510,
+    "id": 509,
     "pmid": "28910139",
     "source": "PubMed",
     "article": "Quality of Life in Children and Youth with Obsessive-Compulsive Disorder.",
@@ -31929,7 +31867,7 @@
     "take": "keep"
   },
   {
-    "id": 511,
+    "id": 510,
     "pmid": "28881220",
     "source": "PubMed",
     "article": "Executive function predicts cognitive-behavioral therapy response in childhood obsessive-compulsive disorder.",
@@ -31986,7 +31924,7 @@
     "take": "keep"
   },
   {
-    "id": 512,
+    "id": 511,
     "pmid": "28892781",
     "source": "PubMed",
     "article": "Family accommodation of anxiety symptoms in youth undergoing intensive multimodal treatment for anxiety disorders and obsessive-compulsive disorder: Nature, clinical correlates, and treatment response.",
@@ -32048,7 +31986,7 @@
     "take": "keep"
   },
   {
-    "id": 513,
+    "id": 512,
     "pmid": "28752937",
     "source": "PubMed",
     "article": "Prediction of outcome in internet-delivered cognitive behaviour therapy for paediatric obsessive-compulsive disorder: A machine learning approach.",
@@ -32102,7 +32040,7 @@
     "take": "keep"
   },
   {
-    "id": 514,
+    "id": 513,
     "pmid": "28714753",
     "source": "PubMed",
     "article": "Pediatric Acute-Onset Neuropsychiatric Syndrome Response to Oral Corticosteroid Bursts: An Observational Study of Patients in an Academic Community-Based PANS Clinic.",
@@ -32158,7 +32096,7 @@
     "take": "keep"
   },
   {
-    "id": 515,
+    "id": 514,
     "pmid": "28696786",
     "source": "PubMed",
     "article": "Effect of Early and Prophylactic Nonsteroidal Anti-Inflammatory Drugs on Flare Duration in Pediatric Acute-Onset Neuropsychiatric Syndrome: An Observational Study of Patients Followed by an Academic Community-Based Pediatric Acute-Onset Neuropsychiatric Syndrome Clinic.",
@@ -32217,7 +32155,7 @@
     "take": "keep"
   },
   {
-    "id": 516,
+    "id": 515,
     "pmid": "28696783",
     "source": "PubMed",
     "article": "Course of Neuropsychiatric Symptoms After Introduction and Removal of Nonsteroidal Anti-Inflammatory Drugs: A Pediatric Observational Study.",
@@ -32277,7 +32215,7 @@
     "take": "keep"
   },
   {
-    "id": 517,
+    "id": 516,
     "pmid": "28515196",
     "source": "PubMed",
     "article": "Cost-effectiveness of therapist-guided internet-delivered cognitive behaviour therapy for paediatric obsessive-compulsive disorder: results from a randomised controlled trial.",
@@ -32341,7 +32279,7 @@
     "take": "keep"
   },
   {
-    "id": 518,
+    "id": 517,
     "pmid": "28412602",
     "source": "PubMed",
     "article": "Secondary outcomes from the pediatric obsessive compulsive disorder treatment study II.",
@@ -32412,7 +32350,7 @@
     "take": "keep"
   },
   {
-    "id": 519,
+    "id": 518,
     "pmid": "28431305",
     "source": "PubMed",
     "article": "Cognitive-behavioral high parental involvement treatments for pediatric obsessive-compulsive disorder: A meta-analysis.",
@@ -32468,7 +32406,7 @@
     "take": "keep"
   },
   {
-    "id": 520,
+    "id": 519,
     "pmid": "28409563",
     "source": "PubMed",
     "article": "Glutamate in Pediatric Obsessive-Compulsive Disorder and Response to Cognitive-Behavioral Therapy: Randomized Clinical Trial.",
@@ -32537,7 +32475,7 @@
     "take": "keep"
   },
   {
-    "id": 521,
+    "id": 520,
     "pmid": "28659986",
     "source": "PubMed",
     "article": "Efficacy of N-Acetylcysteine Augmentation on Obsessive Compulsive Disorder: A Multicenter Randomized Double Blind Placebo Controlled Clinical Trial.",
@@ -32604,7 +32542,7 @@
     "take": "keep"
   },
   {
-    "id": 522,
+    "id": 521,
     "pmid": "28358599",
     "source": "PubMed",
     "article": "A Double-Blind Randomized Placebo-Controlled Pilot Study of Azithromycin in Youth with Acute-Onset Obsessive-Compulsive Disorder.",
@@ -32674,7 +32612,7 @@
     "take": "keep"
   },
   {
-    "id": 523,
+    "id": 522,
     "pmid": "28280342",
     "source": "PubMed",
     "article": "Quality of life in children and adolescents with obsessive-compulsive disorder: a systematic review and meta-analysis.",
@@ -32730,7 +32668,7 @@
     "take": "keep"
   },
   {
-    "id": 524,
+    "id": 523,
     "pmid": "28207912",
     "source": "PubMed",
     "article": "Fear conditioning and extinction in pediatric obsessive-compulsive disorder.",
@@ -32789,7 +32727,7 @@
     "take": "keep"
   },
   {
-    "id": 525,
+    "id": 524,
     "pmid": "27329368",
     "source": "PubMed",
     "article": "Examining the Psychometric Properties of the Pediatric Quality of Life Enjoyment and Satisfaction Questionnaire in Two Samples of Youth with OCD.",
@@ -32843,7 +32781,7 @@
     "take": "keep"
   },
   {
-    "id": 526,
+    "id": 525,
     "pmid": "28137316",
     "source": "PubMed",
     "article": "A pilot randomized controlled trial of time-intensive cognitive-behaviour therapy for postpartum obsessive-compulsive disorder: effects on maternal symptoms, mother-infant interactions and attachment.",
@@ -32901,7 +32839,7 @@
     "take": "keep"
   },
   {
-    "id": 527,
+    "id": 526,
     "pmid": "28966908",
     "source": "PubMed",
     "article": "The link between ADHD-like inattention and obsessions and compulsions during treatment of youth with OCD.",
@@ -32961,7 +32899,7 @@
     "take": "keep"
   },
   {
-    "id": 528,
+    "id": 527,
     "pmid": "27869451",
     "source": "PubMed",
     "article": "Internet-delivered, family-based treatment for early-onset OCD: A pilot randomized trial.",
@@ -33029,7 +32967,7 @@
     "take": "keep"
   },
   {
-    "id": 529,
+    "id": 528,
     "pmid": "28012531",
     "source": "PubMed",
     "article": "Improvement of psychiatric symptoms in youth following resolution of sinusitis.",
@@ -33089,7 +33027,7 @@
     "take": "keep"
   },
   {
-    "id": 530,
+    "id": 529,
     "pmid": "27993223",
     "source": "PubMed",
     "article": "Therapist-Guided, Internet-Delivered Cognitive-Behavioral Therapy for Adolescents With Obsessive-Compulsive Disorder: A Randomized Controlled Trial.",
@@ -33154,7 +33092,7 @@
     "take": "keep"
   },
   {
-    "id": 531,
+    "id": 530,
     "pmid": "27711249",
     "source": "PubMed",
     "article": "\"On My Own, but Not Alone\" - Adolescents' Experiences of Internet-Delivered Cognitive Behavior Therapy for Obsessive-Compulsive Disorder.",
@@ -33215,7 +33153,7 @@
     "take": "keep"
   },
   {
-    "id": 532,
+    "id": 531,
     "pmid": "27632568",
     "source": "PubMed",
     "article": "Cognitive behavioral and pharmacological treatments of OCD in children: A systematic review and meta-analysis.",
@@ -33269,7 +33207,7 @@
     "take": "keep"
   },
   {
-    "id": 533,
+    "id": 532,
     "pmid": "27663940",
     "source": "PubMed",
     "article": "Systematic Review and Meta-Analysis: Early Treatment Responses of Selective Serotonin Reuptake Inhibitors and Clomipramine in Pediatric Obsessive-Compulsive Disorder.",
@@ -33330,7 +33268,7 @@
     "take": "keep"
   },
   {
-    "id": 534,
+    "id": 533,
     "pmid": "27663941",
     "source": "PubMed",
     "article": "Randomized, Controlled Trial of Intravenous Immunoglobulin for Pediatric Autoimmune Neuropsychiatric Disorders Associated With Streptococcal Infections.",
@@ -33393,7 +33331,7 @@
     "take": "keep"
   },
   {
-    "id": 535,
+    "id": 534,
     "pmid": "27367832",
     "source": "PubMed",
     "article": "Efficacy of Augmentation of Cognitive Behavior Therapy With Weight-Adjusted d-Cycloserine vs Placebo in Pediatric Obsessive-Compulsive Disorder: A Randomized Clinical Trial.",
@@ -33456,7 +33394,7 @@
     "take": "keep"
   },
   {
-    "id": 536,
+    "id": 535,
     "pmid": "27306503",
     "source": "PubMed",
     "article": "A systematic review of the clinical effectiveness and cost-effectiveness of pharmacological and psychological interventions for the management of obsessive-compulsive disorder in children/adolescents and adults.",
@@ -33524,7 +33462,7 @@
     "take": "keep"
   },
   {
-    "id": 537,
+    "id": 536,
     "pmid": "27209422",
     "source": "PubMed",
     "article": "Defining cognitive-behavior therapy response and remission in pediatric OCD: a signal detection analysis of the Children's Yale-Brown Obsessive Compulsive Scale.",
@@ -33586,7 +33524,7 @@
     "take": "keep"
   },
   {
-    "id": 538,
+    "id": 537,
     "pmid": "27182928",
     "source": "PubMed",
     "article": "Efficacy of Cognitive-Behavioral Therapy in Pediatric Obsessive-Compulsive Disorder: A Meta-Analysis.",
@@ -33646,7 +33584,7 @@
     "take": "keep"
   },
   {
-    "id": 539,
+    "id": 538,
     "pmid": "27058836",
     "source": "PubMed",
     "article": "[Effectiveness of cognitive-behavioral therapy in children and adolescents with obsessive-compulsive disorders treated in an outpatient clinic].",
@@ -33708,7 +33646,7 @@
     "take": "keep"
   },
   {
-    "id": 540,
+    "id": 539,
     "pmid": "27197125",
     "source": "PubMed",
     "article": "[A Review and Recommendations of Evidence-Based Treatments for Pediatric Obsessive-Compulsive Disorder].",
@@ -33762,7 +33700,7 @@
     "take": "keep"
   },
   {
-    "id": 541,
+    "id": 540,
     "pmid": "26629962",
     "source": "PubMed",
     "article": "What Future Role Might N-Acetyl-Cysteine Have in the Treatment of Obsessive Compulsive and Grooming Disorders?: A Systematic Review.",
@@ -33817,7 +33755,7 @@
     "take": "keep"
   },
   {
-    "id": 542,
+    "id": 541,
     "pmid": "26495770",
     "source": "PubMed",
     "article": "Side-effects of SSRIs disrupt multimodal treatment for pediatric OCD in a randomized-controlled trial.",
@@ -33877,7 +33815,7 @@
     "take": "keep"
   },
   {
-    "id": 543,
+    "id": 542,
     "pmid": "26410771",
     "source": "PubMed",
     "article": "Event-related potentials in drug-naïve pediatric patients with obsessive-compulsive disorder.",
@@ -33939,7 +33877,7 @@
     "take": "keep"
   },
   {
-    "id": 544,
+    "id": 543,
     "pmid": "26372401",
     "source": "PubMed",
     "article": "EFFECTS OF HOMEWORK COMPLIANCE ON COGNITIVE-BEHAVIORAL THERAPY WITH D-CYCLOSERINE AUGMENTATION FOR CHILDREN WITH OBSESSIVE COMPULSIVE DISORDER.",
@@ -33999,7 +33937,7 @@
     "take": "keep"
   },
   {
-    "id": 545,
+    "id": 544,
     "pmid": "26348088",
     "source": "PubMed",
     "article": "Sertraline Treatment of Nonresponders to Extended Cognitive-Behavior Therapy in Pediatric Obsessive-Compulsive Disorder.",
@@ -34053,7 +33991,7 @@
     "take": "keep"
   },
   {
-    "id": 546,
+    "id": 545,
     "pmid": "26375768",
     "source": "PubMed",
     "article": "A Promising Preliminary Study of Aripiprazole for Treatment-Resistant Childhood Obsessive-Compulsive Disorder.",
@@ -34109,7 +34047,7 @@
     "take": "keep"
   },
   {
-    "id": 547,
+    "id": 546,
     "pmid": "26308588",
     "source": "PubMed",
     "article": "Residential treatment outcomes for adolescents with obsessive-compulsive disorder.",
@@ -34175,7 +34113,7 @@
     "take": "keep"
   },
   {
-    "id": 548,
+    "id": 547,
     "pmid": "26216164",
     "source": "PubMed",
     "article": "Child-focused treatment of pediatric OCD affects parental behavior and family environment.",
@@ -34232,7 +34170,7 @@
     "take": "keep"
   },
   {
-    "id": 549,
+    "id": 548,
     "pmid": "26228567",
     "source": "PubMed",
     "article": "Neural correlates associated with symptom provocation in pediatric obsessive compulsive disorder after a single session of sham-controlled repetitive transcranial magnetic stimulation.",
@@ -34291,7 +34229,7 @@
     "take": "skim"
   },
   {
-    "id": 550,
+    "id": 549,
     "pmid": "26130211",
     "source": "PubMed",
     "article": "A META-ANALYSIS OF COGNITIVE BEHAVIOR THERAPY AND MEDICATION FOR CHILD OBSESSIVE-COMPULSIVE DISORDER: MODERATORS OF TREATMENT EFFICACY, RESPONSE, AND REMISSION.",
@@ -34354,7 +34292,7 @@
     "take": "keep"
   },
   {
-    "id": 551,
+    "id": 550,
     "pmid": "26046809",
     "source": "PubMed",
     "article": "Obsessive compulsive disorder in children and adolescents: duration of maintenance drug treatment.",
@@ -34407,7 +34345,7 @@
     "take": "skim"
   },
   {
-    "id": 552,
+    "id": 551,
     "pmid": "26091197",
     "source": "PubMed",
     "article": "Tics Moderate Sertraline, but Not Cognitive-Behavior Therapy Response in Pediatric Obsessive-Compulsive Disorder Patients Who Do Not Respond to Cognitive-Behavior Therapy.",
@@ -34472,7 +34410,7 @@
     "take": "keep"
   },
   {
-    "id": 553,
+    "id": 552,
     "pmid": "25957940",
     "source": "PubMed",
     "article": "Augmentation of cognitive and behavioural therapies (CBT) with d-cycloserine for anxiety and related disorders.",
@@ -34532,7 +34470,7 @@
     "take": "keep"
   },
   {
-    "id": 554,
+    "id": 553,
     "pmid": "25912534",
     "source": "PubMed",
     "article": "N-acetyl cysteine in the treatment of obsessive compulsive and related disorders: a systematic review.",
@@ -34593,7 +34531,7 @@
     "take": "keep"
   },
   {
-    "id": 555,
+    "id": 554,
     "pmid": "25901842",
     "source": "PubMed",
     "article": "Psychological treatment of obsessive-compulsive disorder in children and adolescents: a meta-analysis.",
@@ -34646,7 +34584,7 @@
     "take": "keep"
   },
   {
-    "id": 556,
+    "id": 555,
     "pmid": "25052626",
     "source": "PubMed",
     "article": "Exposure and response prevention process predicts treatment outcome in youth with OCD.",
@@ -34706,7 +34644,7 @@
     "take": "keep"
   },
   {
-    "id": 557,
+    "id": 556,
     "pmid": "25783756",
     "source": "PubMed",
     "article": "Overactive Performance Monitoring as an Endophenotype for Obsessive-Compulsive Disorder: Evidence From a Treatment Study.",
@@ -34763,7 +34701,7 @@
     "take": "keep"
   },
   {
-    "id": 558,
+    "id": 557,
     "pmid": "25771752",
     "source": "PubMed",
     "article": "Cognitive-behavioral therapy for pediatric obsessive-compulsive disorder: Empirical review and clinical recommendations.",
@@ -34823,7 +34761,7 @@
     "take": "keep"
   },
   {
-    "id": 559,
+    "id": 558,
     "pmid": "25724385",
     "source": "PubMed",
     "article": "Augmentation of Treatment As Usual with online Cognitive Bias Modification of Interpretation training in adolescents with Obsessive Compulsive Disorder: A pilot study.",
@@ -34876,7 +34814,7 @@
     "take": "keep"
   },
   {
-    "id": 560,
+    "id": 559,
     "pmid": "25791142",
     "source": "PubMed",
     "article": "Assessment and management of treatment-refractory obsessive-compulsive disorder in children.",
@@ -34949,7 +34887,7 @@
     "take": "keep"
   },
   {
-    "id": 561,
+    "id": 560,
     "pmid": "25769521",
     "source": "PubMed",
     "article": "The place of and evidence for serotonin reuptake inhibitors (SRIs) for obsessive compulsive disorder (OCD) in children and adolescents: Views based on a systematic review and meta-analysis.",
@@ -35016,7 +34954,7 @@
     "take": "keep"
   },
   {
-    "id": 562,
+    "id": 561,
     "pmid": "25591044",
     "source": "PubMed",
     "article": "Sleep problems and cognitive behavior therapy in pediatric obsessive-compulsive disorder have bidirectional effects.",
@@ -35068,7 +35006,7 @@
     "take": "keep"
   },
   {
-    "id": 563,
+    "id": 562,
     "pmid": "25721185",
     "source": "PubMed",
     "article": "Predictors associated with improved cognitive-behavioral therapy outcome in pediatric obsessive-compulsive disorder.",
@@ -35131,7 +35069,7 @@
     "take": "keep"
   },
   {
-    "id": 564,
+    "id": 563,
     "pmid": "25535011",
     "source": "PubMed",
     "article": "A pilot study of actigraphy as an objective measure of SSRI activation symptoms: results from a randomized placebo controlled psychopharmacological treatment study.",
@@ -35196,7 +35134,7 @@
     "take": "keep"
   },
   {
-    "id": 565,
+    "id": 564,
     "pmid": "25299463",
     "source": "PubMed",
     "article": "Cefdinir for recent-onset pediatric neuropsychiatric disorders: a pilot randomized trial.",
@@ -35253,7 +35191,7 @@
     "take": "keep"
   },
   {
-    "id": 566,
+    "id": 565,
     "pmid": "25239489",
     "source": "PubMed",
     "article": "Continued cognitive-behavior therapy versus sertraline for children and adolescents with obsessive-compulsive disorder that were non-responders to cognitive-behavior therapy: a randomized controlled trial.",
@@ -35323,7 +35261,7 @@
     "take": "keep"
   },
   {
-    "id": 567,
+    "id": 566,
     "pmid": "25142430",
     "source": "PubMed",
     "article": "Standard individual cognitive behaviour therapy for paediatric obsessive-compulsive disorder: a systematic review of effect estimates across comparisons.",
