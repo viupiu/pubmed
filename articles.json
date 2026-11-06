@@ -26332,6 +26332,54 @@
   },
   {
     "id": 474,
+    "pmid": "34951101",
+    "source": "PubMed",
+    "article": "Topical growth factors and home-based microneedling for facial skin rejuvenation.",
+    "authors": [
+      "Quinlan Daniel J",
+      "Ghanem Ali M",
+      "Hassan Haidar"
+    ],
+    "date": "2021-12-23",
+    "journal": "Journal of cosmetic dermatology",
+    "doi": "10.1111/jocd.14650",
+    "topic": "Космеология",
+    "topic_key": "cosmo",
+    "topic_keys": [
+      "cosmo"
+    ],
+    "topics": [
+      "Космеология"
+    ],
+    "abstract_en": "BACKGROUND: Cosmeceutical products are an important therapeutic option for facial rejuvenation. Of these, topical application of growth factors has been shown to increase dermal collagen synthesis, improve skin texture, and reduce fine lines and wrinkles. Limited data exist for the use of growth factors in combination with microneedling.\n\nOBJECTIVE: This prospective, single-center, uncontrolled study evaluated the efficacy of topical growth factor treatment in conjunction with transdermal delivery of growth factors via home-based microneedling for facial skin rejuvenation.\n\nPATIENTS/METHODS: Eleven healthy female individuals aged 33-61 years, with mild-moderate facial wrinkling were included in the study. Over 3 months, participants received twice-daily application of a topical recombinant human growth factor preparation (SkinGenuity® Regenerative and Reparative Serums) along with twice-weekly transdermal delivery of growth factors using a home-based microneedling (0.2 mm) device. Objective skin analysis (VISIA® ) and a subjective patient-reported outcome (FACE-Q® ) assessment measuring satisfaction with appearance were performed at baseline and after 3 months.\n\nRESULTS: Objective skin analysis showed a significant improvement in skin texture (17.6%, p < 0.001), wrinkles (17.3%, p < 0.001), red areas (12.4%, p =0.004), and brown spots (6.0%, p =0.03) at 3 months follow-up. FACE-Q scales showed a significant improvement from baseline, including satisfaction with skin, facial appearance, nasolabial folds, cheeks, and lower face/jawline (all p ≤ 0.02). Numerical improvement in adverse effects related to skin was also observed (p = 0.07). No serious adverse effects were reported.\n\nCONCLUSIONS: Three months of twice-daily topical growth factor treatment in conjunction with transdermal delivery of growth factors via microneedling improved skin analysis parameters and participant-reported outcome measures, indicative of facial skin rejuvenation.",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/34951101/",
+    "pmc_link": "",
+    "html_available": false,
+    "html_link": "",
+    "title_ru": "Домашний мезороллер 0,2 мм 2×/нед + сыворотка GF 2×/сут — 3 месяца",
+    "patient_plain": "",
+    "patient_use": "Дома можно: роллер 0,2 мм два раза в неделю + дневная/ночная сыворотка с факторами роста дважды в день — 3 месяца. В этой серии заметно улучшились текстура и морщины; это не глубокий клинический needling.",
+    "practical_use": "0,2 мм = эпидермальный home device для трандермальной доставки, не замена клиническому MN до 1–2 мм. Отделяйте эффект устройства от конкретного GF-продукта.",
+    "summary": "Проспектив без контроля, n=11 женщин 33–61, лёгкие–средние морщины: 3 мес — сыворотки рекомбинантных факторов роста (SkinGenuity Regenerative + Reparative) 2×/сут и домашний микронидлинг 0,2 мм 2×/нед для доставки GF.\n\nVISIA к 3 мес: текстура −17,6%, морщины −17,3%, красные зоны −12,4%, коричневые пятна −6,0%. FACE-Q (кожа, вид лица, НЛС, щёки, низ лица) значимо лучше. Серьёзных НЯ нет; малая выборка, бренд-сыворотка, нет группы «только роллер» или «только крем».",
+    "_reason": "Единственная чёткая home-схема: глубина, частота, срок.",
+    "why_read": "Домашний мезороллер + топик при лёгких морщинах.",
+    "limitations": [
+      "n=11 uncontrolled",
+      "branded growth-factor serums"
+    ],
+    "advice_items": [
+      {
+        "quote": "twice-weekly transdermal delivery ... home-based microneedling (0.2 mm) device",
+        "advice": "Для home-протокола фиксируйте 0,2 мм и 2 сессии в неделю на 12 недель.",
+        "audience": "врач"
+      }
+    ],
+    "importance_stars": 4,
+    "importance_mark": "★★★★☆",
+    "take": "keep"
+  },
+  {
+    "id": 475,
     "pmid": "36608977",
     "source": "PubMed",
     "article": "Modified Comprehensive Behavioral Intervention for Tics: Treating Children With Tic Disorders, Co-Occurring ADHD, and Psychosocial Impairment.",
@@ -26381,7 +26429,56 @@
     "take": "keep"
   },
   {
-    "id": 475,
+    "id": 476,
+    "pmid": "36449871",
+    "source": "PubMed",
+    "article": "Radiofrequency Microneedling for Skin Tightening of the Lower Face, Jawline, and Neck Region.",
+    "authors": [
+      "Nguyen Lynhda",
+      "Blessmann Marco",
+      "Schneider Stefan W",
+      "Herberger Katharina"
+    ],
+    "date": "2022-09-29",
+    "journal": "Dermatologic surgery : official publication for American Society for Dermatologic Surgery [et al.]",
+    "doi": "10.1097/DSS.0000000000003607",
+    "topic": "Космеология",
+    "topic_key": "cosmo",
+    "topic_keys": [
+      "cosmo"
+    ],
+    "topics": [
+      "Космеология"
+    ],
+    "abstract_en": "BACKGROUND: Radiofrequency microneedling (RFMN) treatment is the latest generation of fractional skin rejuvenation methods.\n\nOBJECTIVE: To evaluate the efficacy, safety, tolerability and patient satisfaction of RFMN treatment for skin rejuvenation of the lower face and neck area.\n\nMATERIALS AND METHODS: A prospective, intraindividual, controlled study. Subjects were treated with a fractional insulated RFMN system with 1 to 3 sessions at intervals of 4 to 12 weeks. Follow-up visits were scheduled on Day 90 and 180 posttreatment. Outcome was assessed by volume analysis of standardized 3-dimensional imaging, and validated clinical scales were rated by the physician, a blinded investigator, and patients.\n\nRESULTS: Thirty patients (mean age 55.5 years, Fitzpatrick skin type I-IV) were included. Mean submental volume difference was -4.72 cm3 (±10.07 cm3; range -26.65 cm3 to +16.01 cm3). Physician, blinded investigator, and subjects rated the clinical outcome as highly improved. Mean pain intensity was 5.61/10 on Numeric Rating Scale. Beside slight swelling and redness, no relevant downtime has been observed.\n\nCONCLUSION: Fractional RFMN treatment is a safe and effective technique for rejuvenation of the lower face, jawline, and neck region. Sufficient pain management should be provided. Data indicated low to no downtime and high patient satisfaction.",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/36449871/",
+    "pmc_link": "",
+    "html_available": false,
+    "html_link": "",
+    "title_ru": "RFMN низ лица/челюсть/шея: 1–3 сессии каждые 4–12 недель",
+    "patient_plain": "",
+    "patient_use": "Для «второго подбородка»/овала и шеи в клинике ставят RF-игольный аппарат курсом 1–3 раза с паузой от месяца до трёх. Больновато (~6/10) — нужна анестезия; после почти сразу можно в жизнь, отёк короткий.",
+    "practical_use": "Заложите analgesia (NRS ~5–6). Оценивайте lower face/neck отдельно от midface; 3D submental volume — вспомогательный, не единственный KPI.",
+    "summary": "Prospective intraindividual controlled, n=30 (ср. 55,5 лет, Fitzpatrick I–IV): fractional insulated RFMN на нижнюю треть лица, jawline и шею — 1–3 сессии с интервалом 4–12 нед; контроль Day 90 и 180. 3D-объём субментально в среднем −4,72 см³ (разброс большой). Врач, слепой оценщик и пациенты — «highly improved». Боль mean 5,61/10 NRS; downtime практически нет (лёгкий отёк/краснота).\n\nНе RCT vs sham; объём субментума вариабелен.",
+    "_reason": "Зональный протокол RFMN lower face/neck с интервалами и болью.",
+    "why_read": "Овал и шея — не только щёки.",
+    "limitations": [
+      "intraindividual controlled not sham RCT",
+      "wide submental volume range"
+    ],
+    "advice_items": [
+      {
+        "quote": "1 to 3 sessions at intervals of 4 to 12 weeks",
+        "advice": "Курс RFMN нижней трети: 1–3 сессии с интервалом 4–12 недель + адекватная анестезия.",
+        "audience": "врач"
+      }
+    ],
+    "importance_stars": 4,
+    "importance_mark": "★★★★☆",
+    "take": "keep"
+  },
+  {
+    "id": 477,
     "pmid": "36440399",
     "source": "PubMed",
     "article": "A preliminary study of comprehensive behavioral intervention for tics in Chinese children with chronic tic disorder or Tourette syndrome.",
@@ -26426,7 +26523,7 @@
     "take": "keep"
   },
   {
-    "id": 476,
+    "id": 478,
     "pmid": "38418047",
     "source": "PubMed",
     "article": "Body-Focused Repetitive Behavior Disorders in Children and Adolescents: Clinical Characteristics and Treatment Outcomes in a Naturalistic Setting.",
@@ -26471,7 +26568,7 @@
     "take": "keep"
   },
   {
-    "id": 477,
+    "id": 479,
     "pmid": "37545359",
     "source": "PubMed",
     "article": "Evaluating the feasibility, acceptability, and preliminary effectiveness of tele-comprehensive behavior therapy for tics (teleCBIT) for Tourette syndrome in youth and adults.",
@@ -26519,7 +26616,7 @@
     "take": "keep"
   },
   {
-    "id": 478,
+    "id": 480,
     "pmid": "37924247",
     "source": "PubMed",
     "article": "Online remote behavioural intervention for tics in 9- to 17-year-olds: the ORBIT RCT with embedded process and economic evaluation.",
@@ -26582,7 +26679,7 @@
     "take": "keep"
   },
   {
-    "id": 479,
+    "id": 481,
     "pmid": "37814039",
     "source": "PubMed",
     "article": "Minimally Invasive Facial Rejuvenation with the Hybrid Filler HArmonyCa™.",
@@ -26627,7 +26724,7 @@
     "take": "keep"
   },
   {
-    "id": 480,
+    "id": 482,
     "pmid": "39693753",
     "source": "PubMed",
     "article": "Melasma management in primary care.",
@@ -26672,7 +26769,7 @@
     "take": "keep"
   },
   {
-    "id": 481,
+    "id": 483,
     "pmid": "39553813",
     "source": "PubMed",
     "article": "Deoxycholic Acid for Submental Convexity: A MAUDE Database Analysis.",
@@ -26720,7 +26817,7 @@
     "take": "keep"
   },
   {
-    "id": 482,
+    "id": 484,
     "pmid": "38241510",
     "source": "PubMed",
     "article": "The combined effect of neuro-modulation and neuro-stimulation on pain in patients with cervical radiculopathy - a double-blinded, two-arm parallel randomized controlled trial.",
@@ -26776,7 +26873,7 @@
     "take": "keep"
   },
   {
-    "id": 483,
+    "id": 485,
     "pmid": "38837386",
     "source": "PubMed",
     "article": "Functional and esthetic effects of botulinum toxin injection into the masseter muscles: evaluation of 80 patients from a dermatological perspective.",
@@ -26820,7 +26917,7 @@
     "take": "keep"
   },
   {
-    "id": 484,
+    "id": 486,
     "pmid": "38843906",
     "source": "PubMed",
     "article": "Tranexamic acid as a therapeutic option for melasma management: meta-analysis and systematic review of randomized controlled trials.",
@@ -26876,7 +26973,7 @@
     "take": "keep"
   },
   {
-    "id": 485,
+    "id": 487,
     "pmid": "38880494",
     "source": "PubMed",
     "article": "A multicenter, double-blind, randomized, parallel-group, active-controlled, phase 3 clinical trial to compare the effectiveness and safety of two botulinum toxin type A formulations for improving moderate to severe glabellar wrinkles in Asians.",
@@ -26929,7 +27026,7 @@
     "take": "keep"
   },
   {
-    "id": 486,
+    "id": 488,
     "pmid": "38964993",
     "source": "PubMed",
     "article": "Superficial musculoaponeurotic system interpositional graft after temporomandibular joint discectomy.",
@@ -26973,7 +27070,7 @@
     "take": "keep"
   },
   {
-    "id": 487,
+    "id": 489,
     "pmid": "38968085",
     "source": "PubMed",
     "article": "Prospective Clinical Trial Demonstrating the Efficacy of Hyaluronic Acid Filler for the Improvement of Atrophic Facial Scars up to 2 years.",
@@ -27018,7 +27115,7 @@
     "take": "keep"
   },
   {
-    "id": 488,
+    "id": 490,
     "pmid": "39004426",
     "source": "PubMed",
     "article": "A 52-week follow-up, multi-center, randomized, double-blinded comparison of efficacy and safety of two hyaluronic acid fillers for the treatment of moderate-to-severe nasolabial folds in Chinese population.",
@@ -27070,7 +27167,7 @@
     "take": "keep"
   },
   {
-    "id": 489,
+    "id": 491,
     "pmid": "39014233",
     "source": "PubMed",
     "article": "Jawline Sharp Contouring With Hybrid Filler.",
@@ -27114,7 +27211,7 @@
     "take": "skim"
   },
   {
-    "id": 490,
+    "id": 492,
     "pmid": "39175423",
     "source": "PubMed",
     "article": "Comparison of platelet-rich plasma efficacy with and without photoactivation in melasma: A randomized double-blind study.",
@@ -27158,7 +27255,7 @@
     "take": "keep"
   },
   {
-    "id": 491,
+    "id": 493,
     "pmid": "39235304",
     "source": "PubMed",
     "article": "Efficacy and Safety of Low-Fluence 730-nm Picosecond Laser in the Treatment of Melasma in Chinese Patients.",
@@ -27223,7 +27320,7 @@
     "take": "keep"
   },
   {
-    "id": 492,
+    "id": 494,
     "pmid": "39254985",
     "source": "PubMed",
     "article": "Do Botulinum Toxin Injections for Upper Face Rejuvenation and Lateral Canthal Rhytids Have Unintended Effects on Tear Production?",
@@ -27264,7 +27361,7 @@
     "take": "keep"
   },
   {
-    "id": 493,
+    "id": 495,
     "pmid": "39265567",
     "source": "PubMed",
     "article": "Postoperative risk assessment of post-inflammatory hyperpigmentation and the efficacy of delayed prevention following 532 nm Q-switched Nd:YAG laser treatment of solar lentigines: a randomized controlled study.",
@@ -27312,7 +27409,7 @@
     "take": "keep"
   },
   {
-    "id": 494,
+    "id": 496,
     "pmid": "39266009",
     "source": "PubMed",
     "article": "Biodegradable polymers and platelet-rich plasma causing visual impairment: a literature review.",
@@ -27360,7 +27457,7 @@
     "take": "keep"
   },
   {
-    "id": 495,
+    "id": 497,
     "pmid": "39282999",
     "source": "PubMed",
     "article": "Modulation of Melanocyte in Melasma Patients After Picosecond Laser Treatment.",
@@ -27425,7 +27522,7 @@
     "take": "keep"
   },
   {
-    "id": 496,
+    "id": 498,
     "pmid": "39311713",
     "source": "PubMed",
     "article": "Description, Implementation, and Efficacy of the Comprehensive Behavioral Intervention for Tics as First-Line Treatment for Tourette and Other Tic Disorders.",
@@ -27466,7 +27563,7 @@
     "take": "keep"
   },
   {
-    "id": 497,
+    "id": 499,
     "pmid": "39319782",
     "source": "PubMed",
     "article": "Combined Forehead and Temporal Lifting: An Innovative Approach to Lanluma V Treatment.",
@@ -27515,7 +27612,7 @@
     "take": "keep"
   },
   {
-    "id": 498,
+    "id": 500,
     "pmid": "39326871",
     "source": "PubMed",
     "article": "Noninvasive high-intensity focused ultrasound for skin brightening efficacy using a topical agent containing glutathione and hyaluronic acid.",
@@ -27568,7 +27665,7 @@
     "take": "keep"
   },
   {
-    "id": 499,
+    "id": 501,
     "pmid": "39356623",
     "source": "PubMed",
     "article": "Evaluation of the Performance and Safety of a New Micro-Needle Technology in Comparison With the Classic Needle on the Antiaging Effects of a Biorevitalizing Solution: A Randomized Split Face/Neck Study.",
@@ -27619,7 +27716,7 @@
     "take": "keep"
   },
   {
-    "id": 500,
+    "id": 502,
     "pmid": "39880517",
     "source": "PubMed",
     "article": "Evidence-Based Behavior Therapy for Tourette Syndrome.",
@@ -27679,7 +27776,7 @@
     "take": "keep"
   },
   {
-    "id": 501,
+    "id": 503,
     "pmid": "39385464",
     "source": "PubMed",
     "article": "Ultrasonographic study and anatomical guidelines for botulinum neurotoxin injection into the parotid gland.",
@@ -27725,7 +27822,7 @@
     "take": "keep"
   },
   {
-    "id": 502,
+    "id": 504,
     "pmid": "39410770",
     "source": "PubMed",
     "article": "Melasma Revisited: National Survey Reveals How Dermatologists Diagnose and Treat This Complex Skin Condition.",
@@ -27792,7 +27889,7 @@
     "take": "keep"
   },
   {
-    "id": 503,
+    "id": 505,
     "pmid": "39414648",
     "source": "PubMed",
     "article": "Efficacy of Microneedle as an Assisted Therapy for Melasma: A Meta-analysis and Systematic Review of Randomized Controlled Trials.",
@@ -27871,7 +27968,7 @@
     "take": "keep"
   },
   {
-    "id": 504,
+    "id": 506,
     "pmid": "39453400",
     "source": "PubMed",
     "article": "Midface Projection Using Biostimulatory Poly- l -Lactic Acid Injectable Implant: A Subgroup Analysis of the Cheek Wrinkle Trial.",
@@ -27917,7 +28014,7 @@
     "take": "keep"
   },
   {
-    "id": 505,
+    "id": 507,
     "pmid": "39462248",
     "source": "PubMed",
     "article": "Efficacy of Subdermal Poly-d,l-Lactic Acid Injections for the Treatment of Melasma.",
@@ -27975,7 +28072,7 @@
     "take": "keep"
   },
   {
-    "id": 506,
+    "id": 508,
     "pmid": "39502010",
     "source": "PubMed",
     "article": "Clinical Outcomes and Safety Profile of a Dextranomer-Hyaluronic Acid Hybrid Filler: A Case Series Analysis.",
@@ -28020,7 +28117,7 @@
     "take": "keep"
   },
   {
-    "id": 507,
+    "id": 509,
     "pmid": "39568818",
     "source": "PubMed",
     "article": "Efficacy of acupuncture for lumbar disc herniation: changes in paravertebral muscle and fat infiltration - a multicenter retrospective cohort study.",
@@ -28070,7 +28167,7 @@
     "take": "keep"
   },
   {
-    "id": 508,
+    "id": 510,
     "pmid": "39511023",
     "source": "PubMed",
     "article": "Efficacy and Safety of Hyaluronic Acid Combined with Botulinum Toxin Type A in the Treatment of Midcheek Groove: A Prospective Study.",
@@ -28116,7 +28213,7 @@
     "take": "keep"
   },
   {
-    "id": 509,
+    "id": 511,
     "pmid": "39537947",
     "source": "PubMed",
     "article": "Combined micro-needling with topical metformin versus micro-needling with topical placebo in the treatment of melasma: a concurrent split-face study.",
@@ -28162,7 +28259,7 @@
     "take": "keep"
   },
   {
-    "id": 510,
+    "id": 512,
     "pmid": "39542028",
     "source": "PubMed",
     "article": "A clinical study on the efficacy of high frequency therapy on nasolabial and periorbital wrinkles.",
@@ -28212,7 +28309,7 @@
     "take": "keep"
   },
   {
-    "id": 511,
+    "id": 513,
     "pmid": "39546019",
     "source": "PubMed",
     "article": "[Conservative therapy for lumbar disc herniation].",
@@ -28260,7 +28357,7 @@
     "take": "keep"
   },
   {
-    "id": 512,
+    "id": 514,
     "pmid": "39555866",
     "source": "PubMed",
     "article": "The Efficacy of Topical Cosmetic Containing Alpha-Arbutin 5% and Kojic Acid 2% Compared With Triple Combination Cream for the Treatment of Melasma: A Split-Face, Evaluator-Blinded Randomized Pilot Study.",
@@ -28326,7 +28423,7 @@
     "take": "keep"
   },
   {
-    "id": 513,
+    "id": 515,
     "pmid": "38848545",
     "source": "PubMed",
     "article": "Assessing the efficacy of oral tranexamic acid as an adjuvant to triple combination topical treatment in melasma: a meta-analysis of randomized controlled trials.",
@@ -28377,7 +28474,7 @@
     "take": "keep"
   },
   {
-    "id": 514,
+    "id": 516,
     "pmid": "39574359",
     "source": "PubMed",
     "article": "Intradermal Injection of Tranexamic Acid for the Treatment of Adult Melasma: A Systematic Review and Meta-Analysis of Randomized Controlled Trials.",
@@ -28438,7 +28535,7 @@
     "take": "keep"
   },
   {
-    "id": 515,
+    "id": 517,
     "pmid": "39574411",
     "source": "PubMed",
     "article": "Efficacy and Safety of Combination Therapy of Microneedling Radiofrequency, In-Office and Home-Based Topical Cysteamine in Refractory Melasma: A Split Face, Vehicle-Control, Randomized Control Trial.",
@@ -28510,7 +28607,7 @@
     "take": "keep"
   },
   {
-    "id": 516,
+    "id": 518,
     "pmid": "39717292",
     "source": "PubMed",
     "article": "Pseudo-Sciatica Pain Due to a Biceps Femoris Muscle Tear.",
@@ -28557,7 +28654,7 @@
     "take": "keep"
   },
   {
-    "id": 517,
+    "id": 519,
     "pmid": "39604339",
     "source": "PubMed",
     "article": "[Manipulation treatment of lumbar disc herniation based on the model of muscles and bones assessment].",
@@ -28610,7 +28707,7 @@
     "take": "keep"
   },
   {
-    "id": 518,
+    "id": 520,
     "pmid": "39591976",
     "source": "PubMed",
     "article": "Structural Aesthetic Treatment With the Hyaluronic Acid Filler VYC-25L: Global Expert Considerations for Safe and Effective Long-Term Outcomes.",
@@ -28689,7 +28786,59 @@
     "take": "keep"
   },
   {
-    "id": 519,
+    "id": 521,
+    "pmid": "39600078",
+    "source": "PubMed",
+    "article": "Therapeutic Effectiveness of Microneedling Radio Frequency in Different Areas of Periorbital Static Wrinkles: A Self-Controlled Study.",
+    "authors": [
+      "Lin Feiyan",
+      "Song Jinru",
+      "Hua Ying",
+      "Pan Liangli",
+      "Guo Yao",
+      "Hu Gang",
+      "Yang Bin"
+    ],
+    "date": "2024-11-26",
+    "journal": "Journal of cosmetic dermatology",
+    "doi": "10.1111/jocd.16645",
+    "topic": "Космеология",
+    "topic_key": "cosmo",
+    "topic_keys": [
+      "cosmo"
+    ],
+    "topics": [
+      "Космеология"
+    ],
+    "abstract_en": "BACKGROUND: Periocular static wrinkles, which are common cosmetic concerns, lack an established effective treatment. Microneedling radio frequency (MNRF) has shown promise in skin rejuvenation; however, there is limited objective information on its long-term effectiveness with regard to periocular static wrinkles.\n\nAIMS: This study aimed to evaluate the clinical efficacy and safety of MNRF treatment for periocular static wrinkles.\n\nMETHOD: Eighteen participants with moderate to severe wrinkles were enrolled in this study. MNRF treatment was applied to the periocular skin using MicroRF9 microneedles, which have a depth of 0.5-1.5 mm and a pulse width of 200-300 ms. MNRF treatment was administered twice with a 1-month interval, and the participants were followed up for 6 months. The evaluation included four areas, namely the outer canthi, lower eyelid, inner canthi, and upper eyelid, by using clinical assessments and Antera 3D measurements by digitalized images and grading by clinicians.\n\nRESULTS: The results showed significant improvement in all four areas assessed. Participants expressed high satisfaction with the treatment, and any adverse events, such as mild pain and redness, were temporary and resolved within a week.\n\nCONCLUSION: These findings confirm that MNRF is a safe and effective method for reducing periocular static wrinkles.",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/39600078/",
+    "pmc_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11743244/",
+    "html_available": true,
+    "html_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11743244/",
+    "title_ru": "Статичные морщины вокруг глаз: MNRF 0,5–1,5 мм, 2 сессии через месяц",
+    "patient_plain": "",
+    "patient_use": "Статичные «гусиные лапки» и морщины век в исследовании лечили RF-иглами два раза с паузой месяц (глубина полмиллиметра–полтора). Эффект держали до полугода наблюдения; краснота обычно сходит за неделю.",
+    "practical_use": "Дробите periocular на 4 зоны — ответ может отличаться. Параметры старта: 0,5–1,5 мм, 200–300 мс, 2× q1mo.",
+    "summary": "Self-controlled, n=18, moderate–severe periocular static wrinkles: MicroRF9, глубина 0,5–1,5 мм, pulse width 200–300 мс; 2 сессии с интервалом 1 мес, follow-up 6 мес. Оценивали наружный/внутренний угол, верхнее и нижнее веко (клиника + Antera 3D).\n\nУлучшение во всех 4 зонах; удовлетворённость высокая. НЯ: лёгкая боль и краснота, уходили за ≤1 нед. Малая n, без контрольной половины лица.",
+    "_reason": "Чёткие глубина/пульс/интервал для periocular MNRF.",
+    "why_read": "Микронидлинг с RF именно вокруг глаз.",
+    "limitations": [
+      "n=18 self-controlled",
+      "no untreated split-face control"
+    ],
+    "advice_items": [
+      {
+        "quote": "depth of 0.5-1.5 mm and a pulse width of 200-300 ms ... twice with a 1-month interval",
+        "advice": "Periocular MNRF: 0,5–1,5 мм, 200–300 мс, две сессии через месяц.",
+        "audience": "врач"
+      }
+    ],
+    "importance_stars": 4,
+    "importance_mark": "★★★★☆",
+    "take": "keep"
+  },
+  {
+    "id": 522,
     "pmid": "39629140",
     "source": "PubMed",
     "article": "Cervical Rotation-Traction Manipulation for Cervical Radiculopathy: A Systematic Review and Meta-Analysis of Randomized Control Trials.",
@@ -28739,7 +28888,7 @@
     "take": "keep"
   },
   {
-    "id": 520,
+    "id": 523,
     "pmid": "39768842",
     "source": "PubMed",
     "article": "Increase in Strength After Multimodal Pain Management Concept in Patients with Cervical Radiculopathy-A Non-Randomized, Uncontrolled Clinical Trial.",
@@ -28785,7 +28934,7 @@
     "take": "keep"
   },
   {
-    "id": 521,
+    "id": 524,
     "pmid": "39614963",
     "source": "PubMed",
     "article": "The Skin-Lightening Power of Tirbanibulin 1% Ointment.",
@@ -28841,7 +28990,7 @@
     "take": "keep"
   },
   {
-    "id": 522,
+    "id": 525,
     "pmid": "39623611",
     "source": "PubMed",
     "article": "Efficacy and Safety of Needle-Free Microjet Injection Versus Needle Injection of Botulinum Toxin for the Treatment of Crow's Feet: A Randomized Split-Face Pilot Study.",
@@ -28886,7 +29035,7 @@
     "take": "keep"
   },
   {
-    "id": 523,
+    "id": 526,
     "pmid": "39974433",
     "source": "PubMed",
     "article": "How Effective is Ozone Therapy in Treatment of Lumbar Disc Disease: a Systematic Review of Prospective Studies.",
@@ -28936,7 +29085,7 @@
     "take": "keep"
   },
   {
-    "id": 524,
+    "id": 527,
     "pmid": "39623228",
     "source": "PubMed",
     "article": "Meta-Analysis of Adverse Reactions of Botulinum Toxin A in Facial Rejuvenation Treatment.",
@@ -28979,7 +29128,7 @@
     "take": "keep"
   },
   {
-    "id": 525,
+    "id": 528,
     "pmid": "39687406",
     "source": "PubMed",
     "article": "Effects of suspension exercise training in the treatment of lumbar disk herniation: a systematic review and meta-analysis.",
@@ -29027,7 +29176,7 @@
     "take": "keep"
   },
   {
-    "id": 526,
+    "id": 529,
     "pmid": "39650818",
     "source": "PubMed",
     "article": "Neuralgic amyotrophy with hourglass-like constrictions: A case report.",
@@ -29074,7 +29223,7 @@
     "take": "keep"
   },
   {
-    "id": 527,
+    "id": 530,
     "pmid": "39650819",
     "source": "PubMed",
     "article": "Traumatic isolated bilateral gluteus minimus injuries misdiagnosed as lumbar radiculopathy: A case report.",
@@ -29119,7 +29268,7 @@
     "take": "keep"
   },
   {
-    "id": 528,
+    "id": 531,
     "pmid": "39685940",
     "source": "PubMed",
     "article": "Clinical Efficacy of Cysteamine Application for Melasma: A Meta-Analysis.",
@@ -29167,7 +29316,7 @@
     "take": "keep"
   },
   {
-    "id": 529,
+    "id": 532,
     "pmid": "39781128",
     "source": "PubMed",
     "article": "Skin Rejuvenation Using Autologous Cultured Fibroblast Grafting.",
@@ -29214,7 +29363,7 @@
     "take": "keep"
   },
   {
-    "id": 530,
+    "id": 533,
     "pmid": "40084152",
     "source": "PubMed",
     "article": "Panfacial Approach to Rejuvenation Using Calcium Hydroxylapatite: A Case Series Illustrating Calcium Hydroxylapatite Versatility Through Dilution and a Multilayered Treatment Approach.",
@@ -29265,7 +29414,7 @@
     "take": "skim"
   },
   {
-    "id": 531,
+    "id": 534,
     "pmid": "39116358",
     "source": "PubMed",
     "article": "Anatomical Trajectory of the Corrugator Supercilii Muscle in Koreans: Implications for Aesthetic and Clinical Practices.",
@@ -29311,7 +29460,7 @@
     "take": "keep"
   },
   {
-    "id": 532,
+    "id": 535,
     "pmid": "39141784",
     "source": "PubMed",
     "article": "Hyaluronic Acid Filler VYC-25L for Jawline Restoration Yields High Satisfaction, Improved Jawline Measurements, and Sustained Effectiveness Across Skin Types, Age, and Gender for up to 12 Months.",
@@ -29360,7 +29509,7 @@
     "take": "keep"
   },
   {
-    "id": 533,
+    "id": 536,
     "pmid": "39663956",
     "source": "PubMed",
     "article": "Exploring the Safety and Satisfaction of Patients Injected With Collagen Biostimulators-A Prospective Investigation Into Injectable Poly-l-Lactic Acid (PLLA).",
@@ -29407,7 +29556,7 @@
     "take": "keep"
   },
   {
-    "id": 534,
+    "id": 537,
     "pmid": "40007596",
     "source": "PubMed",
     "article": "Multilayer Technique Using Calcium Hydroxylapatite Biostimulation With Different Dilutions in the Lateral Face.",
@@ -29456,7 +29605,7 @@
     "take": "keep"
   },
   {
-    "id": 535,
+    "id": 538,
     "pmid": "39672948",
     "source": "PubMed",
     "article": "Treatment of the Temples: Brazilian Consensus.",
@@ -29508,7 +29657,7 @@
     "take": "keep"
   },
   {
-    "id": 536,
+    "id": 539,
     "pmid": "39673630",
     "source": "PubMed",
     "article": "Efficacy and safety of cysteamine 5% cream for the management of melasma: a systematic review and meta-analysis of randomized controlled trials.",
@@ -29552,7 +29701,7 @@
     "take": "keep"
   },
   {
-    "id": 537,
+    "id": 540,
     "pmid": "39769217",
     "source": "PubMed",
     "article": "Treatment with Ascorbyl Glucoside-Arginine Complex Ameliorates Solar Lentigos.",
@@ -29599,7 +29748,7 @@
     "take": "keep"
   },
   {
-    "id": 538,
+    "id": 541,
     "pmid": "39830556",
     "source": "PubMed",
     "article": "Ultrasound-Guided Erector Spinae Plane Block in the Emergency Department: A Treatment for Intractable Sciatica.",
@@ -29644,7 +29793,7 @@
     "take": "keep"
   },
   {
-    "id": 539,
+    "id": 542,
     "pmid": "40260717",
     "source": "PubMed",
     "article": "A Systematic Review and Meta-Analysis of the Effectiveness of Mulligan Mobilization with Movement on Pain, Range of Motion, Function, and Flexibility in Patients with Sciatica.",
@@ -29687,7 +29836,7 @@
     "take": "keep"
   },
   {
-    "id": 540,
+    "id": 543,
     "pmid": "39699049",
     "source": "PubMed",
     "article": "Preliminary Evaluation of Improvements in Melasma and Photoaging With Laser-Driven Microjet Injection of Poly- d , l -Lactic Acid.",
@@ -29750,7 +29899,7 @@
     "take": "keep"
   },
   {
-    "id": 541,
+    "id": 544,
     "pmid": "39748925",
     "source": "PubMed",
     "article": "High-frequency laser therapy: a new alternative to physiotherapy in the treatment of cervical disk hernia.",
@@ -29796,7 +29945,7 @@
     "take": "keep"
   },
   {
-    "id": 542,
+    "id": 545,
     "pmid": "39704133",
     "source": "PubMed",
     "article": "Long-Term Performance and Safety of a Superficial HA Filler With Tri-Hyal Technology on Different Facial Zones: Forehead, Cheeks, Crow's Feet, and Upper Lips.",
@@ -29848,7 +29997,7 @@
     "take": "keep"
   },
   {
-    "id": 543,
+    "id": 546,
     "pmid": "39723342",
     "source": "PubMed",
     "article": "Combination Treatment with Cryolipolysis and Hyaluronic Acid Fillers for Jawline Enhancement.",
@@ -29894,7 +30043,7 @@
     "take": "keep"
   },
   {
-    "id": 544,
+    "id": 547,
     "pmid": "39859007",
     "source": "PubMed",
     "article": "Safety and Potential Complications of Facial Wrinkle Correction with Dermal Fillers: A Systematic Literature Review.",
@@ -29942,7 +30091,7 @@
     "take": "keep"
   },
   {
-    "id": 545,
+    "id": 548,
     "pmid": "39732703",
     "source": "PubMed",
     "article": "Phase 1 study of AYP-101 (soybean phosphatidylcholine): safety, pharmacokinetics, and lipid profile effects for reducing submental fat.",
@@ -29989,7 +30138,7 @@
     "take": "keep"
   },
   {
-    "id": 546,
+    "id": 549,
     "pmid": "39673229",
     "source": "PubMed",
     "article": "Gain of Protection Afforded by the Methoxypropylamino Cyclohexenylidene Ethoxyethylcyanoacetate (MCE) UVA1 Filter on Pigmentary and Aging Signs: An Outdoor 4-Week Randomized, Intra-Individual Comparative Study in 52 Brazilian Women.",
@@ -30043,7 +30192,7 @@
     "take": "keep"
   },
   {
-    "id": 547,
+    "id": 550,
     "pmid": "39731267",
     "source": "PubMed",
     "article": "Review of Applications of Microneedling in Melasma.",
@@ -30103,7 +30252,7 @@
     "take": "keep"
   },
   {
-    "id": 548,
+    "id": 551,
     "pmid": "39731284",
     "source": "PubMed",
     "article": "Preparation and Evaluation of the Effectiveness of an Anti-Wrinkle Cream Containing Equisetum arvense and Soybean Extracts.",
@@ -30148,7 +30297,7 @@
     "take": "skim"
   },
   {
-    "id": 549,
+    "id": 552,
     "pmid": "39844659",
     "source": "PubMed",
     "article": "Facial Skin Quality Improvement After Treatment With CPM-HA20G: Clinical Experience in Korea.",
@@ -30199,7 +30348,7 @@
     "take": "keep"
   },
   {
-    "id": 550,
+    "id": 553,
     "pmid": "39868505",
     "source": "PubMed",
     "article": "Personalized Photoprotection: Expert Consensus and Recommendations From a Delphi Study Among Dermatologists.",
@@ -30252,7 +30401,7 @@
     "take": "keep"
   },
   {
-    "id": 551,
+    "id": 554,
     "pmid": "40453387",
     "source": "PubMed",
     "article": "Evaluation of the Efficiency of Microneedling with PRP Versus Microneedling with Tranexamic Acid in the Treatment of Melisma.",
@@ -30317,7 +30466,7 @@
     "take": "keep"
   },
   {
-    "id": 552,
+    "id": 555,
     "pmid": "40990914",
     "source": "PubMed",
     "article": "[Results of manual therapy in degenerative spine diseases with and without radiculopathy. (Literature review)].",
@@ -30363,7 +30512,7 @@
     "take": "keep"
   },
   {
-    "id": 553,
+    "id": 556,
     "pmid": "41172315",
     "source": "PubMed",
     "article": "[Experience of using teledermatology for elderly patients: a study in the Republic of Bashkortostan.].",
@@ -30425,7 +30574,7 @@
     "take": "keep"
   },
   {
-    "id": 554,
+    "id": 557,
     "pmid": "39830381",
     "source": "PubMed",
     "article": "Comparative clinical efficacy of acupuncture combined with manipulation and other non-pharmacological interventions in the treatment of lumbar disc herniation: a prospective, multi-arm, randomized, open-label, blinded endpoint trial.",
@@ -30475,7 +30624,7 @@
     "take": "keep"
   },
   {
-    "id": 555,
+    "id": 558,
     "pmid": "39788601",
     "source": "PubMed",
     "article": "In vivo efficacy of a stabilized Vitamin C-based serum at pH 6 on some ageing facial signs of women of different ages and phototypes.",
@@ -30521,7 +30670,7 @@
     "take": "keep"
   },
   {
-    "id": 556,
+    "id": 559,
     "pmid": "39974502",
     "source": "PubMed",
     "article": "Canada HARMONY Study: Improvements in Patient Satisfaction With Facial Appearance and Psychological Impact of Combined Aesthetic Treatment.",
@@ -30572,7 +30721,7 @@
     "take": "keep"
   },
   {
-    "id": 557,
+    "id": 560,
     "pmid": "39852991",
     "source": "PubMed",
     "article": "A Study of Combined Onabotulinumtoxin A and Hyaluronic Acid Filler for the Treatment of Enlarged Facial Pores.",
@@ -30618,7 +30767,7 @@
     "take": "keep"
   },
   {
-    "id": 558,
+    "id": 561,
     "pmid": "40236885",
     "source": "PubMed",
     "article": "Split-Face Comparison of Two Hyaluronic Acid Fillers: Intersection of Rheology and Tissue Behavior in Midface Rejuvenation.",
@@ -30662,7 +30811,7 @@
     "take": "keep"
   },
   {
-    "id": 559,
+    "id": 562,
     "pmid": "39838700",
     "source": "PubMed",
     "article": "Anti-skin aging effects of Gosori liquor lees extract by regulating interactions between senescent fibroblasts and adipose-derived stem cells.",
@@ -30711,7 +30860,7 @@
     "take": "skim"
   },
   {
-    "id": 560,
+    "id": 563,
     "pmid": "39843829",
     "source": "PubMed",
     "article": "Comparative efficacy and safety of the novel Picosecond Alexandrite Laser and the traditional combined Q-switched and long-pulse Nd: YAG lasers in melasma treatment: a randomized evaluator-blinded trial.",
@@ -30780,7 +30929,7 @@
     "take": "keep"
   },
   {
-    "id": 561,
+    "id": 564,
     "pmid": "39854075",
     "source": "PubMed",
     "article": "Non-Ablative Fractional 1940-nm Diode Laser for Skin Resurfacing and Treatment of Benign Pigmented Lesions.",
@@ -30841,7 +30990,7 @@
     "take": "keep"
   },
   {
-    "id": 562,
+    "id": 565,
     "pmid": "39991391",
     "source": "PubMed",
     "article": "Management of Lumbar Disc Herniation With Nerve Compression in a 21-Year-Old Male: A Case Report Exploring Multifactorial Causes of Disc Herniation.",
@@ -30898,7 +31047,7 @@
     "take": "skim"
   },
   {
-    "id": 563,
+    "id": 566,
     "pmid": "39873676",
     "source": "PubMed",
     "article": "Comparison of different treatment positions of nerve slider technique for patients with low back pain: a randomized control trial.",
@@ -30939,7 +31088,7 @@
     "take": "keep"
   },
   {
-    "id": 564,
+    "id": 567,
     "pmid": "39918262",
     "source": "PubMed",
     "article": "Effectiveness and Safety of Combined Use of Home-Based Radiofrequency Device and Arbutin Cream in Melasma and Facial Rejuvenation.",
@@ -31006,7 +31155,7 @@
     "take": "keep"
   },
   {
-    "id": 565,
+    "id": 568,
     "pmid": "39927593",
     "source": "PubMed",
     "article": "Low-Fluence Q-Switch 1064 Nm Laser Combined With Oral Tranexamic Acid: A Quicker Treatment for Laser-Induced Postinflammatory Hyperpigmentation.",
@@ -31071,7 +31220,7 @@
     "take": "keep"
   },
   {
-    "id": 566,
+    "id": 569,
     "pmid": "39943675",
     "source": "PubMed",
     "article": "Efficacy and Safety of a Topical Formulation Containing Trihydroxybenzoic Acid Glucoside and α-Arbutin, Applied Along With a Sunscreen: A Noncomparative, Prospective, Interventional Study in Indian Females With Facial Melasma or Dark Spots.",
@@ -31139,7 +31288,7 @@
     "take": "keep"
   },
   {
-    "id": 567,
+    "id": 570,
     "pmid": "39973106",
     "source": "PubMed",
     "article": "Do Different High-Intensity-Focused Ultrasound Frequencies Have Different Effects? A Histological Analysis Correlated With Patients' Subjective Assessments.",
@@ -31181,7 +31330,7 @@
     "take": "keep"
   },
   {
-    "id": 568,
+    "id": 571,
     "pmid": "40078863",
     "source": "PubMed",
     "article": "Successful Treatment of Recalcitrant Melasma with Picolaser and Isobionicamide-Cysteamine Combination.",
@@ -31243,7 +31392,7 @@
     "take": "keep"
   },
   {
-    "id": 569,
+    "id": 572,
     "pmid": "39895335",
     "source": "PubMed",
     "article": "A 675 nm Laser in the Treatment of Facial Melasma in Dark Skin Types.",
@@ -31308,7 +31457,7 @@
     "take": "keep"
   },
   {
-    "id": 570,
+    "id": 573,
     "pmid": "40028437",
     "source": "PubMed",
     "article": "Treatment of Melasma With Q-Switched Laser in Combination With Tranexamic Acid.",
@@ -31361,7 +31510,7 @@
     "take": "keep"
   },
   {
-    "id": 571,
+    "id": 574,
     "pmid": "39921709",
     "source": "PubMed",
     "article": "Efficacy of formulations for treating hyperpigmentation: a systematic review and meta-analysis.",
@@ -31419,7 +31568,7 @@
     "take": "keep"
   },
   {
-    "id": 572,
+    "id": 575,
     "pmid": "39951164",
     "source": "PubMed",
     "article": "Assessment of clinical efficacy in melasma treatment with picosecond laser combined with Shumin Star.",
@@ -31478,7 +31627,7 @@
     "take": "keep"
   },
   {
-    "id": 573,
+    "id": 576,
     "pmid": "39511699",
     "source": "PubMed",
     "article": "Microfocused Ultrasound With Visualization (MFU-V) and Hyperdilute Calcium Hydroxylapatite (CaHA-CMC) of the Lower Face and Submentum to Treat Skin Laxity: A Pilot Study Demonstrating Superiority of MFU-V First Followed by Hyperdilute CaHA-CMC.",
@@ -31521,7 +31670,7 @@
     "take": "keep"
   },
   {
-    "id": 574,
+    "id": 577,
     "pmid": "39964077",
     "source": "PubMed",
     "article": "A Randomized Controlled Trial Evaluating Traditional Versus Extended Techniques of Poly- l -Lactic Acid Injection for the Aesthetic Improvement of the Temporal Fossae.",
@@ -31565,7 +31714,7 @@
     "take": "keep"
   },
   {
-    "id": 575,
+    "id": 578,
     "pmid": "40224536",
     "source": "PubMed",
     "article": "Feasibility of calcium hydroxyapatite (Radiesse®) for improving the biomechanical properties of facial burn scars: A pilot study.",
@@ -31612,7 +31761,7 @@
     "take": "skim"
   },
   {
-    "id": 576,
+    "id": 579,
     "pmid": "40095547",
     "source": "PubMed",
     "article": "Influence of Lactobionic Acid on Hydration and Elasticity Parameters in Women Aged 30-40 and 50-60 Years in Comparison to Mandelic Acid.",
@@ -31654,7 +31803,7 @@
     "take": "keep"
   },
   {
-    "id": 577,
+    "id": 580,
     "pmid": "40125051",
     "source": "PubMed",
     "article": "Efficacy and Safety of Cysteamine in Melasma in Patients of Skin of Colour: A Brief Report.",
@@ -31723,7 +31872,7 @@
     "take": "keep"
   },
   {
-    "id": 578,
+    "id": 581,
     "pmid": "40162353",
     "source": "PubMed",
     "article": "Comparison of the Efficacy of Intradermal Tranexamic Acid and Topical Triple Combination Modification in Decreasing the Severity Score of Melasma: A Meta-analysis.",
@@ -31787,7 +31936,7 @@
     "take": "keep"
   },
   {
-    "id": 579,
+    "id": 582,
     "pmid": "40062688",
     "source": "PubMed",
     "article": "Evaluation of the Efficacy of a Serum Containing Niacinamide, Tranexamic Acid, Vitamin C, and Hydroxy Acid Compared to 4% Hydroquinone in the Management of Melasma.",
@@ -31855,7 +32004,7 @@
     "take": "keep"
   },
   {
-    "id": 580,
+    "id": 583,
     "pmid": "40084635",
     "source": "PubMed",
     "article": "The Addition of Low-Dose Lidocaine and Triamcinolone Reduces the Adverse Effects of 2-Deoxycholate Injection Without Affecting the Long-Term Results.",
@@ -31906,7 +32055,7 @@
     "take": "keep"
   },
   {
-    "id": 581,
+    "id": 584,
     "pmid": "40127492",
     "source": "PubMed",
     "article": "Efficacy of overnight leave-on sandwich therapy with 5% cysteamine and ectoine cream compared to hydroquinone 4% cream for treatment of melasma: a double-blind randomized controlled trial.",
@@ -31968,7 +32117,7 @@
     "take": "keep"
   },
   {
-    "id": 582,
+    "id": 585,
     "pmid": "40143467",
     "source": "PubMed",
     "article": "Effects of physical therapy on improving disc height index, postural stability, pain and function in persons with discogenic low back pain.",
@@ -32014,7 +32163,7 @@
     "take": "skim"
   },
   {
-    "id": 583,
+    "id": 586,
     "pmid": "40225974",
     "source": "PubMed",
     "article": "Value of Q-switched 755-nm alexandrite laser combined with topical tranexamic acid in the treatment of melasma.",
@@ -32077,7 +32226,7 @@
     "take": "keep"
   },
   {
-    "id": 584,
+    "id": 587,
     "pmid": "39587780",
     "source": "PubMed",
     "article": "NivobotulinumtoxinA in the Treatment of Glabellar Lines With or Without Concurrent Treatment of Lateral Canthal Lines in Two Phase 3 Clinical Trials.",
@@ -32125,7 +32274,7 @@
     "take": "keep"
   },
   {
-    "id": 585,
+    "id": 588,
     "pmid": "40096583",
     "source": "PubMed",
     "article": "Hybrid Fillers Personal Experience of Premixing Calcium Hydroxylapatite and Hyaluronic Acid for Natural Face Reshaping.",
@@ -32172,7 +32321,7 @@
     "take": "skim"
   },
   {
-    "id": 586,
+    "id": 589,
     "pmid": "40278658",
     "source": "PubMed",
     "article": "Efficacy and Safety of a Newly Developed Botulinum Toxin A (MBA-P01) in Patients with Moderate-to-Severe Glabellar Lines: A Randomized, Double-Blind, Active-Controlled, Multi-Center, Phase III Study with a Subgroup Analysis on Patients with COVID-19.",
@@ -32217,7 +32366,7 @@
     "take": "keep"
   },
   {
-    "id": 587,
+    "id": 590,
     "pmid": "40128486",
     "source": "PubMed",
     "article": "The effect of exercise in the treatment of lumbar disc herniation: a systematic review.",
@@ -32258,7 +32407,7 @@
     "take": "keep"
   },
   {
-    "id": 588,
+    "id": 591,
     "pmid": "40256059",
     "source": "PubMed",
     "article": "Efficacy, safety, and cost-effectiveness of glycolic acid vs. azelaic acid in melasma.",
@@ -32322,7 +32471,7 @@
     "take": "keep"
   },
   {
-    "id": 589,
+    "id": 592,
     "pmid": "40135789",
     "source": "PubMed",
     "article": "A Dynamic, High-Stretch Resilient Hyaluronic Acid Filler Improves Fine Lines of the Cheek and Patient-Reported Outcomes.",
@@ -32364,7 +32513,7 @@
     "take": "skim"
   },
   {
-    "id": 590,
+    "id": 593,
     "pmid": "40217752",
     "source": "PubMed",
     "article": "Mesotherapy with HA and Choline Against Facial Skin Aging: An Open-Label Uncontrolled, Monocentric Study.",
@@ -32408,7 +32557,7 @@
     "take": "skim"
   },
   {
-    "id": 591,
+    "id": 594,
     "pmid": "40224631",
     "source": "PubMed",
     "article": "Clinical efficacy of exercise therapy for lumbar disc herniation: a systematic review and meta-analysis of randomized controlled trials.",
@@ -32456,7 +32605,7 @@
     "take": "keep"
   },
   {
-    "id": 592,
+    "id": 595,
     "pmid": "40296942",
     "source": "PubMed",
     "article": "Comparison of the Effectiveness and Safety of 5% Cysteamine and 2% Kojic Acid Creams in the Treatment of Melasma in Indian Adult Females.",
@@ -32524,7 +32673,7 @@
     "take": "keep"
   },
   {
-    "id": 593,
+    "id": 596,
     "pmid": "38934336",
     "source": "PubMed",
     "article": "Therapeutic efficiency and safety assessment of intradermal platelet-rich plasma combined with oral tranexamic acid in patients with facial melasma.",
@@ -32590,7 +32739,7 @@
     "take": "keep"
   },
   {
-    "id": 594,
+    "id": 597,
     "pmid": "40135653",
     "source": "PubMed",
     "article": "Clinical Efficacy of CGF Combined With Periodic Supramolecular Salicylic Acid in the Treatment of Chloasma.",
@@ -32650,7 +32799,7 @@
     "take": "keep"
   },
   {
-    "id": 595,
+    "id": 598,
     "pmid": "40145274",
     "source": "PubMed",
     "article": "Treatment of Solar Lentigines: A Systematic Review of Clinical Trials.",
@@ -32712,7 +32861,7 @@
     "take": "keep"
   },
   {
-    "id": 596,
+    "id": 599,
     "pmid": "40167772",
     "source": "PubMed",
     "article": "Comparison of The efficacy and safety of fractional erbium: YAG laser in combination with Tranexamic acid delivery by different methods versus Tranexamic acid alone: A systematic review and meta-analysis.",
@@ -32779,7 +32928,7 @@
     "take": "keep"
   },
   {
-    "id": 597,
+    "id": 600,
     "pmid": "40200860",
     "source": "PubMed",
     "article": "Safety and Efficacy of a \"High and Low Molecular Weight Hyaluronic Acid Hybrid Complex\" Injection for Face Rejuvenation.",
@@ -32824,7 +32973,7 @@
     "take": "keep"
   },
   {
-    "id": 598,
+    "id": 601,
     "pmid": "40277079",
     "source": "PubMed",
     "article": "Effective Skin Rejuvenation by a Novel Antioxidant Biostimulating Treatment.",
@@ -32868,7 +33017,7 @@
     "take": "keep"
   },
   {
-    "id": 599,
+    "id": 602,
     "pmid": "40280771",
     "source": "PubMed",
     "article": "A Multi-Center Clinical Trial to Evaluate the Efficacy of the Next Generation TriHex Technology Antiaging Regimen.",
@@ -32920,7 +33069,7 @@
     "take": "keep"
   },
   {
-    "id": 600,
+    "id": 603,
     "pmid": "40255362",
     "source": "PubMed",
     "article": "Manual Therapy for Cervical Radiculopathy: Effects on Neck Disability and Pain - A Systematic Review and Network Meta-Analysis.",
@@ -32963,7 +33112,7 @@
     "take": "keep"
   },
   {
-    "id": 601,
+    "id": 604,
     "pmid": "40263972",
     "source": "PubMed",
     "article": "Photoaging and Cosmetic Result with Artificial Daylight Photo-dynamic Therapy Using Methyl Aminolevulinate.",
@@ -33041,7 +33190,7 @@
     "take": "keep"
   },
   {
-    "id": 602,
+    "id": 605,
     "pmid": "40430846",
     "source": "PubMed",
     "article": "Facial Skin Density Enhancement Using Hyaluronic Acid-Based Bioactive Hydrogel: Cannula-Assisted Delivery and Ultrasound Evaluation in a Retrospective Controlled Study.",
@@ -33084,7 +33233,7 @@
     "take": "keep"
   },
   {
-    "id": 603,
+    "id": 606,
     "pmid": "40401118",
     "source": "PubMed",
     "article": "A Single-Center, Blinded, Placebo-Controlled Study Evaluating Cosmetic Efficacy and Safety of a Novel Topical GLPSGLT in Glucagon-Like Peptide-1 Analog-Treated Patients.",
@@ -33130,7 +33279,7 @@
     "take": "skim"
   },
   {
-    "id": 604,
+    "id": 607,
     "pmid": "40483122",
     "source": "PubMed",
     "article": "The effect of neck mobilization Vs. combined neck and lumbar mobilization on pain and range of motion in people with cervical disc herniation: A randomized controlled study.",
@@ -33174,7 +33323,7 @@
     "take": "keep"
   },
   {
-    "id": 605,
+    "id": 608,
     "pmid": "40297763",
     "source": "PubMed",
     "article": "Hyaluronic Acid Filler Usage and Technique for the Facial Upper Third: A Comprehensive Review.",
@@ -33232,7 +33381,7 @@
     "take": "keep"
   },
   {
-    "id": 606,
+    "id": 609,
     "pmid": "40430149",
     "source": "PubMed",
     "article": "Myokinetic Stretching Exercise Versus Post-Isometric Relaxation Combined with Traction in Patients with Cervical Radiculopathy-A Randomized Clinical Trial.",
@@ -33278,7 +33427,7 @@
     "take": "keep"
   },
   {
-    "id": 607,
+    "id": 610,
     "pmid": "40296512",
     "source": "PubMed",
     "article": "Efficacy and Safety of Generic Fluocinolone Acetonide, Hydroquinone, and Tretinoin Cream Compared With TRI-LUMA for the Treatment of Moderate-To-Severe Melasma in Chinese Patients: A Randomized, Single-Center, Placebo-Controlled Trial.",
@@ -33349,7 +33498,7 @@
     "take": "keep"
   },
   {
-    "id": 608,
+    "id": 611,
     "pmid": "40304039",
     "source": "PubMed",
     "article": "Superficial Intradermal Injections of Cohesive Polydensified Matrix Hyaluronic Acid Fillers for the Improvement of Facial Pores and Skin Quality: A Split-Face Randomized Study.",
@@ -33395,7 +33544,7 @@
     "take": "keep"
   },
   {
-    "id": 609,
+    "id": 612,
     "pmid": "40344488",
     "source": "PubMed",
     "article": "Clinical Evaluation of an Innovative CaHA Bio-Stimulator in Facial Rejuvenation: 1 Year Follow-Up.",
@@ -33442,7 +33591,7 @@
     "take": "skim"
   },
   {
-    "id": 610,
+    "id": 613,
     "pmid": "40391727",
     "source": "PubMed",
     "article": "Dual Benefits of Oral Tranexamic Acid: Reducing Melasma Severity and Inflammation.",
@@ -33503,7 +33652,7 @@
     "take": "keep"
   },
   {
-    "id": 611,
+    "id": 614,
     "pmid": "40396558",
     "source": "PubMed",
     "article": "Efficacy of Platelet Rich Plasma Therapy in Melasma Using Microinjections and Microneedling Techniques.",
@@ -33563,7 +33712,7 @@
     "take": "keep"
   },
   {
-    "id": 612,
+    "id": 615,
     "pmid": "40325223",
     "source": "PubMed",
     "article": "Nonsurgical Temple Volumization with Soft-Tissue Fillers: A Systematic Review of the Literature.",
@@ -33606,7 +33755,7 @@
     "take": "keep"
   },
   {
-    "id": 613,
+    "id": 616,
     "pmid": "40331751",
     "source": "PubMed",
     "article": "Mesotherapy with hyaluronic acid solutions enriched by amino acids in the neck area: open-label uncontrolled, monocentric study.",
@@ -33653,7 +33802,7 @@
     "take": "skim"
   },
   {
-    "id": 614,
+    "id": 617,
     "pmid": "40340205",
     "source": "PubMed",
     "article": "Comparison of classic vs double concentrated dose botulinum toxin injections in the treatment of crow's feet.",
@@ -33706,7 +33855,7 @@
     "take": "keep"
   },
   {
-    "id": 615,
+    "id": 618,
     "pmid": "40337888",
     "source": "PubMed",
     "article": "Mottled hyperpigmentation caused by mesotherapy: successful treatment with a picosecond 1064 nm Nd:YAG laser.",
@@ -33763,7 +33912,7 @@
     "take": "keep"
   },
   {
-    "id": 616,
+    "id": 619,
     "pmid": "40487492",
     "source": "PubMed",
     "article": "80% Lactic Acid Peel Versus 50% Glycolic Acid Peel for Melasma: A Randomised Clinical Trial.",
@@ -33823,7 +33972,7 @@
     "take": "keep"
   },
   {
-    "id": 617,
+    "id": 620,
     "pmid": "40355180",
     "source": "PubMed",
     "article": "Indirect effects of hyaluronic acid applications on the glabella and nasolabial regions: An anatomic evaluation.",
@@ -33870,7 +34019,7 @@
     "take": "skim"
   },
   {
-    "id": 618,
+    "id": 621,
     "pmid": "40037621",
     "source": "PubMed",
     "article": "A Randomized, Double-Blind, Placebo-Controlled, Multicentered Study to Evaluate the Efficacy and Safety of MEI005 in Reducing Submental Fat in Chinese Adults.",
@@ -33929,7 +34078,7 @@
     "take": "keep"
   },
   {
-    "id": 619,
+    "id": 622,
     "pmid": "40410321",
     "source": "PubMed",
     "article": "Comparison of Two Botulinum Neurotoxin Type A Preparations (Masport and Dysport) for Upper Face Rhytides: A Randomized Clinical Trial.",
@@ -33975,7 +34124,7 @@
     "take": "keep"
   },
   {
-    "id": 620,
+    "id": 623,
     "pmid": "40419099",
     "source": "PubMed",
     "article": "Activated melanocytes and senescent collagen fibers predict laser-treated melasma outcomes: An optical biopsy-based prospective cohort study.",
@@ -34041,7 +34190,7 @@
     "take": "keep"
   },
   {
-    "id": 621,
+    "id": 624,
     "pmid": "40425884",
     "source": "PubMed",
     "article": "Efficacy and Safety of Collagen Filler for Intradermal Injection: A Randomized Prospective Controlled Multicenter Study.",
@@ -34093,7 +34242,7 @@
     "take": "keep"
   },
   {
-    "id": 622,
+    "id": 625,
     "pmid": "40599706",
     "source": "PubMed",
     "article": "Dose-Dependent Effects of Cross-Linked Hyaluronic Acid Through Intradermal Injection on Female Facial Photoaging: A Prospective Study.",
@@ -34138,7 +34287,7 @@
     "take": "skim"
   },
   {
-    "id": 623,
+    "id": 626,
     "pmid": "40442496",
     "source": "PubMed",
     "article": "Real-World Evidence on the Routine Use, Efficacy, and Safety of a Hyaluronic Acid-Based Dermal Filler in the Periorbital Region.",
@@ -34183,7 +34332,7 @@
     "take": "keep"
   },
   {
-    "id": 624,
+    "id": 627,
     "pmid": "40302116",
     "source": "PubMed",
     "article": "Exploring the Influence of Physiotherapeutic Interventions in Alleviating Clinical and Psychosocial Symptoms in Patients With Cervical Radiculopathy-A Systematic Review.",
@@ -34225,7 +34374,7 @@
     "take": "keep"
   },
   {
-    "id": 625,
+    "id": 628,
     "pmid": "40488260",
     "source": "PubMed",
     "article": "Customizing Microfocused Ultrasound With Visualization Treatment for Facial Lifting in Asian Men: Experience and Practical Insights From Korea.",
@@ -34283,7 +34432,7 @@
     "take": "keep"
   },
   {
-    "id": 626,
+    "id": 629,
     "pmid": "40537979",
     "source": "PubMed",
     "article": "Clinical Analysis of PRP Combined With Hyaluronic Acid Mesotherapy in the Treatment of Facial Chloasma.",
@@ -34347,7 +34496,7 @@
     "take": "keep"
   },
   {
-    "id": 627,
+    "id": 630,
     "pmid": "40586253",
     "source": "PubMed",
     "article": "Topical Tranexamic Acid-mediated with Non-insulated Microneedling Radiofrequency for the Treatment of Melasma.",
@@ -34407,7 +34556,7 @@
     "take": "keep"
   },
   {
-    "id": 628,
+    "id": 631,
     "pmid": "40456992",
     "source": "PubMed",
     "article": "Efficacy and Tolerability Assessment of Deoxycholic Acid Injectable Solution for Reduction of Submental Fat Among the Iranian Population.",
@@ -34453,7 +34602,7 @@
     "take": "keep"
   },
   {
-    "id": 629,
+    "id": 632,
     "pmid": "40456996",
     "source": "PubMed",
     "article": "Hyaluronic Acid Injection Strategy of Infraorbital and Midfacial Rejuvenation for Women in Southeast China.",
@@ -34495,7 +34644,7 @@
     "take": "skim"
   },
   {
-    "id": 630,
+    "id": 633,
     "pmid": "40481158",
     "source": "PubMed",
     "article": "Combined and Hybrid Treatments of Hyaluronic Acid (HA) and Calcium Hydroxylapatite (CaHA): A Systematic Review of Mechanisms of Action, Aesthetic Effectiveness, Satisfaction, and Safety Profile.",
@@ -34547,7 +34696,7 @@
     "take": "skim"
   },
   {
-    "id": 631,
+    "id": 634,
     "pmid": "40527791",
     "source": "PubMed",
     "article": "Oral tranexamic acid, low-fluence intense pulsed light, and glycolic acid for the treatment of mixed melasma: An observational study.",
@@ -34613,7 +34762,7 @@
     "take": "keep"
   },
   {
-    "id": 632,
+    "id": 635,
     "pmid": "40558754",
     "source": "PubMed",
     "article": "Biopolymers in Facial Aesthetics: Gel-Based Applications, Safety, Effectiveness, and Future Prospects-A Systematic Review of the Literature.",
@@ -34659,7 +34808,7 @@
     "take": "skim"
   },
   {
-    "id": 633,
+    "id": 636,
     "pmid": "40184185",
     "source": "PubMed",
     "article": "A Systematic Review of High-Intensity Focused Ultrasound in Skin Tightening and Body Contouring.",
@@ -34705,7 +34854,7 @@
     "take": "keep"
   },
   {
-    "id": 634,
+    "id": 637,
     "pmid": "40522526",
     "source": "PubMed",
     "article": "Fractional carbon dioxide laser assisted delivery of tranexamic acid versus ascorbic acid in the treatment of melasma: a split face comparative study with digital skin analysis.",
@@ -34763,7 +34912,7 @@
     "take": "keep"
   },
   {
-    "id": 635,
+    "id": 638,
     "pmid": "40688117",
     "source": "PubMed",
     "article": "Comparative Evaluation of Therapeutic Efficacy and Safety of 90% Lactic Acid Peel Versus 40% Pyruvic Acid Peel in Epidermal Melasma.",
@@ -34831,7 +34980,7 @@
     "take": "keep"
   },
   {
-    "id": 636,
+    "id": 639,
     "pmid": "40655803",
     "source": "PubMed",
     "article": "Comparative Efficacy of Tranexamic Acid and Vitamin C with Microneedling: A Split-Face Study in Melasma Management.",
@@ -34893,7 +35042,64 @@
     "take": "keep"
   },
   {
-    "id": 637,
+    "id": 640,
+    "pmid": "40542236",
+    "source": "PubMed",
+    "article": "Microneedling for Facial Rejuvenation: A Systematic Review.",
+    "authors": [
+      "Foppiani Jose A",
+      "Fanning James E",
+      "Beltran Kassandra",
+      "Raska Otakar",
+      "Hernandez Alvarez Angelica",
+      "Taritsa Iulianna",
+      "Kim Erin",
+      "Escobar Maria-Jose",
+      "Lee Daniela",
+      "Choudry Umar",
+      "Lin Samuel J",
+      "Otakar Raska"
+    ],
+    "date": "2025-06-20",
+    "journal": "Aesthetic plastic surgery",
+    "doi": "10.1007/s00266-025-04972-z",
+    "topic": "Космеология",
+    "topic_key": "cosmo",
+    "topic_keys": [
+      "cosmo"
+    ],
+    "topics": [
+      "Космеология"
+    ],
+    "abstract_en": "BACKGROUND: Microneedling (MN) has risen in popularity as a non-surgical treatment option for facial skin aging. We aimed to evaluate patient-reported outcomes (PROMs) and safety profiles associated with MN.\n\nMETHODS: A systematic review was conducted adhering to PRISMA guidelines. Articles were screened for relevance in a two-stage process. Descriptive statistics and a proportion meta-analysis was utilized for patient satisfaction using Stata statistical software.\n\nRESULTS: Of 346 studies identified, a total of 21 articles reporting outcomes of 723 patients undergoing MN for facial rejuvenation were included for review and meta-analysis. The patient cohort was majority female (72%), and the average age was 48 years. The most common esthetic study endpoints were wrinkling (71%, 15/21), skin texture (33%, 7/21), photoaging (29%, 6/21), and skin laxity (14%, 3/21). The majority of trials (90%, 19/21) treated patients with multiple MN sessions, and these studies' treatment schedules also varied by number and timing of sessions. Pooled meta-analysis revealed that 83% of patients reported satisfaction with their treatment (95% CI [0.76; 0.88]). The most common reported adverse effects were transient erythema (6.8%), scaling (1.7%), burning sensation (1.5%), and pruritus (0.4%).\n\nCONCLUSION: Our meta-analysis revealed that MN is associated with high patient satisfaction and low rates of adverse events. High patient satisfaction coupled with a low incidence of adverse events supports MN as a viable non-surgical treatment option for facial rejuvenation. However, the lack of standardized measures for esthetic outcomes warrants continued research to better determine its efficacy in treating signs of facial aging.\n\nLEVEL OF EVIDENCE IV: This journal requires that authors assign a level of evidence to each article. For a full description of these Evidence-Based Medicine ratings, please refer to the Table of Contents or the online Instructions to Authors www.springer.com/00266.",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/40542236/",
+    "pmc_link": "",
+    "html_available": false,
+    "html_link": "",
+    "title_ru": "Микронидлинг лица: ~83% довольны, курсом из нескольких сессий",
+    "patient_plain": "",
+    "patient_use": "Микронидлинг лица обычно делают курсом, не разово: большинство в обзоре были довольны, сильных осложнений почти нет (краснота/шелушение проходят). Спросите врача глубину игл и сколько сессий планируют именно под ваши морщины/текстуру.",
+    "practical_use": "Заранее оговаривайте число сессий и endpoint (морщины vs текстура vs laxity). Не обещайте стандартизированный % улучшения морщин — в пуле доминирует satisfaction, не единая wrinkle scale.",
+    "summary": "Систематический обзор + метаанализ доли удовлетворённости: 21 статья, 723 пациента (72% женщины, ср. возраст 48). Цели чаще морщины, текстура, фотостарение, реже дряблость. В 90% работ — несколько сессий (число и интервалы разные).\n\nУдовлетворённость лечением 83% (95% CI 76–88%). Частые НЯ преходящие: эритема 6,8%, шелушение 1,7%, жжение 1,5%, зуд 0,4%. Единой шкалы эффекта нет — сравнения глубины/устройств ограничены.",
+    "_reason": "Крупный SR по MN лица с pooled satisfaction и профилем НЯ.",
+    "why_read": "База для ожидания от курса микронидлинга лица.",
+    "limitations": [
+      "heterogeneous protocols",
+      "no standardized aesthetic scales across trials"
+    ],
+    "advice_items": [
+      {
+        "quote": "majority of trials (90%, 19/21) treated patients with multiple MN sessions",
+        "advice": "Планируйте курс из нескольких сессий, а не single-pass.",
+        "audience": "врач"
+      }
+    ],
+    "importance_stars": 5,
+    "importance_mark": "★★★★★",
+    "take": "keep"
+  },
+  {
+    "id": 641,
     "pmid": "40555739",
     "source": "PubMed",
     "article": "Combining Microneedling and Tranexamic Acid for Melasma: A Systematic Review and Meta-Analysis.",
@@ -34958,7 +35164,7 @@
     "take": "keep"
   },
   {
-    "id": 638,
+    "id": 642,
     "pmid": "40576817",
     "source": "PubMed",
     "article": "Effectiveness of 675 nm Laser in Melasma Treatment: 1-Year Follow-Up.",
@@ -35020,7 +35226,7 @@
     "take": "keep"
   },
   {
-    "id": 639,
+    "id": 643,
     "pmid": "40800045",
     "source": "PubMed",
     "article": "A Prospective, Open-Label Study to Evaluate Dual-Modality Treatment With Deoxycholic Acid (ATX-101) and Hyaluronic Acid (VYC-20L) for Overall Improvement in Jawline Contour.",
@@ -35066,7 +35272,7 @@
     "take": "keep"
   },
   {
-    "id": 640,
+    "id": 644,
     "pmid": "40586974",
     "source": "PubMed",
     "article": "Efficacy and Tolerability of a New Facial 2-Mercaptonicotinoyl Glycine-Containing Depigmenting Serum Versus Hydroquinone 4% over 3-Month Treatment of Facial Melasma.",
@@ -35143,7 +35349,7 @@
     "take": "keep"
   },
   {
-    "id": 641,
+    "id": 645,
     "pmid": "40625002",
     "source": "PubMed",
     "article": "Evidence-Based Clinical Practice Guidelines for Patients With Lumbar Disc Herniation With Radiculopathy in South Korea.",
@@ -35200,7 +35406,7 @@
     "take": "keep"
   },
   {
-    "id": 642,
+    "id": 646,
     "pmid": "40434770",
     "source": "PubMed",
     "article": "Comparison of Botulinum Toxin A Formulations for Glabellar Strain Treatment in Women: A Double-Blind Randomized Clinical Trial.",
@@ -35249,7 +35455,7 @@
     "take": "keep"
   },
   {
-    "id": 643,
+    "id": 647,
     "pmid": "40576779",
     "source": "PubMed",
     "article": "Effectiveness of Articular and Neural Mobilization for Managing Cervical Radicular Pain: A Systematic Review With Network Meta-Analysis.",
@@ -35294,7 +35500,7 @@
     "take": "keep"
   },
   {
-    "id": 644,
+    "id": 648,
     "pmid": "40586136",
     "source": "PubMed",
     "article": "Efficacy and Safety of CKDB-501A in Treating Moderate-To-Severe Glabellar Lines: A Randomized, Double-Blind, Active-Controlled, Multi-Center Phase III Trial.",
@@ -35340,7 +35546,7 @@
     "take": "keep"
   },
   {
-    "id": 645,
+    "id": 649,
     "pmid": "40586182",
     "source": "PubMed",
     "article": "Novel Cyclized Hexapeptide-9 Outperforms Retinol Against Skin Aging: A Randomized, Double-Blinded, Active- and Vehicle-Controlled Clinical Trial.",
@@ -35388,7 +35594,7 @@
     "take": "keep"
   },
   {
-    "id": 646,
+    "id": 650,
     "pmid": "40620129",
     "source": "PubMed",
     "article": "Noninferiority Study Comparing the Efficacy and Safety of a New Hyaluronic Acid (HA) Filler Containing Lidocaine With an Existing HA Filler for the Treatment of Nasolabial Fold Wrinkles: A Randomized, Double-Blind, Split-Face Trial.",
@@ -35436,7 +35642,7 @@
     "take": "keep"
   },
   {
-    "id": 647,
+    "id": 651,
     "pmid": "40627587",
     "source": "PubMed",
     "article": "Photoprotection Efficacy of Sun Protection Factor and Iron Oxide Formulations in Diverse Skin With Melasma and Photodamage.",
@@ -35506,7 +35712,7 @@
     "take": "keep"
   },
   {
-    "id": 648,
+    "id": 652,
     "pmid": "40709743",
     "source": "PubMed",
     "article": "Real World Case Series: A.G.E. Interrupter Ultra Serum.",
@@ -35566,7 +35772,7 @@
     "take": "skim"
   },
   {
-    "id": 649,
+    "id": 653,
     "pmid": "40778014",
     "source": "PubMed",
     "article": "Effectiveness and Safety of Intradermal Tranexamic Acid Injection as an Adjunctive Treatment for Melasma in Skin Type IV-V: A Double-blind Randomized Controlled Trial.",
@@ -35623,7 +35829,7 @@
     "take": "keep"
   },
   {
-    "id": 650,
+    "id": 654,
     "pmid": "40610809",
     "source": "PubMed",
     "article": "A Novel Six-Point Supraperiosteum Injection with Calcium Hydroxyapatite for Jawline Refining and Facial Anti-aging in Asian Patients.",
@@ -35670,7 +35876,7 @@
     "take": "keep"
   },
   {
-    "id": 651,
+    "id": 655,
     "pmid": "40611628",
     "source": "PubMed",
     "article": "Efficacy and Safety of Warm Acupuncture Compared to Gabapentin for Pain Management in Patients with Sciatica in Bhutan: A Randomized Controlled (ACUWARM) Trial.",
@@ -35716,7 +35922,7 @@
     "take": "keep"
   },
   {
-    "id": 652,
+    "id": 656,
     "pmid": "40620441",
     "source": "PubMed",
     "article": "The effects and safety of sequential high concentration glycolic acid and trichloroacetic acid chemical peels in skin photo-type IV-VI, a retrospective cross-sectional monocentric review.",
@@ -35780,7 +35986,7 @@
     "take": "keep"
   },
   {
-    "id": 653,
+    "id": 657,
     "pmid": "40616673",
     "source": "PubMed",
     "article": "730-nm, 532-nm and 694-nm laser in the treatment of freckles and solar lentigines (A randomized clinical trial).",
@@ -35849,7 +36055,7 @@
     "take": "keep"
   },
   {
-    "id": 654,
+    "id": 658,
     "pmid": "40634656",
     "source": "PubMed",
     "article": "Novel melasma therapy using combined low fluence and microsecond pulse Q switched 1064 nm neodymium doped yttrium aluminium garnet laser.",
@@ -35913,7 +36119,7 @@
     "take": "keep"
   },
   {
-    "id": 655,
+    "id": 659,
     "pmid": "40809618",
     "source": "PubMed",
     "article": "Comparison of the Efficacy of Intralesional Ascorbic Acid Mesotherapy and Intralesional Tranexamic Acid in Treating Melasma in the Skin of Colour Population.",
@@ -35978,7 +36184,7 @@
     "take": "keep"
   },
   {
-    "id": 656,
+    "id": 660,
     "pmid": "40707029",
     "source": "PubMed",
     "article": "Efficacy and Safety of New Hyaluronic Acid Filler for Nasolabial Fold Correction: A Double-Blind, Randomized Trial.",
@@ -36025,7 +36231,7 @@
     "take": "keep"
   },
   {
-    "id": 657,
+    "id": 661,
     "pmid": "40707570",
     "source": "PubMed",
     "article": "Comparative efficacy of topical interventions for facial photoaging: a network meta-analysis.",
@@ -36105,7 +36311,7 @@
     "take": "keep"
   },
   {
-    "id": 658,
+    "id": 662,
     "pmid": "40719876",
     "source": "PubMed",
     "article": "Effectiveness of high-intensity laser therapy in patients with spinal radiculopathy: a systematic review with meta-analysis.",
@@ -36147,7 +36353,7 @@
     "take": "keep"
   },
   {
-    "id": 659,
+    "id": 663,
     "pmid": "40864048",
     "source": "PubMed",
     "article": "Are Post-Care Recommendations Following Upper-Face Botulinum Toxin Treatment Scientifically Necessary? A Retrospective Study Based on 5000 Patients.",
@@ -36195,7 +36401,7 @@
     "take": "keep"
   },
   {
-    "id": 660,
+    "id": 664,
     "pmid": "40747731",
     "source": "PubMed",
     "article": "Fractional and Non-Fractional Picosecond Nd:YAG Lasers Combined With Fractional Picosecond KTP Laser for the Treatment of Melasma in Female Chinese.",
@@ -36258,7 +36464,7 @@
     "take": "keep"
   },
   {
-    "id": 661,
+    "id": 665,
     "pmid": "40755428",
     "source": "PubMed",
     "article": "Knowledge, Perceptions, and Practices of Skin-Lightening Products Among Female Medical Students: A Cross-Sectional Study.",
@@ -36323,7 +36529,7 @@
     "take": "keep"
   },
   {
-    "id": 662,
+    "id": 666,
     "pmid": "40776769",
     "source": "PubMed",
     "article": "Efficacy of Non-Ablative Fractional Laser Combined With Tranexamic Acid in Melasma Treatment: A Randomized Split-Face Trial.",
@@ -36395,7 +36601,7 @@
     "take": "keep"
   },
   {
-    "id": 663,
+    "id": 667,
     "pmid": "40814769",
     "source": "PubMed",
     "article": "Efficacy and Durability of the Association of Botox and Skinvive in the Treatment of Moderate/Severe Wrinkles in the Periorbital Region: A Randomized, Controlled, Double-Blind, Split-Face Clinical Study.",
@@ -36452,7 +36658,7 @@
     "take": "keep"
   },
   {
-    "id": 664,
+    "id": 668,
     "pmid": "40785838",
     "source": "PubMed",
     "article": "Exploring Melasma Patients' Needs Through Social Media: A Qualitative Study.",
@@ -36526,7 +36732,7 @@
     "take": "keep"
   },
   {
-    "id": 665,
+    "id": 669,
     "pmid": "40776625",
     "source": "PubMed",
     "article": "What components and formats of rehabilitation interventions are more effective to reduce pain in patients with cervical radiculopathy? A Systematic review and component network meta-analysis.",
@@ -36573,7 +36779,7 @@
     "take": "keep"
   },
   {
-    "id": 666,
+    "id": 670,
     "pmid": "40800678",
     "source": "PubMed",
     "article": "Combination of Three Treatment Modes of 1064 nm Nd: YAG Laser in the Treatment of Melasma: A Retrospective Observational Study.",
@@ -36641,7 +36847,7 @@
     "take": "keep"
   },
   {
-    "id": 667,
+    "id": 671,
     "pmid": "40832456",
     "source": "PubMed",
     "article": "Low-Level Laser Therapy as an Effective Intervention for Facial Pigmentation: A Case Report of Ephelides and Lentigines in Syrian Women.",
@@ -36704,7 +36910,7 @@
     "take": "keep"
   },
   {
-    "id": 668,
+    "id": 672,
     "pmid": "40802269",
     "source": "PubMed",
     "article": "In Vivo Evaluation of Melasma Pathologic Features and Treatment Response by 2-Photon Microscopy.",
@@ -36771,7 +36977,7 @@
     "take": "keep"
   },
   {
-    "id": 669,
+    "id": 673,
     "pmid": "40951208",
     "source": "PubMed",
     "article": "Efficacy and Safety of Non-cross-Linked Hyaluronic Acid Injections for Facial Skin Biorevitalization: A Single-Center, Open-Label, Single-Arm, Uncontrolled, Post-marketing Study.",
@@ -36816,7 +37022,7 @@
     "take": "keep"
   },
   {
-    "id": 670,
+    "id": 674,
     "pmid": "40590795",
     "source": "PubMed",
     "article": "Comparative Efficacy and Safety of Injectable Tranexamic Acid Combination Therapies for Melasma: A Network Meta-analysis of Randomized Controlled Trials.",
@@ -36880,7 +37086,7 @@
     "take": "keep"
   },
   {
-    "id": 671,
+    "id": 675,
     "pmid": "40826371",
     "source": "PubMed",
     "article": "Microneedling-assisted delivery of metformin versus tranexamic acid in treating melasma: a randomized controlled study.",
@@ -36946,7 +37152,7 @@
     "take": "keep"
   },
   {
-    "id": 672,
+    "id": 676,
     "pmid": "40830240",
     "source": "PubMed",
     "article": "Effectiveness and Safety of STYLAGE® L Lidocaine in the Treatment of Nasolabial Folds (NICE Study): A Randomized, Double-Blind, Split-Face Controlled Study.",
@@ -36991,7 +37197,7 @@
     "take": "keep"
   },
   {
-    "id": 673,
+    "id": 677,
     "pmid": "40835769",
     "source": "PubMed",
     "article": "Nerve Block-Assisted Intradermal Injection of Tranexamic Acid, Vitamin C, and Glutathione for Melasma: A Split-Face Comparative Study.",
@@ -37051,7 +37257,7 @@
     "take": "keep"
   },
   {
-    "id": 674,
+    "id": 678,
     "pmid": "40847672",
     "source": "PubMed",
     "article": "Thiamidol in Melasma in Patients of Skin of Color: A Preliminary Report of Efficacy and Safety.",
@@ -37115,7 +37321,7 @@
     "take": "keep"
   },
   {
-    "id": 675,
+    "id": 679,
     "pmid": "40850886",
     "source": "PubMed",
     "article": "Randomized, Double-Blind, Placebo-Controlled Phase II Trial of AYP-101 (Soybean Phosphatidylcholine) for Submental Fat Reduction in Asian Adults.",
@@ -37158,7 +37364,7 @@
     "take": "keep"
   },
   {
-    "id": 676,
+    "id": 680,
     "pmid": "40898935",
     "source": "PubMed",
     "article": "[Treatment of chronic lumbar disc herniation by bone injury manipulation combined with guided exercise].",
@@ -37204,7 +37410,7 @@
     "take": "keep"
   },
   {
-    "id": 677,
+    "id": 681,
     "pmid": "40943775",
     "source": "PubMed",
     "article": "Efficacy and Safety of a Stabilized Composition of 26 mg/mL of High Molecular Weight Hyaluronic Acid for Aesthetic Applications.",
@@ -37250,7 +37456,7 @@
     "take": "keep"
   },
   {
-    "id": 678,
+    "id": 682,
     "pmid": "40979310",
     "source": "PubMed",
     "article": "Lip Enhancement and Perioral Area Correction With New Hyaluronic Acid Dermal Fillers: A Prospective Safety Study.",
@@ -37295,7 +37501,7 @@
     "take": "keep"
   },
   {
-    "id": 679,
+    "id": 683,
     "pmid": "40886005",
     "source": "PubMed",
     "article": "Instrument-assisted soft tissue mobilization and percussion massage therapy in cervical disc herniation: a randomized controlled study.",
@@ -37338,7 +37544,7 @@
     "take": "keep"
   },
   {
-    "id": 680,
+    "id": 684,
     "pmid": "40874404",
     "source": "PubMed",
     "article": "Comparing the Safety and Effectiveness of PCL and PLLA Injections for Nasolabial Fold Correction.",
@@ -37379,7 +37585,7 @@
     "take": "keep"
   },
   {
-    "id": 681,
+    "id": 685,
     "pmid": "40923754",
     "source": "PubMed",
     "article": "Minimally Invasive Facial Lifting Using the Versatility of Calcium Hydroxyapatite (STIIM).",
@@ -37421,7 +37627,7 @@
     "take": "keep"
   },
   {
-    "id": 682,
+    "id": 686,
     "pmid": "40923777",
     "source": "PubMed",
     "article": "Randomized Clinical Trial on the Efficacy of Oral Tranexamic Acid Versus Topical Tranexamic Acid in Treatment of Melasma.",
@@ -37489,7 +37695,7 @@
     "take": "keep"
   },
   {
-    "id": 683,
+    "id": 687,
     "pmid": "40931930",
     "source": "PubMed",
     "article": "Aesthetic Treatment of the Lips With Hyaluronic Acid Filler: The Multi Vector Lip Technique.",
@@ -37533,7 +37739,7 @@
     "take": "keep"
   },
   {
-    "id": 684,
+    "id": 688,
     "pmid": "40891760",
     "source": "PubMed",
     "article": "Clinical features, safety, and efficacy of combining Q-switched Nd:YAG laser and FOB® Tri-White Serum in melasma treatment.",
@@ -37601,7 +37807,7 @@
     "take": "keep"
   },
   {
-    "id": 685,
+    "id": 689,
     "pmid": "40897963",
     "source": "PubMed",
     "article": "Final Report on the Safety and Efficacy of Poly-L-Lactic Acid Filler (Gana V) Injection for the Correction of Nasolabial Fold: A Double-Blind, Non-Inferiority, Randomized, Split-Face Controlled Trial.",
@@ -37645,7 +37851,7 @@
     "take": "keep"
   },
   {
-    "id": 686,
+    "id": 690,
     "pmid": "40921777",
     "source": "PubMed",
     "article": "Efficacy and Tolerability of Stable Hybrid Cooperative Complexes of High- and Low-Molecular Weight Hyaluronic Acid in Asian Patients: An Open-Label Study.",
@@ -37690,7 +37896,7 @@
     "take": "keep"
   },
   {
-    "id": 687,
+    "id": 691,
     "pmid": "40926406",
     "source": "PubMed",
     "article": "A Core-Shell Structured Microneedle Patch With Adjustable Release of Kinetically for the Treatment of Melasma.",
@@ -37753,7 +37959,7 @@
     "take": "keep"
   },
   {
-    "id": 688,
+    "id": 692,
     "pmid": "40932145",
     "source": "PubMed",
     "article": "Treatment of Melasma Using Low-Fluence QS Nd: YAG (1064 nm) Laser: A Blind, Randomized, Placebo-Controlled Trial.",
@@ -37817,7 +38023,7 @@
     "take": "keep"
   },
   {
-    "id": 689,
+    "id": 693,
     "pmid": "40509910",
     "source": "PubMed",
     "article": "Enhancing Skin Quality With a Sequential Treatment Using 2 Hyaluronic Acid Dermal Fillers: A Prospective, Multicenter, Interventional Study.",
@@ -37864,7 +38070,7 @@
     "take": "keep"
   },
   {
-    "id": 690,
+    "id": 694,
     "pmid": "40960154",
     "source": "PubMed",
     "article": "Efficacy and safety of the triple combination cream in Chinese patients with moderate to severe melasma: A multi-center, randomized, double-blind, three-arm, parallel-group, placebo-controlled clinical trial.",
@@ -37942,7 +38148,7 @@
     "take": "keep"
   },
   {
-    "id": 691,
+    "id": 695,
     "pmid": "40978549",
     "source": "PubMed",
     "article": "Efficacy and Safety of Acupuncture and Acupuncture-Combined Therapies in the Treatment of Sciatica Caused by Lumbar Disc Herniation: A Network Meta-Analysis.",
@@ -37988,7 +38194,7 @@
     "take": "skim"
   },
   {
-    "id": 692,
+    "id": 696,
     "pmid": "40970768",
     "source": "PubMed",
     "article": "Comparative Efficacy of 35 % Glycolic Acid Peel versus 4 % Retinol Peel in Melasma.",
@@ -38048,7 +38254,7 @@
     "take": "keep"
   },
   {
-    "id": 693,
+    "id": 697,
     "pmid": "40970991",
     "source": "PubMed",
     "article": "Clinical study on the effectiveness of laser combined with topical tranexamic acid in the treatment of melasma.",
@@ -38111,7 +38317,7 @@
     "take": "keep"
   },
   {
-    "id": 694,
+    "id": 698,
     "pmid": "40971538",
     "source": "PubMed",
     "article": "Effectiveness of simultaneous application of cervical traction and neural mobilization on pain and disability in patients with cervical radiculopathy: A systematic review and meta-analysis.",
@@ -38156,7 +38362,7 @@
     "take": "keep"
   },
   {
-    "id": 695,
+    "id": 699,
     "pmid": "40983743",
     "source": "PubMed",
     "article": "Harnessing the Bidirectional Feature of the Frontalis Muscle: The Super-High Injection Technique.",
@@ -38201,7 +38407,7 @@
     "take": "keep"
   },
   {
-    "id": 696,
+    "id": 700,
     "pmid": "41255724",
     "source": "PubMed",
     "article": "Combining Fractional 1927 nm Thulium Laser and Subdermal 1470 nm Diode Laser for Facial Aesthetic Procedures: Two Case Reports.",
@@ -38263,7 +38469,7 @@
     "take": "skim"
   },
   {
-    "id": 697,
+    "id": 701,
     "pmid": "40996222",
     "source": "PubMed",
     "article": "Delphi consensus on melasma management by international experts and pigmentary disorders society.",
@@ -38358,7 +38564,7 @@
     "take": "keep"
   },
   {
-    "id": 698,
+    "id": 702,
     "pmid": "40997242",
     "source": "PubMed",
     "article": "Effects of cervico-lumbar combination manual therapy in patients with cervical radiculopathy : A randomized controlled pilot trial.",
@@ -38403,7 +38609,7 @@
     "take": "skim"
   },
   {
-    "id": 699,
+    "id": 703,
     "pmid": "41149049",
     "source": "PubMed",
     "article": "Efficacy and Safety of Different Treatments for Melasma: Network Meta-Analysis of Updated Data.",
@@ -38473,7 +38679,7 @@
     "take": "keep"
   },
   {
-    "id": 700,
+    "id": 704,
     "pmid": "41003821",
     "source": "PubMed",
     "article": "Efficacy and safety of low-fluence 1064 nm picosecond laser with/without micro-lens arrays for melasma treatment: a randomized, split-face controlled study.",
@@ -38541,7 +38747,7 @@
     "take": "keep"
   },
   {
-    "id": 701,
+    "id": 705,
     "pmid": "41141970",
     "source": "PubMed",
     "article": "Does educating a patient about lumbar disc herniation affect the treatment compliance and outcome? A systematic review.",
@@ -38584,7 +38790,7 @@
     "take": "keep"
   },
   {
-    "id": 702,
+    "id": 706,
     "pmid": "41020517",
     "source": "PubMed",
     "article": "Laser and Light-Based Therapies for Treating Melasma: An In-Depth Review.",
@@ -38651,7 +38857,7 @@
     "take": "keep"
   },
   {
-    "id": 703,
+    "id": 707,
     "pmid": "41002235",
     "source": "PubMed",
     "article": "Efficacy of Spine High-Velocity Low-Amplitude Thrust Manipulations in Patients With Radiculopathy: A Systematic Review With Meta-Analysis.",
@@ -38697,7 +38903,7 @@
     "take": "keep"
   },
   {
-    "id": 704,
+    "id": 708,
     "pmid": "41014037",
     "source": "PubMed",
     "article": "Comparison of Visible Light-Protective Tinted Sunscreen to Untinted Sunscreen to Protect Melasma Patients During Summer: A Prospective Randomized Investigator-Blinded Study.",
@@ -38765,7 +38971,7 @@
     "take": "keep"
   },
   {
-    "id": 705,
+    "id": 709,
     "pmid": "41036635",
     "source": "PubMed",
     "article": "A Novel Dermocosmetic Routine Containing Vitamin B3 and 2-Mercaptonicotinyl Glycine Significantly Improves Melasma After 3 Months of Daily Use.",
@@ -38836,7 +39042,7 @@
     "take": "keep"
   },
   {
-    "id": 706,
+    "id": 710,
     "pmid": "41065147",
     "source": "PubMed",
     "article": "The Efficacy and Safety of Combining Cross-Linked Hyaluronic Acid Filler VYC-12L and Energy-Based Devices for Facial Skin Quality Improvement in Asians.",
@@ -38879,7 +39085,7 @@
     "take": "skim"
   },
   {
-    "id": 707,
+    "id": 711,
     "pmid": "41236273",
     "source": "PubMed",
     "article": "Tretinoin for Photodamaged Facial Skin: Systematic Review and Meta-Analysis of Randomized Controlled Trials.",
@@ -38921,7 +39127,7 @@
     "take": "keep"
   },
   {
-    "id": 708,
+    "id": 712,
     "pmid": "41416028",
     "source": "PubMed",
     "article": "Aesthetic Improvement, Facial Harmony, and Patient Satisfaction after Lower Face Treatment with a Hyaluronic Acid Filler: A Randomized Post-Marketing Study to Evaluate Two Different Stepwise Injection Approaches.",
@@ -38966,7 +39172,7 @@
     "take": "keep"
   },
   {
-    "id": 709,
+    "id": 713,
     "pmid": "41049232",
     "source": "PubMed",
     "article": "Adult-Onset Partial Unilateral Lentiginosis: A Rare Pigmentary Mosaicism With Clinical Response to Tranexamic Acid.",
@@ -39039,7 +39245,7 @@
     "take": "keep"
   },
   {
-    "id": 710,
+    "id": 714,
     "pmid": "41050976",
     "source": "PubMed",
     "article": "Prospective Clinical Evaluation of Cross-Linked Hyaluronic Acid Dermal Filler (30 mg) for Facial Rejuvenation.",
@@ -39086,7 +39292,7 @@
     "take": "skim"
   },
   {
-    "id": 711,
+    "id": 715,
     "pmid": "41044286",
     "source": "PubMed",
     "article": "A pilot randomized split-face trial comparing fractional Q-Switched ruby laser and 1064-nm Q-Switched nd: YAG laser in Chinese women with melasma running titile: fQSRL vs. QSNY in melasma.",
@@ -39148,7 +39354,7 @@
     "take": "keep"
   },
   {
-    "id": 712,
+    "id": 716,
     "pmid": "41047712",
     "source": "PubMed",
     "article": "Diffusion characteristics and efficacy of letibotulinum toxin a in forehead wrinkle treatment.",
@@ -39194,7 +39400,7 @@
     "take": "skim"
   },
   {
-    "id": 713,
+    "id": 717,
     "pmid": "41142247",
     "source": "PubMed",
     "article": "Topical prevention from high energy visible light-induced pigmentation by 2-mercaptonicotinoyl glycine, but not by ascorbic acid antioxidant: 2 randomized controlled trials.",
@@ -39248,7 +39454,7 @@
     "take": "keep"
   },
   {
-    "id": 714,
+    "id": 718,
     "pmid": "41073980",
     "source": "PubMed",
     "article": "Facial volume reduction and masticatory function after masseter botulinum toxin injection: a prospective study.",
@@ -39289,7 +39495,7 @@
     "take": "keep"
   },
   {
-    "id": 715,
+    "id": 719,
     "pmid": "41744050",
     "source": "PubMed",
     "article": "Combined Aquatic and Pilates Exercises Improve Pain, Mobility, Functional Disability, and Quality of Life in Women With Lumbar Disc Herniation: A Randomized Controlled Trial.",
@@ -39331,7 +39537,7 @@
     "take": "keep"
   },
   {
-    "id": 716,
+    "id": 720,
     "pmid": "41091230",
     "source": "PubMed",
     "article": "Fractional non ablative 675 nm diode laser versus low fluence high frequency Q- switched 1064 nm nd: YAG laser in the treatment of melasma: a comparative split face trial.",
@@ -39396,7 +39602,7 @@
     "take": "keep"
   },
   {
-    "id": 717,
+    "id": 721,
     "pmid": "41209688",
     "source": "PubMed",
     "article": "Exercise, manipulation and traction physiotherapy in the conservative management of lumbar disc herniation: A systematic review and meta-analysis.",
@@ -39455,7 +39661,7 @@
     "take": "keep"
   },
   {
-    "id": 718,
+    "id": 722,
     "pmid": "41127050",
     "source": "PubMed",
     "article": "Hyperdilute Radiesse Preserves Facial Volume in Glucagon-Like Peptide-1 Receptor Agonist Users Undergoing Rapid Weight Loss.",
@@ -39499,7 +39705,7 @@
     "take": "keep"
   },
   {
-    "id": 719,
+    "id": 723,
     "pmid": "41146901",
     "source": "PubMed",
     "article": "Non-Insulated Microneedle Radiofrequency for the Treatment of Hydroquinone-Induced Exogenous Ochronosis: A Case Report and Literature Review.",
@@ -39570,7 +39776,7 @@
     "take": "keep"
   },
   {
-    "id": 720,
+    "id": 724,
     "pmid": "41322039",
     "source": "PubMed",
     "article": "Real-World Outcomes of a Novel Botulinum Toxin A for Upper Face Aesthetics: Insights From Routine Clinical Practice.",
@@ -39615,7 +39821,7 @@
     "take": "keep"
   },
   {
-    "id": 721,
+    "id": 725,
     "pmid": "41302115",
     "source": "PubMed",
     "article": "Assessment and Rehabilitation in Cervical Radiculopathy-Efficacy of Structured Program with or Without Neurotrophic Agents.",
@@ -39660,7 +39866,7 @@
     "take": "keep"
   },
   {
-    "id": 722,
+    "id": 726,
     "pmid": "41177367",
     "source": "PubMed",
     "article": "Clinical efficacy of chinese manual therapy for lumbar disc herniation: A systematic review and meta-analysis.",
@@ -39707,7 +39913,7 @@
     "take": "keep"
   },
   {
-    "id": 723,
+    "id": 727,
     "pmid": "41261598",
     "source": "PubMed",
     "article": "Crowned dens syndrome combined with cervical disc herniation: A case report and literature review.",
@@ -39754,7 +39960,7 @@
     "take": "keep"
   },
   {
-    "id": 724,
+    "id": 728,
     "pmid": "41175175",
     "source": "PubMed",
     "article": "A Phase 2, Randomized, Double-Blind, Placebo-Controlled Study to Evaluate the Efficacy and Safety of OBI-858 for the Treatment of Moderate-to-Severe Glabellar Lines.",
@@ -39801,7 +40007,7 @@
     "take": "keep"
   },
   {
-    "id": 725,
+    "id": 729,
     "pmid": "41186063",
     "source": "PubMed",
     "article": "Moose Technique: A New Anatomical Perspective Treatment in Botulinum Toxin.",
@@ -39842,7 +40048,7 @@
     "take": "keep"
   },
   {
-    "id": 726,
+    "id": 730,
     "pmid": "41208340",
     "source": "PubMed",
     "article": "Translational Application of Recombinant Humanized Type III Collagen in Facial Rejuvenation: A Randomized Controlled Trial.",
@@ -39890,7 +40096,7 @@
     "take": "keep"
   },
   {
-    "id": 727,
+    "id": 731,
     "pmid": "41438879",
     "source": "PubMed",
     "article": "Efficacy of high-intensity focused ultrasound for treating upper and lower eyelid sagging.",
@@ -39941,7 +40147,7 @@
     "take": "keep"
   },
   {
-    "id": 728,
+    "id": 732,
     "pmid": "41196244",
     "source": "PubMed",
     "article": "Effectiveness of Thoracic Spine Manipulation for Upper Quadrant Musculoskeletal Disorders: A Systematic Review.",
@@ -39985,7 +40191,7 @@
     "take": "keep"
   },
   {
-    "id": 729,
+    "id": 733,
     "pmid": "41210393",
     "source": "PubMed",
     "article": "Pilot Study: Efficacy and Safety of Polycaprolactone Collagen Stimulator for Middle Third of the Face.",
@@ -40041,7 +40247,7 @@
     "take": "keep"
   },
   {
-    "id": 730,
+    "id": 734,
     "pmid": "41321762",
     "source": "PubMed",
     "article": "Prognostic factors for treatment success of conservative management and role for physiotherapy in radicular pain caused by a lumbar disc herniation: a systematic review.",
@@ -40084,7 +40290,7 @@
     "take": "keep"
   },
   {
-    "id": 731,
+    "id": 735,
     "pmid": "41225220",
     "source": "PubMed",
     "article": "Forehead Volumization and Rejuvenation with Hybrid Fillers.",
@@ -40130,7 +40336,7 @@
     "take": "keep"
   },
   {
-    "id": 732,
+    "id": 736,
     "pmid": "41239367",
     "source": "PubMed",
     "article": "Efficacy and safety of Chinese herbal compounds for lumbar disc herniation: a systematic review of randomized controlled trials.",
@@ -40176,7 +40382,7 @@
     "take": "keep"
   },
   {
-    "id": 733,
+    "id": 737,
     "pmid": "41240206",
     "source": "PubMed",
     "article": "An Investigator-Blinded, Randomized Trial of a Broad-Spectrum Sunscreen Containing Sclareolide and Niacinamide for the Prevention of Post-inflammatory Hyperpigmentation in Skin of Color.",
@@ -40222,7 +40428,7 @@
     "take": "keep"
   },
   {
-    "id": 734,
+    "id": 738,
     "pmid": "41243347",
     "source": "PubMed",
     "article": "Hypopigmentation Following Picosecond Laser Treatment for Melasma: A Case Series.",
@@ -40279,7 +40485,7 @@
     "take": "keep"
   },
   {
-    "id": 735,
+    "id": 739,
     "pmid": "40966568",
     "source": "PubMed",
     "article": "Efficacy and Safety of a Proposed Hyaluronic Acid (Lunaphil Ultra) Compared to the Reference Product (Juvéderm Ultra 4) for the Management of Moderate or Severe Nasolabial Folds: A Randomized, Double-Masked, Within-Subject, Equivalency-Controlled Trial.",
@@ -40324,7 +40530,7 @@
     "take": "keep"
   },
   {
-    "id": 736,
+    "id": 740,
     "pmid": "41261256",
     "source": "PubMed",
     "article": "Clinical Durability of Hyaluronic Acid-Based Dermal Fillers for Facial Application: A Systematic Review.",
@@ -40370,7 +40576,7 @@
     "take": "keep"
   },
   {
-    "id": 737,
+    "id": 741,
     "pmid": "41282450",
     "source": "PubMed",
     "article": "Early Experience With Ultherapy Prime in Asia Pacific: A Pilot Case Series.",
@@ -40413,7 +40619,7 @@
     "take": "keep"
   },
   {
-    "id": 738,
+    "id": 742,
     "pmid": "41321592",
     "source": "PubMed",
     "article": "Efficacy and Safety Evaluation of Microneedling Combined with Tranexamic Acid-Arbutin Liquid Excipients in the Treatment of Melasma: A Retrospective Study.",
@@ -40476,7 +40682,7 @@
     "take": "keep"
   },
   {
-    "id": 739,
+    "id": 743,
     "pmid": "41315336",
     "source": "PubMed",
     "article": "Safety and efficacy of niosomal and conventional tranexamic acid/niacinamide vs. hydroquinone creams in melasma: A randomized, double-blind, case-controlled clinical trial.",
@@ -40538,7 +40744,7 @@
     "take": "keep"
   },
   {
-    "id": 740,
+    "id": 744,
     "pmid": "41273166",
     "source": "PubMed",
     "article": "Exploring Microbial and Biophysical Aspects of Dry Skin: In Vivo Test of a Novel Skincare Formulation.",
@@ -40586,7 +40792,7 @@
     "take": "keep"
   },
   {
-    "id": 741,
+    "id": 745,
     "pmid": "41329151",
     "source": "PubMed",
     "article": "Clinical Evaluation of Thiamidol-Containing Formulations for the Visual Management of Facial Hyperpigmentation.",
@@ -40645,7 +40851,7 @@
     "take": "keep"
   },
   {
-    "id": 742,
+    "id": 746,
     "pmid": "41347603",
     "source": "PubMed",
     "article": "Efficacy of the Combination Therapy of Intense Pulsed Light and Microneedling With a Postbiotic Formulation for Melasma.",
@@ -40744,7 +40950,7 @@
     "take": "keep"
   },
   {
-    "id": 743,
+    "id": 747,
     "pmid": "41358458",
     "source": "PubMed",
     "article": "A Prospective, Randomized, Double-Blind, Split-Face Trial Evaluating the Effects of Pre-Conditioning With a TriHex Technology Serum Nectar 2.0 Versus a Vehicle in Subjects Undergoing Elective Facelift Surgery.",
@@ -40790,7 +40996,7 @@
     "take": "keep"
   },
   {
-    "id": 744,
+    "id": 748,
     "pmid": "41363060",
     "source": "PubMed",
     "article": "The Quality and Reliability of Short Videos About Melasma on TikTok and Bilibili: A Cross-Sectional Study.",
@@ -40846,7 +41052,7 @@
     "take": "keep"
   },
   {
-    "id": 745,
+    "id": 749,
     "pmid": "41378674",
     "source": "PubMed",
     "article": "The Efficacy of Laser Therapy in Melasma Treatment: A Systematic Review and Meta-Analysis.",
@@ -40916,7 +41122,7 @@
     "take": "keep"
   },
   {
-    "id": 746,
+    "id": 750,
     "pmid": "41420622",
     "source": "PubMed",
     "article": "The efficacy of cysteamine as a melasma therapy: a systematic review of trial studies.",
@@ -40977,7 +41183,7 @@
     "take": "keep"
   },
   {
-    "id": 747,
+    "id": 751,
     "pmid": "41345306",
     "source": "PubMed",
     "article": "A Prospective, Randomized, Active-Controlled, Evaluator-Blinded, Noninferiority Clinical Trial Examining a Non-Cross-Linked Bovine-Derived Type I/III Collagen Filler Combined with Hyaluronic Acid for Periocular Rejuvenation.",
@@ -41024,7 +41230,7 @@
     "take": "keep"
   },
   {
-    "id": 748,
+    "id": 752,
     "pmid": "41350828",
     "source": "PubMed",
     "article": "Effect of cervical traction on balance parameters in patients with cervical radiculopathy: a randomized controlled trial.",
@@ -41072,7 +41278,7 @@
     "take": "keep"
   },
   {
-    "id": 749,
+    "id": 753,
     "pmid": "41361144",
     "source": "PubMed",
     "article": "Efficacy of Ionization-Adjusted PN Filler in Minimizing Injection Pain: A Randomized, Patient-Blinded, Split-Face Study.",
@@ -41115,7 +41321,7 @@
     "take": "keep"
   },
   {
-    "id": 750,
+    "id": 754,
     "pmid": "41510434",
     "source": "PubMed",
     "article": "High Resolution Ultrasound for the Assessment of Melasma: Experience With 1064 nm Q-Switched Nd:YAG Laser.",
@@ -41177,7 +41383,7 @@
     "take": "keep"
   },
   {
-    "id": 751,
+    "id": 755,
     "pmid": "41372602",
     "source": "PubMed",
     "article": "Efficacy and Safety of 675-nm Laser Monotherapy for Melasma in Fitzpatrick Skin Types III-V: A Prospective Pre-Post Intervention Study.",
@@ -41246,7 +41452,7 @@
     "take": "keep"
   },
   {
-    "id": 752,
+    "id": 756,
     "pmid": "41523529",
     "source": "PubMed",
     "article": "A Comparative Study of the Efficacy of Chemical Peels and Microneedling in the Treatment of Moderate to Severe Melasma.",
@@ -41308,7 +41514,7 @@
     "take": "keep"
   },
   {
-    "id": 753,
+    "id": 757,
     "pmid": "41403571",
     "source": "PubMed",
     "article": "Dynamic Neuromuscular Stabilization Exercise and Chronic Lumbar Disc Herniation: Effects on Pain, Mobility, and Trunk Endurance-A Randomized Controlled Trial.",
@@ -41357,7 +41563,7 @@
     "take": "keep"
   },
   {
-    "id": 754,
+    "id": 758,
     "pmid": "41471132",
     "source": "PubMed",
     "article": "Systematic Review and Meta-Analysis of Treatments on Melasma Area Severity Index and Quality of Life.",
@@ -41425,7 +41631,7 @@
     "take": "keep"
   },
   {
-    "id": 755,
+    "id": 759,
     "pmid": "41552062",
     "source": "PubMed",
     "article": "Optimizing Dermal Filler for Chin and Jawline Definition as an Advanced Approach for Natural Results: A Prospective Case Series With Ultrasonographic and 3D Facial Imaging Evaluation.",
@@ -41476,7 +41682,7 @@
     "take": "keep"
   },
   {
-    "id": 756,
+    "id": 760,
     "pmid": "41424674",
     "source": "PubMed",
     "article": "Prospective, Randomized, Double-Blind Assessment of Supramolecular Bakuchiol and Terminalia Chebula Extract for Facial Photoaging in Chinese Sensitive Skin Population.",
@@ -41525,7 +41731,7 @@
     "take": "keep"
   },
   {
-    "id": 757,
+    "id": 761,
     "pmid": "41488277",
     "source": "PubMed",
     "article": "Trans-resveratrol reduces visible signs of skin ageing in healthy adult females over 40: an 8-week randomized placebo-controlled trial.",
@@ -41571,7 +41777,7 @@
     "take": "keep"
   },
   {
-    "id": 758,
+    "id": 762,
     "pmid": "41490183",
     "source": "PubMed",
     "article": "A Case of Severe Skin Adverse Reactions Caused by Cetuximab.",
@@ -41647,7 +41853,7 @@
     "take": "keep"
   },
   {
-    "id": 759,
+    "id": 763,
     "pmid": "41583410",
     "source": "PubMed",
     "article": "Anatomical-based filler injection techniques for the midcheek groove and infraorbital region: Narrative review.",
@@ -41702,7 +41908,7 @@
     "take": "keep"
   },
   {
-    "id": 760,
+    "id": 764,
     "pmid": "41460143",
     "source": "PubMed",
     "article": "Revolutionizing tear trough rejuvenation: A novel bilaminar approach with differential rheologic G prime fillers.",
@@ -41749,7 +41955,7 @@
     "take": "skim"
   },
   {
-    "id": 761,
+    "id": 765,
     "pmid": "41585833",
     "source": "PubMed",
     "article": "Efficacy of Intense Pulsed Light Treatment in Melasma.",
@@ -41817,7 +42023,7 @@
     "take": "keep"
   },
   {
-    "id": 762,
+    "id": 766,
     "pmid": "41987708",
     "source": "PubMed",
     "article": "Effect of Physical Therapy Program on Cervical Radiculopathy in Patients with a Reversed Cervical Curve: a Single-blind Randomized Controlled Trial.",
@@ -41862,7 +42068,7 @@
     "take": "keep"
   },
   {
-    "id": 763,
+    "id": 767,
     "pmid": "41450017",
     "source": "PubMed",
     "article": "An Innovative Serum With Retinol, Hydroxypinacolone Retinoate, Peptides, and Silybin Improves Mild Photoaged Facial Skin in Middle-Aged Chinese Women.",
@@ -41912,7 +42118,7 @@
     "take": "keep"
   },
   {
-    "id": 764,
+    "id": 768,
     "pmid": "41493251",
     "source": "PubMed",
     "article": "A Randomized, Controlled, Split-Face, Double-Blind Study Comparing Topical Malassezin to Hydroquinone 4% for Melasma.",
@@ -41979,7 +42185,7 @@
     "take": "keep"
   },
   {
-    "id": 765,
+    "id": 769,
     "pmid": "41493252",
     "source": "PubMed",
     "article": "Clinical Evaluation of a Thiamidol-Based Regimen With SPF Compared With SPF Alone for Facial Hyperpigmentation.",
@@ -42031,7 +42237,7 @@
     "take": "keep"
   },
   {
-    "id": 766,
+    "id": 770,
     "pmid": "41493255",
     "source": "PubMed",
     "article": "Evaluation of an Advanced, Multimodal Skin Tone Correcting Serum in Participants With Mild-to-Severe Dyschromia and Hyperpigmentation.",
@@ -42089,7 +42295,7 @@
     "take": "keep"
   },
   {
-    "id": 767,
+    "id": 771,
     "pmid": "41493259",
     "source": "PubMed",
     "article": "A Novel Topical Agent for the Management of Hyperpigmentation, Including Melasma and Age Spots.",
@@ -42159,7 +42365,7 @@
     "take": "keep"
   },
   {
-    "id": 768,
+    "id": 772,
     "pmid": "41493260",
     "source": "PubMed",
     "article": "Prospective Single-Site Open-label Study Assessing Safety and Efficacy of Poly-L-Lactic Acid for Temple Volume Loss.",
@@ -42203,7 +42409,7 @@
     "take": "keep"
   },
   {
-    "id": 769,
+    "id": 773,
     "pmid": "41532837",
     "source": "PubMed",
     "article": "A Split Face Study Comparing the Effect of a PDLLA Based Product and PLLA on the Nasolabial Fold (NLF).",
@@ -42252,7 +42458,7 @@
     "take": "keep"
   },
   {
-    "id": 770,
+    "id": 774,
     "pmid": "41556403",
     "source": "PubMed",
     "article": "Topical Volumizing Cream Improves Facial Volume and Skin Health in Adults With Rapid Weight Loss From Pharmacologic (GLP-1/GIP Agonists), Surgical, or Behavioral Interventions.",
@@ -42305,7 +42511,7 @@
     "take": "keep"
   },
   {
-    "id": 771,
+    "id": 775,
     "pmid": "41566538",
     "source": "PubMed",
     "article": "Global Recommendations for Facial Rejuvenation Using a Hyaluronic Acid and Calcium Hydroxyapatite Hybrid Injectable.",
@@ -42376,7 +42582,7 @@
     "take": "keep"
   },
   {
-    "id": 772,
+    "id": 776,
     "pmid": "42047123",
     "source": "PubMed",
     "article": "Efficacy of Alexandrite picosecond laser therapy with and without dermal polyrevitalisation (NCTF® 135 HA) in patients with melasma: A Randomised Controlled Trial.",
@@ -42442,7 +42648,7 @@
     "take": "keep"
   },
   {
-    "id": 773,
+    "id": 777,
     "pmid": "41485124",
     "source": "PubMed",
     "article": "Comparative Study of a 1064 nm Fractional Picosecond Laser Versus Intense Pulsed Light in Facial Rejuvenation: A Prospective Randomized Trial.",
@@ -42507,7 +42713,7 @@
     "take": "keep"
   },
   {
-    "id": 774,
+    "id": 778,
     "pmid": "41494147",
     "source": "PubMed",
     "article": "Spinal manipulative therapy for adults with chronic low back pain.",
@@ -42555,7 +42761,7 @@
     "take": "keep"
   },
   {
-    "id": 775,
+    "id": 779,
     "pmid": "41501430",
     "source": "PubMed",
     "article": "Comparative Pain Assessment of Intradermal Versus Subdermal Skin Booster Injections Using PDLLA: A Randomized, Double-Blinded Split-Injection Study.",
@@ -42603,7 +42809,7 @@
     "take": "keep"
   },
   {
-    "id": 776,
+    "id": 780,
     "pmid": "41598467",
     "source": "PubMed",
     "article": "Saudi Clinical Practice Guideline for the Assessment and Management of Low Back Pain and Sciatica in Adults.",
@@ -42659,7 +42865,7 @@
     "take": "skim"
   },
   {
-    "id": 777,
+    "id": 781,
     "pmid": "41511609",
     "source": "PubMed",
     "article": "Effects of different kinesiology taping applications on Pain, muscular Fitness, Proprioception, Mobility, Functionality, and disability in patients with lumbar disc herniation.",
@@ -42703,7 +42909,7 @@
     "take": "skim"
   },
   {
-    "id": 778,
+    "id": 782,
     "pmid": "41517728",
     "source": "PubMed",
     "article": "Laser and light-based therapies combined with topical agents for melasma: A systematic review and meta-analysis.",
@@ -42770,7 +42976,7 @@
     "take": "keep"
   },
   {
-    "id": 779,
+    "id": 783,
     "pmid": "41532844",
     "source": "PubMed",
     "article": "Therapist-Delivered Video Therapy Habit Reversal Training for Body-Focused Repetitive Behaviors: Clinical Outcomes From a Large Real-World Sample of Youth and Adults.",
@@ -42826,7 +43032,7 @@
     "take": "keep"
   },
   {
-    "id": 780,
+    "id": 784,
     "pmid": "41541242",
     "source": "PubMed",
     "article": "Preliminary Investigation and Safety Profile of a Novel Hybrid Filler (Hyaluronic Acid-Calcium Hydroxylapatite) in Asian Facial Rejuvenation.",
@@ -42875,7 +43081,7 @@
     "take": "keep"
   },
   {
-    "id": 781,
+    "id": 785,
     "pmid": "41566113",
     "source": "PubMed",
     "article": "Efficacy and Tolerability of 0.2% Thiamidol Cream for Facial Hyperpigmentation: A Randomized, Double-Blind, and Vehicle-Controlled Study.",
@@ -42940,7 +43146,7 @@
     "take": "keep"
   },
   {
-    "id": 782,
+    "id": 786,
     "pmid": "41658578",
     "source": "PubMed",
     "article": "Effectiveness of acupuncture in the treatment of chronic sciatica from herniated disks: a systematic review and meta-analysis.",
@@ -42985,7 +43191,7 @@
     "take": "keep"
   },
   {
-    "id": 783,
+    "id": 787,
     "pmid": "41752649",
     "source": "PubMed",
     "article": "Short-Term Effects of Manual Therapy Combined with Functional Magnetic Stimulation in Individuals with Lumbar Disk Herniation with Radiculopathy: A Randomized Clinical Trial.",
@@ -43037,7 +43243,7 @@
     "take": "skim"
   },
   {
-    "id": 784,
+    "id": 788,
     "pmid": "41589005",
     "source": "PubMed",
     "article": "Assessing the Safety and Efficacy of Picosecond Alexandrite Lasers in the Management of Melasma: A Systematic Review and Meta-Analysis of Randomised Control Trials.",
@@ -43109,7 +43315,7 @@
     "take": "keep"
   },
   {
-    "id": 785,
+    "id": 789,
     "pmid": "41720017",
     "source": "PubMed",
     "article": "Analysis of the efficacy of intense pulsed light combined with collagen wound dressings for treating facial postburn hyperpigmentation.",
@@ -43179,7 +43385,7 @@
     "take": "keep"
   },
   {
-    "id": 786,
+    "id": 790,
     "pmid": "40971765",
     "source": "PubMed",
     "article": "Ultrasound Guidance for Botulinum Toxin Injection of Muscles Innervated by the Facial Nerve: A Systematic Review of Anatomical Precision, Safety, and Outcomes.",
@@ -43222,7 +43428,7 @@
     "take": "keep"
   },
   {
-    "id": 787,
+    "id": 791,
     "pmid": "41601401",
     "source": "PubMed",
     "article": "Tranexamic Acid for Hyperpigmentation Disorders: A Literature Review on Efficacy and Safety in Melasma and PIH.",
@@ -43285,7 +43491,7 @@
     "take": "keep"
   },
   {
-    "id": 788,
+    "id": 792,
     "pmid": "41607139",
     "source": "PubMed",
     "article": "A Pilot Study on the Use of Topical Gold and Diamond Suspension Combined With 1,064 nm Picosecond Nd:YAG Laser for the Treatment of Facial Melasma.",
@@ -43350,7 +43556,7 @@
     "take": "keep"
   },
   {
-    "id": 789,
+    "id": 793,
     "pmid": "41656621",
     "source": "PubMed",
     "article": "A 50+ Sunscreen Containing Polypodium Leucotomos Extract, Ellagic Acid, and Niacinamide in Facial Melasma and Photoaging-Related Hyperpigmentation: A Pilot Observational Study Using Line-Field Confocal Optical Coherence Tomography.",
@@ -43419,7 +43625,7 @@
     "take": "keep"
   },
   {
-    "id": 790,
+    "id": 794,
     "pmid": "41715284",
     "source": "PubMed",
     "article": "Clinical Outcomes of an Innovative Poly-L-Lactic Acid (LASYNPRO) in Facial Rejuvenation: Prospective, Multicenter Spanish Study.",
@@ -43477,7 +43683,7 @@
     "take": "keep"
   },
   {
-    "id": 791,
+    "id": 795,
     "pmid": "41729119",
     "source": "PubMed",
     "article": "Comparative Evaluation of Topical Stabilized Retinaldehyde 0.1% vs. 0.05% on Skin Biophysical and Biomechanical Parameters.",
@@ -43525,7 +43731,7 @@
     "take": "keep"
   },
   {
-    "id": 792,
+    "id": 796,
     "pmid": "41650338",
     "source": "PubMed",
     "article": "Efficacy and Safety of Sodium Hyaluronate Gel for Facial Skin Rejuvenation.",
@@ -43574,7 +43780,7 @@
     "take": "keep"
   },
   {
-    "id": 793,
+    "id": 797,
     "pmid": "41675240",
     "source": "PubMed",
     "article": "Factors Associated With Quality of Life and Treatment Practice Among Melasma Patients in Nepal.",
@@ -43641,7 +43847,7 @@
     "take": "keep"
   },
   {
-    "id": 794,
+    "id": 798,
     "pmid": "41667864",
     "source": "PubMed",
     "article": "Safety and Efficacy of Chin Enhancement and Facial Contouring with Two-Three-Point Injection Technique: A Systematic Review and Meta-Analysis.",
@@ -43682,7 +43888,7 @@
     "take": "keep"
   },
   {
-    "id": 795,
+    "id": 799,
     "pmid": "41668543",
     "source": "PubMed",
     "article": "Dual 1550-nm Erbium Glass Fiber and 1927-nm Thulium Fiber Non-ablative Fractional Laser System Treatment in Patients With Skin of Color: A Review of Clinical Studies and Unmet Needs.",
@@ -43754,7 +43960,7 @@
     "take": "keep"
   },
   {
-    "id": 796,
+    "id": 800,
     "pmid": "41767513",
     "source": "PubMed",
     "article": "Efficacy and safety of Q-switched laser combined with intense pulsed light in treating melasma: a meta-analysis.",
@@ -43817,7 +44023,7 @@
     "take": "keep"
   },
   {
-    "id": 797,
+    "id": 801,
     "pmid": "41908499",
     "source": "PubMed",
     "article": "Drug-Induced Melasma in Patients on 5-Alpha Reductase Inhibitors: A Case Report.",
@@ -43881,7 +44087,7 @@
     "take": "keep"
   },
   {
-    "id": 798,
+    "id": 802,
     "pmid": "41869255",
     "source": "PubMed",
     "article": "Laser-Based Management of Occupational Photodamage in a Young Adult: A Case Report.",
@@ -43951,7 +44157,7 @@
     "take": "keep"
   },
   {
-    "id": 799,
+    "id": 803,
     "pmid": "41743904",
     "source": "PubMed",
     "article": "Correlation Between Improvements in Melasma Quality of Life (MELASQoL-INA) and Modified Melasma Area and Severity Index (mMASI) Following Triple Combination Therapy.",
@@ -44013,7 +44219,7 @@
     "take": "keep"
   },
   {
-    "id": 800,
+    "id": 804,
     "pmid": "41731228",
     "source": "PubMed",
     "article": "Effects of Profhilo® Tissue Bioremodeling on Skin Texture and Perioral Wrinkles: A Randomized Controlled Triple-Blind Clinical Trial.",
@@ -44060,7 +44266,7 @@
     "take": "keep"
   },
   {
-    "id": 801,
+    "id": 805,
     "pmid": "41884735",
     "source": "PubMed",
     "article": "Efficacy of Tranexamic acid Microneedling versus Intradermal Injection of Tranexamic Acid in the Treatment of Melasma - A Randomised Controlled Trial.",
@@ -44126,7 +44332,7 @@
     "take": "keep"
   },
   {
-    "id": 802,
+    "id": 806,
     "pmid": "41724989",
     "source": "PubMed",
     "article": "Efficacy and Safety of Amino Acid-Enriched Hyaluronic Acid in Facial Rejuvenation: A Systematic Review and Meta-Analysis.",
@@ -44170,7 +44376,7 @@
     "take": "keep"
   },
   {
-    "id": 803,
+    "id": 807,
     "pmid": "41725026",
     "source": "PubMed",
     "article": "Exploring the Effectiveness, Tolerability, and Safety of the Adjunctive Use of Microneedling With Tranexamic Acid in the Treatment of Melasma.",
@@ -44240,7 +44446,7 @@
     "take": "keep"
   },
   {
-    "id": 804,
+    "id": 808,
     "pmid": "41735774",
     "source": "PubMed",
     "article": "A Single-Center, Open-Label Study to Evaluate the Efficacy and Tolerability of Retinal Encapsulated in a Novel Biomimetic Exosome in the Treatment of Mild-To-Moderate Facial Photodamage.",
@@ -44290,7 +44496,7 @@
     "take": "keep"
   },
   {
-    "id": 805,
+    "id": 809,
     "pmid": "41764757",
     "source": "PubMed",
     "article": "Effect of Kinetic Control Retraining on Neck Proprioception and Function in Cervical Radiculopathy: A Randomized Controlled Trial.",
@@ -44335,7 +44541,7 @@
     "take": "keep"
   },
   {
-    "id": 806,
+    "id": 810,
     "pmid": "41797621",
     "source": "PubMed",
     "article": "An Open-Label Study to Assess the Efficacy and Tolerability of a Multifunctional, 10-Peptide Face and Neck Serum to Address Skin Quality.",
@@ -44384,7 +44590,7 @@
     "take": "keep"
   },
   {
-    "id": 807,
+    "id": 811,
     "pmid": "42017707",
     "source": "PubMed",
     "article": "Effects of cervical traction with and without EMG biofeedback in patients with cervical radiculopathy- A randomised controlled trial.",
@@ -44429,7 +44635,7 @@
     "take": "skim"
   },
   {
-    "id": 808,
+    "id": 812,
     "pmid": "42605306",
     "source": "PubMed",
     "article": "Safety and Efficacy of Laser Versus Cryotherapy in the Treatment of Lentigines: A Systematic Review and Meta-analysis of Randomized Controlled Trials : Short title: Safety and Efficacy of Laser Versus Cryotherapy in the Treatment of Lentigines.",
@@ -44492,7 +44698,7 @@
     "take": "keep"
   },
   {
-    "id": 809,
+    "id": 813,
     "pmid": "41782066",
     "source": "PubMed",
     "article": "Comparing the efficacy and safety of a 730-nm picosecond laser with a 532-nm Q-switched Nd:YAG laser for facial pigmented disorders: a retrospective comparative study.",
@@ -44556,7 +44762,7 @@
     "take": "keep"
   },
   {
-    "id": 810,
+    "id": 814,
     "pmid": "41959968",
     "source": "PubMed",
     "article": "Topical Steroid and Fairness Cream Abuse in Facial Dermatoses: A Cross-Sectional Study at a Tertiary Care Center in Western Uttar Pradesh.",
@@ -44627,7 +44833,7 @@
     "take": "keep"
   },
   {
-    "id": 811,
+    "id": 815,
     "pmid": "41820616",
     "source": "PubMed",
     "article": "Comparative Efficacy and Patient-centered Outcomes of Intraoral Submucosal Zonal Injection Versus Traditional Extra-oral Injection for Improving Perioral Contour: A Randomized Controlled Trial.",
@@ -44676,7 +44882,7 @@
     "take": "keep"
   },
   {
-    "id": 812,
+    "id": 816,
     "pmid": "41846592",
     "source": "PubMed",
     "article": "Tuina Alleviates Pain Associated with Lumbar Disc Herniation by Regulating Functional Connectivity Between Inferior Frontal Triangularis and Multiple Brain Networks: A Randomized Controlled fMRI Study.",
@@ -44725,7 +44931,7 @@
     "take": "skim"
   },
   {
-    "id": 813,
+    "id": 817,
     "pmid": "41824827",
     "source": "PubMed",
     "article": "Improved clinical efficacy of melasma with combination therapy of intense pulsed light and tranexamic acid: A retrospective analysis.",
@@ -44788,7 +44994,7 @@
     "take": "keep"
   },
   {
-    "id": 814,
+    "id": 818,
     "pmid": "41832625",
     "source": "PubMed",
     "article": "Microneedle-based Transdermal Patch: A Novel Strategy for Hyperpigmentation Treatment.",
@@ -44847,7 +45053,7 @@
     "take": "keep"
   },
   {
-    "id": 815,
+    "id": 819,
     "pmid": "41841366",
     "source": "PubMed",
     "article": "Comparison of efficacy and safety of fractional 1064 nm picosecond laser and low-fluence Q-switched Nd:YAG laser in the treatment of melasma.",
@@ -44908,7 +45114,7 @@
     "take": "keep"
   },
   {
-    "id": 816,
+    "id": 820,
     "pmid": "41870519",
     "source": "PubMed",
     "article": "Efficacy and Safety of a Topical Nicotinamide Adenine Dinucleotide Skinbooster for the Treatment of Melasma.",
@@ -44973,7 +45179,7 @@
     "take": "keep"
   },
   {
-    "id": 817,
+    "id": 821,
     "pmid": "41910842",
     "source": "PubMed",
     "article": "Italian Expert Consensus on the Efficacy and Safety of High Doses of Incobotulinum Toxin A (Bocouture®) in a Full-Face Approach Based on the Electromyographic Analysis.",
@@ -45039,7 +45245,7 @@
     "take": "keep"
   },
   {
-    "id": 818,
+    "id": 822,
     "pmid": "42064496",
     "source": "PubMed",
     "article": "Efficacy and Safety of Laser-Based Therapies for Melasma: A Systematic Review and Meta-Analysis.",
@@ -45122,7 +45328,7 @@
     "take": "keep"
   },
   {
-    "id": 819,
+    "id": 823,
     "pmid": "41889091",
     "source": "PubMed",
     "article": "Is Ready-To-Use AbobotulinumtoxinA More Effective Than OnabotulinumtoxinA for Glabellar Lines? A Randomized, Controlled, Triple-Blinded Clinical Trial.",
@@ -45169,7 +45375,7 @@
     "take": "keep"
   },
   {
-    "id": 820,
+    "id": 824,
     "pmid": "41945421",
     "source": "PubMed",
     "article": "Effectiveness of Using the AOPT-LTL Technique for the Treatment of Melasma: A Clinical Study.",
@@ -45238,7 +45444,7 @@
     "take": "keep"
   },
   {
-    "id": 821,
+    "id": 825,
     "pmid": "41947475",
     "source": "PubMed",
     "article": "Prospective, Randomized, Double-Blind, Placebo-Controlled Study of an Oral Antioxidant-Rich Synbiotic Supplement on Skin Health and Photoaging.",
@@ -45304,7 +45510,51 @@
     "take": "skim"
   },
   {
-    "id": 822,
+    "id": 826,
+    "pmid": "41947517",
+    "source": "PubMed",
+    "article": "Radiofrequency Microneedling for Facial Rejuvenation: A Systematic Review.",
+    "authors": [
+      "Kumar Narendra",
+      "Suh Dong Hye",
+      "Lee Sang Jun",
+      "Kasif Shaheen Amna",
+      "Carruthers Jean D A"
+    ],
+    "date": "2026-04-01",
+    "journal": "Journal of cosmetic dermatology",
+    "doi": "10.1111/jocd.70845",
+    "topic": "Космеология",
+    "topic_key": "cosmo",
+    "topic_keys": [
+      "cosmo"
+    ],
+    "topics": [
+      "Космеология"
+    ],
+    "abstract_en": "BACKGROUND: Radiofrequency microneedling (RFMN) is a prominent minimally invasive treatment for facial rejuvenation. While individual studies report positive outcomes, a comprehensive synthesis of evidence across efficacy, safety, and patient satisfaction is lacking.\n\nOBJECTIVES: To synthesize evidence on the aesthetic, safety, tolerability, and psychological outcomes of RFMN for facial rejuvenation.\n\nMETHODS: We conducted this systematic review in accordance with PRISMA and JBI guidelines. We systematically searched four electronic databases (PubMed, Embase, CENTRAL, LILACS) for studies published between 2015 and 2025. We included 22 studies. We assessed risk of bias using a JBI tool and conducted a thematic synthesis of aesthetic outcomes, patient satisfaction, and safety. We evaluated confidence in the findings using the GRADE-CERQual approach.\n\nRESULTS: Our synthesis of 20 studies (558 participants) found that RFMN treatments consistently improved aesthetic outcomes, with significant improvements in skin texture and tightening supported by high Global Aesthetic Improvement Scale scores. We found a favorable safety profile, where adverse events were predominantly mild and transient (erythema and edema were most common), and no serious complications were reported. Pain was typically mild to moderate and well-tolerated. Patient satisfaction was remarkably high, with most studies reporting rates exceeding 90%, which was strongly correlated with the procedure's efficacy and minimal downtime.\n\nCONCLUSION: The synthesis of evidence indicates that RFMN is an effective and well-tolerated intervention for facial rejuvenation, characterized by robust clinical outcomes and exceptionally high patient satisfaction. These findings solidify its role as a cornerstone treatment in modern aesthetic practice.\n\nTRIAL REGISTRATION: PROSPERO Registration number: CRD420251152380.",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/41947517/",
+    "pmc_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13058395/",
+    "html_available": true,
+    "html_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13058395/",
+    "title_ru": "RF-микронидлинг лица: обзор — текстура/подтяжка, удовлетворённость >90%",
+    "patient_plain": "",
+    "patient_use": "RF-микронидлинг — иглы + радиочастотный нагрев в глубине: по сводке исследований чаще довольны результатом (>9 из 10 в типичных работах), простой — краснота/отёк на короткое время. Это не обычный домашний роллер.",
+    "practical_use": "Позиционируйте RFMN как clinic energy-needling с высоким satisfaction и transient AE. Не переносите параметры одного аппарата на другой без сверки протокола.",
+    "summary": "SR (PRISMA/JBI), 22 исследования; синтез по 20 работам / 558 участникам (2015–2025). RFMN стабильно улучшал текстуру и tightening (высокие GAIS). НЯ в основном лёгкие и короткие (эритема, отёк); серьёзных не описано. Боль mild–moderate. Удовлетворённость в большинстве работ >90%, связывали с эффектом и малым downtime.\n\nТематический синтез, не pooled % эффекта морщин; протоколы устройств неоднородны.",
+    "_reason": "Актуальный SR по RFMN лица: эффект, safety, satisfaction.",
+    "why_read": "Когда спрашивают про «радиочастотный мезороллер» в клинике.",
+    "limitations": [
+      "thematic synthesis not meta-analysis of effect sizes",
+      "device protocol heterogeneity"
+    ],
+    "advice_items": [],
+    "importance_stars": 5,
+    "importance_mark": "★★★★★",
+    "take": "keep"
+  },
+  {
+    "id": 827,
     "pmid": "41970772",
     "source": "PubMed",
     "article": "Unlocking the Effects of Neural Mobilization versus Transcutaneous Electrical Nerve Stimulation in Cervical Radiculopathy.",
@@ -45349,7 +45599,7 @@
     "take": "skim"
   },
   {
-    "id": 823,
+    "id": 828,
     "pmid": "42528867",
     "source": "PubMed",
     "article": "Efficacy and Safety of Monophasic Versus Biphasic Hyaluronic Acid Dermal Fillers in Correction of Moderate-to-Severe Nasolabial Folds: A Randomized, Controlled, Double Blinded and Intraindividual Study.",
@@ -45393,7 +45643,7 @@
     "take": "keep"
   },
   {
-    "id": 824,
+    "id": 829,
     "pmid": "41940941",
     "source": "PubMed",
     "article": "Clinical Efficacy and Safety of Shallow-Dermal Linear HIFU for Fine-Wrinkle Reduction in Asian Skin.",
@@ -45440,7 +45690,7 @@
     "take": "keep"
   },
   {
-    "id": 825,
+    "id": 830,
     "pmid": "41129279",
     "source": "PubMed",
     "article": "Streamlined Facial Rejuvenation: A Randomized Split-Face Trial of Premixed Intradermal Botulinum Toxin Type A and Hyaluronic Acid Biorevitalization.",
@@ -45490,7 +45740,7 @@
     "take": "keep"
   },
   {
-    "id": 826,
+    "id": 831,
     "pmid": "41243519",
     "source": "PubMed",
     "article": "A Multicenter, Open-Label Study of Combined Poly-L-Lactic Acid and Hyaluronic Midface Filler Regimen Enhances Facial Harmony and Skin Quality in GLP-1 Medication Users.",
@@ -45538,7 +45788,7 @@
     "take": "keep"
   },
   {
-    "id": 827,
+    "id": 832,
     "pmid": "41507069",
     "source": "PubMed",
     "article": "Safety and Effectiveness of a Crosslinked Hyaluronic Acid Filler in Korean Patients for the Correction of Nasolabial Folds: A Randomized, Patient- and Evaluator-Blinded, Paired Study.",
@@ -45581,7 +45831,7 @@
     "take": "keep"
   },
   {
-    "id": 828,
+    "id": 833,
     "pmid": "41971651",
     "source": "PubMed",
     "article": "A Prospective, Multicenter, Randomized, Assessor-Blinded Study Assessing the Efficacy and Safety of Injectable Non-Cross-Linked Hyaluronic Acid for Improving Facial Skin Rejuvenation.",
@@ -45628,7 +45878,7 @@
     "take": "keep"
   },
   {
-    "id": 829,
+    "id": 834,
     "pmid": "42005972",
     "source": "PubMed",
     "article": "Double Chin Correction with Combination of High Intensity Focused Ultrasound and Hyaluronic Acid: A 24-Week Case Report.",
@@ -45670,7 +45920,7 @@
     "take": "skim"
   },
   {
-    "id": 830,
+    "id": 835,
     "pmid": "42025113",
     "source": "PubMed",
     "article": "Histopathological evaluation of facial melasma treated with oral tranexamic acid alone and in combination with ketotifen.",
@@ -45743,7 +45993,7 @@
     "take": "keep"
   },
   {
-    "id": 831,
+    "id": 836,
     "pmid": "42028100",
     "source": "PubMed",
     "article": "Efficacy and Safety of Picosecond Laser Combined With Sodium Hyaluronate for Melasma.",
@@ -45807,7 +46057,7 @@
     "take": "keep"
   },
   {
-    "id": 832,
+    "id": 837,
     "pmid": "42052614",
     "source": "PubMed",
     "article": "Pilot Study: Repeated Utenpanium (RZL-012) Treatment for Submental Fat Reduction.",
@@ -45851,7 +46101,7 @@
     "take": "skim"
   },
   {
-    "id": 833,
+    "id": 838,
     "pmid": "42109558",
     "source": "PubMed",
     "article": "Facial Melanosis: A Comprehensive Review of Uncommon and Common Presentations with Personal Experience.",
@@ -45920,7 +46170,7 @@
     "take": "keep"
   },
   {
-    "id": 834,
+    "id": 839,
     "pmid": "42081626",
     "source": "PubMed",
     "article": "Iron Oxides in Tinted Sunscreen for Hyperpigmentation: A Product Analysis and Literature Review.",
@@ -45971,7 +46221,7 @@
     "take": "keep"
   },
   {
-    "id": 835,
+    "id": 840,
     "pmid": "42081634",
     "source": "PubMed",
     "article": "Efficacy and Safety of Topical Metformin vs Kligman Formula in the Treatment of Melasma: A Split-Face Study.",
@@ -46040,7 +46290,7 @@
     "take": "keep"
   },
   {
-    "id": 836,
+    "id": 841,
     "pmid": "42094857",
     "source": "PubMed",
     "article": "A Retrospective Analysis of Radiofrequency Microneedling for Melasma Management in the Japanese Population.",
@@ -46100,7 +46350,7 @@
     "take": "keep"
   },
   {
-    "id": 837,
+    "id": 842,
     "pmid": "42130059",
     "source": "PubMed",
     "article": "Advancing the Evidence on Glabellar Contraction Patterns-A Prospective Multicenter Study on Its Clinical Relevance for Glabellar Neuromodulator Injections.",
@@ -46165,7 +46415,7 @@
     "take": "keep"
   },
   {
-    "id": 838,
+    "id": 843,
     "pmid": "42101389",
     "source": "PubMed",
     "article": "International modified Delphi consensus statement on visible light photoprotection: Effects, measurement, and recommendations.",
@@ -46218,7 +46468,7 @@
     "take": "keep"
   },
   {
-    "id": 839,
+    "id": 844,
     "pmid": "42281676",
     "source": "PubMed",
     "article": "Partial Unilateral Lentiginosis: A Systematic Review of 159 Reported Cases and Diagnostic Considerations.",
@@ -46292,7 +46542,7 @@
     "take": "keep"
   },
   {
-    "id": 840,
+    "id": 845,
     "pmid": "42113278",
     "source": "PubMed",
     "article": "Evaluation of a multifunctional traction device for lumbar disc herniation: a prospective randomized controlled study using magnetic resonance imaging and clinical assessment.",
@@ -46341,7 +46591,7 @@
     "take": "skim"
   },
   {
-    "id": 841,
+    "id": 846,
     "pmid": "41662390",
     "source": "PubMed",
     "article": "Efficacy and Safety of Poly-L-lactic Acid for Midface Rejuvenation: A 12-Month Split-face Controlled Evaluation With 3D Imaging and Patient-reported Outcomes.",
@@ -46386,7 +46636,7 @@
     "take": "keep"
   },
   {
-    "id": 842,
+    "id": 847,
     "pmid": "42326234",
     "source": "PubMed",
     "article": "Oral Corticosteroid Therapy in Lumbar Radiculopathy: Evidence From Randomized Controlled Trials.",
@@ -46435,7 +46685,7 @@
     "take": "keep"
   },
   {
-    "id": 843,
+    "id": 848,
     "pmid": "42453254",
     "source": "PubMed",
     "article": "Awareness, knowledge, attitude, and behaviors related to topical corticosteroid use among population in Hail, Saudi Arabia: A cross-sectional study.",
@@ -46515,7 +46765,7 @@
     "take": "keep"
   },
   {
-    "id": 844,
+    "id": 849,
     "pmid": "42206438",
     "source": "PubMed",
     "article": "Effectiveness and safety of topical L-ascorbic acid 15% serum compared to retinol 0.1% serum for skin aging: a double-blind randomized controlled trial study.",
@@ -46559,7 +46809,7 @@
     "take": "keep"
   },
   {
-    "id": 845,
+    "id": 850,
     "pmid": "42215311",
     "source": "PubMed",
     "article": "Effects of Physical Exercise on Pain in Patients With Lumbar Disc Herniation: A Systematic Review and Meta-Analysis of Randomised Controlled Trials.",
@@ -46603,7 +46853,7 @@
     "take": "keep"
   },
   {
-    "id": 846,
+    "id": 851,
     "pmid": "42228070",
     "source": "PubMed",
     "article": "The Efficacy and Safety of Platelet-Rich Plasma in the Treatment of Melasma: A Systematic Review and Meta-analysis.",
@@ -46668,7 +46918,7 @@
     "take": "keep"
   },
   {
-    "id": 847,
+    "id": 852,
     "pmid": "42482855",
     "source": "PubMed",
     "article": "Combination Approach to Hyperpigmentation: Unveiling Enhanced Aesthetic Results With Microneedling and Pigment-Correcting Peel.",
@@ -46726,7 +46976,7 @@
     "take": "keep"
   },
   {
-    "id": 848,
+    "id": 853,
     "pmid": "42602406",
     "source": "PubMed",
     "article": "Efficacy and safety of microneedling with tranexamic acid versus microneedling with vitamin C in the treatment of melasma: a systematic review and meta-analysis.",
@@ -46798,7 +47048,7 @@
     "take": "keep"
   },
   {
-    "id": 849,
+    "id": 854,
     "pmid": "42266763",
     "source": "PubMed",
     "article": "Efficacy of Polynucleotide for the Recovery of Depressed Lesions Following Steroid-Based Lipolysis Injections.",
@@ -46842,7 +47092,7 @@
     "take": "keep"
   },
   {
-    "id": 850,
+    "id": 855,
     "pmid": "42266765",
     "source": "PubMed",
     "article": "Subtype-Specific Response to Fractional-Mode Q-Switched Ruby Laser in Melasma: A Prospective Single-Blind Clinical Study Using Clinical and Noninvasive Imaging Assessments.",
@@ -46905,7 +47155,7 @@
     "take": "keep"
   },
   {
-    "id": 851,
+    "id": 856,
     "pmid": "42260872",
     "source": "PubMed",
     "article": "Clinical efficacy of acupuncture in the treatment of sciatica during the remission phase of lumbar disc herniation: A secondary analysis of a randomized controlled trial.",
@@ -46958,7 +47208,7 @@
     "take": "keep"
   },
   {
-    "id": 852,
+    "id": 857,
     "pmid": "42453157",
     "source": "PubMed",
     "article": "Use of High-Intensity Focused Ultrasound in the Periorbital Rejuvenation: A Systematic Review.",
@@ -47004,7 +47254,7 @@
     "take": "keep"
   },
   {
-    "id": 853,
+    "id": 858,
     "pmid": "42499700",
     "source": "PubMed",
     "article": "High-Potency Depigmenting Mask Delivered via 1,927-nm Fractional Laser in Refractory Melasma: A Pilot Case Series.",
@@ -47070,7 +47320,7 @@
     "take": "keep"
   },
   {
-    "id": 854,
+    "id": 859,
     "pmid": "42434659",
     "source": "PubMed",
     "article": "Evidence-Based Conservative Treatment Strategies for Lumbar Radiculopathy: A Systematic Review.",
@@ -47115,7 +47365,7 @@
     "take": "keep"
   },
   {
-    "id": 855,
+    "id": 860,
     "pmid": "42267621",
     "source": "PubMed",
     "article": "Exploring the mechanism of differential responses to combination therapy in melasma: pigmentary versus mixed pigmentary-vascular types-a clinical study based on interaction analysis.",
@@ -47180,7 +47430,7 @@
     "take": "keep"
   },
   {
-    "id": 856,
+    "id": 861,
     "pmid": "42298161",
     "source": "PubMed",
     "article": "The Effects of Tranexamic Acid Injections on Surgical Scars: A Retrospective Study.",
@@ -47241,7 +47491,7 @@
     "take": "keep"
   },
   {
-    "id": 857,
+    "id": 862,
     "pmid": "42460183",
     "source": "PubMed",
     "article": "Melasma Flaring and Unmasking After Treatment With a 1,927-nm Non-ablative Fractional Thulium Fiber Laser.",
@@ -47303,7 +47553,7 @@
     "take": "keep"
   },
   {
-    "id": 858,
+    "id": 863,
     "pmid": "42333209",
     "source": "PubMed",
     "article": "Q-Switched 1064 nm Fractional Laser with Intradermal Tranexamic Acid for Melasma: A Retrospective Propensity Score-Matched Study.",
@@ -47369,7 +47619,7 @@
     "take": "keep"
   },
   {
-    "id": 859,
+    "id": 864,
     "pmid": "42379083",
     "source": "PubMed",
     "article": "Efficacy of botulinum toxin for masseter muscle hypertrophy: A systematic review and meta-analysis.",
@@ -47420,7 +47670,7 @@
     "take": "keep"
   },
   {
-    "id": 860,
+    "id": 865,
     "pmid": "42367716",
     "source": "PubMed",
     "article": "Efficacy and Safety of a Novel Sodium Hyaluronate Composite Solution via Mesotherapy for Facial Rejuvenation: A Multicenter Randomized Controlled Study.",
@@ -47471,7 +47721,7 @@
     "take": "keep"
   },
   {
-    "id": 861,
+    "id": 866,
     "pmid": "42449739",
     "source": "PubMed",
     "article": "Retrospective Analysis of the Therapeutic Outcomes of Microneedle Radiofrequency on Melasma by Optical Coherence Tomography: A Observational Pilot Study.",
@@ -47542,7 +47792,7 @@
     "take": "keep"
   },
   {
-    "id": 862,
+    "id": 867,
     "pmid": "41705282",
     "source": "PubMed",
     "article": "The efficacy of tranexamic acid in prevention and treatment of post-inflammatory hyperpigmentation: a pilot study.",
@@ -47607,7 +47857,7 @@
     "take": "keep"
   },
   {
-    "id": 863,
+    "id": 868,
     "pmid": "42953278",
     "source": "PubMed",
     "article": "The Therapeutic Potential of Fractional CO2 Laser for Hyperpigmentation: Evidence From Network Meta-analysis, Clinical and Animal Studies.",
@@ -47657,7 +47907,7 @@
     "take": "keep"
   },
   {
-    "id": 864,
+    "id": 869,
     "pmid": "42393894",
     "source": "PubMed",
     "article": "Gabapentinoids for Neuropathic Pain Management: A Systematic Umbrella Review.",
@@ -47702,7 +47952,7 @@
     "take": "skim"
   },
   {
-    "id": 865,
+    "id": 870,
     "pmid": "42406361",
     "source": "PubMed",
     "article": "Efficacy and Tolerability of a Topical Pigment-Correcting Serum in Melasma and Postinflammatory Hyperpigmentation.",
@@ -47767,7 +48017,7 @@
     "take": "keep"
   },
   {
-    "id": 866,
+    "id": 871,
     "pmid": "42391146",
     "source": "PubMed",
     "article": "Effects of Traditional Chinese Acupoint Massage Combined with Tailored Tai Chi on Low Back Pain in Patients with Lumbar Disc Herniation: A Randomized Controlled Trial.",
@@ -47814,7 +48064,7 @@
     "take": "keep"
   },
   {
-    "id": 867,
+    "id": 872,
     "pmid": "42393386",
     "source": "PubMed",
     "article": "Synergistic pain relief in cervical radiculopathy: A randomized trial of topical methylcobalamin gel with phonophoresis and Mulligan mobilization.",
@@ -47857,7 +48107,7 @@
     "take": "skim"
   },
   {
-    "id": 868,
+    "id": 873,
     "pmid": "42582527",
     "source": "PubMed",
     "article": "Clinical Effects and Safety of Radiofrequency Microneedling for the Management of Melasma: A Retrospective Study.",
@@ -47921,7 +48171,7 @@
     "take": "keep"
   },
   {
-    "id": 869,
+    "id": 874,
     "pmid": "42401423",
     "source": "PubMed",
     "article": "A Randomized, Double-blind, Placebo-controlled, Dose Ranging, Parallel, Multi-Centre, Phase II Study to Evaluate the Efficacy and Safety of MT921 in Subjects with Moderate to Severe Submental Fat.",
@@ -47972,7 +48222,7 @@
     "take": "keep"
   },
   {
-    "id": 870,
+    "id": 875,
     "pmid": "42402180",
     "source": "PubMed",
     "article": "Niacinamide/ Co-enzyme Q10 loaded transferosomal gel for anti-aging and enhanced biophysical skin outcome: a split-face clinical study.",
@@ -48016,7 +48266,7 @@
     "take": "skim"
   },
   {
-    "id": 871,
+    "id": 876,
     "pmid": "42420660",
     "source": "PubMed",
     "article": "Association of AbobotulinumtoxinA and Skinbooster for Periorbital Wrinkles: A Randomized, Controlled, Double-Blind, Split-Face Study.",
@@ -48064,7 +48314,7 @@
     "take": "keep"
   },
   {
-    "id": 872,
+    "id": 877,
     "pmid": "42426967",
     "source": "PubMed",
     "article": "Real-world evidence for the efficacy and tolerability of an isobutylamido-thiazolyl-resorcinol (Thiamidol)-containing skincare regimen on facial hyperpigmentation and overall skin appearance: A multi-centre study in 11 European countries.",
@@ -48133,7 +48383,7 @@
     "take": "keep"
   },
   {
-    "id": 873,
+    "id": 878,
     "pmid": "42598733",
     "source": "PubMed",
     "article": "Treatment of Refractory Centrofacial Melasma in a 64-Year-Old Female Using the NewMelan Depigmentation System: A Case Report.",
@@ -48191,7 +48441,7 @@
     "take": "keep"
   },
   {
-    "id": 874,
+    "id": 879,
     "pmid": "42506726",
     "source": "PubMed",
     "article": "Masseter Muscle Morphometric Changes After Botulinum Toxin Type A Injection: A Prospective 3-Month Study.",
@@ -48238,7 +48488,7 @@
     "take": "skim"
   },
   {
-    "id": 875,
+    "id": 880,
     "pmid": "42469307",
     "source": "PubMed",
     "article": "Individualized HIFU in women over 60: ultrasound assessment of layer-specific facial soft-tissue thickness changes.",
@@ -48288,7 +48538,7 @@
     "take": "skim"
   },
   {
-    "id": 876,
+    "id": 881,
     "pmid": "42488921",
     "source": "PubMed",
     "article": "Dual-approach High-intensity Focused Ultrasound for Facial Contour Modulation and Submental Reduction.",
@@ -48335,7 +48585,7 @@
     "take": "keep"
   },
   {
-    "id": 877,
+    "id": 882,
     "pmid": "42495855",
     "source": "PubMed",
     "article": "Rapid Results With TrenibotulinumtoxinE For the Treatment of Glabellar Lines in Toxin-naïve Adults: Safety, Efficacy, and Satisfaction Findings From a Pivotal Phase 3 Study.",
@@ -48389,7 +48639,7 @@
     "take": "keep"
   },
   {
-    "id": 878,
+    "id": 883,
     "pmid": "42501253",
     "source": "PubMed",
     "article": "Prospective Evaluation of Cross-linked Sodium Hyaluronate Gel for Injection in Treating Moderate-to-Severe Nasolabial Folds: A Randomized Controlled Evaluator-Blind Non-inferiority Study.",
@@ -48438,7 +48688,7 @@
     "take": "keep"
   },
   {
-    "id": 879,
+    "id": 884,
     "pmid": "42504233",
     "source": "PubMed",
     "article": "Effect of Stabilization Exercises Added to Routine Physiotherapy on Trunk Muscle Dimensions, Pain, Disability, and Lumbar Range of Motion in Patients With Unilateral Lumbar Disc Protrusion: A Randomized Controlled Trial.",
@@ -48483,7 +48733,7 @@
     "take": "keep"
   },
   {
-    "id": 880,
+    "id": 885,
     "pmid": "42701669",
     "source": "PubMed",
     "article": "A Prospective Study of Cutaneous Adverse Effects Among Patients With Topical Corticosteroid Abuse in a Tertiary Care Center.",
@@ -48548,7 +48798,7 @@
     "take": "keep"
   },
   {
-    "id": 881,
+    "id": 886,
     "pmid": "42610208",
     "source": "PubMed",
     "article": "Injection Mapping and Dose Escalation For Botulinum Toxin Treatment on the Lower Face: A Randomized, Double-blind Clinical Trial.",
@@ -48593,7 +48843,7 @@
     "take": "keep"
   },
   {
-    "id": 882,
+    "id": 887,
     "pmid": "42670306",
     "source": "PubMed",
     "article": "Fractional CO2 (FxCO2) Laser Therapy Combined with Erythromycin Ophthalmic Ointment-Based Moist Wound Healing for Facial Pigmented Scars: A Retrospective Observational Study.",
@@ -48654,7 +48904,7 @@
     "take": "keep"
   },
   {
-    "id": 883,
+    "id": 888,
     "pmid": "42656784",
     "source": "PubMed",
     "article": "Association Between Conservative Treatment Modalities and Clinical Outcomes in Patients With Lumbosacral Disc Herniation Following Short Term and Long Term Treatments: A Retrospective Cohort Study.",
@@ -48699,7 +48949,7 @@
     "take": "keep"
   },
   {
-    "id": 884,
+    "id": 889,
     "pmid": "42665953",
     "source": "PubMed",
     "article": "Efficacy and Safety of 755-nm Picosecond Alexandrite Laser for Acquired Bilateral Naevus of Ota-Like Macules (Hori Naevus): A Systematic Review and Meta-Analysis.",
@@ -48771,7 +49021,7 @@
     "take": "keep"
   },
   {
-    "id": 885,
+    "id": 890,
     "pmid": "42740895",
     "source": "PubMed",
     "article": "Comparison of the efficacy and safety of 755-nm picosecond alexandrite laser with diffractive lens array vs. fractional microneedle radiofrequency for the treatment of facial photoaging: a retrospective study.",
@@ -48842,7 +49092,7 @@
     "take": "keep"
   },
   {
-    "id": 886,
+    "id": 891,
     "pmid": "42696340",
     "source": "PubMed",
     "article": "Clinical Evidence of Skin Improvements With a Biologically Active Multimodal Topical Skin Treatment.",
@@ -48886,7 +49136,57 @@
     "take": "keep"
   },
   {
-    "id": 887,
+    "id": 892,
+    "pmid": "42830871",
+    "source": "PubMed",
+    "article": "Microneedling Combined With Topical Poly-L-Lactic Acid and Hyaluronic Acid for Skin Elasticity and Hydration: A Pilot Comparative Study.",
+    "authors": [
+      "Arutinova Victoria",
+      "Nishnianidze Nino",
+      "Tsintsadze Murat",
+      "Kadzhaya Anna",
+      "Sulamanidze George"
+    ],
+    "date": "2026-09-04",
+    "journal": "Cureus",
+    "doi": "10.7759/cureus.115756",
+    "topic": "Космеология",
+    "topic_key": "cosmo",
+    "topic_keys": [
+      "cosmo"
+    ],
+    "topics": [
+      "Космеология"
+    ],
+    "abstract_en": "Background Microneedling is a minimally invasive skin rejuvenation technique that can improve photoaging-related skin texture, fine lines, and overall skin quality. This exploratory pilot study compared preliminary effects and short-term tolerability of microneedling combined with a topical poly-L-lactic acid-hyaluronic acid (PLLA-HA) formulation versus microneedling alone for skin quality and aesthetic appearance. Methods Thirty healthy participants (mean age ~38 years) received three treatment sessions of either microneedling alone (anatomically adjusted needle depth up to 2 mm) or microneedling plus topical PLLA-HA at two-week intervals. Skin biophysical measurements were recorded at baseline and weeks 2, 4, 6, 8, and 12 using the Cutometer for elasticity parameters (R2, R5, R7) and the Corneometer for hydration. Additional outcomes included 3D imaging with LifeViz® Mini Pro (QuantifiCare SA, Biot, France), FACE-Q™ Satisfaction with Outcome and FACE-Q™ Satisfaction with Skin, and Global Aesthetic Improvement Scale (GAIS) scores. Results Baseline-adjusted analyses favored the combination group for all elasticity parameters and hydration compared with microneedling alone. By week 12, 3D imaging revealed greater improvements in skin evenness, wrinkles, pore visibility, and image-derived oiliness. FACE-Q Satisfaction with Skin showed little change, whereas Satisfaction with Outcome favored the combination group at week 12 (mean difference, 30.6 points; 95% CI, 23.8-37.4); GAIS also favored the combination group. Adverse events were limited to two cases of mild, transient treatment-site erythema. Conclusion Microneedling combined with topical PLLA-HA is safe and more effective than microneedling alone, providing superior improvements in skin elasticity, hydration, and overall aesthetic appearance, supporting the benefit of combining mechanical and topical biostimulatory approaches in facial rejuvenation. This pilot study had a small sample size, and potential selection and assessment bias due to lack of randomization, allocation concealment, and assessor blinding. The 12-week follow-up period may not fully capture the long-term biostimulatory effects of PLLA. Hence, larger, well-controlled studies with extended follow-ups are warranted.",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/42830871/",
+    "pmc_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13634170/",
+    "html_available": true,
+    "html_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13634170/",
+    "title_ru": "Клинический MN до 2 мм: 3 сессии раз в 2 нед ± топик PLLA-HA",
+    "patient_plain": "",
+    "patient_use": "В кабинете типичный курс — три прокола с шагом 2 недели; глубина до 2 мм. Если на иглы сразу кладут PLLA+гиалуронат, в этом пилоте эффект (упругость, вид) был сильнее, чем от needling без топика.",
+    "practical_use": "Сравнивайте MN alone vs MN+PLLA-HA по биофизике и GAIS, не только по FACE-Q Skin. Предупреждайте: 12 нед мало для полного biostim PLLA.",
+    "summary": "Пилот comparative, n=30 (ср. ~38 лет): 3 сессии микронидлинга с интервалом 2 нед — alone (глубина по зонам до 2 мм) vs MN + топический PLLA-HA. Наблюдение до 12 нед: Cutometer (R2/R5/R7), Corneometer, 3D, FACE-Q, GAIS.\n\nКомбинация лучше по эластичности и увлажнению; к 12 нед — ровность, морщины, поры на 3D; FACE-Q Satisfaction with Outcome +30,6 балла vs MN alone. НЯ: 2 случая лёгкой преходящей эритемы. Не RCT (нет рандомизации/ослепления), короткий follow-up для PLLA.",
+    "_reason": "Прямое сравнение MN ± PLLA-HA с режимом 3×q2w.",
+    "why_read": "Нужна ли биостимул-сыворотка поверх клинического needling.",
+    "limitations": [
+      "non-randomized pilot",
+      "12-week follow-up"
+    ],
+    "advice_items": [
+      {
+        "quote": "three treatment sessions ... at two-week intervals ... needle depth up to 2 mm",
+        "advice": "Стартовый клиник-протокол: 3 сессии каждые 2 недели, глубина анатомически до 2 мм.",
+        "audience": "врач"
+      }
+    ],
+    "importance_stars": 4,
+    "importance_mark": "★★★★☆",
+    "take": "keep"
+  },
+  {
+    "id": 893,
     "pmid": "42711476",
     "source": "PubMed",
     "article": "Fanning Deep Injection of Botulinum Toxin Type-A for Masseter Hypertrophy: A Retrospective Study of 239 Patients.",
@@ -48929,7 +49229,7 @@
     "take": "skim"
   },
   {
-    "id": 888,
+    "id": 894,
     "pmid": "42827665",
     "source": "PubMed",
     "article": "Knowledge, attitudes, and practices regarding melasma among female patients.",
@@ -48987,7 +49287,7 @@
     "take": "keep"
   },
   {
-    "id": 889,
+    "id": 895,
     "pmid": "42931499",
     "source": "PubMed",
     "article": "Three Dimensions of Precision in LetibotulinumtoxinA Treatment: Dose, Dilution and Injection Pattern in Relation to Diffusion.",
@@ -49031,7 +49331,7 @@
     "take": "keep"
   },
   {
-    "id": 890,
+    "id": 896,
     "pmid": "42808113",
     "source": "PubMed",
     "article": "A Prospective Split-face Trial Evaluating Skin Recovery and Enhancement with Polynucleotide (Rejuran) Following Fractional Needle Radiofrequency Treatment.",
@@ -49072,7 +49372,7 @@
     "take": "keep"
   },
   {
-    "id": 891,
+    "id": 897,
     "pmid": "42867024",
     "source": "PubMed",
     "article": "Efficacy and Safety of 1.5- and 3.0-mm High-Intensity Focused Ultrasound for Eyebrow Lifting in Korean Adults: A Prospective Randomized Split-Face Study.",
@@ -49117,7 +49417,7 @@
     "take": "keep"
   },
   {
-    "id": 892,
+    "id": 898,
     "pmid": "42920345",
     "source": "PubMed",
     "article": "Anti-Aging Efficacy of a Home-use red and Infrared Light-Emitting Diode Mask and a Cream: Ex Vivo and Clinical Evaluations in Women With Mature Skin.",
@@ -49163,7 +49463,7 @@
     "take": "keep"
   },
   {
-    "id": 893,
+    "id": 899,
     "pmid": "42936100",
     "source": "PubMed",
     "article": "Clinical Experience With the Use of a 675 nm Laser System With a Faster Treatment Strategy for Melasma in Indian Patients.",
@@ -49211,7 +49511,7 @@
     "take": "keep"
   },
   {
-    "id": 894,
+    "id": 900,
     "pmid": "42893183",
     "source": "PubMed",
     "article": "Energy-Based Devices for GLP-1 Receptor Agonist-Associated Facial Aging: A Tissue-Specific Safety Framework.",
@@ -49255,7 +49555,7 @@
     "take": "keep"
   },
   {
-    "id": 895,
+    "id": 901,
     "pmid": "42931541",
     "source": "PubMed",
     "article": "Seven-Site Facial Contouring with Botulinum Toxin Alone: A Practical Framework.",
@@ -49299,7 +49599,7 @@
     "take": "keep"
   },
   {
-    "id": 896,
+    "id": 902,
     "pmid": "42888572",
     "source": "PubMed",
     "article": "Hyaluronic acid-based skin booster with glutathione combined with 1064-nm Nd:YAG laser and oral tranexamic acid for melasma: A prospective comparative study.",
@@ -49362,7 +49662,7 @@
     "take": "keep"
   },
   {
-    "id": 897,
+    "id": 903,
     "pmid": "42899748",
     "source": "PubMed",
     "article": "Randomized, double-blinded, placebo-controlled clinical safety evaluation of a facial brightening toner containing niacinamide and β-arbutin used with 4% hydroquinone.",
@@ -49406,7 +49706,7 @@
     "take": "keep"
   },
   {
-    "id": 898,
+    "id": 904,
     "pmid": "42918888",
     "source": "PubMed",
     "article": "A Prospective Cohort Study Demonstrating Measurable Facial Lifting with Fan-Shaped Poly-L-Lactic Acid Injections in Asian Patients.",
@@ -49454,7 +49754,7 @@
     "take": "keep"
   },
   {
-    "id": 899,
+    "id": 905,
     "pmid": "42918889",
     "source": "PubMed",
     "article": "Redefining the Posterior Jawline: Anatomical Principles and Clinical Outcomes of Parotid Reduction in Aesthetic Neck Contouring-A Retrospective Case Series.",
@@ -49500,7 +49800,7 @@
     "take": "keep"
   },
   {
-    "id": 900,
+    "id": 906,
     "pmid": "42926352",
     "source": "PubMed",
     "article": "Efficacy and Safety Results From a Pivotal, Phase 3 Study of TrenibotulinumtoxinE for Treatment of Moderate-to-Severe Glabellar Lines in Toxin-Experienced and Toxin-Naive Adults.",
@@ -49563,7 +49863,7 @@
     "take": "keep"
   },
   {
-    "id": 901,
+    "id": 907,
     "pmid": "42944640",
     "source": "PubMed",
     "article": "Sequential Administration of TrenibotulinumtoxinE and OnabotulinumtoxinA for Glabellar Lines: a Phase 1 Evaluation.",
@@ -49628,7 +49928,7 @@
     "take": "keep"
   },
   {
-    "id": 902,
+    "id": 908,
     "pmid": "42953836",
     "source": "PubMed",
     "article": "Efficacy and Safety of Stunnox™ (Botulinum Toxin Type A) for the Treatment of Glabellar Frown Lines and Forehead Lines: A Prospective Observational Study in an Indian Cohort.",
@@ -49682,7 +49982,7 @@
     "take": "keep"
   },
   {
-    "id": 903,
+    "id": 909,
     "pmid": "42955407",
     "source": "PubMed",
     "article": "Efficacy and self-reported side reactions of intense pulsed light treatment for photoaging in a cohort of 217 patients.",
@@ -49740,7 +50040,7 @@
     "take": "keep"
   },
   {
-    "id": 904,
+    "id": 910,
     "pmid": "42971548",
     "source": "PubMed",
     "article": "Efficacy of the Nefertiti Lift for Jawline Contour: A Split-Face Study.",
@@ -49787,7 +50087,7 @@
     "take": "keep"
   },
   {
-    "id": 905,
+    "id": 911,
     "pmid": "42986403",
     "source": "PubMed",
     "article": "Safety and Efficacy of a Lyophilized Compound Sodium Hyaluronate Injection for the Improvement of Skin Texture.",
