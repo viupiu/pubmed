@@ -49785,5 +49785,66 @@
     "importance_stars": 5,
     "importance_mark": "★★★★★",
     "take": "keep"
+  },
+  {
+    "id": 905,
+    "pmid": "42986403",
+    "source": "PubMed",
+    "article": "Safety and Efficacy of a Lyophilized Compound Sodium Hyaluronate Injection for the Improvement of Skin Texture.",
+    "authors": [
+      "Wang Xiangxi",
+      "Luo Shengkang",
+      "Zhang Yingbo",
+      "Chen Jie",
+      "Liu Yaling",
+      "Pan Jing",
+      "Chen Rixin",
+      "Wang Shiliang",
+      "Hou Yuxin",
+      "Li Hengtao",
+      "Luo Yuna",
+      "Chen Kun",
+      "Wu Yan"
+    ],
+    "date": "2026-11-05",
+    "journal": "Aesthetic plastic surgery",
+    "doi": "10.1007/s00266-026-06404-y",
+    "topic": "Пигментация лица",
+    "topic_key": "pig",
+    "topic_keys": [
+      "pig",
+      "cosmo"
+    ],
+    "topics": [
+      "Пигментация лица",
+      "Космеология"
+    ],
+    "abstract_en": "BACKGROUND: The demand for interventions to enhance personal appearance continues to grow, driving the need for effective treatments to improve overall skin quality. This study aimed to evaluate the efficacy and safety of intradermal injection of a lyophilized compound sodium hyaluronate for ameliorating facial skin quality.\n\nMETHODS: This multicenter, randomized, evaluator-blinded study was conducted across seven research centers in China and enrolled 446 eligible subjects presenting with facial skin dryness and dullness. The treatment group received three intradermal injection sessions at intervals of 4 weeks, with follow-up to 3 months post final injection. The primary efficacy endpoint was the treatment response rate, defined by the modified Global Aesthetic Improvement Scale (mGAIS) score at 4 weeks after the third injection. Secondary endpoints included changes in mGAIS assessed by blinded evaluators, GAIS assessed by subjects at other time points, Allergan Fine Lines Scale (AFLS), Allergan Skin Roughness Scale (ASRS), and stratum corneum water content measured using a Corneometer® at each follow-up visit. All adverse events occurring throughout the trial period were collected.\n\nRESULTS: Blinded evaluator-assessed mGAIS response rates at the primary endpoint (4 weeks post final injection) favored treatment over control (84.9% vs. 14.1%, P < 0.0001), with adjusted rate difference 70.69% (95% CI: 63.23%-76.52%). For secondary endpoints, responder rates at 4 weeks after the first, second, and third injections were 83.4% vs. 14.2%, 83.3% vs. 15.1%, and 86.4% vs. 14.1%, respectively (P < 0.0001). Treatment response persisted at 76.3% at 3 months post final injection. Subject‑assessed GAIS demonstrated consistent superiority, with responder rates of 94.0% vs. 4.6%, 93.0% vs. 5.5%, and 95.8% vs. 3.2% at the respective post-injection visits (P < 0.0001), and 91.9% at 3 months post final injection. Improvements were also observed in fine lines and skin roughness after each of the three injections (P < 0.0001). Eight adverse events occurring in 3.7% of the treatment group (9 episodes) were considered possibly related to the investigational device, including pruritus, dermatitis, acne, hyperpigmentation, and periorbital twitching. All were mild to moderate in severity and most of them resolved within 14 days.\n\nCONCLUSION: Intradermal injection of lyophilized compound sodium hyaluronate containing sodium hyaluronate, vitamin C, glycine, and alanine demonstrates a favorable safety profile and is associated with improvements in facial skin quality, including fine lines and skin dryness and roughness. These findings indicate its potential as an aesthetic treatment option for skin texture enhancement, although further studies are warranted to confirm long-term efficacy.\n\nLEVEL OF EVIDENCE I: This journal requires that authors assign a level of evidence to each article. For a full description of these Evidence-Based Medicine ratings, please refer to the Table of Contents or the online Instructions to Authors www.springer.com/00266 .",
+    "article_link": "https://pubmed.ncbi.nlm.nih.gov/42986403/",
+    "pmc_link": "",
+    "html_available": false,
+    "html_link": "",
+    "title_ru": "Лиофилизат гиалуроната + Vit C/глицин/аланин: 3 инъекции раз в 4 недели",
+    "patient_plain": "",
+    "patient_use": "Если цель — сухость, тусклость и неровная текстура лица, курс из трёх внутрикожных уколов этого состава раз в 4 недели даёт заметный ответ уже после первой сессии и держится минимум 3 месяца после окончания. Спросите врача, есть ли именно такой лиофилизат (HA + Vit C + аминокислоты), а не любой «биоревитализант».",
+    "practical_use": "Планируйте 0–4–8 нед; первичный endpoint — mGAIS через 4 нед после 3-й. Не экстраполируйте % ответа на другие HA-коктейли; предупредите о редкой транзиторной гиперпигментации/акне.",
+    "summary": "Многоцентровое РКИ (evaluator-blinded), n=446, сухость и тусклость лица: внутрикожный лиофилизат (гиалуронат натрия + витамин C + глицин + аланин) — 3 сессии с интервалом 4 недели vs контроль. Ответ по mGAIS (слепой оценщик) через 4 недели после 3-й инъекции 84,9% vs 14,1%; к 3 месяцам после курса — 76,3%. Улучшались мелкие морщины и шероховатость; связанные НЯ у 3,7% (зуд, дерматит, акне, гиперпигментация, подёргивание у глаза) — лёгкие/средние, чаще уходили за 14 дней.\n\nКонтроль без процедуры; китайская популяция; дозы/объём на зону в абстракте не расписаны.",
+    "_reason": "РКИ с чёткой схемой 3×q4w и цифрами ответа/безопасности.",
+    "why_read": "Схема intradermal HA-compound при сухости/тусклости лица.",
+    "limitations": [
+      "no-treatment control",
+      "Chinese multicenter cohort",
+      "no per-zone dose in abstract"
+    ],
+    "advice_items": [
+      {
+        "quote": "three intradermal injection sessions at intervals of 4 weeks",
+        "advice": "Назначайте 3 сессии с интервалом 4 недели; оценку эффекта — через 4 недели после третьей.",
+        "audience": "врач"
+      }
+    ],
+    "importance_stars": 5,
+    "importance_mark": "★★★★★",
+    "take": "keep"
   }
 ]
